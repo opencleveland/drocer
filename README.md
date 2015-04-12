@@ -1,16 +1,11 @@
 # drocer
 
-Liberating Cleveland City Council's Legislative Records. 
+City Council's records are available as PDFs from 1996-present. 
 
-TODO:
+As PDFs, there's many things that you cannot to do with them: 
+can't search in multiple files at one time; cannot easily extract data from them for further analysis. 
 
-DUMP text
-format text by identifying patterns and the text template(s) that are used for drafting resolutions/ordinances, 
+In short, PDFs make it very difficult for programmers or archivists to use the PDFs text. 
 
-Tentative Goals/Uses:
-
-1] First creating a searchable interface for a few small bites/interest areas: 
-
-like: parcels
-
-(need to talk to on what issues/areas would be really insightful to parse). 
+Our goals: 
+Liberating Cleveland City Council's Legislative Records.
