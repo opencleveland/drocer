@@ -1,0 +1,61 @@
+City Record Parserator Notes 2015-12-09
+---------------------------------------
+
+Installing the tool
+-------------------
+
+1. We have text.  https://github.com/opencleveland/drocer
+1. DataMade created Parserator: a probablistic parser. https://github.com/datamade/parserator
+1. RTFM: http://parserator.readthedocs.org/en/latest/
+1. Cool tool -- examples work on short text -- will it work for us?
+1. Of course, the install does not work.
+   Installing undocumented dependencies for Ubuntu: sudo apt-get install libxml2-dev libxslt1-dev python-dev
+   Then, sudo pip install parserator
+   Then, follow the instructions (see RTFM link above)
+
+
+Data Cleaning 
+-------------
+
+NY Times 2014: These tasks are 95% of the time of all data science jobs.
+
+Goal: make a file that has the text of one ordinance / resolution per line.
+1. Manual extraction of Ord and Res section in simple text editor > 20150107-ordres.txt
+1. Replace newlines using bash: cat data/20150107-ordres.txt | tr '\n' ' ' > data/20150107-ordres-lines.txt
+1. Reinsert newlines in vim: /n (search) for Ord, i (insert mode), enter, escape.  Repeat as necessary.  Save and quit with :wq
+Done.
+
+Making Training Data
+--------------------
+
+Tell the machine what the output should look like.
+
+Goal: Make an XML file that looks like the desired output.
+1. Copy the input data to a new file.
+1. Parse the data into XML by hand.
+1. XML validator tools are your friend.
+1. Some characters in the text will create XML errors.  Remove or replace these characters.
+1. Weaknesses in the tokenizer will be exposed.  However, revising the tokenizer means revising all training data.
+1. The XML data uses the whole line as text, including tags.  Line breaks break the trainer.
+1. The manual labeler is the safest route: parserator label [infile] [outfile] [model]
+
+Run the Parser
+---------------
+$ python
+>>> import parser2
+>>> parser2.parse('Ord. No. 23-15. By Council Members K. Johnson and Kelley (by departmental request). An emergency ordinance...')
+
+
+Final Notes on Initial Experiment
+---------------------------------
+Parser works one token at a time -- this will only work if we have stronger token definitions and more data.
+The parser was designed for parsing short, ordered collections.  Still not sure if this is the best approach for us.
+
+Parser3: Yet another parser.
+-----------------------------
+Idea: what if we tokenized sentences?
+Result: seems to work pretty well.  Labeling with command line tool is much easier than with shorter tokens,
+        but the tool has a bug: the full token set is not presented for labeling, even though the tokenizer
+        is producing the correct set of tokens.  Will either need to fix the tool or create XML by hand.
+
+
