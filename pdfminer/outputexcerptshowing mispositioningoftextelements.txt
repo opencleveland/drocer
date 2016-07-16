@@ -1,0 +1,159 @@
+<textbox id="15" bbox="81.498,486.986,217.498,507.154">
+<textline bbox="81.498,500.896,137.553,507.154">
+<text font="PQUCUD+LegalNews-Bold" bbox="81.498,500.896,87.054,507.154" size="6.258">O</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="87.053,500.896,90.611,507.154" size="6.258">r</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="90.609,500.896,95.277,507.154" size="6.258">d</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="95.276,500.896,97.274,507.154" size="6.258">.</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="97.273,500.896,99.271,507.154" size="6.258"> </text>
+<text font="PQUCUD+LegalNews-Bold" bbox="99.469,500.896,105.025,507.154" size="6.258">N</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="105.024,500.896,109.356,507.154" size="6.258">o</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="109.356,500.896,111.354,507.154" size="6.258">.</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="111.352,500.896,113.350,507.154" size="6.258"> </text>
+<text font="PQUCUD+LegalNews-Bold" bbox="113.549,500.896,117.551,507.154" size="6.258">4</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="117.550,500.896,121.552,507.154" size="6.258">9</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="121.552,500.896,125.554,507.154" size="6.258">8</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="125.554,500.896,127.552,507.154" size="6.258">-</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="127.551,500.896,131.553,507.154" size="6.258">1</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="131.553,500.896,135.555,507.154" size="6.258">6</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="135.555,500.896,137.553,507.154" size="6.258">.</text>
+<text>
+</text>
+</textline>
+<textline bbox="81.498,493.941,217.498,500.199">
+<text font="PQUCUD+LegalNews-Bold" bbox="81.498,493.941,87.276,500.199" size="6.258">B</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="87.417,493.941,92.193,500.199" size="6.258">y</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="92.335,493.941,94.333,500.199" size="6.258"> </text>
+<text> </text>
+<text font="PQUCUD+LegalNews-Bold" bbox="97.326,493.941,102.768,500.199" size="6.258">C</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="102.910,493.941,107.242,500.199" size="6.258">o</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="107.383,493.941,112.273,500.199" size="6.258">u</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="112.415,493.941,117.305,500.199" size="6.258">n</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="117.446,493.941,121.448,500.199" size="6.258">c</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="121.590,493.941,124.368,500.199" size="6.258">i</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="124.509,493.941,127.287,500.199" size="6.258">l</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="127.428,493.941,129.426,500.199" size="6.258"> </text>
+<text> </text>
+<text font="PQUCUD+LegalNews-Bold" bbox="132.420,493.941,139.308,500.199" size="6.258">M</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="139.449,493.941,143.673,500.199" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="143.814,493.941,150.816,500.199" size="6.258">m</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="150.958,493.941,155.626,500.199" size="6.258">b</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="155.767,493.941,159.991,500.199" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="160.132,493.941,163.690,500.199" size="6.258">r</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="163.831,493.941,167.719,500.199" size="6.258">s</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="167.860,493.941,169.858,500.199" size="6.258"> </text>
+<text> </text>
+<text font="PQUCUD+LegalNews-Bold" bbox="172.852,493.941,178.630,500.199" size="6.258">B</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="178.771,493.941,182.329,500.199" size="6.258">r</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="182.469,493.941,187.137,500.199" size="6.258">a</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="187.278,493.941,192.168,500.199" size="6.258">n</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="192.310,493.941,196.312,500.199" size="6.258">c</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="196.454,493.941,201.122,500.199" size="6.258">a</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="201.262,493.941,204.376,500.199" size="6.258">t</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="204.517,493.941,208.741,500.199" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="208.882,493.941,211.660,500.199" size="6.258">l</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="211.801,493.941,214.579,500.199" size="6.258">l</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="214.720,493.941,217.498,500.199" size="6.258">i</text>
+<text>
+</text>
+</textline>
+<textline bbox="164.172,486.986,217.498,493.244">
+<text font="PQUCUD+LegalNews-Bold" bbox="164.172,486.986,168.840,493.244" size="6.258">d</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="168.999,486.986,173.223,493.244" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="173.382,486.986,178.050,493.244" size="6.258">p</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="178.209,486.986,182.877,493.244" size="6.258">a</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="183.036,486.986,186.594,493.244" size="6.258">r</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="186.753,486.986,189.867,493.244" size="6.258">t</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="190.026,486.986,197.028,493.244" size="6.258">m</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="197.188,486.986,201.412,493.244" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="201.571,486.986,206.461,493.244" size="6.258">n</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="206.621,486.986,209.735,493.244" size="6.258">t</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="209.893,486.986,214.561,493.244" size="6.258">a</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="214.720,486.986,217.498,493.244" size="6.258">l</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="16" bbox="138.514,486.986,154.437,493.244">
+<textline bbox="138.514,486.986,154.437,493.244">
+<text font="PQUCUD+LegalNews-Bold" bbox="138.514,486.986,142.516,493.244" size="6.258">(</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="142.676,486.986,147.344,493.244" size="6.258">b</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="147.503,486.986,152.279,493.244" size="6.258">y</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="152.439,486.986,154.437,493.244" size="6.258"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="17" bbox="73.498,480.031,128.779,493.244">
+<textline bbox="73.498,486.986,128.779,493.244">
+<text font="PQUCUD+LegalNews-Bold" bbox="73.498,486.986,78.166,493.244" size="6.258">a</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="78.325,486.986,83.215,493.244" size="6.258">n</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="83.375,486.986,88.043,493.244" size="6.258">d</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="88.202,486.986,90.200,493.244" size="6.258"> </text>
+<text> </text>
+<text font="PQUCUD+LegalNews-Bold" bbox="99.935,486.986,107.045,493.244" size="6.258">K</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="107.204,486.986,111.428,493.244" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="111.587,486.986,114.365,493.244" size="6.258">l</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="114.525,486.986,117.303,493.244" size="6.258">l</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="117.462,486.986,121.686,493.244" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="121.845,486.986,126.621,493.244" size="6.258">y</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="126.781,486.986,128.779,493.244" size="6.258"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="73.498,480.031,108.058,486.289">
+<text font="PQUCUD+LegalNews-Bold" bbox="73.498,480.031,77.056,486.289" size="6.258">r</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="77.055,480.031,81.279,486.289" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="81.278,480.031,85.946,486.289" size="6.258">q</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="85.945,480.031,90.835,486.289" size="6.258">u</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="90.834,480.031,95.058,486.289" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="95.058,480.031,98.946,486.289" size="6.258">s</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="98.945,480.031,102.059,486.289" size="6.258">t</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="102.058,480.031,106.060,486.289" size="6.258">)</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="106.060,480.031,108.058,486.289" size="6.258">.</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="18" bbox="73.497,424.391,217.500,479.334">
+<textline bbox="81.498,473.076,217.500,479.334">
+<text font="PQUCUD+LegalNews-Bold" bbox="81.498,473.076,87.612,479.334" size="6.258">A</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="87.611,473.076,92.501,479.334" size="6.258">n</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="92.501,473.076,94.499,479.334" size="6.258"> </text>
+<text> </text>
+<text font="PQUCUD+LegalNews-Bold" bbox="95.868,473.076,100.092,479.334" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="100.091,473.076,107.093,479.334" size="6.258">m</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="107.093,473.076,111.317,479.334" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="111.316,473.076,114.874,479.334" size="6.258">r</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="114.872,473.076,119.984,479.334" size="6.258">g</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="119.983,473.076,124.207,479.334" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="124.206,473.076,129.096,479.334" size="6.258">n</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="129.096,473.076,133.098,479.334" size="6.258">c</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="133.098,473.076,137.874,479.334" size="6.258">y</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="137.873,473.076,139.871,479.334" size="6.258"> </text>
+<text> </text>
+<text font="PQUCUD+LegalNews-Bold" bbox="141.240,473.076,145.572,479.334" size="6.258">o</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="145.572,473.076,149.130,479.334" size="6.258">r</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="149.128,473.076,153.796,479.334" size="6.258">d</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="153.795,473.076,156.573,479.334" size="6.258">i</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="156.572,473.076,161.462,479.334" size="6.258">n</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="161.462,473.076,166.130,479.334" size="6.258">a</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="166.129,473.076,171.019,479.334" size="6.258">n</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="171.019,473.076,175.021,479.334" size="6.258">c</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="175.020,473.076,179.244,479.334" size="6.258">e</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="179.244,473.076,181.242,479.334" size="6.258"> </text>
+<text> </text>
+<text font="PQUCUD+LegalNews-Bold" bbox="182.611,473.076,187.279,479.334" size="6.258">a</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="187.278,473.076,191.946,479.334" size="6.258">p</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="191.945,473.076,196.613,479.334" size="6.258">p</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="196.612,473.076,200.170,479.334" size="6.258">r</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="200.168,473.076,204.500,479.334" size="6.258">o</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="204.500,473.076,209.168,479.334" size="6.258">p</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="209.167,473.076,212.725,479.334" size="6.258">r</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="212.723,473.076,215.501,479.334" size="6.258">i</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="215.502,473.076,217.500,479.334" size="6.258">-</text>
+<text>
+</text>
+</textline>
+<textline bbox="73.498,466.121,217.497,472.379">
+<text font="PQUCUD+LegalNews-Bold" bbox="73.498,466.121,78.166,472.379" size="6.258">a</text>
+<text font="PQUCUD+LegalNews-Bold" bbox="78.165,466.121,81.279,472.379" size="6.258">t</text>

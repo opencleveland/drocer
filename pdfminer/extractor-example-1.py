@@ -10,7 +10,7 @@ from pdfminer.layout import LAParams
 from pdfminer.converter import PDFPageAggregator
 from pdfminer.layout import LTTextBox
 #from pdfminer.utils import bbox2str
-import jsonpickle
+# import jsonpickle
 
 # Open a PDF file.
 fp = open('April272016.pdf', 'rb')

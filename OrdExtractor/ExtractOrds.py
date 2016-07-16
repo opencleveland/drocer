@@ -14,6 +14,7 @@ def getissue(iss_file_name):
     f = open(iss_file_name, encoding="utf8")
     return f.read()
  
+
     
 
 # this is hard-coded to the patterns of the ord/res sections. This type of line-by-line routine could 
