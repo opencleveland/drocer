@@ -1,0 +1,18 @@
+﻿Requirements and Goals of Text Extraction/Parsing
+
+
+1. This is stage one of a two-stage conversion. Focus is on capturing the (a) important textual content of the PDF, (b) in order (see companion document), (c) with other information (file name, issue date, page number, column position(?)) as necessary to subsequently understand the text. 
+2. The output should be a single UTF-8 text document for each of the City Record PDFs. 
+3. Images do appear in the PDFs as figures/illustrations. These will be extracted to stand-alone files and named with a convention that will record issue, page, and, if possible, additional coordinate information. In many cases that will be sufficient to establish the connection of the image to a particular logical item within the underlying PDF (for example, they often appear within those ordinances or other items that both go to a ‘full width’ format and take up an entire page). 
+4. Within the run of the text we need to identifiably record the following elements from headers or footers: date, “issue” page number, “index” page number. These need to appear within the flow of the output text such that we will be able to look ‘up’ or ‘down’ the file to determine both forms of pagination for any content units we later process out.
+5. I do want to retain text from the ‘table of contents’ on page 1 of each PDF, as it may be useful in reconstructing some other elements downstream. 
+6. Index sections are also likely to be useful downstream. Also are single-column area that seems to be encoded ‘in order’ so should be straightforward.
+
+
+Second-stage Document Processing
+
+
+1. After text is extracted ‘in order’ from PDFs, we will process it according to recurring text patterns to locate specific meaningful units of content and output those as structured data. 
+2. Content units to extract include Ordinances and Resolutions (which can appear in several different contexts, to be identified by their location within broad sections of the documents); schedules/calendars; council proceedings; Civil Service Notices; Schedule of the Board of Zoning Appeals (calendar items from it); Report of the Board of Zoning Appeals; Report of the Board of Building Standards and Building Appeals; Public Notices and Notices of Public Hearings; Bids
+3. OrdParser includes an early take on information that can be gathered for Ords. and Res. that appear in these
+4.
