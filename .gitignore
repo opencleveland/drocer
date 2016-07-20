@@ -1,2 +1,4 @@
 *.pyc
 *~
+/CityRecordTextExtractor/nbproject/
+/CityRecordTextExtractor/target/
