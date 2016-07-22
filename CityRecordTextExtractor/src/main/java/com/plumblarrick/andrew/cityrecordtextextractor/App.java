@@ -11,26 +11,18 @@ import java.io.IOException;
  *
  * @author calarrick
  */
-public class extractOne {
+public class App {
     
     
-    
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         
         String fileName = args[0];
-        IssueExtractorPositional ex = new IssueExtractorPositional();
-        try{
-        ex.extractToFile(fileName);
-        }
-        catch (IOException io){
-            System.out.println("IO Exception");
-            
-        }
-        
+        String outFileName = args[1];
+        IssueProcessor proc = new IssueProcessor();
+        String status = proc.extractIssue(fileName, outFileName);
+        System.out.println(status);
+        proc.readLinesToPages();
         
     }
-    
-    
-    
     
 }

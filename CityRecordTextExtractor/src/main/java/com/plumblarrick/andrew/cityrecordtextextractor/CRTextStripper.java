@@ -38,6 +38,7 @@ public class CRTextStripper extends PDFTextStripper{
         
         pageCounter++;
         output.write("\n\n[Start Page " + pageCounter + " ]\n");
+        textChunksOnLine = 0;
     }
     
     /*
@@ -59,7 +60,16 @@ public class CRTextStripper extends PDFTextStripper{
             throws IOException {
         
         TextPosition tPos = textPositions.get(0);
-        output.write("\t[" + tPos.getXDirAdj() + "]");
+        int startPoint = 0;
+        
+        if (textChunksOnLine == 0){
+            startPoint = Math.round(tPos.getXDirAdj());
+            output.write(startPoint + "\t");
+        }
+        else {
+            startPoint = Math.round(tPos.getXDirAdj());
+            output.write("|" + startPoint + "\t");
+        }
         output.write(text);
         textChunksOnLine++;
         
@@ -68,7 +78,7 @@ public class CRTextStripper extends PDFTextStripper{
     @Override
     protected void writeLineSeparator() throws IOException
     {
-        output.write("\t[cols=" + textChunksOnLine + "]");
+        //output.write("\t[cols=" + textChunksOnLine + "]");
         output.write(getLineSeparator());
         textChunksOnLine = 0;
     }

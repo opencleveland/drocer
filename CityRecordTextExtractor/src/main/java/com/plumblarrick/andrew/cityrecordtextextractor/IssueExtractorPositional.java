@@ -19,38 +19,44 @@ import org.apache.pdfbox.text.PDFTextStripper;
  */
 public class IssueExtractorPositional {
 
-    String fileName = "";
+    String inFileName = "";
+    String outFileName = "";
+    PDDocument document = null;
+    Writer fileOut;
 
-    public IssueExtractorPositional(String fileName) {
+    public IssueExtractorPositional(String fileName, String outFileName) {
 
-        this.fileName = fileName;
+        this.inFileName = fileName;
+        this.outFileName = outFileName;
 
     }
     public IssueExtractorPositional(){
         
     }
 
-    PDDocument document = null;
+    public void extractToFile(String inFileName, String outFileName) throws IOException {
 
-    public void extractToFile(String fileName) throws IOException {
-
-        this.fileName = fileName;
+        this.inFileName = inFileName;
+        this.outFileName = outFileName;
         try {
-            document = PDDocument.load(new File(fileName));
+            document = PDDocument.load(new File(inFileName));
 
             PDFTextStripper stripper = new CRTextStripper();
             stripper.setSortByPosition(true);
             stripper.setStartPage(0);
             stripper.setEndPage(document.getNumberOfPages());
             
-            Writer fileOut = new PrintWriter(new BufferedWriter(new PrintWriter("test.txt", "UTF-8")));
+            
+            fileOut = (new BufferedWriter(new PrintWriter(outFileName, "UTF-8")));
 
-            fileOut.write("Source file: " + fileName + "\n");
+            fileOut.write("Source file: " + inFileName + "\n");
             stripper.writeText(document, fileOut);
             
         } finally {
             if (document != null) {
                 document.close();
+                fileOut.flush();
+                fileOut.close();
             }
         }
     }

@@ -16,9 +16,9 @@ import static org.junit.Assert.*;
  *
  * @author calarrick
  */
-public class NewEmptyJUnitTest {
+public class IssueProcessorTest {
     
-    public NewEmptyJUnitTest() {
+    public IssueProcessorTest() {
     }
     
     @BeforeClass
