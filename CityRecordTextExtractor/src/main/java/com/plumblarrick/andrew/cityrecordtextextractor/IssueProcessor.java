@@ -44,7 +44,8 @@ public class IssueProcessor {
         readLinesToPages();
     }
 
-    public void readLinesToPages() throws FileNotFoundException, IOException {
+    public IssueModel readLinesToPages() throws FileNotFoundException,
+            IOException {
 
         BufferedReader textIn = new BufferedReader(new FileReader(
                 firstTextFileName), 100000);
@@ -90,7 +91,7 @@ public class IssueProcessor {
             }
 
         }
-
+        return currIssue;
     }
 
     public void columnSortIssue(IssueModel issue) {
@@ -112,9 +113,13 @@ public class IssueProcessor {
         int lineCounter = 0;
         int xAxisStart = 0;
         String[] measureAndText;
+        StringBuilder columnOne = new StringBuilder();
+        StringBuilder columnTwo = new StringBuilder();
+        StringBuilder columnThree = new StringBuilder();
+        StringBuilder strays = new StringBuilder();
 
         switch (page.getCountedPageNum()) {
-            
+
             case 0:
                 break;
             case 1:
@@ -127,17 +132,17 @@ public class IssueProcessor {
                 //three column body begins
                 for (String line : lines) {
 
-                    String[] sections = line.split("|");
+                    String[] sections = line.split("\\|");
                     numColsOnLine = sections.length;
                     lineCounter++;
 
                     int columnOneLine = 74;
                     int columnTwoLine = 230;
                     int columnThreeLine = 380;
-                    StringBuilder columnOne = new StringBuilder();
-                    StringBuilder columnTwo = new StringBuilder();
-                    StringBuilder columnThree = new StringBuilder();
-                    StringBuilder strays = new StringBuilder();
+                    
+                    if (line.equals("") || line.equals("\n")){
+                        continue;
+                    }
 
                     if (lineCounter == 1) {
 
@@ -159,19 +164,15 @@ public class IssueProcessor {
                         if (xAxisStart > columnOneLine * 0.8 && xAxisStart
                                 < columnOneLine * 1.3) {
                             columnOne.append(measureAndText[1]);
-                        }
-
-                        else if (xAxisStart > columnTwoLine * 0.8 && xAxisStart
+                        } else if (xAxisStart > columnTwoLine * 0.8
+                                && xAxisStart
                                 < columnTwoLine * 1.3) {
                             columnTwo.append(measureAndText[1]);
-                        }
-
-                        else if (xAxisStart > columnThreeLine * 0.8 && xAxisStart
+                        } else if (xAxisStart > columnThreeLine * 0.8
+                                && xAxisStart
                                 < columnThreeLine * 1.3) {
                             columnThree.append(measureAndText[1]);
-                        }
-                        
-                        else {
+                        } else {
                             strays.append(measureAndText[0]);
                         }
 
@@ -180,16 +181,15 @@ public class IssueProcessor {
                     columnOne.append("\n");
                     columnTwo.append("\n");
                     columnThree.append("\n");
+                    strays.append("\n");
                     //hmmm... except don't want to append a line break
                     //if a given column got no text that cycle, right?
                     //or just as easy to take extras out later anyway?
 
                 }
-
+                System.out.println(columnOne.toString());
         }
 
     }
 
 }
-
-

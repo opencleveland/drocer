@@ -21,7 +21,8 @@ public class App {
         IssueProcessor proc = new IssueProcessor();
         String status = proc.extractIssue(fileName, outFileName);
         System.out.println(status);
-        proc.readLinesToPages();
+        IssueModel issue = proc.readLinesToPages();
+        proc.columnSortIssue(issue);
         
     }
     
