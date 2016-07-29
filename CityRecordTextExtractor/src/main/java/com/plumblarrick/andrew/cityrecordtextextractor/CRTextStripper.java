@@ -78,7 +78,8 @@ public class CRTextStripper extends PDFTextStripper {
             output.write("|" + startPoint + "\t");
         }
 
-//            if (startPoint > endPoint) {
+            if (startPoint > endPoint) {
+                //catches overrun issues in columns other than the first
 
                 //check for beginning of overrun
                 float prevXPos = 0;
@@ -104,31 +105,24 @@ public class CRTextStripper extends PDFTextStripper {
 
                 }
                 
+        
+
+            
+
+        }//need to add test to catch first-column overrun
+            //can't just throw out long lines or we are back
+            //to problem with 'full-width' items
+            //ideas might be to spot long lines that aren't near
+            //any other long lines
+            //and or long lines that end near where a second
+            //column line should end
+            //IF can target the right lines they should be 
+            //unlikely to have wide, intentional, spaces
+            //so might be an additoinal heuristic there for placing the actual break
+
+            else {
         output.write(text);
-            
-           // }
-
-//                if (splitIndex > 0) {
-//
-//                    overRun = text.substring(splitIndex);
-//                    text = text.substring(0, splitIndex);
-//                    output.write(text);
-//                    output.write("\n");
-//                    output.write(overRun);
-//
-//                }
-
-            //}
-
-            
-
-            
-
-//        }
-
-//            else {
-//        output.write(text);
-//            }
+            }
         // output.write("\t" + ePos.getXDirAdj());
 //        if (!overRun.equals("")) {
 //            //output.write(String.valueOf(splitPoint));
