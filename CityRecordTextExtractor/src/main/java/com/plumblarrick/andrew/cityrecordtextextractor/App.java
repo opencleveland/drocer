@@ -18,10 +18,12 @@ public class App {
         
         String fileName = args[0];
         String outFileName = args[1];
+        String orderedFileName = "sorted" + outFileName;
         IssueProcessor proc = new IssueProcessor();
         String status = proc.extractIssue(fileName, outFileName);
         System.out.println(status);
         IssueModel issue = proc.readLinesToPages();
+        proc.printIssue(issue, orderedFileName);
         
         
     }

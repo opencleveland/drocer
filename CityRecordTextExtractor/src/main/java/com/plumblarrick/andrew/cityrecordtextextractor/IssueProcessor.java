@@ -7,13 +7,22 @@ package com.plumblarrick.andrew.cityrecordtextextractor;
 
 import com.plumblarrick.andrew.cityrecordtextextractor.IssueModel.Page;
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
+import java.io.Writer;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.text.PDFTextStripper;
 
 /**
  *
@@ -255,7 +264,15 @@ public class IssueProcessor {
 
                 }
                 page.setFooter(line);
-            } else if (sections.length == 1 && sections[0].endsWith("Index")) {
+
+
+            } //index processing -- this renters up to first several lines
+            //of index pages incorrectly as 'column one' rather than index. 
+            //need a fix but not sure how to do it without carrying an index 
+            //flag from page to page. 
+            //To be addressed after further validation that we are getting
+            //in-order-ness right
+            else if (sections.length == 1 && sections[0].endsWith("Index")) {
                 indexFlag = true;
                 String[] indexContent = sections[0].split("\t");
                 indexEntries.append(indexContent[1]);
@@ -264,16 +281,17 @@ public class IssueProcessor {
                 //this will be an Index line
                 indexFlag = true;
                 String[] indexContent = sections[0].split("\t");
-                String[] indexedPageNum = sections[sections.length-1].split(
+                String[] indexedPageNum = sections[sections.length - 1].split(
                         "\t");
-                indexEntries.append(indexContent[1] + " :\t" + indexedPageNum[1]);
+                indexEntries
+                        .append(indexContent[1] + " :\t" + indexedPageNum[1]);
                 indexEntries.append("\n");
-                
+
 
             } else if (indexFlag) {
                 //since need to capture parts of multi-line entries that won't match the above
                 String[] indexContent = sections[0].split("\t");
-                
+
                 indexEntries.append(indexContent[1]);
                 indexEntries.append("\n");
 
@@ -358,6 +376,60 @@ public class IssueProcessor {
         }
 
         return page;
+
+    }
+
+
+    public void printIssue(IssueModel issue, String fileName) throws
+            FileNotFoundException, UnsupportedEncodingException {
+
+        try {
+            List<Page> pages = issue.getPages();
+            Writer fileOut;
+            
+            
+            fileOut = (new BufferedWriter(new PrintWriter(fileName, "UTF-8")));
+            
+
+            for (Page page : pages) {
+                
+                List<String> columns = page.getColumns();
+                String issuePageNumber = String.valueOf(page.getPageNum());
+                String indexPageNumber = String.valueOf(page.getIndexPageNum());
+                
+                
+                try {
+                    
+                    
+                    
+                    fileOut.append("[Page" + issuePageNumber + "]\n");
+                    fileOut.append("[Indexed (running) page" + indexPageNumber + "]\n");
+                    if (!(columns == null)){
+                    for (String column : columns){
+                        
+                        fileOut.append(column);
+                        
+                        
+                    }
+                    }
+                    fileOut.write("[end page]");
+                    
+                    
+                    
+                    
+                } catch (IOException ex) {
+                    Logger.getLogger(IssueProcessor.class.getName())
+                            .log(Level.SEVERE, null, ex);
+                }
+                
+            }
+            
+            fileOut.flush();
+            fileOut.close();
+        } catch (IOException ex) {
+            Logger.getLogger(IssueProcessor.class.getName())
+                    .log(Level.SEVERE, null, ex);
+        }
 
     }
 

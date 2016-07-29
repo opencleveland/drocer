@@ -80,6 +80,10 @@ public class IssueModel {
             return rawPageLines.size();
         }
 
+        public int getPageNum() {
+            return pageNum;
+        }
+
         
         public int getCountedPageNum() {
             return countedPageNum;
