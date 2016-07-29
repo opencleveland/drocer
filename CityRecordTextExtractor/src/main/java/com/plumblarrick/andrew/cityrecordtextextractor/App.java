@@ -22,7 +22,7 @@ public class App {
         String status = proc.extractIssue(fileName, outFileName);
         System.out.println(status);
         IssueModel issue = proc.readLinesToPages();
-        proc.columnSortIssue(issue);
+        
         
     }
     

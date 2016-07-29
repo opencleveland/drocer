@@ -67,8 +67,7 @@ public class CRTextStripper extends PDFTextStripper {
         String overRun = "";
         text = text.trim();
 
-        //am going to have to look at all x posns to spot overrun, I fear
-
+       
         int startPoint = Math.round(tPos.getXDirAdj());
         int endPoint = Math.round(ePos.getXDirAdj());
         int splitPoint = 0;
