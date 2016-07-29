@@ -78,7 +78,7 @@ public class CRTextStripper extends PDFTextStripper {
             output.write("|" + startPoint + "\t");
         }
 
-            if (startPoint > endPoint) {
+//            if (startPoint > endPoint) {
 
                 //check for beginning of overrun
                 float prevXPos = 0;
@@ -99,10 +99,14 @@ public class CRTextStripper extends PDFTextStripper {
                         
                         break;
                     }
+                    
                     prevXPos = currXPos;
 
                 }
-            }
+                
+        output.write(text);
+            
+           // }
 
 //                if (splitIndex > 0) {
 //
@@ -122,9 +126,9 @@ public class CRTextStripper extends PDFTextStripper {
 
 //        }
 
-            else {
-        output.write(text);
-            }
+//            else {
+//        output.write(text);
+//            }
         // output.write("\t" + ePos.getXDirAdj());
 //        if (!overRun.equals("")) {
 //            //output.write(String.valueOf(splitPoint));
