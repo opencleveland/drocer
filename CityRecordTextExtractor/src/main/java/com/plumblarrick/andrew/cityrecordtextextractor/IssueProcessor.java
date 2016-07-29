@@ -10,7 +10,10 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  *
@@ -111,12 +114,23 @@ public class IssueProcessor {
         int numColsOnLine = 0;
         //as above
         int lineCounter = 0;
-        int xAxisStart = 0;
+        String pNum = "";
+
         String[] measureAndText;
+        String text = "";
+        int xAxisStart = 0;
+
         StringBuilder columnOne = new StringBuilder();
         StringBuilder columnTwo = new StringBuilder();
         StringBuilder columnThree = new StringBuilder();
         StringBuilder strays = new StringBuilder();
+        strays.append("Couldn't place these: \n");
+
+        Pattern firstLineIssuePagination = Pattern.compile(
+                "[0-9]{1,3}\\t([0-9]{1,3})\\s*");
+        Matcher pageMatcher = firstLineIssuePagination.matcher("");
+
+        Pattern colBreak = Pattern.compile("\\|");
 
         switch (page.getCountedPageNum()) {
 
@@ -132,64 +146,126 @@ public class IssueProcessor {
                 //three column body begins
                 for (String line : lines) {
 
-                    String[] sections = line.split("\\|");
+                    String[] sections = colBreak.split(line);
                     numColsOnLine = sections.length;
                     lineCounter++;
+                    //remember this means lineCounter variable is one greater than 
+                    //the list index through all following logic
 
                     int columnOneLine = 74;
                     int columnTwoLine = 230;
                     int columnThreeLine = 380;
-                    
-                    if (line.equals("") || line.equals("\n")){
+
+                    if (line.equals("") || line.equals("\n") || line.equals(
+                            " ")) {
                         continue;
                     }
 
                     if (lineCounter == 1) {
 
-                        if ((sections[0].matches("\t[0-9]{1,3}\t$"))
-                                && sections.length == 3) {
+                        pageMatcher.reset(sections[0]);
 
-                            String pNum = sections[0].substring(5);
+                        if (sections.length == 3 && pageMatcher.matches()) {
+
+                            pNum = pageMatcher.group(1);
+                            page.setPageNum(Integer.parseInt(pNum));
+
+                        } else if (sections.length == 3) {
+
+                            pageMatcher.reset(sections[2]);
+                            if (pageMatcher.matches()) {
+                                pNum = pageMatcher.group(1);
+                            }
                             page.setPageNum(Integer.parseInt(pNum));
 
                         }
+
+                        page.setHeader(line);
+
+                    } else if (lineCounter == lines.size()) {
+
+                        pageMatcher.reset(sections[0]);
+
+                        if (sections.length == 1 && pageMatcher.matches()) {
+
+                            pNum = pageMatcher.group(1);
+                            page.setIndexPageNum(Integer.parseInt(pNum));
+
+
+                        }
+                        page.setFooter(line);
                     }
 
+
+                    boolean columnOnePresent = false;
+                    boolean columnTwoPresent = false;
+                    boolean columnThreePresent = false;
+                    boolean straysPresent = false;
                     //determine columns
                     for (int i = 0; i < sections.length; i++) {
 
                         measureAndText = sections[i].split("\t");
-                        xAxisStart = Integer.parseInt(measureAndText[0]);
+                        if (measureAndText.length == 2) {
+                            try {
+                                xAxisStart = Integer.parseInt(measureAndText[0]);
+                                text = measureAndText[1];
+                            } catch (NumberFormatException e) {
+                                strays.append(measureAndText[1]);
+                            }
+                        }
 
-                        if (xAxisStart > columnOneLine * 0.8 && xAxisStart
-                                < columnOneLine * 1.3) {
-                            columnOne.append(measureAndText[1]);
+
+                        if (xAxisStart < columnOneLine * 2) {
+                            //use this or fixed addition for expected col w?
+                            //do need factor to left too to pickup mal-aligned
+                            //units (probably)
+                            columnOne.append(text);
+                            columnOnePresent = true;
                         } else if (xAxisStart > columnTwoLine * 0.8
                                 && xAxisStart
                                 < columnTwoLine * 1.3) {
-                            columnTwo.append(measureAndText[1]);
+                            columnTwo.append(text);
+                            columnTwoPresent = true;
                         } else if (xAxisStart > columnThreeLine * 0.8
                                 && xAxisStart
                                 < columnThreeLine * 1.3) {
-                            columnThree.append(measureAndText[1]);
+                            columnThree.append(text);
+                            columnThreePresent = true;
                         } else {
-                            strays.append(measureAndText[0]);
+                            strays.append(text);
                         }
+
 
                     }//end columnar for loop
 
-                    columnOne.append("\n");
-                    columnTwo.append("\n");
-                    columnThree.append("\n");
-                    strays.append("\n");
-                    //hmmm... except don't want to append a line break
-                    //if a given column got no text that cycle, right?
-                    //or just as easy to take extras out later anyway?
+                    if (columnOnePresent) {
+                        columnOne.append("\n");
+                    }
+                    if (columnTwoPresent) {
+                        columnTwo.append("\n");
+                    }
+                    if (columnThreePresent) {
+                        columnThree.append("\n");
+                    }
+                    if (straysPresent) {
+                        strays.append("\n");
+                    }
 
+
+                }//end line iteration
+
+                List<String> columns = new ArrayList<>();
+                columns.add(columnOne.toString());
+                columns.add(columnTwo.toString());
+                columns.add(columnThree.toString());
+
+                page.setColumns(columns);
+
+                //System.out.println(columnOne.toString());
+                for (String column : columns) {
+                    System.out.println(column);
                 }
-                System.out.println(columnOne.toString());
+
         }
-
     }
-
 }

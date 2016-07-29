@@ -58,10 +58,14 @@ public class IssueModel {
         private int pageNum;
         private int countedPageNum;
         private int indexPageNum;
+        private int columnCount;
 
        
         private List<String> rawPageLines;
         private List<String> columns;
+        
+        private String header;
+        private String footer;
         
         public Page(int countedPageNum){
             
@@ -103,6 +107,31 @@ public class IssueModel {
 
         public void setPageLines(List<String> pageLines) {
             rawPageLines = pageLines;
+        }
+
+        public String getHeader() {
+            return header;
+        }
+
+        public void setHeader(String header) {
+            this.header = header;
+        }
+
+        public String getFooter() {
+            return footer;
+        }
+
+        public void setFooter(String footer) {
+            this.footer = footer;
+        }
+
+        public List<String> getColumns() {
+            return columns;
+        }
+
+        public void setColumns(List<String> columns) {
+            this.columns = columns;
+            columnCount = columns.size();
         }
 
         

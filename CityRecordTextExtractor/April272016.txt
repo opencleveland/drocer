@@ -490,7 +490,7 @@ Source file: April272016.pdf
 73	117th Street, consisting of approxi- |229	between planes at elevation 753.50 |393	An emergency ordinance to desig-
 73	mately 4,251 square feet, for office |229	feet and 770.50 feet above mean sea |385	nate fire station #36 located at 3552
 73	space for the Adult Probation Depart- |229	level as determined by the Cleveland |385	East 131st Street as the George L.
-73	ment of the Cleveland Municipal |229	Regional Geodetic Survey, converted |385	Forbes Fire Station. 
+73	ment of the Cleveland Municipal |229	Regional Geodetic Survey, converted |385	Forbes Fire Station.
 73	Court. |229	to NAVD 1988 Datum, and bounded |393	Whereas, this ordinance constitutes
 81	Section 2. |119	That the term of the lease |229	and described as follows: |385	an emergency measure providing for
 73	authorized shall not exceed three |237	Beginning in the easterly line of |385	the usual daily operation of a munici-
@@ -505,7 +505,7 @@ Source file: April272016.pdf
 73	determined by the parties consistent |237	Thence North 67 degrees 35 minutes |385	rized and directed to take the neces-
 73	with the public purpose of providing |229	06 seconds East along the northerly |385	sary action to affect said designation
 73	office space for the Adult Probation |229	line of Brownell Court, 23.09 feet to a |385	and to post the proper signs at the fire
-73	Department of the Cleveland Munici- |229	point and the principal place of begin- |385	station. 
+73	Department of the Cleveland Munici- |229	point and the principal place of begin- |385	station.
 73	pal Court to furnish probationary ser- |229	ning of the easement herein |393	Section 2. |437	That this ordinance is
 73	vices to the neighborhood. |229	described; |385	hereby declared to be an emergency
 81	Section 5. |122	That the lease may pro- |237	Thence North 67 degrees 35 minutes |385	measure and, provided it receives the
@@ -515,7 +515,7 @@ Source file: April272016.pdf
 81	Section 6. |123	That the lease shall be |237	Thence South 4 degrees 10 minutes |385	diately upon its passage and approval
 73	prepared by the Director of Law. |229	26 seconds West, 18.45 feet to its inter- |385	by the Mayor; otherwise it shall take
 81	Section 7. |128	That the Director of |229	section with the southerly line of |385	effect and be in force from and after
-73	Finance, on behalf of the Cleveland |229	Brownell Court; |385	the earliest period allowed by law. 
+73	Finance, on behalf of the Cleveland |229	Brownell Court; |385	the earliest period allowed by law.
 73	Municipal Court, and the Director of |237	Thence South 67 degrees 35 minutes |393	Referred to Committee on Finance.
 73	Law, and other appropriate City offi- |229	06 seconds West, 20.00 feet to a point;
 73	cials, are authorized to execute other |237	Thence North 15 degrees 09 minutes |393	Ord. No. 516-16.
@@ -546,7 +546,7 @@ Source file: April272016.pdf
 73	an emergency measure providing for |229	parcel number 114-04-001, as a Cleve- |385	approval by the Mayor; otherwise it
 73	the usual daily operation of a munici- |229	land Landmark. |385	shall take effect and be in force from
 73	pal department; now, therefore, |237	Section 2. |281	That this ordinance is |385	and after the earliest period allowed
-81	Be it ordained by the Council of the |229	hereby declared to be an emergency |385	by law. 
+81	Be it ordained by the Council of the |229	hereby declared to be an emergency |385	by law.
 73	City of Cleveland: |229	measure and, provided it receives the |393	Referred to Committee on Finance.
 212	FIRST READING ORDINANCE REFERRED
 82	Ord. No. 506-16.
@@ -564,8 +564,8 @@ Source file: April272016.pdf
 81	Section 2. That the change of zoning of lands described in Section 1 shall be identified as Map Change No. 2534, and
 73	shall be made upon the Building Zone Maps of the City of Cleveland on file in the office of the Clerk of Council and on
 73	file in the office of the City Planning Commission by the appropriate person designated for this purpose by the City Plan-
-73	ning Commission. 
-81	Section 3. That this ordinance shall take effect and be in force from and after the earliest period allowed by law. 
+73	ning Commission.
+81	Section 3. That this ordinance shall take effect and be in force from and after the earliest period allowed by law.
 82	Referred to Directors of City Planning Commission, Law; Committee on Development Planning and Sustainability.
 296	633
 
@@ -595,8 +595,12 @@ Source file: April272016.pdf
 73	trains, a factor we believe is vital to
 73	ensuring safe train operations; and |229	same route back to UCP Office; finish
 393	Ord. No. 514-16.
-229	line at rear of UCP Offices in parking |393	By Council Member Polensek.Whereas, polling across America
-229	lot off East 100th Street; provided that |393	An emergency ordinance consent-shows overwhelming bi-partisan sup-
+229	line at rear of UCP Offices in parking |393	By Council Member Polensek.
+81	Whereas, polling across America
+
+229	lot off East 100th Street; provided that |393	An emergency ordinance consent-
+73	shows overwhelming bi-partisan sup-
+
 385	ing and approving the issuance of a
 73	port of two-person crews, with 83 to 87 |229	the applicant sponsor shall meet all
 73	percent of those polled in favor of |229	the requirements of Section 411.05 of |385	permit for the Escape on the Lake, on
@@ -809,18 +813,42 @@ Source file: April272016.pdf
 81	Section 2. |125	That this resolution is |229	Liquor Control to set a hearing for |385	projects; determining to make the
 73	hereby declared to be an emergency |229	said application in accordance with |385	public improvement of upgrading of
 73	measure and provided it receives the |229	provisions of Section 4303.26 of the
-73	affirmative vote of two-thirds of all |385	the Local Stormwater System; autho-Revised Code of Ohio.
-73	the members elected to Council, it |385	rizing the Director to enter into con-Section 2. That the Clerk of Council
-73	shall take effect and be in force imme- |385	tracts for the making of suchbe and she is hereby directed to trans-
-73	diately upon its adoption and |385	improvement; authorizing the pur-mit two certified copies of this resolu-
-73	approval by the Mayor; otherwise, it |385	chase by standard purchase andtion, together with two copies of a let-
-73	shall take effect and be in force from |385	requirements contracts of relatedter of objection and two copies of a
-73	and after the earliest period allowed |385	equipment; authorizing the acquisi-letter requesting that the hearing be
-73	by law. |385	tion of various rights and interests inheld in Cleveland, Cuyahoga County.
-81	Motion to suspend rules, Charter, |385	real property; authorizing the reloca-Section 3. That this resolution is
-73	and statutory provisions and place |385	tion or modification of fixtures or fea-hereby declared to be an emergency
-73	on final adoption. |385	tures on said property; and authoriz-measure and, provided it receives the
-81	The rules were suspended. Yeas |385	ing various professional services con-affirmative vote of two-thirds of all
+73	affirmative vote of two-thirds of all |385	the Local Stormwater System; autho-
+229	Revised Code of Ohio.
+
+73	the members elected to Council, it |385	rizing the Director to enter into con-
+237	Section 2. That the Clerk of Council
+
+73	shall take effect and be in force imme- |385	tracts for the making of such
+229	be and she is hereby directed to trans-
+
+73	diately upon its adoption and |385	improvement; authorizing the pur-
+229	mit two certified copies of this resolu-
+
+73	approval by the Mayor; otherwise, it |385	chase by standard purchase and
+229	tion, together with two copies of a let-
+
+73	shall take effect and be in force from |385	requirements contracts of related
+229	ter of objection and two copies of a
+
+73	and after the earliest period allowed |385	equipment; authorizing the acquisi-
+229	letter requesting that the hearing be
+
+73	by law. |385	tion of various rights and interests in
+229	held in Cleveland, Cuyahoga County.
+
+81	Motion to suspend rules, Charter, |385	real property; authorizing the reloca-
+237	Section 3. That this resolution is
+
+73	and statutory provisions and place |385	tion or modification of fixtures or fea-
+229	hereby declared to be an emergency
+
+73	on final adoption. |385	tures on said property; and authoriz-
+229	measure and, provided it receives the
+
+81	The rules were suspended. Yeas |385	ing various professional services con-
+229	affirmative vote of two-thirds of all
+
 73	15. Nays 0. Read second time. Read |385	tracts for the Department of Public
 229	the members elected to Council, it
 73	third time in full. Adopted. Yeas
@@ -833,19 +861,29 @@ Source file: April272016.pdf
 81	By Council Member Brancatelli.
 81	An emergency resolution objecting |229	and after the earliest period allowed
 385	Finance, Law; Passage recommended
-229	by law. |385	by Committees on Utilities, Develop-to the transfer of ownership of a D1, |385	ment Planning and Sustainability,
+229	by law. |385	by Committees on Utilities, Develop-
+73	to the transfer of ownership of a D1,
+ |385	ment Planning and Sustainability,
 73	D3, D3A and D6 Liquor Permit to 4002 |237	Motion to suspend rules, Charter,
 73	Jennings Road and patio. |229	and statutory provisions and place
 385	Finance, when amended, as follows:
-229	on final adoption. |393	1. In Section 2, strike lines 3, 4, andWhereas, Council has been notified |385	5 in their entirety and insert “Pro-
+229	on final adoption. |393	1. In Section 2, strike lines 3, 4, and
+81	Whereas, Council has been notified
+ |385	5 in their entirety and insert “Pro-
 73	by the Division of Liquor Control of |237	The rules were suspended. Yeas
 73	an application for the transfer of own- |229	15. Nays 0. Read second time. Read
 385	gram Service Agreement.  The Direc-
-229	third time in full. Adopted. Yeas |385	tor must obtain additional legislativeership of a D1, D3, D3A and D6 Liquor
-229	15. Nays 0. |385	authority to apply for and acceptPermit from Iron City Café, LLC, DBA
+229	third time in full. Adopted. Yeas |385	tor must obtain additional legislative
+73	ership of a D1, D3, D3A and D6 Liquor
+
+229	15. Nays 0. |385	authority to apply for and accept
+73	Permit from Iron City Café, LLC, DBA
+
 385	funds from the Northeast Ohio
 73	Iron City Café, 4002 Jennings Road
-233	SECOND READING EMERGENCY |385	Regional Sewer District for the Com-and patio, Cleveland, Ohio 44109, Per-
+233	SECOND READING EMERGENCY |385	Regional Sewer District for the Com-
+73	and patio, Cleveland, Ohio 44109, Per-
+
 73	mit Number 4153951 to ICB 1 Inc., DBA |255	ORDINANCES PASSED |385	munity Cost Share Program before
 73	Iron City Café, 4002 Jennings Road |385	entering into any of the contracts
 73	and patio, Cleveland, Ohio 44109, Per- |237	Ord. No. 256-16. |385	authorized below.”.
@@ -874,7 +912,7 @@ Source file: April272016.pdf
 73	cers or agents of the Division of |229	Nays 0. |385	Cleveland, Ohio, 1976, by enacting
 73	Liquor Control are prevented reason- |385	new Sections 490.01, 490.02, 490.03, and
 73	able access to the establishment; and |237	Ord. No. 290-16. |385	490.99, relating to unmanned aircraft
-81	Whereas, the place for which the |237	By Council Members Keane and |385	systems. 
+81	Whereas, the place for which the |237	By Council Members Keane and |385	systems.
 73	permit is sought is so located with |229	Kelley (by departmental request). |393	Approved by Directors of Public
 73	respect to the neighborhood that it |237	An emergency ordinance authoriz- |385	Safety, Port Control, Finance, Law;
 73	substantially interferes with public |229	ing the Director of Port Control to |385	Passage recommended by Commit-
@@ -921,7 +959,9 @@ Source file: April272016.pdf
 81	An emergency ordinance authoriz- |237	Ord. No. 478-16. |386	the employment of the following
 73	ing the Director of Port Control to |237	By Council Member Kelley (by |386	subcontractor by Energy Mechanical
 73	exercise the second option to renew |229	departmental request). |386	Corp. under Contract No. RC2015*23
-237	An emergency ordinance authoriz- |386	for labor and materials to provideContract No. PS 2014-113 with Solar
+237	An emergency ordinance authoriz- |386	for labor and materials to provide
+73	Contract No. PS 2014-113 with Solar
+
 386	maintenance, repair, enhancement
 73	Testing Laboratories, Inc. to provide |229	ing the Director of Finance to employ
 386	and/or replacement of heating, ven-
@@ -930,7 +970,9 @@ Source file: April272016.pdf
 386	tilation and air conditioning sys-
 73	Department of Port Control. |229	one or more firms of consultants, com-
 386	tems, for a period of two years, with
-229	puter software developers, or vendors |386	two one-year options to renew, forApproved by Directors of Port Con-
+229	puter software developers, or vendors |386	two one-year options to renew, for
+81	Approved by Directors of Port Con-
+
 73	trol, Finance, Law; Passage recom- |229	necessary to implement various tech-
 386	the various divisions of the Depart-
 73	mended by Committees on Trans- |229	nology projects; and to enter into var-
@@ -938,7 +980,7 @@ Source file: April272016.pdf
 73	portation, Finance. |229	ious contracts to implement this ordi- |386	Subcontractor |508	Work
 81	The rules were suspended. Yeas |229	nance. |486	Percentage
 73	15. Nays 0. Read second time. Read |237	Approved by Directors of Finance,
-73	third time in full. Passed. Yeas 15. |229	Law; Passage recommended by Com- |386	Service-Tech Corporation 
+73	third time in full. Passed. Yeas 15. |229	Law; Passage recommended by Com- |386	Service-Tech Corporation
 73	Nays 0. |229	mittee on Finance. |394	(non-certified) |493	$42,672.03
 237	The rules were suspended. Yeas
 508	0.00%
@@ -979,7 +1021,7 @@ Source file: April272016.pdf
 73	Law; Passage recommended by Com-
 237	City Clerk, Clerk of Council |486	Percentage
 73	mittee on Finance.
-81	The rules were suspended. Yeas |386	Corlett Trenching and 
+81	The rules were suspended. Yeas |386	Corlett Trenching and
 73	15. Nays 0. Read second time. Read |394	Plumbing (CSB/MBE) |493	$75,000.00
 73	third time in full. Passed. Yeas 15. |261	THE CALENDAR |508	1.03%
 73	Nays 0.
@@ -1011,7 +1053,7 @@ Source file: April272016.pdf
 73	hydrants, valves, service connec- |385	SUBCONTRACTOR |502	WORK
 73	tions and appurtenances - Area A, |237	Resolution No. 172-16. |470	PERCENTAGE
 73	including underground enclosures |237	By Director Davis.
-73	and tree lawn restoration, for the |237	Be it resolved by the Board of |386	RAR Contracting Co., 
+73	and tree lawn restoration, for the |237	Be it resolved by the Board of |386	RAR Contracting Co.,
 73	Division of Water, Department of |229	Control of the City of Cleveland that |394	Inc. (CSB) |489	$599,500.00
 73	Public Utilities, is approved: |229	the bid of OW Investors, LLC dba |503	20.00%
 229	MARS Company for the public
@@ -1236,7 +1278,9 @@ Source file: April272016.pdf
 229	2076-76 passed October 25, 1976, the
 73	further provide that the Contractor |385	develop the parcel for yard expan-
 229	City is conducting a Land Reuti-
-73	shall furnish the City’s requirements |385	sion; andlization Program (“Program”)
+73	shall furnish the City’s requirements |385	sion; and
+229	lization Program (“Program”)
+
 73	for the goods and/or services, |229	according to the provisions of Chap- |393	Whereas, the following conditions
 73	whether more or less than the esti- |229	ter 5722 of the Ohio Revised Code; |385	exist:
 73	mated quantity, as may be ordered |229	and |393	1. The member of Council from
@@ -1342,25 +1386,61 @@ Source file: April272016.pdf
 229	tor Walker-Minor, Acting Directors
 73	Development, and the Mayor is |385	the Division of Police, Department
 229	Hennessy, Greene, Interim Director
-73	requested, to execute an Official |385	of Public Safety, for a period of sixWest, Directors Fumich, and
-73	Deed for and on behalf of the City |385	(6) months beginning on the date ofO’Leary.
-73	of Cleveland, with Daphne Wilson |385	execution of a contract for theNays: None.
-73	and Dallas Wilson for the sale and |385	goods and/or services, received onAbsent: Mayor Jackson, Directors
-73	development of Permanent Parcel |385	March 18, 2016, under the authorityDumas, Davis, and Nichols.
+73	requested, to execute an Official |385	of Public Safety, for a period of six
+229	West, Directors Fumich, and
+
+73	Deed for and on behalf of the City |385	(6) months beginning on the date of
+229	O’Leary.
+
+73	of Cleveland, with Daphne Wilson |385	execution of a contract for the
+237	Nays: None.
+
+73	and Dallas Wilson for the sale and |385	goods and/or services, received on
+237	Absent: Mayor Jackson, Directors
+
+73	development of Permanent Parcel |385	March 18, 2016, under the authority
+229	Dumas, Davis, and Nichols.
+
 73	No. 115-29-006 located at 948 Rondel |385	of Ordinance No. 880-14, passed July
-73	Road, according to the Land Reuti- |385	16, 2014, which on the basis of theResolution No. 187-16.
-73	lization Program in such manner as |385	estimated quantity would amount toBy Director Rush.
-73	best carries out the intent of the |385	$46,656.00 (Net 30), is affirmed andWhereas, under Ordinance No.
-73	program. |385	approved as the lowest and best bid,2076-76 passed October 25, 1976, the
-81	Be it further resolved that the con- |385	and the Director of Public Safety isCity is conducting a Land Reuti-
-73	sideration for the sale of the parcel |385	requested to enter into a require-lization Program (“Program”)
-73	shall be $200.00, which amount is |385	ment contract for the specifiedaccording to the provisions of Chap-
-73	determined to be not less than the |385	goods and/or services.ter 5722 of the Ohio Revised Code;
-73	fair market value of the parcel for |393	The requirement contract shalland
-73	uses according to the Program. |385	further provide that the ContractorWhereas, under the Program, the
-81	Yeas: Director Langhenry, Acting |385	shall furnish all the City’s require-City has acquired Permanent Parcel
-73	Directors Shaw, Scott, Interim Direc- |385	ments for such goods and/or ser-Nos., 126-31-062, 126-31-063, 126-31-064,
-73	tor Walker-Minor, Acting Directors |385	vices, whether more or less than the126-31-065, 126-31-066, 126-31-067, 126- |385	estimated quantity, as may be
+73	Road, according to the Land Reuti- |385	16, 2014, which on the basis of the
+237	Resolution No. 187-16.
+
+73	lization Program in such manner as |385	estimated quantity would amount to
+237	By Director Rush.
+
+73	best carries out the intent of the |385	$46,656.00 (Net 30), is affirmed and
+237	Whereas, under Ordinance No.
+
+73	program. |385	approved as the lowest and best bid,
+229	2076-76 passed October 25, 1976, the
+
+81	Be it further resolved that the con- |385	and the Director of Public Safety is
+229	City is conducting a Land Reuti-
+
+73	sideration for the sale of the parcel |385	requested to enter into a require-
+229	lization Program (“Program”)
+
+73	shall be $200.00, which amount is |385	ment contract for the specified
+229	according to the provisions of Chap-
+
+73	determined to be not less than the |385	goods and/or services.
+229	ter 5722 of the Ohio Revised Code;
+
+73	fair market value of the parcel for |393	The requirement contract shall
+229	and
+
+73	uses according to the Program. |385	further provide that the Contractor
+237	Whereas, under the Program, the
+
+81	Yeas: Director Langhenry, Acting |385	shall furnish all the City’s require-
+229	City has acquired Permanent Parcel
+
+73	Directors Shaw, Scott, Interim Direc- |385	ments for such goods and/or ser-
+229	Nos., 126-31-062, 126-31-063, 126-31-064,
+
+73	tor Walker-Minor, Acting Directors |385	vices, whether more or less than the
+229	126-31-065, 126-31-066, 126-31-067, 126-
+ |385	estimated quantity, as may be
 73	Hennessy, Greene, Interim Director |229	31-068 and 126-31-071 located on East |385	ordered under delivery orders sepa-
 73	West, Directors Fumich, and |229	83rd Street; and |385	rately certified to the contract.
 73	O’Leary. |237	Whereas, Section 183.021 of the |393	Yeas: Director Langhenry, Acting
@@ -1444,7 +1524,9 @@ Source file: April272016.pdf
 73	prescribed by the Civil Service Com-
 73	mission and filed at the office of the |229	Bank statements (Within last three |400	DUTIES OF THE POSITION
 73	commission not later than the final |229	months).
-73	closing date slated in the examina- |386	Under general supervision, performsSchool registration of children.
+73	closing date slated in the examina- |386	Under general supervision, performs
+229	School registration of children.
+
 73	tion announcement. |386	work of routine difficulty enforcing
 229	Car insurance documents. |386	animal control ordinances and regula-
 81	EXAMINATION RESULTS: Each |386	tions. Patrols assigned areas within
@@ -1471,7 +1553,9 @@ Source file: April272016.pdf
 134	ROBERT BENNETT, |229	Birth certificates. |385	complainants, victims, and witnesses
 180	President |385	in order to collect information on pos-
 229	Notarized letters or affidavits. |385	sible violations of animal control
-229	Social Security card. |385	laws, ordinances, and regulations.CIVIL SERVICE NOTICE |385	Identifies, collects, and preserves evi-
+229	Social Security card. |385	laws, ordinances, and regulations.
+85	CIVIL SERVICE NOTICE
+ |385	Identifies, collects, and preserves evi-
 121	____________ |229	Rental receipts from independent |385	dence pertaining to investigations of
 229	party without cancelled checks or |385	animal cruelty. Identifies the owners
 92	ANNOUNCEMENTS — 2016 |229	money order receipt. |385	of animals that are the subject of an
@@ -1541,14 +1625,16 @@ Source file: April272016.pdf
 73	valid State of Ohio Driver’s License is |385	tor certification is required and must
 385	be maintained throughout employ-
 73	required. Must be able to lift and |229	NOTE: |260	APPLICATIONS WILL NOT
-229	BE ACCEPTED AFTER 4:30 P.M. ON |385	ment. In addition to the above: ELEC-carry a minimum of 50 pounds. Must
+229	BE ACCEPTED AFTER 4:30 P.M. ON |385	ment. In addition to the above: ELEC-
+73	carry a minimum of 50 pounds. Must
+
 385	TRICAL SAFETY INSPECTOR I –An
 73	be computer proficient and have the |230	THURSDAY, MAY 12, 2016.
 386	OBBS Interim Electrical Safety
 73	ability to learn RMS system and Divi-
 385	Inspector certification is required, a
 73	sional computer programs. |230	THE CIVIL SERVICE COMMIS-
-385	full certification is preferred. 
+385	full certification is preferred.
 230	SION’S POLICY IS THAT NO LATE
 73	NOTE: |102	Minimum qualifications must |230	FILING WILL BE ALLOWED. |385	NOTE: |414	Minimum qualifications must
 73	be met as of the last day of the filing |385	be met as of the last day of the filing
@@ -1632,21 +1718,39 @@ Source file: April272016.pdf
 229	tices. Attends and participates in |385	BE AVAILABLE FOR PICK-UP IN
 73	NOTE: |104	APPLICATIONS WILL NOT |229	operations and safety training class- |385	THE CIVIL SERVICE OFFICE TO
 73	BE ACCEPTED AFTER 4:30 P.M. ON |229	es and demonstrates competence |385	APPLY TO TAKE THE CIVIL SER-
-73	THURSDAY, JULY 21, 2016. |385	VICE EXAMINATION – APPLICA-(demonstration of competence may be
+73	THURSDAY, JULY 21, 2016. |385	VICE EXAMINATION – APPLICA-
+229	(demonstration of competence may be
+
 385	TIONS WILL BE AVAILABLE FROM
 229	determined by exam). Wears and
-73	THE CIVIL SERVICE COMMIS- |385	8:30 A.M. ON FRIDAY, APRIL 29, 2016properly utilizes safety equipment in
-73	SION’S POLICY IS THAT NO LATE |385	UNTIL 4:30 P.M. ON THURSDAY,accordance with Divisional policy at
-73	FILING WILL BE ALLOWED. |385	MAY 5, 2016.all times.
-83	EXAMINATION INFORMATION |385	NOTE: |416	APPLICATIONS WILL NOTMINIMUM QUALIFICATIONS FOR
+73	THE CIVIL SERVICE COMMIS- |385	8:30 A.M. ON FRIDAY, APRIL 29, 2016
+229	properly utilizes safety equipment in
+
+73	SION’S POLICY IS THAT NO LATE |385	UNTIL 4:30 P.M. ON THURSDAY,
+229	accordance with Divisional policy at
+
+73	FILING WILL BE ALLOWED. |385	MAY 5, 2016.
+229	all times.
+
+83	EXAMINATION INFORMATION |385	NOTE: |416	APPLICATIONS WILL NOT
+229	MINIMUM QUALIFICATIONS FOR
+
 386	BE ACCEPTED AFTER 4:30 P.M. ON
 230	ENTRANCE TO THIS EXAMINA-
-74	TYPE: |110	EXPERIENCE EVALUA- |386	THURSDAY, MAY 5, 2016.TION AS ESTABLISHED BY THE
+74	TYPE: |110	EXPERIENCE EVALUA- |386	THURSDAY, MAY 5, 2016.
+230	TION AS ESTABLISHED BY THE
+
 73	TION: Applicant’s eligibility will be |230	CIVIL SERVICE COMMISSION OF
-73	determined based on Education and |386	THE CIVIL SERVICE COMMIS-THE CITY OF CLEVELAND ARE AS
-73	Experience found in Resume. |386	SION’S POLICY IS THAT NO LATEFOLLOWS: |386	FILING WILL BE ALLOWED.
+73	determined based on Education and |386	THE CIVIL SERVICE COMMIS-
+230	THE CITY OF CLEVELAND ARE AS
+
+73	Experience found in Resume. |386	SION’S POLICY IS THAT NO LATE
+230	FOLLOWS:
+ |386	FILING WILL BE ALLOWED.
 73	NOTE: |102	Each applicant is required to |230	A High School Diploma or GED is
-73	submit a detailed resume of his/her |395	EXAMINATION INFORMATIONrequired. A Bachelor’s Degree in
+73	submit a detailed resume of his/her |395	EXAMINATION INFORMATION
+230	required. A Bachelor’s Degree in
+
 73	education and experience at the time |229	Urban Forestry or related field from a |386	TYPE: |415	WRITTEN TEST Applicants
 73	of filing application. |229	four-year accredited college or uni- |385	will be notified of the time, date, and
 229	versity is required. One year of full |385	place of the exam by U.S. Mail.
@@ -1712,7 +1816,7 @@ Source file: April272016.pdf
 73	be met as of the last day of the filing |230	TYPE: |261	Written and Art Portfolio: |386	in planning, developing, recruiting,
 73	period unless otherwise stated. |230	Applicants will be notified of the |386	implementing, and instructing
 230	time, date, and place of the written |385	youth/adults in various visual art
-73	NOTE: |101	Applicants will be required to |230	exam by U.S. Mail. Also by mail, |386	classes is required.  
+73	NOTE: |101	Applicants will be required to |230	exam by U.S. Mail. Also by mail, |386	classes is required. 
 73	pay a $10.00 (TEN DOLLARS) filing |230	approved candidates will be sent the
 73	fee payable in cash or money order |230	particulars about what is required in |386	NOTE: |413	Applicants will be required to
 73	(no checks). Applicants who are cur- |230	the Portfolio and given a deadline for |385	pay a $10.00 (TEN DOLLARS) filing
@@ -1721,17 +1825,37 @@ Source file: April272016.pdf
 385	employed in this position with the
 73	However, that when an applicant is |229	NOTE: |259	THE CIVIL SERVICE COM- |385	City of Cleveland are exempt. Howev-
 73	disqualified from taking an examina- |230	MISSION RESERVES THE RIGHT
-73	tion on the basis of age, education or |385	er, that when an applicant is disquali-TO REVIEW AND EVALUATE ANY
-73	failure to meet other minimum |385	fied from taking an examination onAND ALL INFORMATION CON-
-73	entrance requirements, the fee paid |385	the basis of age, education or failureTAINED IN THE APPLICATION OR
-73	by such applicant shall be refunded to |385	to meet other minimum entranceRESUME. LACK OF HONESTY WILL
-73	such applicant upon the applicant’s |385	requirements, the fee paid by suchRESULT IN IMMEDIATE REMOVAL
-73	request in writing made within ten |385	applicant shall be refunded to suchFROM THE ELIGIBLE LIST.
+73	tion on the basis of age, education or |385	er, that when an applicant is disquali-
+229	TO REVIEW AND EVALUATE ANY
+
+73	failure to meet other minimum |385	fied from taking an examination on
+229	AND ALL INFORMATION CON-
+
+73	entrance requirements, the fee paid |385	the basis of age, education or failure
+229	TAINED IN THE APPLICATION OR
+
+73	by such applicant shall be refunded to |385	to meet other minimum entrance
+230	RESUME. LACK OF HONESTY WILL
+
+73	such applicant upon the applicant’s |385	requirements, the fee paid by such
+230	RESULT IN IMMEDIATE REMOVAL
+
+73	request in writing made within ten |385	applicant shall be refunded to such
+230	FROM THE ELIGIBLE LIST.
+
 73	(10) days after the date of examina- |385	applicant upon the applicant’s
-73	tion. Any applicant who can provide |385	request in writing made within tenNOTE: |260	THE ELIGIBLE LIST FOR
-73	proof of unemployment, public assis- |385	(10) days after the date of examina-THIS CLASSIFICATION WILL BE
-73	tance, or indigence is exempt from the |385	tion. Any applicant who can provideVALID FOR 1 YEAR FROM THE
-73	filing fee. A copy of such proof must |385	proof of unemployment, public assis-DATE OF ITS APPROVAL.
+73	tion. Any applicant who can provide |385	request in writing made within ten
+230	NOTE:
+ |260	THE ELIGIBLE LIST FOR
+73	proof of unemployment, public assis- |385	(10) days after the date of examina-
+229	THIS CLASSIFICATION WILL BE
+
+73	tance, or indigence is exempt from the |385	tion. Any applicant who can provide
+229	VALID FOR 1 YEAR FROM THE
+
+73	filing fee. A copy of such proof must |385	proof of unemployment, public assis-
+229	DATE OF ITS APPROVAL.
+
 73	be included with the application. |385	tance, or indigence is exempt from the
 244	DUTIES OF THE POSITION |385	filing fee. A copy of such proof must
 73	NOTE: |101	Applications must be returned |385	be included with the application.
@@ -1743,14 +1867,18 @@ Source file: April272016.pdf
 230	ational activities of a playground or |385	es, certificates, and resumes must be
 73	ing. Applications may not be accepted
 73	if copies are not submitted with appli- |229	recreation center. Performs related
-385	presented at the time of filing. 
+385	presented at the time of filing.
 73	cation at time of filing. |229	duties as required. TYPICAL TASKS:
 229	Coordinates, organizes, and directs |385	NOTE: |414	Any applicant who resigns or
 73	NOTE: |103	Those persons who are resi- |229	free play and planned group activi-
 386	is dismissed from employment with
-229	ties at a playground or recreation cen- |386	the City of Cleveland will havedents of the City of Cleveland for at |385	his/her name removed from the eligi-
+229	ties at a playground or recreation cen- |386	the City of Cleveland will have
+73	dents of the City of Cleveland for at
+ |385	his/her name removed from the eligi-
 73	least one year at the date of filing and |229	ter. Organizes leisure time activities
-229	and teaches skills in games, such as |386	ble list.who received passing scores shall
+229	and teaches skills in games, such as |386	ble list.
+73	who received passing scores shall
+
 74	have ten (10) additional points added |229	playground ball, volleyball, tennis,
 386	AN EQUAL OPPORTUNITY EMPLOYER
 73	to their grades. A list of acceptable |229	and other individual and team games.
@@ -1786,7 +1914,9 @@ Source file: April272016.pdf
 73	position as established by Ordinance |229	routine and special reports. Supervis-
 73	of the Council of the City of Cleveland |229	es play-leaders or other assistants.
 385	be accepted. APPLICATIONS WILL
-229	Performs other duties as required. |385	BE AVAILABLE FOR PICK-UP INis $10.00 - $19.03 per Hour.
+229	Performs other duties as required. |385	BE AVAILABLE FOR PICK-UP IN
+73	is $10.00 - $19.03 per Hour.
+
 229	Follows all operations and safety |385	THE CIVIL SERVICE OFFICE TO
 91	FILING OF APPLICATION |229	policies and safe work practices. |385	APPLY TO TAKE THE CIVIL SER-
 229	Attends and participates in opera- |385	VICE EXAMINATION – APPLICA-
@@ -1831,16 +1961,34 @@ Source file: April272016.pdf
 88	DUTIES OF THE POSITION |230	filing fee. A copy of such proof must
 230	be included with the application.
 74	Under supervision, has a responsible |385	Calendar No. 16-062: 4815 Broadview
-73	role for the acquisition and disposi- |395	Road (Ward 13)NOTE: |257	Applications must be returned
-73	tion of land that is to be made avail- |393	Swedenborgian Church of Greaterin person. All copies of diplomas,
-73	able for redevelopment. Responds to |385	Cleveland, owner, proposes tolicenses, certificates, and resumes
-73	inquiries relating to the purchase and |385	change use from church to account-must be presented at the time of fil-
-73	sale of property by the department. |385	ing office in a C1 Multi-Family Res-ing. Applications may not be accepted
-73	Handles processing of property |385	idential District. The owner appealsif copies are not submitted with appli-
-73	requests in collaboration with other |385	for relief from the following sec-cation at time of filing.
+73	role for the acquisition and disposi- |395	Road (Ward 13)
+230	NOTE:
+ |257	Applications must be returned
+73	tion of land that is to be made avail- |393	Swedenborgian Church of Greater
+230	in person. All copies of diplomas,
+
+73	able for redevelopment. Responds to |385	Cleveland, owner, proposes to
+230	licenses, certificates, and resumes
+
+73	inquiries relating to the purchase and |385	change use from church to account-
+230	must be presented at the time of fil-
+
+73	sale of property by the department. |385	ing office in a C1 Multi-Family Res-
+230	ing. Applications may not be accepted
+
+73	Handles processing of property |385	idential District. The owner appeals
+230	if copies are not submitted with appli-
+
+73	requests in collaboration with other |385	for relief from the following sec-
+230	cation at time of filing.
+
 73	departments and reviewing parties to |385	tions of the Cleveland Codified Ordi-
-73	ensure timely disposition. Communi- |385	nances:NOTE: |258	Any applicant who resigns or
-73	cates with different governmental |393	1. Section 337.08 which states thatis dismissed from employment with
+73	ensure timely disposition. Communi- |385	nances:
+230	NOTE:
+ |258	Any applicant who resigns or
+73	cates with different governmental |393	1. Section 337.08 which states that
+230	is dismissed from employment with
+
 73	units regarding acquisition and dis- |385	accounting office is not a permitted
 229	the City of Cleveland will have
 73	position transactions. Creates and |385	use in a Multi-Family Residential
@@ -1861,7 +2009,9 @@ Source file: April272016.pdf
 73	mate of acquisition cost prior to |385	tion strip providing 50% year round
 73	appraisal. Performs other related |231	SCHEDULE OF THE BOARD |385	opacity is required along sides of
 73	duties as assigned. Follows all opera-
-248	OF ZONING APPEALS |385	property abutting Multi-Family Res-tions and safety policies. Attends and |385	idential District. A six foot wide
+248	OF ZONING APPEALS |385	property abutting Multi-Family Res-
+73	tions and safety policies. Attends and
+ |385	idential District. A six foot wide
 73	participates in operations and safety |385	frontage strip providing 50% year
 73	training classes and demonstrates |385	round opacity is required where
 73	competence (demonstration of compe- |278	MAY 9, 2016
@@ -1936,7 +2086,9 @@ Source file: April272016.pdf
 385	Retail Overlay District.
 81	5. Section 357.09(b)(2)(B) which |229	that tattoo and body piercing use is
 73	states that the required interior side |229	not permitted in a Local Retail Busi-
-229	ness District, but first permitted in |386	Calendar No. 16-48: |478	5304 Detroityard width is 6' where 5' and 0' in
+229	ness District, but first permitted in |386	Calendar No. 16-48: |478	5304 Detroit
+73	yard width is 6' where 5' and 0' in
+
 73	certain areas are proposed. The |229	a General Retail Business District. |396	Avenue
 73	total width of side yards on the |237	2. Section 347.12(b)(1) which |393	Jose Casiano, owner, proposes to
 73	same premises shall not be less than |229	states that tattoo and body piercing |385	change use from a store and 2 apart-
@@ -1974,7 +2126,7 @@ Source file: April272016.pdf
 229	second postponement made at the |385	DENIED:
 229	request of the appellant.
 73	Calendar No. 16-067: 1626 East 33rd |393	None.
-83	Street (Ward 7) |262	POSTPONED FROM 
+83	Street (Ward 7) |262	POSTPONED FROM
 81	Tam Shiu-Yeung, owner, proposes |271	APRIL 25, 2016 |393	The following appeals were
 73	to construct a 600 square foot addi- |385	WITHDRAWN:
 73	tion to an existing single family |229	Calendar No. 16-50: Appeal of Lucky
@@ -2008,7 +2160,9 @@ Source file: April272016.pdf
 73	posed rear yard is 12 feet. |229	allow for time for input from the
 81	2. Section 357.09(b)(2)(B) which |229	Councilman. |386	Calendar No. 16-052: |473	7114 St. Clair
 73	states that in a Two-Family Resi- |396	Avenue
-73	dential District no interior side yard |393	Eishons House LLC. Postponed toREPORT OF THE BOARD
+73	dential District no interior side yard |393	Eishons House LLC. Postponed to
+237	REPORT OF THE BOARD
+
 73	shall be less than five feet in width |385	June 6, 2016.
 73	for a corner lot, nor less than 3 feet |248	OF ZONING APPEALS
 73	in width for an interior lot, nor shall |393	The following cases were heard
@@ -2069,7 +2223,9 @@ Source file: April272016.pdf
 73	Codified Ordinances of the City of |229	REMANDED at this time to the
 73	Cleveland and the Ohio Building |229	Department of Building and Hous-
 393	BE IT RESOLVED, a motion is in
-229	ing for supervision and any required |385	order at this time to grant theCode (OBC). |385	Appellant until May 1, 2016 to obtain
+229	ing for supervision and any required |385	order at this time to grant the
+73	Code (OBC).
+ |385	Appellant until May 1, 2016 to obtain
 81	BE IT RESOLVED, a motion is in |229	further action. Motion so in order.
 73	order at this time to grant the |229	Motioned by Mr. Bradley and sec-
 385	all required permits and to complete
@@ -2086,17 +2242,31 @@ Source file: April272016.pdf
 73	and Housing for supervision and
 385	sion and any required further
 73	any required further action. Motion |237	Docket A-35-16.
-73	so in order. Motioned by Mr. Saab |385	action. Motion so in order. MotionedRE: Appeal of Walter & Carol
-73	and seconded by Mr. Gallagher. |385	by Mr. Saab and seconded by Mr.Wolowicz, Owners of the Two
-81	Yeas: Messrs. Denk, Gallagher, |385	Gallagher.Dwelling Units Two-Family Resi-
-73	Saab, Bradley. Nays: None. Absent: |393	Yeas: Messrs. Denk, Gallagher,dence Two Story Frame Property,
-73	Mr. Maschke. |385	Saab, Bradley. Nays: None. Absent:located on the premises known as |385	Mr. Maschke.
+73	so in order. Motioned by Mr. Saab |385	action. Motion so in order. Motioned
+237	RE: Appeal of Walter & Carol
+
+73	and seconded by Mr. Gallagher. |385	by Mr. Saab and seconded by Mr.
+229	Wolowicz, Owners of the Two
+
+81	Yeas: Messrs. Denk, Gallagher, |385	Gallagher.
+229	Dwelling Units Two-Family Resi-
+
+73	Saab, Bradley. Nays: None. Absent: |393	Yeas: Messrs. Denk, Gallagher,
+229	dence Two Story Frame Property,
+
+73	Mr. Maschke. |385	Saab, Bradley. Nays: None. Absent:
+229	located on the premises known as
+ |385	Mr. Maschke.
 229	3662 East 57th Street from a CON-
 132	*  |140	 *  |151	 * |229	DEMNATION ORDER — MAIN |443	*  |451	 *  |463	 *
 229	STRUCTURE, dated February 16,
 81	Docket A-31-16. |229	2016 of the Director of the Depart-
-81	RE: Appeal of Eddie A. Short Jr., |393	Docket A-38-16.ment of Building and Housing,
-73	Owner of the Residential Property, |393	RE: Appeal of Dmitri Korobov,requiring compliance with the Codi-
+81	RE: Appeal of Eddie A. Short Jr., |393	Docket A-38-16.
+229	ment of Building and Housing,
+
+73	Owner of the Residential Property, |393	RE: Appeal of Dmitri Korobov,
+229	requiring compliance with the Codi-
+
 73	located on the premises known as |385	Owner of the One Dwelling Unit Sin-
 229	fied Ordinances of the City of Cleve-
 73	734 East 92nd Street from a LIMI- |385	gle-Family Residence Two Story
@@ -2154,7 +2324,9 @@ Source file: April272016.pdf
 81	No action this date. The docket is |229	Cleveland Municipal Court is seek- |385	ply with the business enterprise
 73	rescheduled for May 4, 2016. |229	ing sealed proposals in response to
 229	a Request for Proposal (R.F.P) |385	code or with representations made
-229	issued April 13, 2016 for manage- |385	on these forms may result in can-*  |140	 *  |151	 *
+229	issued April 13, 2016 for manage- |385	on these forms may result in can-
+132	* 
+ |140	 *  |151	 *
 229	ment consulting for the Parking |385	cellation of the contract or other
 229	Violations Bureau, processing of
 81	Docket A-40-16. |385	civil or criminal penalties.”
@@ -2172,14 +2344,22 @@ Source file: April272016.pdf
 73	the Department of Building and |229	the specifications of the R.F.P. The
 73	Housing, requiring compliance with |229	R.F.P. is available at the office of
 396	Ordinance No. 880-14, passed by
-229	the Clerk, Cleveland Municipal |396	the Council of the City of Cleve-the Codified Ordinances of the City
-229	Court, Justice Center, Level 2, 1200 |396	land, July 16, 2014.of Cleveland and the Ohio Building
-229	Ontario St., Cleveland, Ohio 44113. |385	THERE WILL BE AN OPTIONALCode (OBC).
+229	the Clerk, Cleveland Municipal |396	the Council of the City of Cleve-
+73	the Codified Ordinances of the City
+
+229	Court, Justice Center, Level 2, 1200 |396	land, July 16, 2014.
+73	of Cleveland and the Ohio Building
+
+229	Ontario St., Cleveland, Ohio 44113. |385	THERE WILL BE AN OPTIONAL
+73	Code (OBC).
+
 81	BE IT RESOLVED, a motion is in |229	Each prospective bidder must sub-
 396	PRE-BID MEETING ON, THURS-
 73	order at this time to REMAND the |229	mit a letter of intent to bid to the
 396	DAY, APRIL 28, 2016 AT 2:00 P.M.
-229	Clerk by April 29th, 2016. |344	No pro- |396	601 LAKESIDE AVENUE, CITYproperty located at 1970 West 19th
+229	Clerk by April 29th, 2016. |344	No pro- |396	601 LAKESIDE AVENUE, CITY
+73	property located at 1970 West 19th
+
 73	Street to the Department of Building |229	posals will be considered unless |396	HALL, ROOM 6, CLEVELAND,
 73	and Housing for supervision and |229	delivered to the Clerk’s Office no |396	OHIO 44114.
 73	any required further action. Motion |229	later than 3:00 p.m. (EST) June 6th,
@@ -2209,8 +2389,12 @@ Source file: April272016.pdf
 81	A-21-16 — Hala Smadi |229	chases and Supplies, Room 128, City
 81	A-22-16 — Kema LLC |229	Hall, in accordance with the append- |386	File No. 56-16 — Purchase of Light
 81	A-24-16 — Bruce & Janine Johnson |229	ed schedule, and will be opened and |397	& Medium Duty Trucks and Vans
-81	A-25-16 — Makina Management |397	and Related Equipment, for theread in Room 128, City Hall, imme-
-73	Inc. |397	Division of Motor Vehicle Main-diately thereafter.
+81	A-25-16 — Makina Management |397	and Related Equipment, for the
+229	read in Room 128, City Hall, imme-
+
+73	Inc. |397	Division of Motor Vehicle Main-
+229	diately thereafter.
+
 81	A-26-16 — Alan Jenkins |397	tenance, Department of Public
 237	Each bid must be made in accor-
 81	A-27-16 — Lamont Weakly |397	Works, as authorized by Ordi-
@@ -2238,8 +2422,12 @@ Source file: April272016.pdf
 229	ment: “Pursuant to the MBE/FBE |386	File No. 53-16 — Ballistic Carrier
 121	April 6, 2016 |229	Code, each prime bidder, each minor- |397	System (SOFT), for the Division
 229	ity business enterprise (“MBE”) and |397	of Fire, Department of Public
-81	Yeas: Messrs. Denk, Gallagher, |397	Safety, as authorized by Ordi-each female business enterprise
-73	Saab, Bradley. Nays: None. Absent: |397	nance No. 880-14, passed by the(“FBE”) must be certified before
+81	Yeas: Messrs. Denk, Gallagher, |397	Safety, as authorized by Ordi-
+229	each female business enterprise
+
+73	Saab, Bradley. Nays: None. Absent: |397	nance No. 880-14, passed by the
+229	(“FBE”) must be certified before
+
 73	Mr. Maschke. |397	Council of the City of Cleveland,
 229	doing business with the City. There- |397	July 16, 2014.
 131	*  |139	 *  |151	 * |229	fore, any prime contractor wishing |386	THERE WILL BE AN OPTIONAL
@@ -2287,7 +2475,9 @@ Source file: April272016.pdf
 73	THERE WILL BE A NON-MANDA- |229	tutes an emergency measure for the |385	divided on the outcome of a case, pre-
 84	TORY |113	PRE-BID MEETING, FRI- |229	immediate preservation of public |385	venting the Court from resolving con-
 84	DAY, MAY 6, 2016 AT 10:30 A.M. |229	peace, property, health or safety, now,
-229	therefore, |385	flicting interpretations of the Consti-CLEVELAND CITY HALL, CON-
+229	therefore, |385	flicting interpretations of the Consti-
+84	CLEVELAND CITY HALL, CON-
+
 237	Be it resolved by the Council of |385	tution among different regions of the
 84	FERENCE ROOM 8, 601 LAKE-
 229	the City of Cleveland: |385	Nation and thereby undermining the
@@ -2307,7 +2497,7 @@ Source file: April272016.pdf
 84	TORY |113	PRE-BID MEETING, FRI- |229	hereby declared to be an emergency |385	average number of days from nomina-
 84	DAY, MAY 6, 2016 AT 10:00 A.M. |229	measure and, provided it receives the |385	tion to confirmation vote for a
 84	CLEVELAND CITY HALL, CON- |229	affirmative vote of two-thirds of all |385	Supreme Court nominee has been 70
-84	FERENCE ROOM 8, 601 LAKE- |229	the members elected to Council, it |385	days; and 
+84	FERENCE ROOM 8, 601 LAKE- |229	the members elected to Council, it |385	days; and
 229	shall take effect and be in force imme-
 84	SIDE AVENUE, CLEVELAND, |393	Whereas, this resolution consti-
 229	diately upon its adoption and
@@ -2349,7 +2539,7 @@ Source file: April272016.pdf
 85	HALL, ROOM 517A, 601 LAKE- |229	tant and solemn responsibilities; and |385	approval by the Mayor; otherwise it
 85	SIDE AVENUE, CLEVELAND, |237	Whereas, the Senate has confirmed |385	shall take effect and be in force from
 85	OHIO 44114. |229	more than a dozen Supreme Court jus- |385	and after the earliest period allowed
-229	tices in presidential election years, |385	by law. 
+229	tices in presidential election years, |385	by law.
 229	including five in the last 100 years; |393	Adopted April 18, 2016.
 74	April 27, 2016 and May 4, 2016 |229	and |393	Effective April 20, 2016.
 296	650
@@ -2480,7 +2670,7 @@ Source file: April272016.pdf
 73	stairs to Eagle Road extension; cross |229	Director of Law. |385	2 of Ordinance No. 1267-15 passed Octo-
 73	over Ontario Avenue to Progressive |237	Section 2. |281	That this ordinance is |385	ber 12, 2015 as amended by Ordinance
 73	Field, entering field and completing |229	hereby declared to be an emergency |385	No. 159-16, passed February 8, 2016 is
-73	on sidewalk around Quicken Loans |229	measure and, provided it receives the |385	hereby amended to read as follows: 
+73	on sidewalk around Quicken Loans |229	measure and, provided it receives the |385	hereby amended to read as follows:
 73	Arena to finish line; provided that the |229	affirmative vote of two-thirds of all |393	An emergency ordinance authoriz-
 73	applicant sponsor shall meet all the |229	the members elected to Council, it |385	ing the Director of the Department
 73	requirements of Section 411.05 of the |229	shall take effect and be in force imme- |385	of Economic Development to enter
@@ -2505,7 +2695,7 @@ Source file: April272016.pdf
 230	the usual daily operation of a munici-
 73	by the Mayor; otherwise, it shall take |385	land residents through the use of
 230	pal department; now, therefore,
-73	effect and be in force from and after |385	Ward 1 casino revenue funds. 
+73	effect and be in force from and after |385	Ward 1 casino revenue funds.
 238	Be it ordained by the Council of the
 73	the earliest period allowed by law. |393	Section 2. |431	That the Title and Section
 230	City of Cleveland:
@@ -2584,7 +2774,7 @@ Source file: April272016.pdf
 73	diately upon its passage and approval |229	of Cleveland through the use of |386	Authorized Absence: Dow. Present
 73	by the Mayor; otherwise it shall take |229	Wards 8 and 10 Casino Revenue |386	in Finance: Kelley, Chair; Cleveland,
 385	Vice Chair; Brady, Brancatelli, Con-
-73	effect and be in force from and after |229	Funds. 
+73	effect and be in force from and after |229	Funds.
 385	well, Keane, Mitchell, Pruitt, Zone.
 73	the earliest period allowed by law. |237	Section 2. |276	That the cost of said con-
 81	Passed April 18, 2016. |229	tract shall be in an amount not to
@@ -2616,20 +2806,20 @@ Source file: April272016.pdf
 138	Bold figures—Final Publication; D—Defeated; R—Reprint; T—Tabled; V—Vetoed;
 213	Bold type in sections indicates amendments
 74	Agreements
-92	Amend Ord. No. 159-16 — Strawbridge Memorial Chapel Project — Strawbridge Family Corp 
-110	DBA Strawbridge Memorial Chapel — Economic Development Department (Ward 01 CRF) 
+92	Amend Ord. No. 159-16 — Strawbridge Memorial Chapel Project — Strawbridge Family Corp
+110	DBA Strawbridge Memorial Chapel — Economic Development Department (Ward 01 CRF)
 110	(O 474-16) |149	. |153	. |157	. |162	. |166	. |170	. |174	. |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
 92	Fiber optic resources — RTA- Cuyahoga County — ODOT — Cleveland Metroparks — Finance
 110	Department (O 463-16) |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	637
-91	Green City Growers, LLC — restructure their debt payment — Economic Development 
+91	Green City Growers, LLC — restructure their debt payment — Economic Development
 109	Department (O 502-16) |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	631
 91	Green Corps Urban Planning Program — providing educational and workforce training in urban
-109	agriculture — Cleveland Botanical Garden — Community Development (Ward 05, 06, 12 CRF) 
+109	agriculture — Cleveland Botanical Garden — Community Development (Ward 05, 06, 12 CRF)
 109	(O 475-16) |149	. |153	. |157	. |162	. |166	. |170	. |174	. |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
 91	North Collinwood Neighborhood Social Support Services Program — Collinwood Neighborhood
 109	Catholic Ministries — Community Development Department (Ward(s) 08,
 109	10 CRF) (O 476-16) |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	653
-92	Regional Stormwater Management Program — Stormwater Management Program Service 
+92	Regional Stormwater Management Program — Stormwater Management Program Service
 110	Agreement — NEORSD — Utilities Department (O 294-16) |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	636
 74	Board of Building Standards and Building Appeals
 92	Brookside Boulevard, 4014 (Ward 16) — Makina Management Inc., owner — appeal adopted on
@@ -2685,11 +2875,11 @@ Source file: April272016.pdf
 109	Finance (BOC Res. 178-16) |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	639
 73	Board of Control — Capital Projects Office
 91	Columbus Road/Carter Road Intersection — PPN 004-26-008 — acquire right-of-way for
-109	Scranton/Carter Road rehabilitation — Division of Purchases and Supplies 
+109	Scranton/Carter Road rehabilitation — Division of Purchases and Supplies
 109	(BOC Res. 176-16) |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	639
 73	Board of Control — Cleveland Hopkins International Airport Division
 91	Primary Road fire and domestic water line improvements — First modify Contract
-109	#PS2015*014 per BOC Res. 744-13 — amend BOC Res. 504-14 — Dept. of Port Control 
+109	#PS2015*014 per BOC Res. 744-13 — amend BOC Res. 504-14 — Dept. of Port Control
 109	(BOC Res. 175-16) |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	638
 73	Board of Control — Cleveland Public Power Division
 91	Paint Poles and Other Side Street Elements — per Ord. 362-16 — all bids rejected — Dept.
@@ -2705,7 +2895,7 @@ Source file: April272016.pdf
 92	East 83rd Street (Ward 5) — PPNs 126-31-062/063/064/065/066/067/068/071 — Rid-All
 110	Foundation Inc. (BOC Res. 187-16) |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	641
 92	Forestdale Avenue, 2111 (Ward 12) — PPN 008-25-038 — Maria Zavala (BOC Res. 183-16) |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	640
-92	Rondel Road, 948 (Ward 8) — PPN 115-29-006 — Daphne Wilson and Dallas Wilson 
+92	Rondel Road, 948 (Ward 8) — PPN 115-29-006 — Daphne Wilson and Dallas Wilson
 110	(BOC Res. 185-16) |179	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	640
 92	Saywell Avenue, 12332 (Ward 9) — PPN 110-24-016 — Gardner Taylor (BOC Res. 182-16) |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	640
 92	Stevenson Road and Mandalay Avenue (Ward 8) — PPN 115-29-087 — Willie Pittman III
@@ -2741,14 +2931,14 @@ Source file: April272016.pdf
 91	East 83rd Street (Ward 5) — PPNs 126-31-062/063/064/065/066/067/068/071 — Rid-All
 109	Foundation Inc. (BOC Res. 187-16) |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	641
 91	Forestdale Avenue, 2111 (Ward 12) — PPN 008-25-038 — Maria Zavala (BOC Res. 183-16) |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	640
-91	Rondel Road, 948 (Ward 8) — PPN 115-29-006 — Daphne Wilson and Dallas Wilson 
+91	Rondel Road, 948 (Ward 8) — PPN 115-29-006 — Daphne Wilson and Dallas Wilson
 109	(BOC Res. 185-16) |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	640
 91	Saywell Avenue, 12332 (Ward 9) — PPN 110-24-016 — Gardner Taylor (BOC Res. 182-16) |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	640
 91	Stevenson Road and Mandalay Avenue (Ward 8) — PPN 115-29-087 — Willie Pittman III
 109	(BOC Res. 184-16) |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	640
 73	Board of Control — Motor Vehicle Maintenance Division
 91	Specialty tire, tubes, and related equipment — per C.O. Sec. 131.64 to Wingfoot
-109	Commercial Tire Systems, LLC dba Goodyear Commercial Tire & Service Centers — 
+109	Commercial Tire Systems, LLC dba Goodyear Commercial Tire & Service Centers —
 109	Dept. of Public Works (BOC Res. 181-16). |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	640
 73	Board of Control — Police Division
 91	Ballistic helmets, vests and accessories — per Ord. 880-14 to Elite Arms, Inc. dba Elite
@@ -2757,11 +2947,11 @@ Source file: April272016.pdf
 109	Supply Co. — Dept. of Public Safety (BOC Res. 189-16). |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	641
 73	Board of Control — Port Control Department
 91	Primary Road fire and domestic water line improvements — First modify Contract
-109	#PS2015*014 per BOC Res. 744-13 — amend BOC Res. 504-14 — Division of Cleveland 
+109	#PS2015*014 per BOC Res. 744-13 — amend BOC Res. 504-14 — Division of Cleveland
 109	Hopkins International Airport (BOC Res. 175-16) |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	638
 73	Board of Control — Professional Service Contracts
 91	Primary Road fire and domestic water line improvements — First modify Contract
-109	#PS2015*014 per BOC Res. 744-13 — amend BOC Res. 504-14 — Division of Cleveland 
+109	#PS2015*014 per BOC Res. 744-13 — amend BOC Res. 504-14 — Division of Cleveland
 110	Hopkins International Airport, Dept. of Port Control (BOC Res. 175-16) |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	638
 74	Board of Control — Public Improvement Contracts
 92	Rehabilitation of the Water Meter Testing Laboratory at the Harvard Yard Facility — per
@@ -2787,7 +2977,7 @@ Source file: April272016.pdf
 91	Pull Boxes — per C.O. Sec. 129.26 to RA Strauss Electric Supply Company — Division
 109	of Cleveland Public Power (BOC Res. 174-16). |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	638
 91	Rehabilitation of the Water Meter Testing Laboratory at the Harvard Yard Facility — per
-109	Ord. 611-15 to OW Investors, LLC dba MARS Company — Division of Water 
+109	Ord. 611-15 to OW Investors, LLC dba MARS Company — Division of Water
 109	(BOC Res. 172-16) |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	638
 91	Restoration of Pavement — per Ord. 607-15 to Cook Paving & Construction Co., Inc. —
 109	Divisions of Water, Cleveland Public Power, Water Pollution Control (BOC Res. 173-16) |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	638
@@ -2830,10 +3020,10 @@ Source file: April272016.pdf
 110	Commercial Tire Systems, LLC dba Goodyear Commercial Tire & Service Centers —
 110	Division of Motor Vehicle Maintenance, Dept. of Public Works (BOC Res. 181-16). |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	640
 92	Water mains, fire hydrants, valves, service connections and appurtenances — approve
-92	subcontractor — Contract #RC2016*38 — Division of Water, Dept. of Public Utilities 
+92	subcontractor — Contract #RC2016*38 — Division of Water, Dept. of Public Utilities
 110	(BOC Res. 168-16) |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	637
 92	Water mains, fire hydrants, valves, service connections and appurtenances — approve
-92	subcontractor — Contract #RC2016*39 — Division of Water, Dept. of Public Utilities 
+92	subcontractor — Contract #RC2016*39 — Division of Water, Dept. of Public Utilities
 110	(BOC Res. 169-16) |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	638
 296	656
 
@@ -2842,7 +3032,7 @@ Source file: April272016.pdf
 74	April 27, 2016 |262	The City Record |521	31
 74	Board of Control — Water Division
 91	Rehabilitation of the Water Meter Testing Laboratory at the Harvard Yard Facility — per
-109	Ord. 611-15 to OW Investors, LLC dba MARS Company — Dept. of Public Utilities 
+109	Ord. 611-15 to OW Investors, LLC dba MARS Company — Dept. of Public Utilities
 109	(BOC Res. 172-16) |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	638
 91	Restoration of Pavement — per Ord. 607-15 to Cook Paving & Construction Co., Inc. —
 109	Divisions of Cleveland Public Power, Water Pollution Control, Dept. of Public
@@ -2900,7 +3090,7 @@ Source file: April272016.pdf
 110	(Ward 07) (O 512-16) |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	634
 92	Urban Community School Run — May 7th — Hermes Sports & Events, Inc. (Ward 03) (O 457-16) |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	651
 92	West Side Catholic Center Run — June 4th — Hermes Sports & Events (Ward 03) (O 460-16) |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	652
-92	Woo Who Urbanobstacle Run, 6th Annual — May 21st — Hermes Sports & Events, Inc. 
+92	Woo Who Urbanobstacle Run, 6th Annual — May 21st — Hermes Sports & Events, Inc.
 110	(Ward 03) (O 458-16) |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	651
 92	YMCA Firecracker Run — July 4th — Hermes Sports & Events, Inc. (Ward 03) (O 459-16) |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	652
 296	657
@@ -2919,13 +3109,13 @@ Source file: April272016.pdf
 91	Capital Maintenance and Repair of City Facilities: Masonry — Department of Public Works —
 109	Division of Property Management — per C.O. Sec. 131.67 — bid due May 18, 2016
 109	(advertised 4/27/2016 and 5/4/2016). |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	650
-91	Light & Medium Duty Trucks and Vans and Related Equipment — Department of Public 
+91	Light & Medium Duty Trucks and Vans and Related Equipment — Department of Public
 109	Works - Division of Motor Vehicle Maintenance — per Ord. 880-14 — bid due May
 109	11, 2016 (advertised 4/27/2016 and 5/4/2016) |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	649
 91	Night Vision Binoculars and Mount — Department of Public Safety — Division of Police —
 109	per Ord. 880-14 — bid due May 4, 2016 (advertised 4/20/2016 and 4/27/2016) |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	649
 91	UTV Patient Transport Vehicle — Department of Public Safety — Division of Emergency
-109	Medical Service — per Ord. 880-14 — bid due May 13, 2016 (advertised 4/27/2016 and 
+109	Medical Service — per Ord. 880-14 — bid due May 13, 2016 (advertised 4/27/2016 and
 109	5/4/2016) |149	. |153	. |157	. |162	. |166	. |170	. |174	. |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	650
 91	UTVs and Related Equipment — Department of Public Works — Division of Motor Vehicle
 109	Maintenance — per Ord. 880-14 — bid due May 11, 2016 (advertised 4/27/2016 and 5/4/2016) |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	649
@@ -2958,21 +3148,21 @@ Source file: April272016.pdf
 91	Code Enforcement Program — administrative expenses — appropriate CDBG funds — Building
 109	and Housing Department — Code Enforcement Division — Community Development
 109	Department (O 499-16) |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |339	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
-91	Demolition Program and Board-up Program — appropriate CDBG funds — Building and 
+91	Demolition Program and Board-up Program — appropriate CDBG funds — Building and
 109	Housing Department — Community Development Department (O 500-16). |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
-91	Project Clean Program — appropriate CDBG funds — Community Development Department — 
+91	Project Clean Program — appropriate CDBG funds — Community Development Department —
 109	Works Department (O 498-16) |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
 73	Community Development Department
 92	Code Enforcement Program — administrative expenses — appropriate CDBG funds — Building
 110	and Housing Department — Code Enforcement Division (O 499-16) |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
-92	Demolition Program and Board-up Program — appropriate CDBG funds — Building and 
+92	Demolition Program and Board-up Program — appropriate CDBG funds — Building and
 110	Housing Department (O 500-16) |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
 296	658
 
 
 [Start Page 33 ]
 74	April 27, 2016 |262	The City Record |521	33
-92	Green Corps Urban Planning Program — providing educational and workforce training in 
+92	Green Corps Urban Planning Program — providing educational and workforce training in
 109	urban agriculture — Cleveland Botanical Garden — agreement (Ward 05, 06, 12 CRF)
 109	(O 475-16) |149	. |153	. |157	. |162	. |166	. |170	. |174	. |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
 91	North Collinwood Neighborhood Social Support Services Program — Collinwood Neighborhood
@@ -2986,7 +3176,7 @@ Source file: April272016.pdf
 73	Congratulations
 91	Augustus, Geraldine Pinkney and Pinkney, James (R 532-16) |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
 73	Contracts
-91	Demolition Program and Board-up Program — appropriate CDBG funds — Building and 
+91	Demolition Program and Board-up Program — appropriate CDBG funds — Building and
 109	Housing Department — Community Development Department (O 500-16). |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
 91	Drawing of existing and proposed airfield signage, lighting and marking plans for
 109	FAA certifications — renew Contract No. PS 2014-122 — KS Associates, Inc.
@@ -3001,7 +3191,7 @@ Source file: April272016.pdf
 109	Contract # PS 2012-76 — Airports Council International (O 290-16) |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	636
 91	Various Technology projects — professional service — Finance Department (O 478-16) |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	637
 73	Cuyahoga County
-91	Fiber optic resources — agreement — RTA- ODOT — Cleveland Metroparks — Finance 
+91	Fiber optic resources — agreement — RTA- ODOT — Cleveland Metroparks — Finance
 109	Department (O 463-16) |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	637
 73	Department of Housing and Urban Development (HUD)
 91	Amend Ord. No. 1451-14 — Euclid Ave., 6815 — The Beauty Shoppe — Empowerment Zone Grant
@@ -3011,9 +3201,9 @@ Source file: April272016.pdf
 73	Dues
 91	Global Cleveland — membership dues for 2016 — Finance Department (O 411-16) |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	637
 73	Economic Development Department
-91	Amend Ord. No. 1451-14 — Euclid Ave., 6815 — The Beauty Shoppe — Empowerment Zone 
+91	Amend Ord. No. 1451-14 — Euclid Ave., 6815 — The Beauty Shoppe — Empowerment Zone
 110	Grant — HUD (Ward 07) (O 501-16) |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	631
-92	Amend Ord. No. 159-16 — Strawbridge Memorial Chapel Project — Strawbridge Family 
+92	Amend Ord. No. 159-16 — Strawbridge Memorial Chapel Project — Strawbridge Family
 110	Corp DBA Strawbridge Memorial Chapel — agreement (Ward 01 CRF) (O 474-16) |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	652
 92	Green City Growers, LLC — restructure their debt payment — agreement (O 502-16) |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	631
 74	Encroachments
@@ -3032,7 +3222,7 @@ Source file: April272016.pdf
 [Start Page 34 ]
 74	34 |262	The City Record |480	April 27, 2016
 74	Grants
-91	Amend Ord. No. 1451-14 — Euclid Ave., 6815 — The Beauty Shoppe — Empowerment Zone 
+91	Amend Ord. No. 1451-14 — Euclid Ave., 6815 — The Beauty Shoppe — Empowerment Zone
 109	Grant — HUD (Ward 07) (O 501-16) |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	631
 91	American Public Health Association — Healthies Cities & Counties Challenge — grant
 109	acceptance notice — Health Department (F 518-16) |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	629
@@ -3040,7 +3230,7 @@ Source file: April272016.pdf
 109	and Prevention’s Office on Smoking and Health — recommendations of tobacco retail
 109	points of sale — grant acceptance notice — Health Department (F 517-16) |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	629
 73	Greater Cleveland Regional Transit Authority (GCRTA)
-91	Fiber optic resources — agreement — Cuyahoga County — ODOT — Cleveland Metroparks — 
+91	Fiber optic resources — agreement — Cuyahoga County — ODOT — Cleveland Metroparks —
 109	Finance Department (O 463-16) |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	637
 91	Oppose discontinuation of parts of the bus route #81 (R 397-16) |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	650
 73	Human Resources Department
@@ -3079,10 +3269,10 @@ Source file: April272016.pdf
 92	Fire station #36 — East 131 St., 3552 — designate as the George L. Forbes Fire Station —
 110	Works Department (Ward 04) (O 507-16) |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	632
 74	Northeast Ohio Regional Sewer District (NEORSD)
-92	Regional Stormwater Management Program — Stormwater Management Program Service 
+92	Regional Stormwater Management Program — Stormwater Management Program Service
 110	Agreement — Utilities Department (O 294-16) |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	636
 74	Ohio Department Of Transportation (ODOT)
-92	Fiber optic resources — agreement — RTA- Cuyahoga County — Cleveland Metroparks — 
+92	Fiber optic resources — agreement — RTA- Cuyahoga County — Cleveland Metroparks —
 110	Finance Department (O 463-16) |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	637
 296	660
 
@@ -3100,7 +3290,7 @@ Source file: April272016.pdf
 109	(Ward 07) (O 512-16) |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	634
 91	Urban Community School Run — May 7th — Hermes Sports & Events , Inc. (Ward 03) (O 457-16) |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	651
 91	West Side Catholic Center Run — June 4th — Hermes Sports & Events (Ward 03) (O 460-16) |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
-91	Woo Who Urbanobstacle Run, 6th Annual — May 21st — Hermes Sports & Events, Inc. 
+91	Woo Who Urbanobstacle Run, 6th Annual — May 21st — Hermes Sports & Events, Inc.
 109	(Ward 03) (O 458-16) |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	651
 91	YMCA Firecracker Run — July 4th — Hermes Sports & Events, Inc. (Ward 03) (O 459-16) |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
 73	Port Control Department
@@ -3135,16 +3325,16 @@ Source file: April272016.pdf
 109	and Prevention’s Office on Smoking and Health — recommendations of tobacco retail
 109	points of sale — grant acceptance notice (F 517-16) |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	629
 73	Public Improvement
-91	Regional Stormwater Management Program — Stormwater Management Program Service 
+91	Regional Stormwater Management Program — Stormwater Management Program Service
 109	Agreement — NEORSD — Utilities Department (O 294-16) |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	636
 91	Roofing system and related projects — contract — Port Control Department (O 382-16). |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	637
 73	Public Works
 91	Fire station #36 — East 131 St., 3552 — designate as the George L. Forbes Fire Station
 110	(Ward 04) (O 507-16) |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	632
-92	Project Clean Program — appropriate CDBG funds — Community Development Department 
+92	Project Clean Program — appropriate CDBG funds — Community Development Department
 110	(O 498-16) |149	. |153	. |157	. |162	. |166	. |170	. |174	. |178	. |183	. |187	. |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	630
 74	Public Utilities
-92	Regional Stormwater Management Program — Stormwater Management Program Service 
+92	Regional Stormwater Management Program — Stormwater Management Program Service
 110	Agreement — NEORSD (O 294-16) |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	636
 74	Races
 92	Escape on the Lake Run — July 9th — Villa Angela — St. Joseph High School (Ward 08)
@@ -3162,7 +3352,7 @@ Source file: April272016.pdf
 109	(Ward 07) (O 512-16) |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	634
 91	Urban Community School Run — May 7th — Hermes Sports & Events , Inc. (Ward 03) (O 457-16) |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	651
 91	West Side Catholic Center Run — June 4th — Hermes Sports & Events (Ward 03) (O 460-16) |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
-91	Woo Who Urbanobstacle Run, 6th Annual — May 21st — Hermes Sports & Events, Inc. 
+91	Woo Who Urbanobstacle Run, 6th Annual — May 21st — Hermes Sports & Events, Inc.
 109	(Ward 03) (O 458-16) |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	651
 91	YMCA Firecracker Run — July 4th — Hermes Sports & Events, Inc. (Ward 03) (O 459-16) |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
 73	Recognition
@@ -3170,14 +3360,14 @@ Source file: April272016.pdf
 91	Cinco de Mayo (R 533-16). |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
 91	Salvation Army West Park Corps (Community Center) (R 534-16) |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
 73	Resolutions — Miscellaneous
-91	Federal Railroad Administration (FRA) — minimum of two on-board crew members for all 
+91	Federal Railroad Administration (FRA) — minimum of two on-board crew members for all
 109	United States trains (R 515-16) |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	634
 91	Oppose discontinuation of parts of the bus route #81 — Greater Cleveland Regional Transit
 109	Authority (R 397-16) |191	. |195	. |200	. |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	650
 91	Urge U.S. Senate — scheduling a hearing and confirmation vote- Judge Merrick Garland —
 109	fill the vacancy on the Supreme Court (R 441-16) |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	650
 73	Resolutions — Support
-91	Federal Railroad Administration (FRA) — minimum of two on-board crew members for all 
+91	Federal Railroad Administration (FRA) — minimum of two on-board crew members for all
 109	United States trains (R 515-16) |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	634
 73	Safety Department
 91	Unmanned AirCraft Systems (Drones) — enact Sections 490.01, 490.02, 490.03, and 490.99 —
@@ -3186,8 +3376,8 @@ Source file: April272016.pdf
 91	Shaker Blvd. (between East 116th St. to East 121 St.) — add secondary and honorary
 109	designation of Don King Way — City Planning Commission (Ward 06) (O 473-16) |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	637
 73	Ward 01
-91	Amend Ord. No. 159-16 — Strawbridge Memorial Chapel Project — Strawbridge Family Corp 
-109	DBA Strawbridge Memorial Chapel — agreement — Economic Development Department 
+91	Amend Ord. No. 159-16 — Strawbridge Memorial Chapel Project — Strawbridge Family Corp
+109	DBA Strawbridge Memorial Chapel — agreement — Economic Development Department
 109	(Ward 01 CRF) (O 474-16) |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
 73	Ward 02
 91	Dotson, Buddy — Condolence (R 528-16) |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	629
@@ -3222,19 +3412,19 @@ Source file: April272016.pdf
 109	Works Department (O 507-16) |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	632
 91	Augustus, Geraldine Pinkney and Pinkney, James — Congratulations (R 532-16). |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
 73	Ward 05
-91	Green Corps Urban Planning Program — providing educational and workforce training in 
-109	urban agriculture — Cleveland Botanical Garden — agreement — Community 
+91	Green Corps Urban Planning Program — providing educational and workforce training in
+109	urban agriculture — Cleveland Botanical Garden — agreement — Community
 109	Development (Ward 05, 06, 12 CRF) (O 475-16) |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
 91	Nelson, Mary — Condolence (R 529-16) |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	629
 73	Ward 06
-91	Green Corps Urban Planning Program — providing educational and workforce training in 
-109	urban agriculture — Cleveland Botanical Garden — agreement — Community 
+91	Green Corps Urban Planning Program — providing educational and workforce training in
+109	urban agriculture — Cleveland Botanical Garden — agreement — Community
 109	Development (Ward 05, 06, 12 CRF) (O 475-16) |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	652
 91	Shaker Blvd. (between East 116th St. to East 121 St.) — add secondary and honorary
 109	designation of Don King Way — City Planning Commission (O 473-16). |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	637
 73	Ward 07
 91	2016 Asian American & Pacific Islander Heritage Month — Recognition (R 535-16) |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	630
-91	Amend Ord. No. 1451-14 — Euclid Ave., 6815 — The Beauty Shoppe — Empowerment Zone 
+91	Amend Ord. No. 1451-14 — Euclid Ave., 6815 — The Beauty Shoppe — Empowerment Zone
 109	Grant — HUD (O 501-16) |204	. |208	. |212	. |217	. |221	. |225	. |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	631
 91	Superior Ave., 7909 — objection to transfer of ownership — liquor permit (R 510-16) |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	635
 91	United Cerebral Palsy of Greater Cleveland Run — May 1st — Hermes Sports & Events, Inc.
@@ -3266,8 +3456,8 @@ Source file: April272016.pdf
 74	Ward 12
 92	East 71 St., 3924 (1st fl.) — withdraw objection to transfer of ownership — repeal Res.
 110	351-16 — liquor permit (R 511-16) |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	635
-92	Green Corps Urban Planning Program — providing educational and workforce training in 
-110	urban agriculture — Cleveland Botanical Garden — agreement — Community 
+92	Green Corps Urban Planning Program — providing educational and workforce training in
+110	urban agriculture — Cleveland Botanical Garden — agreement — Community
 110	Development (Ward 05,06, 12 CRF) (O 475-16) |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	652
 92	Jennings Rd., 4002 — transfer of ownership application — liquor permit (F 526-16) |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	629
 92	Jennings Rd., 4002 (patio) — objection to transfer of ownership — liquor permit (R 527-16) |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |518	636
@@ -3287,7 +3477,7 @@ Source file: April272016.pdf
 73	Ward 16
 91	Lorain Ave., 12524 — objection to transfer of ownership — liquor permit (R 508-16) |407	. |412	. |416	. |420	. |424	. |428	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	634
 73	Ward 17
-91	Federal Railroad Administration (FRA) — minimum of two on-board crew members for all 
+91	Federal Railroad Administration (FRA) — minimum of two on-board crew members for all
 109	United States trains (R 515-16) |229	. |234	. |238	. |242	. |246	. |251	. |255	. |259	. |263	. |267	. |272	. |276	. |280	. |284	. |289	. |293	. |297	. |301	. |306	. |310	. |314	. |318	. |323	. |327	. |331	. |335	. |340	. |344	. |348	. |352	. |356	. |361	. |365	. |369	. |373	. |378	. |382	. |386	. |390	. |395	. |399	. |403	. |407	. |412	. |416	. |420	. |424	. |429	. |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	634
 91	Saint Joseph Academy Jaguar Jog — May 25th — Hermes Sports & Events, Inc. (O 513-16) |433	. |437	. |441	. |445	. |450	. |454	. |458	. |462	. |467	. |471	. |475	. |479	. |484	. |488	. |492	. |496	. |501	. |505	. |509	. |513	. |517	634
 73	Zoning
