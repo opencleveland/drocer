@@ -24,19 +24,6 @@ public class CRTStripper extends PDFTextStripper {
     private int pageCounter = 0;
     private int textChunksOnLine = 0;
 
-    int sumFirstColStarts = 0;
-    int sumFirstColEnds = 0;
-    int sumSecondColStarts = 0;
-    int sumSecondColEnds = 0;
-    int avgFirstColStarts = 0;
-    int avgFirstColEnds = 0;
-    int avgSecondColStarts = 0;
-    int avgSecondColEnds = 0;
-    int columnLineCounter = 0; //counts lines with at least two columns
-
-
-    int temp_sumFirstColStarts = 0;
-    int temp_sumFirstColEnds = 0;
 
 
     /* 
@@ -61,14 +48,10 @@ public class CRTStripper extends PDFTextStripper {
     content flow, even when pages switch between single- and multi- column 
     layouts mid-flow.
     
-    Overrides 'empty' base-class implementation of the writeString method with
-    the List<TextPosition> parameter. Writes the first x-axis position in the list 
-    (that of the first character in what PDFBox has already assembled into a 
-    line-level String) before calling the basic one-parameter method.
+    Overrides base-class implementation of the writeString method variant that
+    uses a TextPositions param. 
     
-    Added counter variable to indicate how many 'columns' appear in the line. This 
-    is to assist in downstream calculation of the typical per-page column layout.
-     */
+       */
     @Override
     protected void writeString(String text, List<TextPosition> textPositions)
             throws IOException {
@@ -85,19 +68,12 @@ public class CRTStripper extends PDFTextStripper {
 
         double prevX = 0;
 
-        
-
 
         if (textChunksOnLine > 0) {
             output.write("|");
         }
-        
-        checkXPosOrder(textPositions, text);
-        
-        //output.write("["+ endPoint +"]");
-        
-        
-//        output.write(startPoint + "\t" + text);
+
+        adjustXPosOrder(textPositions, text);
 
 
         textChunksOnLine++;
@@ -111,7 +87,7 @@ public class CRTStripper extends PDFTextStripper {
         textChunksOnLine = 0;
     }
 
-    private void checkXPosOrder(List<TextPosition> textPositions, String text) throws
+    private void adjustXPosOrder(List<TextPosition> textPositions, String text) throws
             IOException {
 
 
@@ -135,37 +111,27 @@ public class CRTStripper extends PDFTextStripper {
             if (i + 1 == text.length()) {
                 output.write(text);
             }
-            if (prevXPos  > 0 && currXPos > prevXPos + 10){
-                
-                splitIndex = i;
-                splitPoint = Math.round(currXPos);
-                overRun = text.substring(splitIndex);
-                text = text.substring(0,splitIndex);
-                output.write(text);
-                //writeLineSeparator();
-                output.write("|"+ splitPoint +"\t"+ overRun);
-                inOrder = false;
 
-                
-                
-                
-            }
-            
-            if (currXPos < prevXPos) {
+
+            if (currXPos < prevXPos || (prevXPos > 0 && currXPos > prevXPos + 9)) {
+                //'backwards' x-axis movement (in this set of docs)
+                //is assumed to indicate an 'overrun' or erroneous
+                //concat
+                //long x-coord gaps may also indicate erroneous concat
+                //and if this over-matches 'gaps' within columns
+                //that should come back out in page processing
                 splitIndex = i;
                 splitPoint = Math.round(currXPos);
                 overRun = text.substring(splitIndex);
                 text = text.substring(0, splitIndex);
 
                 output.write(text);
-                //output.write("\n" + splitPoint + "\t" + overRun);
                 writeLineSeparator();
                 inOrder = false;
 
-                checkXPosOrder(textPositions.subList(i, textPositions.size()),
+                adjustXPosOrder(textPositions.subList(i, textPositions.size()),
                         overRun);
 
-                //return overRun;
             }
 
             prevXPos = currXPos;

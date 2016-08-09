@@ -320,13 +320,13 @@ public class IssueProcessor {
                         }
                     }
 
-                    if (xAxisStart < columnOneLine * 2) {
+                    if (xAxisStart <= columnTwoLine * .9) {
                         //use this or fixed addition for expected col w?
                         //do need factor to left too to pickup mal-aligned
                         //units (probably)
                         columnOne.append(text);
                         columnOnePresent = true;
-                    } else if (xAxisStart > columnTwoLine * 0.8
+                    } else if (xAxisStart > columnTwoLine * 0.9
                             && xAxisStart
                             < columnTwoLine * 1.3) {
                         columnTwo.append(text);

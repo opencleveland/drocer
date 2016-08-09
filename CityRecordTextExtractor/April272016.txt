@@ -2,44 +2,107 @@ Source file: April272016.pdf
 
 
 [Start Page 1 ]
-80	T|115	he  City  Record
-100	O|111	fficial Publication of the Council of the City of Cleveland
-209	April the Twenty-Seventh, Two Thousand and Sixteen
+80	T
+115	h
+148	e
+177	 
+194	 
+211	C
+247	i
+264	t
+284	y
+313	 
+330	 
+347	R
+384	e
+413	c
+440	o
+470	rdr
+494	d
+100	O
+111	fficial P
+166	ublication of the C
+294	ouncil of the C
+396	ity of C
+446	leveland
+209	April the Tw
+279	enty-Seventh, Tw
+374	o Thousand and Sixteen
 330	The City Record is available online at
-109	Frank G|164	. Jackson |351	www.clevelandcitycouncil.org
-151	Mayor
-117	Kevin J. Kelley
+109	Frank G
+164	. Jackson |351	www.clevelandcitycouncil.org
+151	M
+161	ayor
+117	K
+127	evin J. K
+187	elley
 114	President of Council |348	Containing |485	PAGE
-116	Patricia J. Britt |337	City Council |509	3
+116	Patricia J. B
+197	ritt |337	City Council |509	3
 95	City Clerk, Clerk of Council |337	The Calendar |503	11
 337	Board of Control |503	11
-90	Ward NameWard Nam|148	e |337	Civil Service |503	16
+90	W
+100	ard Nameard Nam
+148	e |337	Civil Service |503	16
 101	1 |114	Terrell H. Pruitt |337	Board of Zoning Appeals |502	20
 101	2 |114	Zachary Reed |337	Board of Building Standards
-101	3 |114	Kerry M|161	cCormack |343	and Building Appeals |502	22
+101	3 |114	Kerry M
+161	cCorm
+196	ack |343	and Building Appeals |502	22
 101	4 |114	Kenneth L. Johnson |337	Public Notice |502	23
 101	5 |114	Phyllis E. Cleveland |337	Public Hearings |502	23
-101	6 |114	M|124	amie J. Mitchell |337	City of Cleveland Bids |502	23
+101	6 |114	M
+124	am
+140	ie J. M
+180	itchell |337	City of Cleveland Bids |502	23
 101	7 |114	TJ Dow |337	Adopted Resolutions
-101	8 |114	M|124	ichael D. Polensek |344	and Ordinances |502	24
-101	9 |114	Kevin Conwell |337	Com|361	mittee Meetings |502	27
+101	8 |114	M
+124	ichael D. Polensek |344	and Ordinances |502	24
+101	9 |114	Kevin Conwell |337	Com
+361	m
+371	ittee M
+411	eetings |502	27
 95	10 |114	Jeffrey D. Johnson |337	Index |502	27
 95	11 |114	Dona Brady
 95	12 |114	Anthony Brancatelli
 95	13 |114	Kevin J. Kelley
-95	14 |114	Brian J. Cum|189	mins
-95	15 |114	M|124	atthew Zone
+95	14 |114	Brian J. Cum
+189	m
+199	ins
+95	15 |114	M
+124	atthew Zone
 95	16 |114	Brian Kazy
-95	17 |114	M|124	artin J. Keane
+95	17 |114	M
+124	artin J. Keane
 131	Printed on Recycled Paper
 
 
 [Start Page 2 ]
-183	D|194	IRECTORY OF CITY OFFICIALS
+183	D
+194	IR
+210	E
+220	C
+230	T
+240	O
+249	R
+259	Y
+270	 O
+285	F
+295	 C
+311	IT
+327	Y
+337	 O
+353	F
+363	F
+373	IC
+388	IA
+404	LSL
+413	S
 122	CITY COUNCIL – LEGISLATIVE |310	DEPT. OF PUBLIC SAFETY |389	– Michael C. McGrath, Director, Room 230
 129	President of Council – Kevin J. Kelley |313	DIVISIONS:
 310	Animal Control Services – Edward Jamison, Chief Animal Control Officer, 2690 West 7th
-74	Ward    Name |237	Residence |310	Street
+74	Ward    Name 
+237	Residence |310	Street
 83	1 |96	Terrell H. Pruitt |136	..............................................16920 Throckley Avenue |277	44128 |310	Correction – Robert Taskey, Commissioner, Cleveland House of Corrections, 4041 Northfield Rd.
 83	2 |96	Zack Reed |124	..........................................................3734 East 149th Street |277	44120 |310	Emergency Medical Service – Nicole Carlton, Acting Commissioner, 1708 South Pointe Drive
 83	3 |96	Kerry McCormack |143	..............................................1429 West 38th Street |277	44113 |310	Fire – Patrick Kelly, Chief, 1645 Superior Avenue
@@ -88,12 +151,15 @@ Source file: April272016.pdf
 74	Real Estate — James DeRosa, Commissioner |319	M. Saab, P.E., Alternate Members – D. Cox, P. Frank, E. P. O’Brien, Richard Pace, J.F.
 74	OFFICE OF EQUAL OPPORTUNITY |175	– Melissa K. Burrows, Ph.D., Director |319	Sullivan.
 74	DEPT. OF LAW |117	– Barbara A. Langhenry, Director, Gary D. Singletary, Chief Counsel, |310	BOARD OF REVISION OF ASSESSMENTS |432	– Law Director Barbara A. Langhenry,
-74	Richard F. Horvath, Chief Corporate Counsel, Thomas J. Kaiser, Chief Trial Counsel, |319	President; Finance Director Sharon Dumas, Secretary; Council President Kevin J. Kelley.
-74	Victor R. Perez, Chief Assistant Prosecutor, Room 106: Robin Wood, Law Librarian, |310	BOARD OF SIDEWALK APPEALS – Capital Projects Director Matthew Spronz, Law
+74	Richard F. Horvath, Chief Corporate Counsel, Thomas J. Kaiser, Chief Trial Counsel, 
+319	President; Finance Director Sharon Dumas, Secretary; Council President Kevin J. Kelley.
+74	Victor R. Perez, Chief Assistant Prosecutor, Room 106: Robin Wood, Law Librarian, 
+310	BOARD OF SIDEWALK APPEALS – Capital Projects Director Matthew Spronz, Law
 74	Room 100 |319	Director Barbara A. Langhenry; Council Member Kenneth L. Johnson.
 74	DEPT. OF FINANCE – Sharon Dumas, Director, Room 104; |310	BOARD OF REVIEW |370	– (Municipal Income Tax) – Law Director Barbara A. Langhenry;
 74	Natasha Brandt, Manager, Internal Audit |319	Utilities Director Paul Bender; Council President Kevin J. Kelley.
-77	DIVISIONS: |310	CITY PLANNING COMMISSION |401	– Room 501 – Freddy L. Collier, Jr., Director; Anthony
+77	DIVISIONS: 
+310	CITY PLANNING COMMISSION |401	– Room 501 – Freddy L. Collier, Jr., Director; Anthony
 74	Accounts – Lonya Moss Walker, Commissioner, Room 19 |319	J. Coyne, Chairman; David H. Bowen, Lillian Kuri, Lawrence A. Lumpkin, Gloria Jean
 74	Assessments and Licenses – Dedrick Stephens, Commissioner, Room 122 |319	Pinkney, Norman Krumholz, Council Member Phyllis E. Cleveland.
 74	City Treasury – James Hartley, Interim Treasurer, Room 115 |310	FAIR HOUSING BOARD |379	– Charles See, Chair; Lisa Camacho, Daniel Conway, Robert L.
@@ -109,7 +175,8 @@ Source file: April272016.pdf
 74	Utilities Fiscal Control – Frank Badalamenti, Chief Financial Officer |310	POLICE REVIEW BOARD |384	– Thomas Jones, Board Chair Person; Vernon Collier, Vermel
 74	Water – Alex Margevicius, Commissioner |319	Whalen, Nancy Cronin, Elvin Vauss.
 74	Water Pollution Control – Rachid Zoghaib, Commissioner |310	CLEVELAND LANDMARKS COMMISSION |430	– Room 519 – Julie Trott, Chair; Giancarlo
-74	DEPT. OF PORT CONTROL |158	– Fred Szabo, Interim Director, Cleveland Hopkins |319	Calicchia, Vice Chair; Laura M. Bala, Freddy L. Collier, Jr., Allan Dreyer, Council
+74	DEPT. OF PORT CONTROL |158	– Fred Szabo, Interim Director, Cleveland Hopkins 
+319	Calicchia, Vice Chair; Laura M. Bala, Freddy L. Collier, Jr., Allan Dreyer, Council
 74	International Airport, 5300 Riverside Drive |319	Member Terrell H. Pruitt, Robert Strickland, Donald Petit, Secretary.
 76	DIVISIONS: |310	AUDIT COMMITTEE |373	– Yvette M. Ittu, Chairman; Debra Janik, Bracy Lewis, Diane
 73	Burke Lakefront Airport – Khalid Bahhur, Commissioner |319	Downi ng, Donna Sciarappa, Council President Kevin J. Kelley; Law Director Barbara A.
@@ -118,7 +185,8 @@ Source file: April272016.pdf
 76	OFFICES: |358	JUSTICE CENTER – 1200 ONTARIO STREET
 73	Administration – John Laird, Manager |366	JUDGE COURTROOM ASSIGNMENTS
 73	Special Events and Marketing – Tangee Johnson, Manager |310	Judge Courtroom
-76	DIVISIONS: |328	Presiding and Administrative Judge Ronald B. Adrine – Courtroom 15A
+76	DIVISIONS: 
+328	Presiding and Administrative Judge Ronald B. Adrine – Courtroom 15A
 73	Motor Vehicle Maintenance – Jeffrey Brown, Commissioner |328	Judge Pinkey S. Carr – Courtroom 15C
 73	Park Maintenance and Properties – Richard L. Silva, Commissioner |328	Judge Marilyn B. Cassidy – Courtroom 13A
 73	Parking Facilities – Antionette Thompson, Interim Commissioner |328	Judge Michelle Denise Earley – Courtroom 14C
@@ -138,13 +206,42 @@ Source file: April272016.pdf
 
 
 [Start Page 3 ]
-86	T|120	he City Record
+86	T
+120	h
+153	e
+182	 
+211	C
+247	i
+264	t
+284	y
+313	 
+342	R
+378	e
+408	c
+434	o
+465	rdr
+488	d
 134	OFFICIAL |189	PUBLICATION |268	OF |287	THE |315	COUNCIL OF THE CITY |441	OF |461	CLEVELAND
 74	Vol. 103 |229	WEDNESDAY, APRIL 27, 2016 |490	No. 5342
-222	C|236	ITY COUNCIL
+222	C
+236	I
+245	T
+261	Y
+276	 
+286	C
+300	O
+315	U
+330	N
+344	C
+358	ILI
+367	L
 250	MONDAY, APRIL 25, 2016
 101	The City Record |237	The following Committees meet at |385	assessment and recommendations of
-77	Published weekly by the City Clerk, |229	the Call of the Chair: |385	tobacco |426	retail points of sale.
+77	Published weekly by the City Clerk, |229	the Call of the Chair: |385	tobacco 
+426	retail 
+458	points 
+493	of 
+512	sale.
 83	Clerk of Council under authority |385	Received.
 107	of the Charter of the |237	Mayor's Appointments Committee:
 229	Mitchell (CHAIR), Brady, Cleveland,
@@ -152,13 +249,25 @@ Source file: April272016.pdf
 229	Dow, Kelley. |393	From Interim Director Natoya J.
 91	The City Record is available
 385	Walker Minor, Department of Public
-129	online at |237	Operations |293	Committee: Pruitt |385	Health, City of Cleveland. Notice of
+129	online at |237	Operations 
+293	Committee: 
+350	Pruitt |385	Health, City of Cleveland. Notice of
 87	www.clevelandcitycouncil.org |229	(CHAIR), Mitchell, Kelley, Keane, |385	grant acceptance of $10,000 from the
 87	Address all communications to |229	Zone. |385	American Public Health Association,
-81	PATRICIA J. BRITT |385	for the Healthiest Cities & Counties
-237	Rules |282	Committee: Kelley |385	Challenge. Received.
+81	PA
+99	T
+108	R
+118	ICIA
+146	 J. BR
+186	ITTIT
+201	T |385	for the Healthiest Cities & Counties
+237	Rules 
+282	Committee: 
+348	Kelley |385	Challenge. Received.
 93	City Clerk, Clerk of Council
-229	(CHAIR), |287	Cleveland, Keane,
+229	(CHAIR), 
+287	Cleveland, 
+346	Keane,
 121	216 City Hall |229	Polensek, Pruitt. |403	FROM OHIO DIVISION OF
 419	LIQUOR CONTROL
 84	PERMANENT SCHEDULE
@@ -170,16 +279,24 @@ Source file: April272016.pdf
 98	MONDAY — Alternating |256	Monday, April 25, 2016
 238	The meeting of the Council was |393	File No. 520-16.
 82	9:30 A.M. — Health and Human |230	called to order at 7:02 p.m. with the |393	RE: #1245320. Economic Develop-
-73	Services |122	Committee: Cummins |229	President of Council, Kevin J. Kel- |385	ment Transfer Application, D1 D2
+73	Services 
+122	Committee: 
+182	Cummins |229	President of Council, Kevin J. Kel- |385	ment Transfer Application, D1 D2
 73	(CHAIR), Mitchell (VICE-CHAIR), |229	ley, in the Chair. |385	D3 D3A D6. Captain Rafaels LLC,
 73	Brady, Cleveland, Conwell, J. John- |385	1000 East 9th Street (Ward 3).
 73	son, McCormack. |237	Council Members present: Dona |385	Received.
 230	Brady, Anthony Brancatelli, Phyllis
 81	9:30 A.M. — Municipal Services |230	E. Cleveland, Brian J. Cummins, Jef- |393	File No. 521-16.
-73	and Properties Committee: K. John- |230	frey D. Johnson, Kenneth L. John- |393	RE: |424	#15098700005. Economic
+73	and Properties Committee: K. John- |230	frey D. Johnson, Kenneth L. John- |393	RE: 
+424	#15098700005. 
+492	Economic
 73	son (CHAIR), Dow (VICE-CHAIR), |230	son, Brian Kazy, Kevin J. Kelley, |385	Development Transfer Application,
 73	Brancatelli, Cummins, J. Johnson, |230	Martin J. Keane, Kerry McCormack, |385	D5 D6. City Club of Cleveland, 850
-73	Kazy, Reed. |230	Mamie |265	J. Mitchell, Michael D. |385	Euclid Avenue (Ward 3). Received.
+73	Kazy, Reed. |230	Mamie 
+265	J. 
+282	Mitchell, 
+325	Michael 
+365	D. |385	Euclid Avenue (Ward 3). Received.
 229	Polensek, Terrell H. Pruitt, Zack
 128	MONDAY |229	Reed, and Matthew Zone. |393	File No. 522-16.
 237	Also present were: Mayor Frank |393	RE: #3909236. Stock Application,
@@ -188,19 +305,38 @@ Source file: April272016.pdf
 73	CHAIR), Brady, Brancatelli, Con- |229	nell Brown, Chief of Regional Devel-
 73	well, Keane, Mitchell, Pruitt, Zone. |229	opment Edward W. Rybka, Media |393	File No. 523-16.
 229	Relations Director Dan Williams, |393	RE: #5414306. New License Appli-
-126	TUESDAY |230	Chief |263	of Sustainability Jenita |385	cation, D5J. Magnolia Flats LLC,
-230	McGowan, and Directors Langhenry, |385	1167 |412	Front Avenue (Ward 3).
+126	TUESDAY |230	Chief 
+263	of 
+283	Sustainability 
+349	Jenita |385	cation, D5J. Magnolia Flats LLC,
+230	McGowan, and Directors Langhenry, |385	1167 
+412	Front 
+444	Avenue 
+484	(Ward 
+519	3).
 81	9:30 A.M. — Development, Plan- |230	Davis, Szabo, Spronz, McGrath, Cox, |385	Received.
-73	ning and Sustainability Committee: |230	West, |263	Nichols, Griffin, Collier,
-73	Brancatelli |129	(CHAIR), Cleveland |230	Fumich, and Ambroz. |393	File No. 524-16.
-73	(VICE-CHAIR), |148	Cummins, Dow, |393	RE: #2455414. Economic Develop-
+73	ning and Sustainability Committee: |230	West, 
+263	Nichols, 
+305	Griffin, 
+346	Collier,
+73	Brancatelli 
+129	(CHAIR), 
+179	Cleveland |230	Fumich, and Ambroz. |393	File No. 524-16.
+73	(VICE-CHAIR), 
+148	Cummins, 
+198	Dow, |393	RE: #2455414. Economic Develop-
 73	McCormack, Pruitt, Zone. |238	Pursuant to Ordinance No. 2926-76, |385	ment Transfer Application, D5. 811
 230	the opening prayer was offered by |385	Cleveland LLC, 811 Prospect Avenue
 95	TUESDAY — Alternating |229	Father Douglas Brown, Mary Queen |385	(Ward 3). Received.
 229	of Peace Roman Catholic Church,
 81	1:30 P.M. — Utilities Committee: |229	Cleveland, Ohio (Ward 13). Pledge |393	File No. 525-16.
-73	Pruitt |107	(CHAIR), Brady (VICE- |229	of Allegiance. |393	RE: #26001830010. Stock Applica-
-73	CHAIR), |121	Brancatelli, Cummins, |385	tion, C1. F S D Oil Company, Inc.,
+73	Pruitt 
+107	(CHAIR), 
+156	Brady 
+190	(VICE- |229	of Allegiance. |393	RE: #26001830010. Stock Applica-
+73	CHAIR), 
+121	Brancatelli, 
+180	Cummins, |385	tion, C1. F S D Oil Company, Inc.,
 73	Keane, Mitchell, Polensek. |285	MOTION |385	5505 St. Clair Avenue (Ward 10).
 385	Received.
 81	1:30 P.M. — Workforce and Com-
@@ -217,12 +353,18 @@ Source file: April272016.pdf
 88	WEDNESDAY — Alternating |263	COMMUNICATIONS
 397	CONDOLENCE RESOLUTIONS
 81	10:00 A.M. — Safety Committee: |237	File No. 517-16.
-73	Zone (CHAIR), Conwell (VICE- |237	From Interim Director Natoya J. |393	The rules were suspended and the
+73	Zone 
+102	(CHAIR), 
+149	Conwell 
+190	(VICE- |237	From Interim Director Natoya J. |393	The rules were suspended and the
 73	CHAIR), Kazy, Keane, McCormack, |229	Walker Minor, Department of Public |385	following Resolutions were adopted
 73	Mitchell, Polensek. |229	Health, City of Cleveland. Notice of |385	without objection:
 229	grant acceptance of $2,000 from the
 81	10:00 A.M. — Transportation Com- |229	National Association of County and |393	Res. No. 528-16 — Buddy Dotson.
-73	mittee: |112	Keane (CHAIR), Dow |229	City Health Officials and the Center |393	Res. No. 529-16 — Mary Nelson.
+73	mittee: 
+112	Keane 
+150	(CHAIR), 
+200	Dow |229	City Health Officials and the Center |393	Res. No. 529-16 — Mary Nelson.
 73	(VICE-CHAIR), Conwell, J. Johnson, |229	for Disease Control and Prevention’s |393	Res. No. 530-16 — Charles E.
 73	K.Johnson, Kazy, Reed. |229	Office on Smoking and Health, for |385	McBee.
 296	629
@@ -232,15 +374,28 @@ Source file: April272016.pdf
 74	4 |262	The City Record |480	April 27, 2016
 82	Res. No. 531-16 — Terence J. |237	Ord. No. 499-16. |385	to enter into one or more contracts
 73	“Terry” McEntee. |237	By Council Members Brancatelli |385	with various non-profit and for-profit
-229	and |256	Kelley (by departmental |385	agencies and entities for services nec-
+229	and 
+256	Kelley 
+294	(by 
+320	departmental |385	agencies and entities for services nec-
 77	CONGRATULATIONS RESOLUTION |229	request). |385	essary to implement the Demolition
 237	An emergency ordinance appropri- |385	Program and emergency contracts
 81	The rules were suspended and the |229	ating Community Development Block |385	under the Board-up Program.
-73	following Resolution was adopted |229	Grant funds for administrative |393	Section 3. |440	That the Director of
+73	following Resolution was adopted |229	Grant 
+262	funds 
+294	for 
+315	administrative |393	Section 3. |440	That the Director of
 73	without objection: |229	expenses of the Code Enforcement |385	Building and Housing is authorized
 229	Program. |385	to make one or more written require-
-81	Res. No. 532-16 — Geraldine |237	Whereas,the City of Cleveland has |385	ment contracts under the Charter and
-73	Pinkney |118	Augustus and James |229	received a Community Development |385	the Codified Ordinances of Cleveland,
+81	Res. 
+108	No. 
+130	532-16 
+162	— 
+180	Geraldine |237	Whereas,the City of Cleveland has |385	ment contracts under the Charter and
+73	Pinkney 
+118	Augustus 
+167	and 
+193	James |229	received a Community Development |385	the Codified Ordinances of Cleveland,
 73	Pinkney. |229	Block Grant, Year 42 from the United |385	Ohio, 1976, for the requirements for a
 229	States Government; and |385	one or two year period for the items of
 87	RECOGNITION RESOLUTIONS |237	Whereas, this ordinance constitutes |385	labor and materials necessary to
@@ -261,7 +416,10 @@ Source file: April272016.pdf
 229	ulations, in conjunction with the Com- |385	desired by the Commissioner of Pur-
 81	Ord. No. 498-16. |229	munity Development Block Grant |385	chases and Supplies until provision is
 81	By Council Members Brancatelli |229	Program. |385	made for the requirements for the
-73	and |100	Kelley (by departmental |237	Section 2. |278	That prior to expending |385	entire term. The Director of Building
+73	and 
+100	Kelley 
+139	(by 
+164	departmental |237	Section 2. |278	That prior to expending |385	entire term. The Director of Building
 73	request). |229	funds under this ordinance, the Direc- |385	and Housing is authorized to enter
 81	An emergency ordinance appropri- |229	tor of Building and Housing and the |385	into one or more contracts with a term
 73	ating Community Development Block |229	Director of Community Development |385	of two years instead of one year when
@@ -291,7 +449,10 @@ Source file: April272016.pdf
 385	Finance.
 73	opment Block Grant funds in the |237	Ord. No. 500-16. |393	Section 5. |434	That prior to expending
 73	amount of $1,166,908 from Fund No. 14 |237	By Council Members Brancatelli |385	funds under this ordinance, the Direc-
-73	SF 042, RQS 8006, RL 2016-0027, are |229	and |256	Kelley (by departmental |385	tor of Building and Housing and the
+73	SF 042, RQS 8006, RL 2016-0027, are |229	and 
+256	Kelley 
+294	(by 
+320	departmental |385	tor of Building and Housing and the
 73	appropriated for costs of the Depart- |229	request). |385	Director of Community Development
 73	ment of Public Works incurred from |237	An emergency ordinance appropri- |385	shall enter into a written agreement
 73	Fund 19 following the appropriate |229	ating Community Development Block |385	for this program.
@@ -325,7 +486,9 @@ Source file: April272016.pdf
 81	Referred to Directors of Community |229	federal regulations in conjunction |385	Mayor; otherwise it shall take effect
 73	Development, Public Works, Finance, |229	with the Community Development |385	and be in force from and after the ear-
 73	Law; Committees on Development |229	Block Grant Program. |385	liest period allowed by law.
-73	Planning |127	and Sustainability, |237	Section 2. |284	That the Director of |393	Referred to Directors of Community
+73	Planning 
+127	and 
+159	Sustainability, |237	Section 2. |284	That the Director of |393	Referred to Directors of Community
 73	Finance. |229	Building and Housing is authorized |385	Development, Building and Housing,
 296	630
 
@@ -338,12 +501,19 @@ Source file: April272016.pdf
 229	ing on this legislation, is approved in |385	Sustainability, Finance.
 81	Ord. No. 501-16. |229	all respects and shall not be changed
 81	By Council Members Brancatelli |229	without additional legislative author- |393	Ord. No. 503-16.
-73	and |100	Kelley (by departmental |229	ity. |393	By Council Members Keane and
+73	and 
+100	Kelley 
+139	(by 
+164	departmental |229	ity. |393	By Council Members Keane and
 73	request). |237	Section 2. |281	That the existing title |385	Kelley (by departmental request).
 81	An emergency ordinance to amend |229	and Sections 1 and 2 of Ordinance No. |393	An emergency ordinance authoriz-
 73	the title and Sections 1 and 2 of Ordi- |229	1451-14, passed December 8, 2014, as |385	ing the Director of Port Control to
 73	nance No. 1451-14, passed December 8, |229	amended by Ordinance No. 1444-15, |385	employ one or more professional con-
-73	2014, as amended by Ordinance No. |229	passed December 7, 2015, are |385	sultants to provide financial consult-
+73	2014, as amended by Ordinance No. |229	passed 
+266	December 
+316	7, 
+332	2015, 
+361	are |385	sultants to provide financial consult-
 73	1444-15, passed December 7, 2015, |229	repealed. |385	ing services, for a period of one year
 73	relating to an EDI Empowerment |237	Section 3. |281	That this ordinance is |385	with three one-year options to renew,
 73	Zone Grant to The Beauty Shoppe. |229	declared to be an emergency measure |385	the second of which requires addition-
@@ -362,7 +532,10 @@ Source file: April272016.pdf
 73	Council authorized the Director of |385	menting the regularly employed staff
 73	Economic Development to enter into a |237	Ord. No. 502-16. |385	of the several departments of the City
 73	Vacant Property Initiative Loan with |237	By Council Members Brancatelli |385	of Cleveland in order to provide pro-
-73	the Beauty Shop, LLC, or its designee, |229	and |256	Kelley (by departmental |385	fessional services necessary to pro-
+73	the Beauty Shop, LLC, or its designee, |229	and 
+256	Kelley 
+294	(by 
+320	departmental |385	fessional services necessary to pro-
 73	to partially finance the acquisition |229	request). |385	vide financial consulting services for
 73	and/or tenant build-out of the Beauty |237	An emergency ordinance authoriz- |385	a period of one year, with three one-
 73	Shoppe to be located at 6815 Euclid |229	ing the Director of Economic Devel- |385	year options to renew, for the various
@@ -425,7 +598,10 @@ Source file: April272016.pdf
 73	papers and execute all documents |229	declared to be an emergency measure |385	declared to be an emergency measure
 73	necessary to receive the funds under |229	and, provided it receives the affirma- |385	and, provided it receives the affirma-
 73	the grant; and that the funds are |229	tive vote of two-thirds of all the mem- |385	tive vote of two-thirds of all the mem-
-73	appropriated |136	for the purposes |229	bers elected to Council, it shall take |385	bers elected to Council, it shall take
+73	appropriated 
+136	for 
+159	the 
+182	purposes |229	bers elected to Council, it shall take |385	bers elected to Council, it shall take
 73	described in the summary for the |229	effect and be in force immediately |385	effect and be in force immediately
 73	grant contained in the file described |229	upon its passage and approval by the |385	upon its passage and approval by the
 73	below. |229	Mayor; otherwise it shall take effect |385	Mayor; otherwise it shall take effect
@@ -455,11 +631,16 @@ Source file: April272016.pdf
 73	exceed three years. |229	lic right-of-way of Brownell Court by |385	struction. That Permittee shall obtain
 81	Whereas, the City of Cleveland |229	installing, using, and maintaining a |385	all other required permits, including
 73	requires certain property located at |229	pedestrian bridge. |385	but not limited to Building Permits,
-73	1449 West 117th Street for the public |237	Whereas, this ordinance constitutes |385	before |444	installing the
+73	1449 West 117th Street for the public |237	Whereas, this ordinance constitutes |385	before 
+444	installing 
+517	the
 73	purpose of providing office space for |229	an emergency measure providing for |385	encroachment(s).
 73	the Adult Probation Department of |229	the usual daily operation of a munici- |393	Section 4. |438	That the permit shall
 73	the Cleveland Municipal Court to fur- |229	pal department; now, therefore, |385	reserve to the City reasonable right of
-73	nish probationary services to the |237	Be it ordained by the Council of the |385	entry |422	to the encroachment
+73	nish probationary services to the |237	Be it ordained by the Council of the |385	entry 
+422	to 
+446	the 
+474	encroachment
 73	neighborhood; and |229	City of Cleveland: |385	location(s).
 81	Whereas, Montlack Realty, or their |237	Section 1. That the Director of Capi- |393	Section 5. |437	That this ordinance is
 73	designees, has proposed to lease the |229	tal Projects is authorized to issue a |385	declared to be an emergency measure
@@ -479,14 +660,18 @@ Source file: April272016.pdf
 229	pedestrian bridge at the following |385	liest period allowed by law.
 73	and as an exception to the provisions
 73	of Chapters 181 and 183 of the Codi- |229	location: |393	Referred to Directors of Capital
-73	fied Ordinances of Cleveland, Ohio, |237	Bridge |283	encroachment over |385	Projects, City Planning Commission,
+73	fied Ordinances of Cleveland, Ohio, |237	Bridge 
+283	encroachment 
+356	over |385	Projects, City Planning Commission,
 73	1976, the Director of Finance, on |229	Brownell Court |385	Finance, Law; Committees on Munici-
 73	behalf of the Cleveland Municipal |237	Situated in the City of Cleveland, |385	pal Services and Properties, Develop-
 73	Court, beginning May 1, 2016, is autho- |229	County of Cuyahoga, and State of |385	ment Planning and Sustainability.
 73	rized to lease from Montlack Realty, |229	Ohio, and known as being part of
 73	or their designees, certain property |229	Original 2 Acre Lot Numbers 150 and |393	Ord. No. 507-16
 73	more fully described as follows: |229	151, and being the proposed easement |393	By Council Members K. Johnson
-73	Building 1, Space A, at 1449 West |229	hereinafter |285	described extending |385	and Reed.
+73	Building 1, Space A, at 1449 West |229	hereinafter 
+285	described 
+333	extending |385	and Reed.
 73	117th Street, consisting of approxi- |229	between planes at elevation 753.50 |393	An emergency ordinance to desig-
 73	mately 4,251 square feet, for office |229	feet and 770.50 feet above mean sea |385	nate fire station #36 located at 3552
 73	space for the Adult Probation Depart- |229	level as determined by the Cleveland |385	East 131st Street as the George L.
@@ -506,7 +691,11 @@ Source file: April272016.pdf
 73	with the public purpose of providing |229	06 seconds East along the northerly |385	sary action to affect said designation
 73	office space for the Adult Probation |229	line of Brownell Court, 23.09 feet to a |385	and to post the proper signs at the fire
 73	Department of the Cleveland Munici- |229	point and the principal place of begin- |385	station.
-73	pal Court to furnish probationary ser- |229	ning |258	of the easement herein |393	Section 2. |437	That this ordinance is
+73	pal Court to furnish probationary ser- |229	ning 
+258	of 
+277	the 
+300	easement 
+348	herein |393	Section 2. |437	That this ordinance is
 73	vices to the neighborhood. |229	described; |385	hereby declared to be an emergency
 81	Section 5. |122	That the lease may pro- |237	Thence North 67 degrees 35 minutes |385	measure and, provided it receives the
 73	vide for the City’s payment of appro- |229	06 seconds East along the northerly |385	affirmative vote of two-thirds of all
@@ -542,7 +731,11 @@ Source file: April272016.pdf
 74	under Chapter 161.04(b)(9) of the |237	Section 1. That Cleveland City |385	affirmative vote of two-thirds of all
 74	Codified Ordinances of Cleveland; |229	Council rescinds the designation of |385	the members elected to Council, it
 74	and |229	Oliver Hazard Perry School, located |385	shall take effect and be in force imme-
-82	Whereas, this ordinance constitutes |229	at 18400 Schenely Avenue, permanent |385	diately upon its adoption and
+82	Whereas, this ordinance constitutes |229	at 18400 Schenely Avenue, permanent |385	diately 
+423	upon 
+452	its 
+471	adoption 
+515	and
 73	an emergency measure providing for |229	parcel number 114-04-001, as a Cleve- |385	approval by the Mayor; otherwise it
 73	the usual daily operation of a munici- |229	land Landmark. |385	shall take effect and be in force from
 73	pal department; now, therefore, |237	Section 2. |281	That this ordinance is |385	and after the earliest period allowed
@@ -585,7 +778,8 @@ Source file: April272016.pdf
 73	ple. |229	the United Cerebral Palsy of Greater |393	Motion to suspend rules, Charter,
 81	Whereas, the safe operation of |229	Cleveland Run on May 1, 2016, start: |385	and statutory provisions and place
 73	freight and passenger trains are vital |229	UCP Office at 10011 Euclid Avenue; |385	on final passage.
-73	to commerce in the United States; and |229	Euclid east to East 105th Street; East |393	The rules were suspended. Yeas
+73	to commerce in the United States; and 
+229	Euclid east to East 105th Street; East |393	The rules were suspended. Yeas
 81	Whereas, the Federal Railroad |229	105th north to Martin Luther King, Jr. |385	15. Nays 0. Read second time. Read
 73	Administration (FRA) has published |229	Boulevard; Martin Luther King, Jr. |385	third time in full. Passed. Yeas
 73	a notice of proposed rulemaking
@@ -617,7 +811,9 @@ Source file: April272016.pdf
 73	proposed rule minimal; and |229	hereby declared to be an emergency |385	the Escape on the Lake, on July 9,
 81	Whereas, the FRA agrees that, |229	measure and, provided it receives the |385	2016, start: Villa Angela-St. Joseph
 73	while advancements in automated |229	affirmative vote of two-thirds of all |385	High School at 18491 Lakeshore
-73	technology such as Positive Train |229	the members elected to Council, it |385	Boulevard; Lakeshore Boulevard
+73	technology such as Positive Train |229	the members elected to Council, it |385	Boulevard; 
+438	Lakeshore 
+489	Boulevard
 73	Control systems improve railroad |229	shall take effect and be in force imme- |385	west to Schenely Avenue; Schenely
 73	safety, they are not a substitute for a |229	diately upon its passage and approval |385	north to Dorchester Drive; Dorchester
 73	train’s on-board crew members; and |229	by the Mayor; otherwise, it shall take |385	west to Lakefront State Park; run
@@ -635,7 +831,9 @@ Source file: April272016.pdf
 385	Cleveland, Ohio, 1976. Streets may be
 73	the City of Cleveland:
 237	Ord. No. 513-16.
-81	Section 1. |385	closed as determined by the Chief ofThat this Council hereby
+81	Section 1. 
+385	closed as determined by the Chief of
+121	That this Council hereby
 237	By Council Member Keane.
 73	supports the Federal Railroad Admin- |385	Police and safety forces as may be
 73	istration’s proposed ruling requiring |237	An emergency ordinance consent- |385	necessary in order to protect the par-
@@ -649,22 +847,29 @@ Source file: April272016.pdf
 73	Assistant State Legislative Director, |229	pal department; now, therefore, |393	Section 2. |437	That this ordinance is
 73	Ohio State Legislative Board SMART- |237	Be it ordained by the Council of the |385	hereby declared to be an emergency
 73	TD for filing with the Federal Rail- |229	City of Cleveland: |385	measure and, provided it receives the
-73	road Administration. |237	Section 1. That pursuant to Section |385	affirmative vote of two-thirds of all
+73	road Administration. 
+237	Section 1. That pursuant to Section |385	affirmative vote of two-thirds of all
 81	Section 3. |125	That this resolution is |229	411.06 of the Codified Ordinances of |385	the members elected to Council, it
 73	hereby declared to be an emergency |229	Cleveland, Ohio 1976, this Council con- |385	shall take effect and be in force imme-
 73	measure and, provided it receives the |229	sents to and approves the holding of |385	diately upon its passage and approval
 73	affirmative vote of two-thirds of all |229	the Saint Joseph Academy Jaguar |385	by the Mayor; otherwise, it shall take
 73	the members elected to Council, it |229	Jog, on May 25, 2016, start: Saint |385	effect and be in force from and after
 73	shall take effect and be in force imme- |229	Joseph Academy at 3470 Rocky River |385	the earliest period allowed by law.
-73	diately upon its adoption and |229	Drive; Rocky River Drive north to |393	Motion to suspend rules, Charter,
+73	diately 
+111	upon 
+139	its 
+159	adoption 
+203	and |229	Drive; Rocky River Drive north to |393	Motion to suspend rules, Charter,
 73	approval by the Mayor; otherwise it |229	Riverside Drive; into City of Lake- |385	and statutory provisions and place
 73	shall take effect and be in force from |229	wood; Rocky River Drive south to St. |385	on final passage.
 73	and after the earliest period allowed |229	Joseph Academy—Finish Line; pro- |393	The rules were suspended. Yeas
-73	by law. |229	vided that the applicant sponsor shall
+73	by law. 
+229	vided that the applicant sponsor shall
 81	Referred to Committee on Finance. |385	15. Nays 0. Read second time. Read
 229	meet all the requirements of Section |385	third time in full. Passed. Yeas
 81	FIRST READING EMERGENCY |229	411.05 of the Codified Ordinances of |385	15. Nays 0.
-84	ORDINANCES READ IN FULL |229	Cleveland, Ohio, 1976. Streets may be
+84	ORDINANCES READ IN FULL 
+229	Cleveland, Ohio, 1976. Streets may be
 118	AND PASSED |229	closed as determined by the Chief of |395	FIRST READING EMERGENCY
 229	Police and safety forces as may be |399	RESOLUTION READ IN FULL
 81	Ord. No. 512-16. |229	necessary in order to protect the par- |426	AND ADOPTED
@@ -694,7 +899,10 @@ Source file: April272016.pdf
 73	44111 Permit Number 5546767; and |229	drawing objection to the transfer of |385	County or City; and
 81	Whereas, the granting of this appli- |229	ownership of a C1, C2 and D6 Liquor |393	Whereas, the place for which the
 73	cation for a liquor permit to this high |229	Permit at 15521 St. Clair Avenue and |385	permit is sought is so arranged or con-
-73	crime area, which is already saturat- |229	repealing Resolution No. 131-16 |385	structed that law enforcement offi-
+73	crime area, which is already saturat- |229	repealing 
+277	Resolution 
+329	No. 
+351	131-16 |385	structed that law enforcement offi-
 73	ed with other liquor outlets, is con- |229	objecting to said permit. |385	cers or agents of the Division of
 73	trary to the best interests of the entire |237	Whereas, this Council objected to a |385	Liquor Control are prevented reason-
 73	community; and |229	transfer of ownership of a C1, C2 and |385	able access to the establishment; and
@@ -717,7 +925,9 @@ Source file: April272016.pdf
 73	Liquor Control are prevented reason- |237	Be it resolved by the Council of |385	must be received by the Superinten-
 73	able access to the establishment; and |385	dent of Liquor Control within 30 days
 229	the City of Cleveland:
-81	Whereas, the place for which the |237	Section 1. |385	of notification; now, therefore,That objection to the
+81	Whereas, the place for which the |237	Section 1. 
+385	of notification; now, therefore,
+282	That objection to the
 73	permit is sought is so located with |393	Be it resolved by the Council of
 229	transfer of ownership of a C1, C2 and
 73	respect to the neighborhood that it |385	the City of Cleveland:
@@ -741,7 +951,11 @@ Source file: April272016.pdf
 73	must be received by the Superinten- |229	affirmative vote of two-thirds of all |385	Revised Code of Ohio.
 73	dent of Liquor Control within 30 days |229	the members elected to Council, it |393	Section 2. That the Clerk of Council
 73	of notification; now, therefore, |229	shall take effect and be in force imme- |385	be and she is hereby directed to trans-
-81	Be it resolved by the Council of |229	diately upon its adoption and |385	mit two certified copies of this resolu-
+81	Be it resolved by the Council of |229	diately 
+267	upon 
+295	its 
+315	adoption 
+359	and |385	mit two certified copies of this resolu-
 73	the City of Cleveland: |229	approval by the Mayor; otherwise, it |385	tion, together with two copies of a let-
 81	Section 1. That Council does hereby |229	shall take effect and be in force from |385	ter of objection and two copies of a
 73	record its objection to the transfer of |229	and after the earliest period allowed |385	letter requesting that the hearing be
@@ -752,7 +966,11 @@ Source file: April272016.pdf
 73	Cleveland, Ohio 44111, Permit Number |237	The rules were suspended. Yeas |385	affirmative vote of two-thirds of all
 73	4786168 to A Marmel Pub, LLC, DBA M |229	15. Nays 0. Read second time. Read |385	the members elected to Council, it
 73	& MS Saloon, 12524 Lorain Avenue, 1st |229	third time in full. Adopted. Yeas |385	shall take effect and be in force imme-
-73	floor and basement, Cleveland, Ohio |229	15. Nays 0. |385	diately upon its adoption and
+73	floor and basement, Cleveland, Ohio |229	15. Nays 0. |385	diately 
+423	upon 
+451	its 
+471	adoption 
+515	and
 73	44111 Permit Number 5546767; and |385	approval by the Mayor; otherwise, it
 73	requests the Superintendent of Liquor |237	Res. No. 510-16. |385	shall take effect and be in force from
 73	Control to set a hearing for said appli- |237	By Council Member Dow. |385	and after the earliest period allowed
@@ -772,7 +990,11 @@ Source file: April272016.pdf
 73	affirmative vote of two-thirds of all |229	44103, Permanent Number 5376707; |385	ownership of a D2, D2X, D3 and D3A
 73	the members elected to Council, it |229	and |385	Liquor Permit at 3924 East 71st Street,
 73	shall take effect and be in force imme- |237	Whereas, the granting of this appli- |385	1st floor, and repealing Resolution
-73	diately upon its adoption and |229	cation for a liquor permit to this high |385	No. 351-16 objecting to said permit.
+73	diately 
+111	upon 
+139	its 
+159	adoption 
+203	and |229	cation for a liquor permit to this high |385	No. 351-16 objecting to said permit.
 73	approval by the Mayor; otherwise, it |229	crime area, which is already saturat- |393	Whereas, this Council objected to a
 73	shall take effect and be in force from |229	ed with other liquor outlets, is con- |385	transfer of ownership of a D2, D2X, D3
 73	and after the earliest period allowed |229	trary to the best interests of the entire |385	and D3A Liquor Permit to Theresa A.
@@ -817,7 +1039,11 @@ Source file: April272016.pdf
 237	Section 2. That the Clerk of Council
 73	shall take effect and be in force imme- |385	tracts for the making of such
 229	be and she is hereby directed to trans-
-73	diately upon its adoption and |385	improvement; authorizing the pur-
+73	diately 
+111	upon 
+140	its 
+159	adoption 
+203	and |385	improvement; authorizing the pur-
 229	mit two certified copies of this resolu-
 73	approval by the Mayor; otherwise, it |385	chase by standard purchase and
 229	tion, together with two copies of a let-
@@ -840,7 +1066,11 @@ Source file: April272016.pdf
 73	third time in full. Adopted. Yeas
 229	shall take effect and be in force imme- |385	Utilities in connection with the public
 73	15. Nays 0.
-229	diately upon its adoption and |385	improvement.
+229	diately 
+267	upon 
+295	its 
+315	adoption 
+359	and |385	improvement.
 229	approval by the Mayor; otherwise, it |393	Approved by Directors of Public
 81	Res. No. 527-16.
 229	shall take effect and be in force from |385	Utilities, City Planning Commission,
@@ -885,8 +1115,13 @@ Source file: April272016.pdf
 81	Whereas, the place for which the |237	Approved by Directors of Port Con- |385	Council before final passage.
 73	permit is sought has not conformed to |229	trol, Finance, Law; Passage recom-
 73	the building, safety or health require- |229	mended by Passage recommended by |393	Ord. No. 330-16.
-73	ments of the governing body of this |229	Committees |289	on Transportation, |393	By Council Members Zone, Keane
-73	County or City; and |229	Finance. |385	and |412	Kelley (by departmental
+73	ments of the governing body of this |229	Committees 
+289	on 
+311	Transportation, |393	By Council Members Zone, Keane
+73	County or City; and |229	Finance. |385	and 
+412	Kelley 
+450	(by 
+476	departmental
 81	Whereas, the place for which the |237	The rules were suspended. Yeas |385	request).
 73	permit is sought is so arranged or con- |229	15. Nays 0. Read second time. Read |393	An emergency ordinance to supple-
 73	structed that law enforcement offi- |229	third time in full. Passed. Yeas 15. |385	ment the Codified Ordinances of
@@ -897,7 +1132,10 @@ Source file: April272016.pdf
 73	permit is sought is so located with |229	Kelley (by departmental request). |393	Approved by Directors of Public
 73	respect to the neighborhood that it |237	An emergency ordinance authoriz- |385	Safety, Port Control, Finance, Law;
 73	substantially interferes with public |229	ing the Director of Port Control to |385	Passage recommended by Commit-
-73	decency, sobriety, peace or good |229	exercise the third option to renew |385	tees on Safety, Transportation,
+73	decency, sobriety, peace or good |229	exercise the third option to renew |385	tees 
+411	on 
+430	Safety, 
+467	Transportation,
 73	order; and |229	Contract No. PS 2012-76 with Airports |385	Finance.
 296	636
 
@@ -917,7 +1155,9 @@ Source file: April272016.pdf
 81	An emergency ordinance authoriz- |229	interim agreement. |385	ry presiding.
 73	ing the purchase by one or more |237	Approved by Directors of Finance, |393	Present: Director Langhenry, Act-
 73	requirement contracts of fencing and |229	Law; Passage recommended by Com- |385	ing Directors Shaw, Scott, Interim
-73	gates, including labor and materials |229	mittee on Finance. |385	Director |433	Walker-Minor, Acting
+73	gates, including labor and materials |229	mittee on Finance. |385	Director 
+433	Walker-Minor, 
+503	Acting
 73	for repair and installation, if neces- |237	The rules were suspended. Yeas |386	Directors Hennessy, Greene, Interim
 73	sary, for the various divisions of the |229	15. Nays 0. Read second time. Read |385	Director West, Directors Fumich,
 73	Department of Port Control, for a peri- |229	third time in full. Passed. Yeas 15. |386	and O’Leary.
@@ -930,7 +1170,10 @@ Source file: April272016.pdf
 73	mended by Committees on Trans- |229	East 116th Street and East 121st |394	Michael Curry, Acting Director,
 73	portation, Finance. |229	Street with a secondary and honorary |386	Office of Equal Opportunity.
 81	The rules were suspended. Yeas |229	designation of “Don King Way”. |394	On motions, the following resolu-
-73	15. Nays 0. Read second time. Read |237	Approved |288	by Committee on |386	tions were adopted, except as may
+73	15. Nays 0. Read second time. Read |237	Approved 
+288	by 
+309	Committee 
+364	on |386	tions were adopted, except as may
 73	third time in full. Passed. Yeas 15. |229	Finance. |386	be otherwise noted.
 73	Nays 0. |237	The rules were suspended. Yeas
 229	15. Nays 0. Read second time. Read |394	Resolution No. 167-16.
@@ -968,7 +1211,10 @@ Source file: April272016.pdf
 73	Kelley (by departmental request). |229	Nays 0. |385	Directors Shaw, Scott, Interim Direc-
 81	An emergency ordinance determin- |385	tor Walker-Minor, Acting Directors
 73	ing the method of making the public |285	MOTION |385	Hennessy, Greene, Interim Director
-73	improvement of implementing a sus- |385	West, |421	Directors Fumich, and
+73	improvement of implementing a sus- |385	West, 
+421	Directors 
+470	Fumich, 
+515	and
 73	tainable roofing system and related |237	On the motion of Council Member |385	O’Leary.
 73	projects; authorizing the Director of |229	Mitchell, the absences of Council |393	Nays: None.
 73	Port Control to enter into one or more |229	Members Kevin Conwell and TJ |393	Absent: Mayor Jackson, Directors
@@ -983,7 +1229,11 @@ Source file: April272016.pdf
 73	third time in full. Passed. Yeas 15. |229	Chamber. |386	tion Company, Inc. under Contract
 73	Nays 0. |386	No. RC2016-38 for labor, materials
 386	and installation necessary to repair
-81	Ord. No. 411-16. |386	or |405	replace water mains, fire
+81	Ord. No. 411-16. |386	or 
+405	replace 
+445	water 
+479	mains, 
+516	fire
 386	hydrants, valves, service connec-
 81	By Council Member Kelley (by
 386	tions and appurtenances - Area C,
@@ -1008,7 +1258,10 @@ Source file: April272016.pdf
 81	Ord. No. 463-16. |238	The following measures will be on |385	Directors Shaw, Scott, Interim Direc-
 81	By Council Member Kelley (by |229	their final passage at the next meet- |385	tor Walker-Minor, Acting Directors
 73	departmental request). |229	ing: |385	Hennessy, Greene, Interim Director
-81	An emergency ordinance authoriz- |386	West, |421	Directors Fumich, and
+81	An emergency ordinance authoriz- |386	West, 
+421	Directors 
+470	Fumich, 
+515	and
 73	ing the Director of Finance to enter |294	NONE |386	O’Leary.
 296	637
 
@@ -1018,36 +1271,67 @@ Source file: April272016.pdf
 82	Nays: None. |229	15, for the Division of Cleveland |385	shall furnish all the City’s require-
 81	Absent: Mayor Jackson, Directors |229	Public Power, Department of Public |385	ments for such goods and/or ser-
 73	Dumas, Davis, and Nichols. |229	Utilities, under the authority of |385	vices, whether more or less than the
-229	Ordinance No. 362-16, passed April |385	estimated quantity, as may be
+229	Ordinance No. 362-16, passed April |385	estimated 
+433	quantity, 
+477	as 
+495	may 
+521	be
 81	Resolution No. 169-16. |229	11, 2016 are rejected. |385	ordered under delivery orders sepa-
 81	By Director Davis. |237	Yeas: Director Langhenry, Acting |385	rately certified to the contract.
 81	Be it resolved by the Board of |229	Directors Shaw, Scott, Interim Direc- |393	Be it further resolved by the
 73	Control of the City of Cleveland that |229	tor Walker-Minor, Acting Directors |385	Board of Control of the City of
 73	the employment of the following |229	Hennessy, Greene, Interim Director |385	Cleveland that the employment of
-73	subcontractor by Terrace Construc- |229	West, |265	Directors Fumich, and |385	the following subcontractors by
+73	subcontractor by Terrace Construc- |229	West, 
+265	Directors 
+314	Fumich, 
+359	and |385	the 
+407	following 
+454	subcontractors 
+520	by
 73	tion Company, Inc. under Contract |229	O’Leary. |385	Cook Paving & Construction Co.,
 73	No. RC2016-39 for labor, materials |237	Nays: None. |385	Inc. for the above-mentioned service
 73	and installation necessary to repair |237	Absent: Mayor Jackson, Directors |385	is approved:
-73	or |93	replace water mains, fire |229	Dumas, Davis, and Nichols.
+73	or 
+93	replace 
+133	water 
+167	mains, 
+204	fire |229	Dumas, Davis, and Nichols.
 73	hydrants, valves, service connec- |385	SUBCONTRACTOR |502	WORK
 73	tions and appurtenances - Area A, |237	Resolution No. 172-16. |470	PERCENTAGE
 73	including underground enclosures |237	By Director Davis.
 73	and tree lawn restoration, for the |237	Be it resolved by the Board of |386	RAR Contracting Co.,
 73	Division of Water, Department of |229	Control of the City of Cleveland that |394	Inc. (CSB) |489	$599,500.00
 73	Public Utilities, is approved: |229	the bid of OW Investors, LLC dba |503	20.00%
-229	MARS Company for the public
+229	MARS 
+263	Company 
+308	for 
+328	the 
+350	public
 73	Subcontractor |196	Work |229	improvement of rehabilitating the |394	Yeas: Director Langhenry, Acting
 174	Percentage |229	water meter testing laboratory at |385	Directors Shaw, Scott, Interim Direc-
 229	the Harvard Yard Facility, includ- |385	tor Walker-Minor, Acting Directors
-74	Corlett Trenching and |229	ing a $54,538.75 contingency |385	Hennessy, Greene, Interim Director
-82	Plumbing (CSB) |181	$75,000.00 |229	allowance, item 1 - Option C, for the |386	West, |421	Directors Fumich, and
+74	Corlett Trenching and 
+229	ing 
+257	a 
+276	$54,538.75 
+326	contingency |385	Hennessy, Greene, Interim Director
+82	Plumbing (CSB) |181	$75,000.00 |229	allowance, item 1 - Option C, for the |386	West, 
+421	Directors 
+470	Fumich, 
+515	and
 196	1.15% |229	Division of Water, Department of |386	O’Leary.
 229	Public Utilities, received on Decem- |394	Nays: None.
 81	Yeas: Director Langhenry, Acting |229	ber 9, 2015, under the authority of |394	Absent: Mayor Jackson, Directors
 73	Directors Shaw, Scott, Interim Direc- |229	Ordinance No. 611-15, passed June 1, |386	Dumas, Davis, and Nichols.
 73	tor Walker-Minor, Acting Directors |229	2015, upon a gross price for the
-73	Hennessy, Greene, Interim Director |229	improvement |291	in the aggregate |394	Resolution No. 174-16.
-73	West, |109	Directors Fumich, and |229	amount of $599,926.23, is affirmed |394	By Director Davis.
+73	Hennessy, Greene, Interim Director |229	improvement 
+291	in 
+310	the 
+334	aggregate |394	Resolution No. 174-16.
+73	West, 
+109	Directors 
+158	Fumich, 
+203	and |229	amount of $599,926.23, is affirmed |394	By Director Davis.
 73	O’Leary. |229	and approved as the lowest respon- |394	Be it resolved by the Board of
 81	Nays: None. |229	sible bid, and the Director of Public |386	Control of the City of Cleveland that
 81	Absent: Mayor Jackson, Directors |229	Utilities is authorized to enter into |386	the bid of RA Strauss Electric Sup-
@@ -1068,9 +1352,16 @@ Source file: April272016.pdf
 73	contract or the day following expi- |229	public interest. |385	estimated quantity would amount to
 73	ration of the currently effective con- |237	Yeas: Director Langhenry, Acting |385	$198,891.00 is affirmed and approved
 73	tract for the goods or services, |229	Directors Shaw, Scott, Interim Direc- |385	as the lowest and best bid, and the
-73	received on November 25, 2015 under |229	tor Walker-Minor, Acting Directors |385	Director |428	of Public Utilities is
+73	received on November 25, 2015 under |229	tor Walker-Minor, Acting Directors |385	Director 
+428	of 
+446	Public 
+481	Utilities 
+523	is
 73	the authority of Ordinance No. 362- |229	Hennessy, Greene, Interim Director |385	requested to enter into a require-
-73	16, passed April 11, 2016, which on |229	West, |265	Directors Fumich, and |385	ment contract for the required goods
+73	16, passed April 11, 2016, which on |229	West, 
+265	Directors 
+314	Fumich, 
+359	and |385	ment contract for the required goods
 73	the basis of the estimated quantity |229	O’Leary. |385	and/or services necessary for the
 73	would amount to $234,100.00, is |237	Nays: None. |385	specified items.
 73	affirmed and approved as the low- |237	Absent: Mayor Jackson, Directors |393	The requirement contract shall
@@ -1078,30 +1369,51 @@ Source file: April272016.pdf
 73	Public Utilities is requested to enter |385	shall furnish all the City’s require-
 73	into a requirement contract for the |237	Resolution No. 173-16. |385	ments for such goods and/or ser-
 73	required goods and/or services nec- |237	By Director Davis. |385	vices, whether more or less than the
-73	essary for the specified items. |237	Be it resolved by the Board of |385	estimated quantity, as may be
+73	essary for the specified items. |237	Be it resolved by the Board of |385	estimated 
+433	quantity, 
+477	as 
+495	may 
+521	be
 81	The requirement contract shall |229	Control of the City of Cleveland that |385	ordered under delivery orders sepa-
 73	further provide that the Contractor |229	the bid of Cook Paving & Construc- |385	rately certified to the contract.
 73	shall furnish all the City’s require- |229	tion Co., Inc. for an estimated quan- |393	Yeas: Director Langhenry, Acting
 73	ments for such goods and/or ser- |229	tity of labor and materials neces- |385	Directors Shaw, Scott, Interim Direc-
 73	vices, whether more or less than the |229	sary for the restoration of pavement, |385	tor Walker-Minor, Acting Directors
-73	estimated quantity, as may be |229	all items, for the Divisions of Water, |385	Hennessy, Greene, Interim Director
-73	ordered under delivery orders sepa- |229	Cleveland Public Power and Water |385	West, |421	Directors Fumich, and
+73	estimated 
+121	quantity, 
+165	as 
+183	may 
+209	be |229	all items, for the Divisions of Water, |385	Hennessy, Greene, Interim Director
+73	ordered under delivery orders sepa- |229	Cleveland Public Power and Water |385	West, 
+421	Directors 
+470	Fumich, 
+515	and
 73	rately certified to the contract. |229	Pollution Control, Department of |385	O’Leary.
 81	Yeas: Director Langhenry, Acting |229	Public Utilities, for a period of two |393	Nays: None.
 73	Directors Shaw, Scott, Interim Direc- |229	years starting upon the later of the |393	Absent: Mayor Jackson, Directors
 73	tor Walker-Minor, Acting Directors |229	execution of a contract or the day |385	Dumas, Davis, and Nichols.
 73	Hennessy, Greene, Interim Director |229	following expiration of the current-
-73	West, |109	Directors Fumich, and |229	ly effective contract for the goods |393	Resolution No. 175-16.
+73	West, 
+109	Directors 
+158	Fumich, 
+203	and |229	ly effective contract for the goods |393	Resolution No. 175-16.
 73	O’Leary. |229	or services, received on February 19, |393	By Interim Director Szabo.
 81	Nays: None. |229	2016 under the authority of Ordi- |393	Whereas, under the authority of
 81	Absent: Mayor Jackson, Directors |229	nance No. 607-15, passed June 1, 2015, |385	Ordinance No. 744-13, as amended by
 73	Dumas, Davis, and Nichols. |229	which on the basis of the estimated |385	Ordinance No. 585-15, passed by the
-229	quantity |279	would amount to |385	Council of the City of Cleveland on
+229	quantity 
+279	would 
+320	amount 
+366	to |385	Council of the City of Cleveland on
 81	Resolution No. 171-16. |229	$2,996,807.66 (0%), is affirmed and |385	July 10, 2013, and June 8, 2015,
 81	By Director Davis. |229	approved as the lowest and best bid, |385	respectively, the City through its
 81	Be it resolved, by the Board of |229	and the Director of Public Utilities |385	Director of Port Control, entered
 73	Control of the City of Cleveland that |229	is requested to enter into a require- |385	into Contract No. PS2015*014 with
-73	all bids received on November 25, |229	ment contract for the goods and/or |385	Glaus, Pyle, Schomer, Burns &
+73	all bids received on November 25, |229	ment contract for the goods and/or |385	Glaus, 
+419	Pyle, 
+448	Schomer, 
+491	Burns &Burns 
+523	&
 73	2015 for the purchase of an esti- |229	services, necessary for the specified |385	DeHaven, Inc., d/b/a GPD Group
 73	mated quantity of Labor and Mate- |229	items. |386	(“Consultant”), to provide profes-
 73	rials to Paint Poles and Other Street |237	The requirement contract shall |385	sional services necessary to design
@@ -1111,20 +1423,40 @@ Source file: April272016.pdf
 
 [Start Page 13 ]
 74	April 27, 2016 |262	The City Record |521	13
-74	water line improvements at Cleve- |229	the |253	Property necessary to be |385	West, |421	Directors Fumich, and
+74	water line improvements at Cleve- |229	the 
+253	Property 
+297	necessary 
+346	to 
+365	be |385	West, 
+421	Directors 
+470	Fumich, 
+515	and
 73	land Hopkins International Airport, |229	acquired for right of way purposes |385	O’Leary.
 73	for the various divisions of the |229	for the Road Project is determined |393	Nays: None.
 73	Department of Port Control; and |229	not to exceed fair market value. |393	Absent: Mayor Jackson, Directors
 81	Whereas, the City has determined |237	Be it further resolved that the |385	Dumas, Davis, and Nichols.
-73	the need for the additional design |229	Director of Capital Projects is
+73	the need for the additional design |229	Director 
+271	of 
+288	Capital 
+325	Projects 
+367	is
 73	component of replacing sanitary and |229	requested to execute all documents |393	Resolution No. 179-16.
 73	other utility lines along the Prima- |229	necessary to acquire the Property. |393	By Director Cox.
 73	ry Road and the relining of the local |237	Yeas: Director Langhenry, Acting |393	Whereas, under the authority of
-73	sanitary |116	sewers between Pump |229	Directors Shaw, Scott, Interim Direc- |385	Ordinance No. 154-16, passed April 4,
+73	sanitary 
+116	sewers 
+153	between 
+195	Pump |229	Directors Shaw, Scott, Interim Direc- |385	Ordinance No. 154-16, passed April 4,
 73	House 1 and 2 and to the terminal, |229	tor Walker-Minor, Acting Directors |385	2016 by the Council of the City of
 73	along with associated laterals feed- |229	Hennessy, Greene, Interim Director |385	Cleveland, the Commissioner of Pur-
-73	ing the hangar buildings along the |229	West, |265	Directors Fumich, and |385	chases and Supplies is authorized to
-73	road, including components and |229	O’Leary. |385	convey a non-exclusive, perpetual
+73	ing the hangar buildings along the |229	West, 
+265	Directors 
+314	Fumich, 
+359	and |385	chases and Supplies is authorized to
+73	road, 
+102	including 
+148	components 
+203	and |229	O’Leary. |385	convey a non-exclusive, perpetual
 73	parts housed within the pump hous- |237	Nays: None. |385	easement interest, found and deter-
 73	es; and |237	Absent: Mayor Jackson, Directors |385	mined to be not needed for public
 81	Whereas, the Consultant has pro- |229	Dumas, Davis, and Nichols. |385	use and more fully described in the
@@ -1136,13 +1468,21 @@ Source file: April272016.pdf
 73	Control of the City of Cleveland that |229	of the City of Cleveland authorizes |385	um of Natural History, at a price
 73	the Director of Port Control is |229	the Commissioner of Purchases and |385	determined to be fair market value
 73	authorized to enter into a First Mod- |229	Supplies, by and at the direction of |385	by the Board of Control; now, there-
-73	ification |117	to City Contract No. |229	the City Board of Control, to convey |385	fore,
+73	ification 
+117	to 
+135	City 
+162	Contract 
+206	No. |229	the City Board of Control, to convey |385	fore,
 73	PS2015*014 between the City of |229	a portion of City-owned property |393	Be it resolved by the Board of
 73	Cleveland and Glaus, Pyle, Schomer, |229	known Parcels “C” and “D” located |385	Control of the City of Cleveland that
 73	Burns & DeHaven, Inc., d/b/a GPD |229	on Permanent Parcel No. 004-26-010 |385	the price of $80,000.00 for a non-
 73	Group for the additional design ser- |229	near the intersection of Columbus |385	exclusive, perpetual easement inter-
 73	vices. The amount to be paid for all |229	Road and Carter Road, more fully |385	est, not needed for public use, in cer-
-73	services shall be increased by |229	described in the ordinance and |385	tain City-owned property located
+73	services 
+114	shall 
+143	be 
+162	increased 
+208	by |229	described in the ordinance and |385	tain City-owned property located
 73	$93,580.00 from $239,705.00 to a total |229	found and determined to be not |385	along Wade Oval Drive and more
 73	amount not to exceed $333,285.00. |229	needed for public use, to Lake Link, |385	fully described in the ordinance, to
 81	Be it further resolved that the |229	LLC for redevelopment, at a price |385	be conveyed to The East Ohio Gas
@@ -1170,12 +1510,20 @@ Source file: April272016.pdf
 73	other terms of Resolution No. 504-14 |229	the ordinance, to Lake Link, LLC at |385	Directors Shaw, Scott, Interim Direc-
 73	not expressly amended by this reso- |229	the price of the appraised value of |385	tor Walker-Minor, Acting Directors
 73	lution shall remain unchanged and |229	$43,908. |385	Hennessy, Greene, Interim Director
-73	in full force and effect. |237	Be it further resolved that the |385	West, |421	Directors Fumich, and
+73	in full force and effect. |237	Be it further resolved that the |385	West, 
+421	Directors 
+470	Fumich, 
+515	and
 81	Yeas: Director Langhenry, Acting |229	Mayor is requested to execute and |385	O’Leary.
 73	Directors Shaw, Scott, Interim Direc- |229	deliver the official deed of the City |393	Nays: None.
 73	tor Walker-Minor, Acting Directors |229	of Cleveland conveying the afore- |393	Absent: Mayor Jackson, Directors
-73	Hennessy, Greene, Interim Director |229	mentioned |283	City-owned property, |385	Dumas, Davis, and Nichols.
-73	West, |109	Directors Fumich, and |229	which deed shall contain such addi-
+73	Hennessy, Greene, Interim Director |229	mentioned 
+283	City-owned 
+339	property, |385	Dumas, Davis, and Nichols.
+73	West, 
+109	Directors 
+158	Fumich, 
+203	and |229	which deed shall contain such addi-
 73	O’Leary. |229	tional terms and provisions as the |393	Resolution No. 180-16.
 81	Nays: None. |229	Director of Law shall determine is |393	By Director Cox.
 81	Absent: Mayor Jackson, Directors |229	necessary to protect the City’s inter- |393	Whereas, by Resolution No. 250-12,
@@ -1184,14 +1532,19 @@ Source file: April272016.pdf
 81	Resolution No. 176-16. |229	Directors Shaw, Scott, Interim Direc- |385	Codified Ordinances of Cleveland,
 81	By Director Spronz. |229	tor Walker-Minor, Acting Directors |385	Ohio 1976, this Board of Control
 81	Whereas, Ordinance No. 1383-13, |229	Hennessy, Greene, Interim Director |385	established the rental rates for the
-73	passed November 25, 2013 by the |229	West, |265	Directors Fumich, and |385	Cleveland Public Auditorium, its
+73	passed November 25, 2013 by the |229	West, 
+265	Directors 
+314	Fumich, 
+359	and |385	Cleveland Public Auditorium, its
 73	Council of the City of Cleveland, |229	O’Leary. |385	various rooms, halls, and portions
 73	authorizes the Commissioner of Pur- |237	Nays: None. |385	thereof; and
 73	chases and Supplies to acquire for |237	Absent: Mayor Jackson, Directors |393	Whereas, the City Of Cleveland
 73	right-of-way purposes real property |229	Dumas, Davis, and Nichols. |385	will sponsor Senior Day 2016 to be
 73	necessary for the Scranton/Carter |385	held on May 27, 2016; and
 73	Road Rehabilitation portion of the |237	Resolution No. 178-16. |393	Whereas, Senior Day 2016 is open
-73	Improvement |140	(“Road Project”) |237	By Director Spronz. |385	to the public free of charge; now,
+73	Improvement 
+140	(“Road 
+182	Project”) |237	By Director Spronz. |385	to the public free of charge; now,
 73	described in the ordinance, at a |237	Whereas, under Section 516.04 of |385	therefore,
 73	price not to exceed fair market |229	the Codified Ordinances of Cleve- |393	Be it resolved by the Board of
 73	value as determined by the City |229	land, Ohio, 1976 (“C.O.”), the Board |385	Control of the City of Cleveland,
@@ -1216,10 +1569,16 @@ Source file: April272016.pdf
 [Start Page 14 ]
 74	14 |262	The City Record |480	April 27, 2016
 74	Hennessy, Greene, Interim Director |229	under Section 183.021 of the Codified |393	Yeas: Director Langhenry, Acting
-74	West, |109	Directors Fumich, and |229	Ordinances of Cleveland, Ohio, 1976, |385	Directors Shaw, Scott, Interim Direc-
+74	West, 
+109	Directors 
+158	Fumich, 
+203	and |229	Ordinances of Cleveland, Ohio, 1976, |385	Directors Shaw, Scott, Interim Direc-
 73	O’Leary. |229	the Commissioner of Purchases and |385	tor Walker-Minor, Acting Directors
 81	Nays: None. |229	Supplies is authorized, when direct- |385	Hennessy, Greene, Interim Director
-81	Absent: Mayor Jackson, Directors |229	ed by the Director of Community |385	West, |421	Directors Fumich, and
+81	Absent: Mayor Jackson, Directors |229	ed by the Director of Community |385	West, 
+421	Directors 
+470	Fumich, 
+515	and
 73	Dumas, Davis, and Nichols. |229	Development, and the Mayor is |385	O’Leary.
 229	requested, to execute an Official |393	Nays: None.
 81	Resolution No. 181-16. |229	Deed for and on behalf of the City |393	Absent: Mayor Jackson, Directors
@@ -1230,7 +1589,9 @@ Source file: April272016.pdf
 73	Tire Systems, LLC dba Goodyear |229	to the Land Reutilization Program |393	Whereas, under Ordinance No.
 73	Commercial Tire & Service Centers, |229	in such manner as best carries out |385	2076-76 passed October 25, 1976, the
 73	for an estimated quantity of various |229	the intent of the program. |385	City is conducting a Land Reuti-
-73	specialty tires, tubes, etc., and relat- |237	Be it further resolved that the con- |385	lization |431	Program (“Program”)
+73	specialty tires, tubes, etc., and relat- |237	Be it further resolved that the con- |385	lization 
+431	Program 
+481	(“Program”)
 73	ed equipment, parts and labor, all |229	sideration for the sale of the parcel |385	according to the provisions of Chap-
 73	items, for the Division of Motor |229	shall be $200.00, which amount s |385	ter 5722 of the Ohio Revised Code;
 73	Vehicle Maintenance, Department of |229	determined to be not less than the |385	and
@@ -1240,7 +1601,10 @@ Source file: April272016.pdf
 73	February 19, 2016 under the author- |229	Directors Shaw, Scott, Interim Direc- |385	Road and Mandalay Avenue; and
 73	ity of Section No. 131.64 of the Cod- |229	tor Walker-Minor, Acting Directors |393	Whereas, Section 183.021 of the
 73	ified Ordinances of Cleveland, Ohio, |229	Hennessy, Greene, Interim Director |385	Codified Ordinances of Cleveland,
-73	1976, which on the basis of the esti- |229	West, |265	Directors Fumich, and |385	Ohio, 1976 authorizes the Commis-
+73	1976, which on the basis of the esti- |229	West, 
+265	Directors 
+314	Fumich, 
+359	and |385	Ohio, 1976 authorizes the Commis-
 73	mated quantity would amount to |229	O’Leary. |385	sioner of Purchases and Supplies,
 73	$355,472.00 (Net), is affirmed and |237	Nays: None. |385	when directed by the Director of
 237	Absent: Mayor Jackson, Directors
@@ -1258,8 +1622,14 @@ Source file: April272016.pdf
 73	further provide that the Contractor |385	develop the parcel for yard expan-
 229	City is conducting a Land Reuti-
 73	shall furnish the City’s requirements |385	sion; and
-229	lization |275	Program (“Program”)
-73	for the goods and/or services, |229	according to the provisions of Chap- |393	Whereas, the following conditions
+229	lization 
+275	Program 
+325	(“Program”)
+73	for 
+94	the 
+116	goods 
+148	and/or 
+184	services, |229	according to the provisions of Chap- |393	Whereas, the following conditions
 73	whether more or less than the esti- |229	ter 5722 of the Ohio Revised Code; |385	exist:
 73	mated quantity, as may be ordered |229	and |393	1. The member of Council from
 73	under delivery orders separately cer- |237	Whereas, under the Program, the |385	Ward 8 has either approved the pro-
@@ -1268,7 +1638,10 @@ Source file: April272016.pdf
 73	Directors Shaw, Scott, Interim Direc- |229	dale Avenue; and |385	sale within 45 days of notification
 73	tor Walker-Minor, Acting Directors |237	Whereas, Section 183.021 of the |385	of it;
 73	Hennessy, Greene, Interim Director |229	Codified Ordinances of Cleveland, |393	2. The proposed purchaser of the
-73	West, |109	Directors Fumich, and |229	Ohio, 1976 authorizes the Commis- |385	parcel is neither tax delinquent nor
+73	West, 
+109	Directors 
+158	Fumich, 
+203	and |229	Ohio, 1976 authorizes the Commis- |385	parcel is neither tax delinquent nor
 73	O’Leary. |229	sioner of Purchases and Supplies, |385	in violation of the Building and
 81	Nays: None. |229	when directed by the Director of |385	Housing Code; now, therefore,
 81	Absent: Mayor Jackson, Directors |229	Community Development and when |393	Be it resolved by the Board of
@@ -1279,14 +1652,22 @@ Source file: April272016.pdf
 81	Whereas, under Ordinance No. |229	posed to the City to purchase and |385	Supplies is authorized, when direct-
 73	2076-76 passed October 25, 1976, the |229	develop the parcel for yard expan- |385	ed by the Director of Community
 73	City is conducting a Land Reuti- |229	sion; and |385	Development, and the Mayor is
-73	lization |119	Program (“Program”) |237	Whereas; the following conditions |385	requested, to execute an Official
+73	lization 
+119	Program 
+169	(“Program”) |237	Whereas; the following conditions |385	requested, to execute an Official
 73	according to the provisions of Chap- |229	exist: |385	Deed for and on behalf of the City
 73	ter 5722 of the Ohio Revised Code; |237	1. The member of Council from |385	of Cleveland, with Willie Pittman
 73	and |229	Ward 12 has either approved the |385	III for the sale and development of
-81	Whereas, under the Program, the |229	proposed sale or has not disap- |385	Permanent Parcel No. 115-29-087
+81	Whereas, under the Program, the |229	proposed sale or has not disap- |385	Permanent 
+437	Parcel 
+472	No. 
+493	115-29-087
 73	City has acquired Permanent Parcel |229	proved or requested a hold of the |385	located on Stevenson Road and Man-
 73	No. 110-24-016 located at 12332 Say- |229	proposed sale within 45 days of noti- |385	dalay Avenue, according to the Land
-73	well Avenue; and |229	fication of it; |385	Reutilization |448	Program in such
+73	well Avenue; and |229	fication of it; |385	Reutilization 
+448	Program 
+493	in 
+512	such
 81	Whereas, Section 183.021 of the |237	2. The proposed purchaser of the |385	maimer as best carries out the
 73	Codified Ordinances of Cleveland, |229	parcel is neither tax delinquent nor |385	intent of the program.
 73	Ohio, 1976 authorizes the Commis- |229	in violation of the Building and |393	Be it further resolved that the con-
@@ -1299,7 +1680,10 @@ Source file: April272016.pdf
 81	Whereas, Gardner Taylor has pro- |229	Supplies is authorized, when direct- |385	Directors Shaw, Scott, Interim Direc-
 73	posed to the City to purchase and |229	ed by the Director of Community |385	tor Walker-Minor, Acting Directors
 73	develop the parcel for yard expan- |229	Development, and the Mayor is |385	Hennessy, Greene, Interim Director
-73	sion; and |229	requested, to execute an Official |385	West, |421	Directors Fumich, and
+73	sion; and |229	requested, to execute an Official |385	West, 
+421	Directors 
+470	Fumich, 
+515	and
 81	Whereas, the following conditions |229	Deed for and on behalf of the City |385	O’Leary.
 73	exist: |229	of Cleveland, with Maria Zavala for |393	Nays: None.
 81	1. The member of Council from |229	the sale and development of Perma- |393	Absent: Mayor Jackson, Directors
@@ -1310,7 +1694,9 @@ Source file: April272016.pdf
 73	of it; |229	the intent of the program. |393	Whereas, under Ordinance No.
 81	2. The proposed purchaser of the |237	Be it further resolved that the con- |385	2076-76 passed October 25, 1976, the
 73	parcel is neither tax delinquent nor |229	sideration for the sale of the parcel |385	City is conducting a Land Reuti-
-73	in violation of the Building and |229	shall be $200.00, which amount is |385	lization |431	Program (“Program”)
+73	in violation of the Building and |229	shall be $200.00, which amount is |385	lization 
+431	Program 
+481	(“Program”)
 73	Housing Code; now, therefore, |229	determined to be not less than the |385	according to the provisions of Chap-
 81	Be it resolved by the Board of |229	fair market value of the parcel for |385	ter 5722 of the Ohio Revised Code;
 73	Control of the City of Cleveland that |229	uses according to the Program. |385	and
@@ -1341,7 +1727,10 @@ Source file: April272016.pdf
 81	1. The member of Council from |229	Deed for and on behalf of the City |385	Directors Shaw, Scott, Interim Direc-
 73	Ward 8 has either approved the pro- |229	of Cleveland, with Phyllis Duncan |385	tor Walker-Minor, Acting Directors
 73	posed sale or has not disapproved or |229	for the sale and development of the |385	Hennessy, Greene, Interim Director
-73	requested a hold of the proposed |229	northern portion of Permanent Par- |385	West, |421	Directors Fumich, and
+73	requested a hold of the proposed |229	northern portion of Permanent Par- |385	West, 
+421	Directors 
+470	Fumich, 
+515	and
 73	sale within 45 days of notification |229	cel No. 106-12-018 located on East |385	O’Leary.
 73	of it; |229	65th Street, according to the Land |393	Nays: None.
 81	2. The proposed purchasers of the |229	Reutilization Program in such man- |393	Absent: Mayor Jackson, Directors
@@ -1365,7 +1754,10 @@ Source file: April272016.pdf
 73	Development, and the Mayor is |385	the Division of Police, Department
 229	Hennessy, Greene, Interim Director
 73	requested, to execute an Official |385	of Public Safety, for a period of six
-229	West, |265	Directors Fumich, and
+229	West, 
+265	Directors 
+314	Fumich, 
+359	and
 73	Deed for and on behalf of the City |385	(6) months beginning on the date of
 229	O’Leary.
 73	of Cleveland, with Daphne Wilson |385	execution of a contract for the
@@ -1386,7 +1778,9 @@ Source file: April272016.pdf
 81	Be it further resolved that the con- |385	and the Director of Public Safety is
 229	City is conducting a Land Reuti-
 73	sideration for the sale of the parcel |385	requested to enter into a require-
-229	lization |275	Program (“Program”)
+229	lization 
+275	Program 
+325	(“Program”)
 73	shall be $200.00, which amount is |385	ment contract for the specified
 229	according to the provisions of Chap-
 73	determined to be not less than the |385	goods and/or services.
@@ -1400,24 +1794,37 @@ Source file: April272016.pdf
 73	Directors Shaw, Scott, Interim Direc- |385	ments for such goods and/or ser-
 229	Nos., 126-31-062, 126-31-063, 126-31-064,
 73	tor Walker-Minor, Acting Directors |385	vices, whether more or less than the
-229	126-31-065, 126-31-066, 126-31-067, 126- |385	estimated quantity, as may be
+229	126-31-065, 126-31-066, 126-31-067, 126- |385	estimated 
+432	quantity, 
+477	as 
+495	may 
+521	be
 73	Hennessy, Greene, Interim Director |229	31-068 and 126-31-071 located on East |385	ordered under delivery orders sepa-
-73	West, |109	Directors Fumich, and |229	83rd Street; and |385	rately certified to the contract.
+73	West, 
+109	Directors 
+158	Fumich, 
+203	and |229	83rd Street; and |385	rately certified to the contract.
 73	O’Leary. |237	Whereas, Section 183.021 of the |393	Yeas: Director Langhenry, Acting
 81	Nays: None. |229	Codified Ordinances of Cleveland, |385	Directors Shaw, Scott, Interim Direc-
 81	Absent: Mayor Jackson, Directors |229	Ohio, 1976 authorizes the Commis- |385	tor Walker-Minor, Acting Directors
 73	Dumas, Davis, and Nichols. |229	sioner of Purchases and Supplies, |385	Hennessy, Greene, Interim Director
-229	when directed by the Director of |385	West, |421	Directors Fumich, and
+229	when directed by the Director of |385	West, 
+421	Directors 
+470	Fumich, 
+515	and
 81	Resolution No. 186-16. |229	Community Development and when |385	O’Leary.
 81	By Director Rush. |229	certain specified conditions have |393	Nays: None.
 81	Whereas, under Ordinance No. |229	been met, to sell Land Reutilization |393	Absent: Mayor Jackson, Directors
 73	2076-76 passed October 25, 1976, the |229	Program parcels; and |385	Dumas, Davis, and Nichols.
 73	City is conducting a Land Reuti- |237	Whereas, Rid-All Foundation Inc.
-73	lization |119	Program (“Program”) |229	has proposed to the City to purchase |393	Resolution No. 189-16.
+73	lization 
+119	Program 
+169	(“Program”) |229	has proposed to the City to purchase |393	Resolution No. 189-16.
 73	according to the provisions of Chap- |229	and develop the parcels for facility |393	By Director McGrath.
 73	ter 5722 of the Ohio Revised Code; |229	expansion; and |393	Be it resolved, by the Board of
 73	and |237	Whereas, the following conditions |385	Control of the City of Cleveland that
-81	Whereas, under the Program, the |229	exist: |385	the bid of Standard Law Enforce-
+81	Whereas, under the Program, the |229	exist: 
+385	the bid of Standard Law Enforce-
 73	City has acquired Permanent Parcel |237	1. The member of Council from |385	ment Supply Co. for an estimated
 73	No. 106-12-018 located on East 65th |229	Ward 5 has either approved the pro- |385	quantity of ballistic helmets, vests
 73	Street; and |229	posed sale or has not disapproved or |385	and accessories, Items 2.01-2.05, for
@@ -1442,21 +1849,33 @@ Source file: April272016.pdf
 [Start Page 16 ]
 74	16 |262	The City Record |480	April 27, 2016
 82	The requirement contract shall |229	PROOF OF CITY RESIDENCY |385	line or at the Office of the Civil Ser-
-73	further provide that the Contractor |229	Any applicant wishing to receive |385	vice Commission, 601 Lakeside
+73	further provide that the Contractor |229	Any applicant wishing to receive |385	vice 
+411	Commission, 
+471	601 
+493	Lakeside
 73	shall furnish all the City’s require- |229	residency credit will be asked to |385	Avenue, Room 119. No other form will
 73	ments for such goods and/or ser- |229	show that he/she is a bona fide res- |385	be accepted. APPLICATIONS WILL
 73	vices, whether more or less than the |229	ident of the City of Cleveland. The |385	BE AVAILABLE FOR PICK-UP IN
-73	estimated quantity, as may be |229	following list gives examples of |385	THE CIVIL SERVICE OFFICE TO
+73	estimated 
+121	quantity, 
+165	as 
+183	may 
+209	be |229	following list gives examples of |385	THE CIVIL SERVICE OFFICE TO
 73	ordered under delivery orders sepa- |229	items that an applicant may present |385	APPLY TO TAKE THE CIVIL SER-
 73	rately certified to the contract. |229	at the time of filing. The Civil Ser- |385	VICE EXAMINATION – APPLICA-
 81	Yeas: Director Langhenry, Acting |229	vice Commission requires a mini- |385	TIONS WILL BE AVAILABLE FROM
 73	Directors Shaw, Scott, Interim Direc- |229	mum of three items from at least |385	8:30 A.M. ON FRIDAY, APRIL 29, 2016
 73	tor Walker-Minor, Acting Directors |229	three different |300	categories, where |385	UNTIL 4:30 P.M. ON THURSDAY,
 73	Hennessy, Greene, Interim Director |229	applicable. All items must be cur- |385	MAY 19, 2016.
-73	West, |109	Directors Fumich, and |229	rent. Please note that presentation
+73	West, 
+109	Directors 
+158	Fumich, 
+203	and |229	rent. Please note that presentation
 73	O’Leary. |229	of these items does not constitute |385	NOTE: |416	APPLICATIONS WILL NOT
 81	Nays: None. |229	conclusive proof of bona fide resi- |386	BE ACCEPTED AFTER 4:30 P.M. ON
-81	Absent: Mayor Jackson, Directors |229	dency. |273	Acceptable categories |386	THURSDAY, MAY 19, 2016.
+81	Absent: Mayor Jackson, Directors |229	dency. 
+273	Acceptable 
+334	categories |386	THURSDAY, MAY 19, 2016.
 73	Dumas, Davis, and Nichols. |229	include, but are not limited to, the
 229	following: |386	THE CIVIL SERVICE COMMIS-
 128	JEFFREY B. MARKS, |386	SION’S POLICY IS THAT NO LATE
@@ -1464,7 +1883,10 @@ Source file: April272016.pdf
 229	Lease - from independent party.
 229	Must include copy of cancelled |395	EXAMINATION INFORMATION
 82	CIVIL SERVICE NOTICES |229	check or money order receipts for
-121	____________ |229	previous |275	rent and/or security |386	TYPE: |415	WRITTEN TEST Applicants
+121	____________ |229	previous 
+275	rent 
+304	and/or 
+342	security |386	TYPE: |415	WRITTEN TEST Applicants
 105	General Information |229	deposit, and fully executed; other- |385	will be notified of the time, date, and
 81	Application blanks and informa-
 229	wise, it us unacceptable. |385	place of the exam by U.S. Mail.
@@ -1494,7 +1916,9 @@ Source file: April272016.pdf
 73	the examination as soon as the com- |386	and regulations; responds to inci-
 73	mission has graded the papers. |229	Loans and credit card statements |386	dents including stray animals, animal
 73	There-after, eligible lists will be |229	(Within last three months). |385	bites, noise complaints, and animal
-73	established which will consist of |385	cruelty. |434	Chases, apprehends,
+73	established which will consist of |385	cruelty. 
+434	Chases, 
+482	apprehends,
 229	Rental contracts (e.g.: furniture,
 73	the names of those candidates who
 229	tools, car, etc.). |385	impounds, and transports domestic,
@@ -1522,8 +1946,11 @@ Source file: April272016.pdf
 74	Announ- |104	Exam |131	Classi- |194	Exam |245	APPROVED C.S.C. MINUTES |385	animal owners and animal handlers
 74	cement |104	Method |131	fication |197	Type |253	ANNOUNCEMENT NO. 33 |385	who have violated ordinances and
 80	No. |385	regulations related to animal control.
-230	ANIMAL |278	CONTROL OFFICER |385	Prepares incident reports and com-
-81	33 |100	EE |132	Animal Control |230	(OPEN) |385	pletes all forms pertaining to animal
+230	ANIMAL 
+278	CONTROL 
+334	OFFICER |385	Prepares incident reports and com-
+81	33 |100	EE |132	Animal Control 
+230	(OPEN) |385	pletes all forms pertaining to animal
 132	Officer |197	Open |385	control activities. Assists Cleveland
 230	Public notice is hereby given by the |385	Safety Forces and other city depart-
 81	17A |100	EE |132	Electrical Safety |230	Civil Service Commission of Cleve- |385	ments by handling animals that are
@@ -1535,11 +1962,14 @@ Source file: April272016.pdf
 81	35 |100	WR |132	Messenger |197	Open |230	The prevailing salary for this posi- |385	matters relating to animal control.
 229	tion as established by Ordinance of |385	Performs kennel duties as required
 81	36 |100	WR/PORT |229	the Council of the City of Cleveland is |385	by handling, feeding, cleaning, and
-132	Recreation |229	$17.64 - $18.36 per Hour. |385	providing care to animals; maintains
-132	Instructor II |385	the sanitary conditions of kennels.
+132	Recreation 
+229	$17.64 - $18.36 per Hour. |385	providing care to animals; maintains
+132	Instructor II 
+385	the sanitary conditions of kennels.
 132	(Arts) |197	Open |247	FILING OF APPLICATION |385	Handles domestic, exotic, and wild
 385	animals that are stray, injured, and
-81	37 |100	EE |132	Redevelopment |230	Application must be made on the reg- |385	diseased. Performs euthanasia proce-
+81	37 |100	EE |132	Redevelopment 
+230	Application must be made on the reg- |385	diseased. Performs euthanasia proce-
 132	Advisor |197	Open |230	ular application form available on- |385	dures on injured, sick, dangerous, or
 296	642
 
@@ -1569,7 +1999,10 @@ Source file: April272016.pdf
 73	MINIMUM QUALIFICATIONS FOR |230	Application must be made on the reg- |386	years’ experience as a building
 74	ENTRANCE TO THIS EXAMINA- |230	ular application form available on- |386	department ESI trainee; (3) Must
 74	TION AS ESTABLISHED BY THE |230	line or at the Office of the Civil Ser- |385	have four years’ experience as a
-74	CIVIL SERVICE COMMISSION OF |229	vice Commission, 601 Lakeside |385	building department ESI trainee; (4)
+74	CIVIL SERVICE COMMISSION OF |229	vice 
+255	Commission, 
+315	601 
+337	Lakeside |385	building department ESI trainee; (4)
 74	THE CITY OF CLEVELAND ARE AS |229	Avenue, Room 119. No other form will |385	Must be a Journeyman Electrician or
 74	FOLLOWS: |229	be accepted. APPLICATIONS WILL |386	equivalent for six years; or (5) Must
 229	BE AVAILABLE FOR PICK-UP IN |385	be an Electrical Engineer registered
@@ -1596,7 +2029,8 @@ Source file: April272016.pdf
 73	NOTE: |102	Minimum qualifications must |230	FILING WILL BE ALLOWED. |385	NOTE: |414	Minimum qualifications must
 73	be met as of the last day of the filing |385	be met as of the last day of the filing
 73	period unless otherwise stated. |239	EXAMINATION INFORMATION |386	period unless otherwise stated.
-73	NOTE: |101	Applicants will be required to |230	TYPE: |266	EXPERIENCE EVALUA- |385	NOTE: |413	Applicants will be required to
+73	NOTE: |101	Applicants will be required to |230	TYPE: |266	EXPERIENCE 
+335	EVALUA- |385	NOTE: |413	Applicants will be required to
 73	pay a $10.00 (TEN DOLLARS) filing |229	TION: Applicant’s grade will be deter- |385	pay a $10.00 (TEN DOLLARS) filing
 73	fee payable in cash or money order |230	mined based on Education and Expe- |385	fee payable in cash or money order
 73	(no checks). Applicants who are cur- |229	rience found in Resume. Each appli- |386	(no checks). Applicants who are cur-
@@ -1669,7 +2103,10 @@ Source file: April272016.pdf
 73	SERVICE OFFICE TO APPLY TO |229	improvements to the appropriate City |386	Application must be made on the reg-
 73	TAKE THE CIVIL SERVICE EXAM- |229	authority. Serves 24 hour on-call dur- |386	ular application form available on-
 73	INATION – APPLICATIONS WILL |229	ing storms and emergencies. Per- |386	line or at the Office of the Civil Ser-
-73	BE AVAILABLE FROM 8:30 A.M. ON, |229	forms other job-related duties as |385	vice Commission, 601 Lakeside
+73	BE AVAILABLE FROM 8:30 A.M. ON, |229	forms other job-related duties as |385	vice 
+411	Commission, 
+471	601 
+493	Lakeside
 73	FRIDAY, APRIL 29, 2016 UNTIL 4:30 |229	required. Follows all operations and |385	Avenue, Room 119. No other form will
 73	P.M. ON THURSDAY, JULY 21, 2016. |229	safety policies and safe work prac- |385	be accepted. APPLICATIONS WILL
 229	tices. Attends and participates in |385	BE AVAILABLE FOR PICK-UP IN
@@ -1689,7 +2126,8 @@ Source file: April272016.pdf
 229	MINIMUM QUALIFICATIONS FOR
 386	BE ACCEPTED AFTER 4:30 P.M. ON
 230	ENTRANCE TO THIS EXAMINA-
-74	TYPE: |110	EXPERIENCE EVALUA- |386	THURSDAY, MAY 5, 2016.
+74	TYPE: |110	EXPERIENCE 
+179	EVALUA- |386	THURSDAY, MAY 5, 2016.
 230	TION AS ESTABLISHED BY THE
 73	TION: Applicant’s eligibility will be |230	CIVIL SERVICE COMMISSION OF
 73	determined based on Education and |386	THE CIVIL SERVICE COMMIS-
@@ -1719,7 +2157,9 @@ Source file: April272016.pdf
 230	be able to operate a chainsaw. The |386	Assists in simple clerical or other
 88	DUTIES OF THE POSITION |230	following are also preferred: ISA |386	tasks of a routine nature. Performs
 230	TRAQ, ISA Municipal Specialist, or |386	related duties as required. TYPICAL
-74	Under |109	administrative direction, |230	ISA Certified Tree Worker or the abil- |386	TASKS: Carries mail and supplies
+74	Under 
+109	administrative 
+180	direction, |230	ISA Certified Tree Worker or the abil- |386	TASKS: Carries mail and supplies
 74	supervises the operations of the |230	ity to obtain a certification within one |386	between departments and stations.
 74	urban forestry section. Daily coordi- |230	year of employment; Proficiency in |386	Sorts mail. Delivers mail to post
 74	nates the Systematic Street Tree |230	Microsoft Office. Excellent communi- |386	office. Delivers messages, reports,
@@ -1762,7 +2202,9 @@ Source file: April272016.pdf
 239	EXAMINATION INFORMATION |385	preferred.  A valid State of Ohio Dri-
 73	NOTE: |102	Minimum qualifications must |385	ver’s License is required.   Experience
 73	be met as of the last day of the filing |230	TYPE: |261	Written and Art Portfolio: |386	in planning, developing, recruiting,
-73	period unless otherwise stated. |230	Applicants will be notified of the |386	implementing, |457	and instructing
+73	period unless otherwise stated. |230	Applicants will be notified of the |386	implementing, 
+457	and 
+485	instructing
 230	time, date, and place of the written |385	youth/adults in various visual art
 73	NOTE: |101	Applicants will be required to |230	exam by U.S. Mail. Also by mail, |386	classes is required. 
 73	pay a $10.00 (TEN DOLLARS) filing |230	approved candidates will be sent the
@@ -1785,7 +2227,10 @@ Source file: April272016.pdf
 230	RESULT IN IMMEDIATE REMOVAL
 73	request in writing made within ten |385	applicant shall be refunded to such
 230	FROM THE ELIGIBLE LIST.
-73	(10) days after the date of examina- |385	applicant |433	upon the applicant’s
+73	(10) days after the date of examina- |385	applicant 
+433	upon 
+463	the 
+486	applicant’s
 73	tion. Any applicant who can provide |385	request in writing made within ten
 230	NOTE: |260	THE ELIGIBLE LIST FOR
 73	proof of unemployment, public assis- |385	(10) days after the date of examina-
@@ -1822,7 +2267,8 @@ Source file: April272016.pdf
 73	need to present at the time of filing is |229	sports days and other special events |401	APPROVED C.S.C. MINUTES
 73	included with the application. |229	on the playgrounds or in the recre- |409	ANNOUNCEMENT NO. 37
 229	ations center that coordinate with the
-73	NOTE: |102	Any applicant who resigns or |229	city-wide recreation program. Assists |386	REDEVELOPMENT |490	ADVISOR
+73	NOTE: |102	Any applicant who resigns or |229	city-wide recreation program. Assists |386	REDEVELOPMENT 
+490	ADVISOR
 73	is dismissed from employment with |229	in marking and laying out play fields |386	(OPEN)
 73	the City of Cleveland will have |229	for various games and events. Super-
 73	his/her name removed from the eligi- |229	vises the distribution, setting up, use, |386	Public notice is hereby given by the
@@ -1844,7 +2290,10 @@ Source file: April272016.pdf
 386	ular application form available on-
 128	SALARY |229	assistant and co-workers concerning |386	line or at the Office of the Civil Ser-
 229	the work of the playground of recre-
-385	vice Commission, 601 Lakeside
+385	vice 
+411	Commission, 
+471	601 
+493	Lakeside
 74	The prevailing salary range for this |229	ation center. Keeps records. Makes
 385	Avenue, Room 119. No other form will
 73	position as established by Ordinance |229	routine and special reports. Supervis-
@@ -1874,7 +2323,11 @@ Source file: April272016.pdf
 74	20 |262	The City Record |480	April 27, 2016
 83	EXAMINATION INFORMATION |229	NOTE: |258	Minimum qualifications must |385	is 29' where the appellant is propos-
 230	be met as of the last day of the filing |385	ing 13' - 1".
-74	TYPE: |110	EXPERIENCE EVALUA- |230	period unless otherwise stated. |393	3. |410	Section 357.09(2)(A) which
+74	TYPE: |110	EXPERIENCE 
+179	EVALUA- |230	period unless otherwise stated. |393	3. 
+410	Section 
+448	357.09(2)(A) 
+506	which
 73	TION: Applicant’s grade will be deter- |385	states that no building shall be
 73	mined based on Education and Expe- |230	NOTE: |257	Applicants will be required to |385	erected less than 10 feet from main
 73	rience found in Resume. |229	pay a $10.00 (TEN DOLLARS) filing |385	building on an adjoining lot within
@@ -1882,12 +2335,18 @@ Source file: April272016.pdf
 73	NOTE: |102	Each applicant is required to |229	employed in this position with the |385	appellant is requesting 9' - 6" (or
 73	submit a detailed resume of his/her |229	City of Cleveland are exempt. Howev- |385	per the Sanborn map 7'). The roof
 73	education and experience at the time |229	er, that when an applicant is disquali- |385	eaves are 1' - 6" from property line.
-73	of filing application. |229	fied from taking an examination on |393	4. |410	Section 357.09(2)(B) which
+73	of filing application. |229	fied from taking an examination on |393	4. 
+410	Section 
+448	357.09(2)(B) 
+506	which
 230	the basis of age, education or failure |385	states that the minimum required
 73	NOTE: |103	THE CIVIL SERVICE COM- |230	to meet other minimum entrance |385	interior side yard is 5 feet and the
 73	MISSION RESERVES THE RIGHT |230	requirements, the fee paid by such |385	appellant is proposing 2' - 6" for the
 73	TO REVIEW AND EVALUATE ANY |230	applicant shall be refunded to such |385	front garage addition and 0 feet for
-73	AND ALL INFORMATION CON- |229	applicant |277	upon the applicant’s |385	rear storage addition (per sanborn
+73	AND ALL INFORMATION CON- |229	applicant 
+277	upon 
+307	the 
+330	applicant’s |385	rear storage addition (per sanborn
 73	TAINED IN THE APPLICATION OR |229	request in writing made within ten |385	map) The total of both interior side
 74	RESUME. LACK OF HONESTY WILL |230	(10) days after the date of examina- |385	yards shall not be less than 10' on
 74	RESULT IN IMMEDIATE REMOVAL |230	tion. Any applicant who can provide |385	same premises where the appellant
@@ -1900,7 +2359,11 @@ Source file: April272016.pdf
 230	NOTE: |257	Applications must be returned
 73	tion of land that is to be made avail- |393	Swedenborgian Church of Greater
 230	in person. All copies of diplomas,
-73	able for redevelopment. Responds to |385	Cleveland, |438	owner, proposes tolicenses, certificates, and resumes
+73	able for redevelopment. Responds to |385	Cleveland, 
+438	owner, 
+476	proposes 
+522	to
+230	licenses, certificates, and resumes
 73	inquiries relating to the purchase and |385	change use from church to account-
 230	must be presented at the time of fil-
 73	sale of property by the department. |385	ing office in a C1 Multi-Family Res-
@@ -1945,7 +2408,10 @@ Source file: April272016.pdf
 73	Wears and properly utilizes safety |284	9:30 A.M.
 385	proposed.
 73	equipment in accordance with Divi-
-393	3. |410	Section 357.14(a)(1) which
+393	3. 
+410	Section 
+449	357.14(a)(1) 
+506	which
 73	sional policy at all times. |230	Calendar No. 16-059: 2376 Professor
 240	Avenue (Ward 3) |385	states that parking is not permitted
 73	MINIMUM QUALIFICATIONS FOR |237	Don Shury, owner proposes to |385	in established front setback build-
@@ -1954,7 +2420,13 @@ Source file: April272016.pdf
 74	SERVICE COMMISSION OF THE |229	eral Retail Business District. The
 74	CITY OF CLEVELAND ARE AS FOL- |229	owner appeals for relief from sec-
 74	LOWS. |229	tion 357.09(b)(2)(C) of the Cleve- |385	Calendar No. 16-64: Taxi License
-229	land Codified Ordinances which |395	Revocation |450	Appeal of Farah
+229	land 
+256	Codified 
+298	Ordinances 
+350	which |395	Revocation 
+450	Appeal 
+487	of 
+506	Farah
 74	A Bachelor’s Degree in Planning, |229	states that an interior side yard |395	Warsame
 74	Business Administration, Economics, |229	equal to one fourth the height of the |393	Farah Warsame, appeals under
 73	or a related field from an accredited |229	building is required where a 1 foot |385	the authority of Section 76-6 of the
@@ -1987,17 +2459,24 @@ Source file: April272016.pdf
 
 [Start Page 21 ]
 74	April 27, 2016 |262	The City Record |521	21
-74	parking spaces shall be arranged to |229	thus no interior side yard shall be |393	The |420	following appeals were
+74	parking spaces shall be arranged to |229	thus no interior side yard shall be |393	The 
+420	following 
+469	appeals 
+511	were
 73	minimize traffic congestion. Engi- |229	less than 7' - 4" where a 3 foot side |385	APPROVED:
 73	neering and Construction has denied |229	yard is proposed. The proposed
 73	driveway access. |229	aggregate width of side yards is |386	Calendar No. 16-22: 5162 Broadway
 81	2. Section 355.04(a) the minimum |229	approximately 6 feet. (Filed April |396	Avenue
 73	required lot width is 50' where the |229	13, 2016) |393	Community Assessment and Treat-
 73	33' are proposed. The Maximum |385	ment Services, owner, proposes to
-73	Floor Area allowed is 3,135 square |262	POSTPONED FROM |385	establish use as an outpatient sub-
+73	Floor Area allowed is 3,135 square |262	POSTPONED FROM 
+385	establish use as an outpatient sub-
 73	feet and 3,660 square feet are pro- |269	MARCH 28, 2016 |385	stance abuse treatment clinic in a
 73	posed. |229	Calendar No. 16-001: 4118 Lorain |385	C2 Local Retail Business District.
-81	3. |98	Section 357.08(b)(1) which |239	Avenue (Ward 3)
+81	3. 
+98	Section 
+137	357.08(b)(1) 
+194	which |239	Avenue (Ward 3)
 73	states that the required rear yard is |237	Ron Leonhardt, owner, proposes to |386	Calendar No. 16-46: |465	1549 West 117th
 73	20' where 8' are proposed. |229	establish use as a tattoo/body pierc- |396	Street
 81	4. Section 357.09(b)(2)(A) which |229	ing shop in a D3 Local Retail Busi- |393	Ingens Development, LLC., owner,
@@ -2013,7 +2492,10 @@ Source file: April272016.pdf
 229	ness District, but first permitted in |386	Calendar No. 16-48: |478	5304 Detroit
 73	yard width is 6' where 5' and 0' in
 73	certain areas are proposed. The |229	a General Retail Business District. |396	Avenue
-73	total width of side yards on the |237	2. |254	Section 347.12(b)(1) which |393	Jose Casiano, owner, proposes to
+73	total width of side yards on the |237	2. 
+254	Section 
+293	347.12(b)(1) 
+350	which |393	Jose Casiano, owner, proposes to
 73	same premises shall not be less than |229	states that tattoo and body piercing |385	change use from a store and 2 apart-
 73	10 feet where 5' and 0' are pro- |229	use is not permitted within 1,000 |385	ment units to gallery assembly and
 73	posed. |229	feet of a residential district, a day |385	café in a C2 Local Retail Business
@@ -2024,16 +2506,26 @@ Source file: April272016.pdf
 73	lineal feet and 7 feet high. No fence |229	north and south, Like Home Child- |396	Drive
 73	shall be higher than distance from |229	care Center at 3829 Lorain Avenue, |393	Cleveland Music School Settle-
 73	a residential building on an adjoin- |229	Orchard Elementary School at 4200 |385	ment, owner, proposes to install a
-73	ing lot where the following is pro- |229	Bailey |266	Avenue, Carnegie West |385	30' x 40' temporary tent for various
+73	ing lot where the following is pro- |229	Bailey 
+266	Avenue, 
+308	Carnegie 
+354	West |385	30' x 40' temporary tent for various
 73	posed: 55 lineal feet at 5 feet tall |229	branch of the Cleveland Public |385	events that will occur from April 1,
 73	are proposed 3 feet from neighbor |229	Library at 1900 Fulton Road, First |385	2016 to October 1, 2016.
 73	dwelling, 17 lineal feet at 7 feet |229	Hispanic United Methodist Church
 73	high are proposed 1 foot from neigh- |229	at 1965 West 44th Street, Greenwood |386	Calendar No. 16-51: |465	17636 Lakeshore
 73	bor dwelling, 24 lineal feet at 4 feet |229	Park at West 40th Street & Bailey |396	Boulevard
 73	high are proposed 1 foot away from |229	Avenue, and the May Dugan Com- |393	Gerald Westmoreland, owner, pro-
-73	neighbor dwelling and 9 lineal feet |229	munity |267	Center at 4115 Bridge |385	poses to add use of motor vehicle
+73	neighbor dwelling and 9 lineal feet |229	munity 
+267	Center 
+303	at 
+321	4115 
+347	Bridge |385	poses to add use of motor vehicle
 73	are proposed 4' - 3" from neighbor |229	Avenue. |385	sales facility to existing, non-con-
-73	dwelling. |237	3. |254	Section 347.12(b)(2) which |385	forming auto repair garage in a C1
+73	dwelling. |237	3. 
+254	Section 
+293	347.12(b)(2) 
+350	which |385	forming auto repair garage in a C1
 81	7. Section 358.04(a) which states |229	states that tattoo and body piercing |385	Multi-Family Residential District.
 73	that fences in front yard setback |229	use is not permitted within 1,000
 73	shall not exceed 4 feet and shall be |229	feet of a similar use: proposed use |386	Calendar No. 16-66: |476	12408 Euclid
@@ -2041,19 +2533,34 @@ Source file: April272016.pdf
 73	feet of 7 foot tall concrete wall is |229	studio, True Art Tattoos at 3829 |393	Euclid Lakeview, LLC., owner,
 73	proposed. |229	Lorain Avenue. (Filed January 7, |385	proposes to construct 4 separate
 81	8. Section 357.13(C) (4) which |229	2016 - No Testimony) |385	apartment units in a C2 Semi-Indus-
-73	states that air-conditioning con- |237	First postponement made at the |385	try District.
+73	states 
+106	that 
+131	air-conditioning 
+202	con- |237	First postponement made at the |385	try District.
 73	densers are not permitted interior |229	request of the Councilman to allow
-73	side |99	yard encroachment. (Filed
-229	for a block club meeting to be held. |393	The |420	following appeals were
+73	side 
+99	yard 
+127	encroachment. 
+193	(Filed
+229	for a block club meeting to be held. |393	The 
+420	following 
+469	appeals 
+511	were
 73	April 11, 2016)
 229	second postponement made at the |385	DENIED:
 229	request of the appellant.
 73	Calendar No. 16-067: 1626 East 33rd |393	None.
 83	Street (Ward 7) |262	POSTPONED FROM
-81	Tam Shiu-Yeung, owner, proposes |271	APRIL 25, 2016 |393	The |420	following appeals were
+81	Tam Shiu-Yeung, owner, proposes |271	APRIL 25, 2016 |393	The 
+420	following 
+469	appeals 
+511	were
 73	to construct a 600 square foot addi- |385	WITHDRAWN:
 73	tion to an existing single family |229	Calendar No. 16-50: Appeal of Lucky
-73	dwelling in a B1 Two-Family Resi- |239	Dog Mobile Food Application |393	None.
+73	dwelling in a B1 Two-Family Resi- |239	Dog 
+265	Mobile 
+300	Food 
+329	Application |393	None.
 73	dential District. The owner appeal
 239	(Ward 14)
 73	for relief from the following sec-
@@ -2115,20 +2622,36 @@ Source file: April272016.pdf
 81	As required by the provisions of |237	Docket A-34-16. |385	onded by Mr. Saab.
 73	Section 3103.20(2) of the Codified |237	RE: Appeal of Wesley Frieson, |393	Yeas: Messrs. Denk, Gallagher,
 73	Ordinances of the City of Cleveland, |229	Owner of the R-2 Residential — Non- |385	Saab, Bradley. Nays: None. Absent:
-73	Ohio 1976, the following brief of |229	transient; |282	Apartments (Shared |385	Mr. Maschke.
-73	action of the subject meeting is |229	Egress) |278	Two Story Wood
-73	given for publication in the City |229	Frame/Siding/Masonry |346	Veneer |443	*  |451	 *  |463	 *
+73	Ohio 1976, the following brief of |229	transient; 
+282	Apartments 
+343	(Shared |385	Mr. Maschke.
+73	action of the subject meeting is |229	Egress) 
+278	Two 
+313	Story 
+352	Wood
+73	given for publication in the City |229	Frame/Siding/Masonry 
+346	Veneer |443	*  |451	 *  |463	 *
 73	Record: |229	Property, located on the premises
 229	known as 12503 Corlett Avenue from |393	Docket A-37-16.
-132	*  |140	 *  |151	 * |229	a |244	NOTICE OF VIOLATION — |393	RE: Appeal of Java Property
+132	*  |140	 *  |151	 * |229	a 
+244	NOTICE 
+287	OF 
+308	VIOLATION —VIOLATION 
+365	— |393	RE: Appeal of Java Property
 229	EXTERIOR MAINTENANCE, dated |385	Group, Ltd., Owner of the One
 81	Docket A-30-16. |229	January 29, 2016 of the Director of |385	Dwelling Unit Single-Family Resi-
 81	RE: Appeal of Anthony Respress, |229	the Department of Building and |385	dence Two & One/half Story Frame
 73	Owner of the Two Dwelling Units
 229	Housing, requiring compliance with |385	Property, located on the premises
-73	Two-Family |132	Residence Two &
+73	Two-Family 
+132	Residence 
+183	Two &Two 
+211	&
 229	the Codified Ordinances of the City |385	known as 3899 West 20th Street
-73	One/half Story Frame Property,
+73	One/half 
+117	Story 
+147	Frame 
+182	Property,
 229	of Cleveland and the Ohio Building |385	from a NOTICE OF VIOLATION —
 73	located on the premises known as |385	EXTERIOR MAINTENANCE, dated
 73	4130 East 138th Street a CONDEM- |229	Code (OBC). |385	December 2, 2015 of the Director of
@@ -2161,12 +2684,20 @@ Source file: April272016.pdf
 385	this time to the Department of
 73	time to the Department of Building |287	*  |295	 *  |307	 * |385	Building and Housing for supervi-
 73	and Housing for supervision and
-385	sion and any required further
+385	sion 
+411	and 
+435	any 
+459	required 
+502	further
 73	any required further action. Motion |237	Docket A-35-16.
 73	so in order. Motioned by Mr. Saab |385	action. Motion so in order. Motioned
 237	RE: Appeal of Walter & Carol
 73	and seconded by Mr. Gallagher. |385	by Mr. Saab and seconded by Mr.
-229	Wolowicz, Owners of the Two
+229	Wolowicz, 
+279	Owners 
+317	of 
+335	the 
+356	Two
 81	Yeas: Messrs. Denk, Gallagher, |385	Gallagher.
 229	Dwelling Units Two-Family Resi-
 73	Saab, Bradley. Nays: None. Absent: |393	Yeas: Messrs. Denk, Gallagher,
@@ -2174,7 +2705,10 @@ Source file: April272016.pdf
 73	Mr. Maschke. |385	Saab, Bradley. Nays: None. Absent:
 229	located on the premises known as |385	Mr. Maschke.
 229	3662 East 57th Street from a CON-
-132	*  |140	 *  |151	 * |229	DEMNATION |292	ORDER — MAIN |443	*  |451	 *  |463	 *
+132	*  |140	 *  |151	 * |229	DEMNATION 
+292	ORDER 
+333	— 
+351	MAIN |443	*  |451	 *  |463	 *
 229	STRUCTURE, dated February 16,
 81	Docket A-31-16. |229	2016 of the Director of the Depart-
 81	RE: Appeal of Eddie A. Short Jr., |393	Docket A-38-16.
@@ -2191,7 +2725,11 @@ Source file: April272016.pdf
 73	Department of Building and Hous- |237	BE IT RESOLVED, a motion is in |385	as 16212 Elsienna Avenue from a
 73	ing, requiring compliance with the |229	order at this time to grant the |385	NOTICE OF VIOLATION — EXTE-
 73	Codified Ordinances of the City of |229	Appellant the required time to com- |385	RIOR MAINTENANCE, dated Febru-
-73	Cleveland and the Ohio Building |229	plete the inspection, and until |385	ary 3, 2016 of the Director of the
+73	Cleveland and the Ohio Building |229	plete 
+258	the 
+280	inspection, 
+331	and 
+355	until |385	ary 3, 2016 of the Director of the
 73	Code (OBC). |229	November 1, 2016 to complete abate- |385	Department of Building and Hous-
 81	BE IT RESOLVED, a motion is in |229	ment of the violations. The proper- |385	ing, requiring compliance with the
 73	order at this time to grant the |229	ty is REMANDED at this time to the |385	Codified Ordinances of the City of
@@ -2200,7 +2738,11 @@ Source file: April272016.pdf
 73	tions. The property is REMANDED |229	further action. Motion so in order. |393	BE IT RESOLVED, a motion is in
 73	at this time to the Department of |229	Motioned by Mr. Saab and seconded |385	order at this time to grant the
 73	Building and Housing for supervi- |229	by Mr. Gallagher. |385	Appellant until July 15, 2016 to com-
-73	sion and any required further |237	Yeas: Messrs. Denk, Gallagher, |385	plete abatement of all the violations
+73	sion 
+99	and 
+123	any 
+148	required 
+190	further |237	Yeas: Messrs. Denk, Gallagher, |385	plete abatement of all the violations
 73	action. Motion so in order. Motioned |229	Saab, Bradley. Nays: None. Absent: |385	on the property, noting that an
 73	by Mr. Saab and seconded by Mr. |229	Mr. Maschke. |385	authorization letter from the owner
 73	Gallagher. |385	must be submitted to the Board
@@ -2210,11 +2752,21 @@ Source file: April272016.pdf
 237	RE: Appeal of Sharon Church, |385	and Housing for supervision and
 131	*  |139	 *  |151	 * |229	Owner of the One Dwelling Unit Sin- |385	any required further action. Motion
 229	gle-Family Residence Two Story |385	so in order. Motioned by Mr. Gal-
-81	Docket A-33-16. |229	Wood |282	Frame/Siding/Masonry |385	lagher and seconded by Mr. Saab.
+81	Docket A-33-16. |229	Wood 
+282	Frame/Siding/Masonry |385	lagher and seconded by Mr. Saab.
 81	RE: Appeal of Sheldon Little, |229	Veneer Property, located on the |393	Yeas: Messrs. Denk, Gallagher,
 73	Owner of the Two Dwelling Units |229	premises known as 4508 West 172nd |385	Saab, Bradley. Nays: None. Absent:
-73	Two-Family |132	Residence Two & |229	Street from a NOTICE OF VIOLA- |385	Mr. Maschke.
-73	One/half Story Frame Property, |229	TION |261	— EXTERIOR MAINTE-
+73	Two-Family 
+132	Residence 
+183	Two &Two 
+211	& |229	Street from a NOTICE OF VIOLA- |385	Mr. Maschke.
+73	One/half 
+117	Story 
+147	Frame 
+182	Property, |229	TION 
+261	— 
+280	EXTERIOR 
+337	MAINTE-
 73	located on the premises known as |229	NANCE, dated November 30, 2015 of |443	*  |451	 *  |463	 *
 73	4124 East 139th Street from a |229	the Director of the Department of
 73	NOTICE OF VIOLATION — INTE- |229	Building and Housing, requiring |393	Docket A-39-16.
@@ -2227,7 +2779,10 @@ Source file: April272016.pdf
 [Start Page 23 ]
 74	April 27, 2016 |262	The City Record |521	23
 74	as 2685 East 79th Street a NOTICE |263	PUBLIC NOTICE |385	FBE status compliance with the
-74	OF |95	VIOLATION — EXTERIOR |385	Code, affirmative action in employ-
+74	OF 
+95	VIOLATION 
+153	— 
+171	EXTERIOR |385	Code, affirmative action in employ-
 74	MAINTENANCE, dated January 25, |385	ment and, if applicable, joint ven-
 74	2016 of the Director of the Depart- |276	Legal Notice |385	ture status, are submitted to the of -
 74	ment of Building and Housing,
@@ -2257,7 +2812,10 @@ Source file: April272016.pdf
 73	the Department of Building and |229	the specifications of the R.F.P. The
 73	Housing, requiring compliance with |229	R.F.P. is available at the office of
 396	Ordinance No. 880-14, passed by
-229	the |252	Clerk, Cleveland Municipal |396	the Council of the City of Cleve-
+229	the 
+252	Clerk, 
+286	Cleveland 
+335	Municipal |396	the Council of the City of Cleve-
 73	the Codified Ordinances of the City
 229	Court, Justice Center, Level 2, 1200 |396	land, July 16, 2014.
 73	of Cleveland and the Ohio Building
@@ -2286,11 +2844,17 @@ Source file: April272016.pdf
 73	Mr. Bradley and seconded by Mr. |397	Council of the City of Cleveland,
 73	Gallagher for Approval and Adop- |397	July 16, 2014.
 73	tion of the Resolutions as presented |232	CITY OF CLEVELAND BIDS |386	THERE WILL BE A NON-MANDA-
-73	by the Secretary for the following |397	TORY |436	PRE-BID |487	MEETING,
+73	by the Secretary for the following |397	TORY |436	PRE-BID 
+487	MEETING,
 73	Dockets respectively, subject to the |397	THURSDAY, MAY 5, 2016 AT
 73	Codified Ordinances of the City of |397	10:30 A.M. THE DIVISION OF
-73	Cleveland and the Ohio Building |260	For All Departments |397	MOTOR |440	VEHICLE MAINTE-
-73	Code (OBC): |397	NANCE, |442	4150 EAST 49TH
+73	Cleveland and the Ohio Building |260	For All Departments |397	MOTOR 
+440	VEHICLE 
+493	MAINTE-
+73	Code (OBC): |397	NANCE, 
+442	4150 
+472	EAST 
+509	49TH
 81	A-270-15 — John P. Martin |238	Sealed bids will be received at the
 397	STREET, BUILDING 1, CLEVE-
 81	A-20-16 — Yavonda Mosley |229	office of the Commissioner of Pur-
@@ -2309,13 +2873,19 @@ Source file: April272016.pdf
 81	A-29-16 — WRRS, LLC |229	must be submitted on the blanks |397	Council of the City of Cleveland,
 229	supplied for the purpose, all of |397	July 16, 2014.
 81	Yeas: Messrs. Denk, Gallagher, |229	which may be obtained at the office |386	THERE WILL BE A NON-MANDA-
-73	Saab, Bradley. Nays: None. Absent: |229	of the said Commissioner of Pur- |397	TORY |436	PRE-BID |487	MEETING,
+73	Saab, Bradley. Nays: None. Absent: |229	of the said Commissioner of Pur- |397	TORY |436	PRE-BID 
+487	MEETING,
 73	Mr. Maschke. |229	chases and Supplies, but no bid will |397	THURSDAY, MAY 5, 2016 AT
 229	be considered unless delivered to |397	10:00 A.M. THE DIVISION OF
 132	*  |140	 *  |151	 *
-229	the office of the said commissioner |397	MOTOR |440	VEHICLE MAINTE-
+229	the office of the said commissioner |397	MOTOR 
+440	VEHICLE 
+493	MAINTE-
 92	APPROVAL OF MINUTES: |229	previous to 12:00 noon (Eastern
-397	NANCE, |442	4150 EAST 49TH
+397	NANCE, 
+442	4150 
+472	EAST 
+509	49TH
 229	Standard Time) on the date speci- |397	STREET, BUILDING 1, CLEVE-
 397	LAND, OHIO 44105.
 81	Separate motions were entered by |229	fied in the schedule.
@@ -2323,14 +2893,20 @@ Source file: April272016.pdf
 73	Bradley Approval and Adoption of |229	required in Advertisement for Bids. |386	April 27, 2016 and May 4, 2016
 73	the Minutes as presented by the Sec- |237	Where invitations for bids are
 73	retary, subject to the Codified Ordi-
-229	advertised, the following notice |413	FRIDAY, MAY 13, 2016
+229	advertised, 
+282	the 
+303	following 
+350	notice |413	FRIDAY, MAY 13, 2016
 73	nances of the City of Cleveland and
 73	the Ohio Building Code (OBC): |229	shall be included in the advertise-
 229	ment: “Pursuant to the MBE/FBE |386	File No. 53-16 — Ballistic Carrier
 121	April 6, 2016 |229	Code, each prime bidder, each minor- |397	System (SOFT), for the Division
 229	ity business enterprise (“MBE”) and |397	of Fire, Department of Public
 81	Yeas: Messrs. Denk, Gallagher, |397	Safety, as authorized by Ordi-
-229	each female business enterprise
+229	each 
+257	female 
+292	business 
+334	enterprise
 73	Saab, Bradley. Nays: None. Absent: |397	nance No. 880-14, passed by the
 229	(“FBE”) must be certified before
 73	Mr. Maschke. |397	Council of the City of Cleveland,
@@ -2344,12 +2920,16 @@ Source file: April272016.pdf
 
 [Start Page 24 ]
 74	24 |262	The City Record |480	April 27, 2016
-85	AUDITORIUM, |157	ROOM LL08, |239	ADOPTED RESOLUTIONS |393	Whereas, the Senate has confirmed
+85	AUDITORIUM, 
+157	ROOM 
+197	LL08, |239	ADOPTED RESOLUTIONS |393	Whereas, the Senate has confirmed
 84	CLEVELAND, OHIO 44114. |256	AND ORDINANCES |385	justices in presidential election years
 385	in which the executive and legisla-
 73	File No. 54-16 — UTV Patient Trans- |385	tive branches of government were
 84	port Vehicle, for the Division of |238	Res. No. 397-16. |385	divided between two political parties,
-84	Emergency |141	Medical Services, |237	By Council Member Cimperman. |385	including Justice Anthony Kennedy’s
+84	Emergency 
+141	Medical 
+184	Services, |237	By Council Member Cimperman. |385	including Justice Anthony Kennedy’s
 84	Department of Public Safety, as |237	An emergency resolution opposing |385	confirmation in 1988; and
 84	authorized by Ordinance No. 880- |229	the discontinuation of parts of the bus |393	Whereas, the Senate Judiciary
 84	14, passed by the Council of the |229	service along the #81 bus line by the |385	Committee has never denied a
@@ -2357,7 +2937,9 @@ Source file: April272016.pdf
 73	THERE WILL BE AN OPTIONAL |229	Authority. |385	since it began holding public confir-
 237	Whereas, the Greater Cleveland
 84	PRE-BID MEETING, ON MON- |385	mation hearings; and
-229	Regional |285	Transit Authority
+229	Regional 
+285	Transit 
+335	Authority
 84	DAY, MAY 9, 2016 AT 3:30 P.M. |229	(GCRTA) lacks funding to maintain |393	Whereas, if the Senate refuses to
 84	500 LAKESIDE AVENUE, PUB- |229	current service levels so is proposing |385	consider a Supreme Court nominee
 84	LIC AUDITORIUM ROOM LL08, |229	a 4% service reduction starting in |385	until after the next President is
@@ -2375,7 +2957,10 @@ Source file: April272016.pdf
 85	of Property Management, Depart- |229	impact the Lakeview Terrace commu- |385	nominee in history; and
 85	ment of Public Works, as autho- |229	nity and create hardship for those res- |393	Whereas, forcing the Supreme
 85	rized by Section 131.67 of the Cod- |229	idents by impeding their access to |385	Court to function with only eight jus-
-84	ified Ordinances of Cleveland, |229	affordable transit; and |385	tices |415	risks creating numerous
+84	ified Ordinances of Cleveland, |229	affordable transit; and |385	tices 
+415	risks 
+446	creating 
+491	numerous
 84	Ohio, 1976. |237	Whereas, this resolution consti- |385	instances in which the Court is evenly
 73	THERE WILL BE A NON-MANDA- |229	tutes an emergency measure for the |385	divided on the outcome of a case, pre-
 84	TORY |113	PRE-BID MEETING, FRI- |229	immediate preservation of public |385	venting the Court from resolving con-
@@ -2385,14 +2970,18 @@ Source file: April272016.pdf
 237	Be it resolved by the Council of |385	tution among different regions of the
 84	FERENCE ROOM 8, 601 LAKE-
 229	the City of Cleveland: |385	Nation and thereby undermining the
-84	SIDE AVENUE, CLEVELAND,
+84	SIDE 
+115	AVENUE, 
+163	CLEVELAND,
 237	Section 1. That this Council opposes |385	Supreme Court’s role as the final
 84	OHIO 44114. |229	the discontinuation of parts of the bus |385	arbiter of the law; and
 229	service along the #81 bus line by the |393	Whereas, every Supreme Court
 73	File No. 59-16 — Capital Mainte- |229	Greater Cleveland Regional Transit |385	nominee who was not withdrawn by
 84	nance and Repair of City Facili- |229	Authority. |385	the President has received an up-or-
 84	ties - Masonry, for the Division of |237	Section 2. |276	That the Clerk of Council |385	down vote within 125 days of Presi-
-84	Property Management, Depart- |229	is directed to transmit copies of this |385	dent’s nomination announcement; and
+84	Property 
+128	Management, 
+189	Depart- |229	is directed to transmit copies of this |385	dent’s nomination announcement; and
 84	ment of Public Works, as autho- |229	resolution to Joe Calabrese, Chief |393	Whereas, the Supreme Court vacan-
 84	rized by Section 131.67 of the Cod- |229	Executive Officer and General Man- |385	cy caused by the death of Justice
 84	ified Ordinances of Cleveland, |229	ager, the Greater Cleveland Regional |385	Antonin Scalia occurred on February
@@ -2403,20 +2992,29 @@ Source file: April272016.pdf
 84	CLEVELAND CITY HALL, CON- |229	affirmative vote of two-thirds of all |385	Supreme Court nominee has been 70
 84	FERENCE ROOM 8, 601 LAKE- |229	the members elected to Council, it |385	days; and
 229	shall take effect and be in force imme-
-84	SIDE AVENUE, CLEVELAND, |393	Whereas, this resolution consti-
-229	diately upon its adoption and
+84	SIDE 
+115	AVENUE, 
+163	CLEVELAND, |393	Whereas, this resolution consti-
+229	diately 
+267	upon 
+296	its 
+315	adoption 
+359	and
 84	OHIO 44114.
 229	approval by the Mayor; otherwise it |385	tutes an emergency measure for the
 229	shall take effect and be in force from |385	immediate preservation of public
 385	peace, property, health or safety, now,
 74	April 27, 2016 and May 4, 2016 |229	and after the earliest period allowed
-229	by law. |385	therefore,
+229	by law. 
+385	therefore,
 95	THURSDAY, MAY 19 2016 |237	Adopted April 18, 2016.
 393	Be it resolved by the Council of
 237	Effective April 20, 2016. |385	the City of Cleveland:
 393	Section 1. That this Council hereby
 74	File No. 60-16 — 2016 Collinwood |385	urges the United States Senate to per-
-84	Athletic |134	Complex Parking |385	form its constitutional duty by
+84	Athletic 
+134	Complex 
+186	Parking |385	form its constitutional duty by
 84	Improvements, for the Office of |238	Res. No. 441-16. |385	promptly scheduling a hearing and by
 84	Capital Projects, Department of |237	By Council Member Zone. |385	holding a confirmation vote for Judge
 84	Public Works, as authorized by |238	An emergency resolution urging |385	Merrick Garland to ensure that the
@@ -2425,23 +3023,40 @@ Source file: April272016.pdf
 84	land, May 20, 2013. |229	scheduling a hearing and by holding |385	delay so that the Supreme Court can
 73	THERE WILL BE A NON-REFUND- |229	a confirmation vote for Judge Mer- |385	effectively serve its essential consti-
 84	ABLE FEE |140	FOR PLANS AND |229	rick Garland to ensure that the vacan- |385	tutional function as the final arbiter
-84	SPECIFICATIONS |173	IN THE |229	cy on the Supreme Court is filled with- |385	of the law.
+84	SPECIFICATIONS 
+173	IN 
+199	THE |229	cy on the Supreme Court is filled with- |385	of the law.
 85	AMOUNT OF FIFTY DOLLARS |229	out undue and unnecessary delay so |393	Section 2. That the Clerk of Council
 85	($50.00) ONLY IN THE FORM OF |229	that the Supreme Court can effective- |385	is directed to transmit copies of this
 229	ly serve its essential constitutional
-85	A |104	CASHIER’S CHECK OR |385	resolution to all members of the Unit-
+85	A 
+104	CASHIER’S 
+162	CHECK 
+206	OR |385	resolution to all members of the Unit-
 229	function as the final arbiter of the
 85	MONEY ORDER (NO COMPANY |229	law. |385	ed States Senate and to President
 85	CHECKS, NO CASH AND NO |237	Whereas, the Constitution of the |385	Barack Obama.
-85	CREDIT |130	CARDS WILL BE |229	United States provides that the Senate |393	Section 3. |437	That this resolution is
-85	ACCEPTED |145	TO PURCHASE |229	shall provide Advice and Consent for |385	hereby declared to be an emergency
+85	CREDIT 
+130	CARDS 
+171	WILL 
+206	BE |229	United States provides that the Senate |393	Section 3. |437	That this resolution is
+85	ACCEPTED 
+145	TO 
+171	PURCHASE |229	shall provide Advice and Consent for |385	hereby declared to be an emergency
 85	PLANS.) |229	appointments to the Supreme Court of |385	measure and, provided it receives the
 74	THERE WILL BE A NON-MANDA- |229	the United States; and |385	affirmative vote of two-thirds of all
-85	TORY |124	PRE-BID |176	MEETING, |237	Whereas, the Senate’s constitution- |385	the members elected to Council, it
+85	TORY |124	PRE-BID 
+176	MEETING, |237	Whereas, the Senate’s constitution- |385	the members elected to Council, it
 85	THURSDAY MAY 5,  2016 AT |229	al duty to advise and consent on judi- |385	shall take effect and be in force imme-
-85	10:00 A.M. CLEVELAND CITY |229	cial nominees is one of its most impor- |385	diately upon its adoption and
+85	10:00 A.M. CLEVELAND CITY |229	cial nominees is one of its most impor- |385	diately 
+423	upon 
+451	its 
+471	adoption 
+515	and
 85	HALL, ROOM 517A, 601 LAKE- |229	tant and solemn responsibilities; and |385	approval by the Mayor; otherwise it
-85	SIDE |115	AVENUE, CLEVELAND, |237	Whereas, the Senate has confirmed |385	shall take effect and be in force from
+85	SIDE 
+115	AVENUE, 
+163	CLEVELAND, |237	Whereas, the Senate has confirmed |385	shall take effect and be in force from
 85	OHIO 44114. |229	more than a dozen Supreme Court jus- |385	and after the earliest period allowed
 229	tices in presidential election years, |385	by law.
 229	including five in the last 100 years; |393	Adopted April 18, 2016.
@@ -2693,7 +3308,9 @@ Source file: April272016.pdf
 81	By Council Members Polensek and |229	tain such terms and provisions as he |441	9:30 a.m.
 73	J. Johnson. |229	deems necessary to protect the City’s
 81	An emergency ordinance authoriz- |229	interest. |393	Development, Planning and Sus-
-73	ing the Director of the Department of |237	Section 4. |281	That this ordinance is |385	tainability |441	Committee: Present:
+73	ing the Director of the Department of |237	Section 4. |281	That this ordinance is |385	tainability 
+441	Committee: 
+498	Present:
 73	Community Development to enter into |229	hereby declared to be an emergency |385	Brancatelli, Chair; Cleveland, Vice
 73	agreement with Collinwood Neighbor- |229	measure and, provided it receives the |385	Chair; Cummins, Dow, McCormack,
 73	hood Catholic Ministries for the North |229	affirmative vote of two-thirds of all |385	Pruitt. Authorized Absence: Zone.
@@ -2703,7 +3320,9 @@ Source file: April272016.pdf
 73	Funds. |229	by the Mayor; otherwise it shall take
 81	Whereas, this ordinance constitutes |229	effect and be in force from and after |393	Safety Committee: Present: Zone,
 73	an emergency measure providing for |229	the earliest period allowed by law. |385	Chair; Conwell, Vice Chair; Kazy,
-73	the usual daily operation of a munici- |237	Passed April 18, 2016. |385	Keane, |431	McCormack, Mitchell,
+73	the usual daily operation of a munici- |237	Passed April 18, 2016. |385	Keane, 
+431	McCormack, 
+496	Mitchell,
 73	pal department; now, therefore, |237	Effective April 20, 2016. |385	Polensek.
 283	Index
 226	O—Ordinance; R—Resolution; F—File
