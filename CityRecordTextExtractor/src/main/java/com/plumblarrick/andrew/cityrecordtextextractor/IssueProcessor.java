@@ -154,6 +154,7 @@ public class IssueProcessor {
         return issue;
 
     }
+    //need something topull sinfle col areas out for ordered reintegration
 
 
     //calls a page processing method for each known page
@@ -283,17 +284,21 @@ public class IssueProcessor {
                 String[] indexContent = sections[0].split("\t");
                 String[] indexedPageNum = sections[sections.length - 1].split(
                         "\t");
-                indexEntries
-                        .append(indexContent[1] + " :\t" + indexedPageNum[1]);
+                if (indexContent.length >= 2) {
+                    indexEntries
+                            .append(indexContent[1] + " :\t" + indexedPageNum[1]);
+                }
+
                 indexEntries.append("\n");
 
 
             } else if (indexFlag) {
                 //since need to capture parts of multi-line entries that won't match the above
                 String[] indexContent = sections[0].split("\t");
-
-                indexEntries.append(indexContent[1]);
-                indexEntries.append("\n");
+                if (indexContent.length >= 2) {
+                    indexEntries.append(indexContent[1]);
+                    indexEntries.append("\n");
+                }
 
             } else {
 
@@ -386,44 +391,42 @@ public class IssueProcessor {
         try {
             List<Page> pages = issue.getPages();
             Writer fileOut;
-            
-            
+
+
             fileOut = (new BufferedWriter(new PrintWriter(fileName, "UTF-8")));
-            
+
 
             for (Page page : pages) {
-                
+
                 List<String> columns = page.getColumns();
                 String issuePageNumber = String.valueOf(page.getPageNum());
                 String indexPageNumber = String.valueOf(page.getIndexPageNum());
-                
-                
+
+
                 try {
-                    
-                    
-                    
+
+
                     fileOut.append("[Page" + issuePageNumber + "]\n");
-                    fileOut.append("[Indexed (running) page" + indexPageNumber + "]\n");
-                    if (!(columns == null)){
-                    for (String column : columns){
-                        
-                        fileOut.append(column);
-                        
-                        
-                    }
+                    fileOut.append("[Indexed (running) page" + indexPageNumber
+                            + "]\n");
+                    if (!(columns == null)) {
+                        for (String column : columns) {
+
+                            fileOut.append(column);
+
+
+                        }
                     }
                     fileOut.write("[end page]");
-                    
-                    
-                    
-                    
+
+
                 } catch (IOException ex) {
                     Logger.getLogger(IssueProcessor.class.getName())
                             .log(Level.SEVERE, null, ex);
                 }
-                
+
             }
-            
+
             fileOut.flush();
             fileOut.close();
         } catch (IOException ex) {
