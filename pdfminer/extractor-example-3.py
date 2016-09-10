@@ -45,13 +45,15 @@ class DrocerPage(DrocerSerializable):
         d.update({'boxes' : self.boxes})
         return d
 class DrocerBox(DrocerSerializable):
+    number = 0
     x0 = 0
     y0 = 0
     x1 = 0
     y1 = 0
     text = ''
     page_location = ''
-    def __init__(self, x0, y0, x1, y1, text, page_location=''):
+    def __init__(self, number, x0, y0, x1, y1, text, page_location=''):
+        self.number = number
         self.x0 = x0
         self.y0 = y0
         self.x1 = x1
@@ -92,9 +94,12 @@ for page in PDFPage.create_pages(document):
     elapsed = timeit.default_timer() - start_time
     print "[%s] processing page number %s" % (elapsed, page_number)
     #print repr(layout)
+    box_number = 0
     for obj in layout:
         if isinstance(obj, LTTextBox):
+            box_number += 1
             output_box = DrocerBox(
+                box_number,
                 obj.x0,
                 obj.x1,
                 obj.y0,
@@ -114,5 +119,21 @@ for page in PDFPage.create_pages(document):
 
 print json.dumps(output_document, default=DrocerSerializable.serialize)
 
+# matching examples
+import re
 
-         
+# match parcel numbers
+for page in output_document.pages:
+    for box in page.boxes:
+        matcher = re.compile('([0-9]{3})-?([0-9]{2})-?([0-9]{3}[a-zA-Z]?)')
+        result = matcher.search(box.text)
+        if result:
+            print "page: %s, box %s: %s in %s" % (page.number, box.number, result.group(0), box.text)
+
+# match ord-res numbers
+for page in output_document.pages:
+    for box in page.boxes:
+        matcher = re.compile('[0-9]{3}-[0-9]{2}')
+        result = matcher.search(box.text)
+        if result:
+            print "page: %s, box %s: %s in %s" % (page.number, box.number, result.group(0), box.text)
