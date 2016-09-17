@@ -17,6 +17,9 @@ import org.apache.pdfbox.text.TextPosition;
  *
  * @author calarrick
  */
+
+//OLD VERSION -- replace with CRTStripper class
+
 public class CRTextStripper extends PDFTextStripper {
 
 

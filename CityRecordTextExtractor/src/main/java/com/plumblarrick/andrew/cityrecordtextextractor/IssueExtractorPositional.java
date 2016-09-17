@@ -42,7 +42,7 @@ public class IssueExtractorPositional {
             document = PDDocument.load(new File(inFileName));
 
             PDFTextStripper stripper = new CRTStripper();
-            stripper.setSortByPosition(true);
+            //stripper.setSortByPosition(true);
             stripper.setStartPage(0);
             stripper.setEndPage(document.getNumberOfPages());
             
