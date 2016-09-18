@@ -395,6 +395,7 @@ public class IssueProcessor {
         int numColsOnLine = 0;
         int lineCounter = 0;
         String pNum = "";
+        Pattern tabSplit = Pattern.compile("\\\t");
 
         String[] measureAndText;
         String text = "";
@@ -408,6 +409,7 @@ public class IssueProcessor {
         Matcher pageMatcher = firstLineIssuePagination.matcher("");
 
         Pattern colBreak = Pattern.compile("\\|");
+
 
         StringBuilder columnOne = new StringBuilder();
         StringBuilder columnTwo = new StringBuilder();
@@ -432,6 +434,7 @@ public class IssueProcessor {
                     " ")) {
                 continue;
             }
+
 
             if (lineCounter == 2) {
 
@@ -468,7 +471,86 @@ public class IssueProcessor {
                 page.setFooter(line);
 
 
-            } //index processing -- this now renders up to first several lines
+            }
+
+
+//            if (sections.length == 3) {
+//
+//                //look for three column and two column patterns 
+//                //far from the regular layout
+//
+//                int[] colPositions = new int[3];
+//                int offGrid = 0;
+//                int[] colMetric = {74, 230, 380};
+//
+//                for (int i = 0; i < 3; i++) {
+//
+//                    measureAndText = tabSplit.split(sections[i]);
+//                    colPositions[i] = Integer.parseInt(measureAndText[0]);
+//
+//                }
+//                for (int i = 0; i < 3; i++) {
+//
+//                    int diff = 0;
+//                    diff = colPositions[i] - colMetric[i];
+//                    if (diff < 0) {
+//                        diff = 0 - diff;
+//                    }
+//                    offGrid = offGrid + diff;
+//
+//                }
+//
+//                if (offGrid > 250) {
+//
+//                    for (int i = 0; i < 3; i++) {
+//
+//                        measureAndText = tabSplit.split(sections[i]);
+//                        columnOne.append(measureAndText[1]);
+//                        columnOne.append("\t");
+//                    }
+//                    columnOne.append("\n");
+//                    continue;
+//
+//                }
+//
+//            }
+//
+//            if (sections.length == 2) {
+//
+//                int[] colPositions = new int[2];
+//                int offGrid = 0;
+//                int[] colMetric = {74, 305};
+//
+//                for (int i = 0; i < 2; i++) {
+//
+//                    measureAndText = tabSplit.split(sections[i]);
+//                    colPositions[i] = Integer.parseInt(measureAndText[0]);
+//
+//                }
+//                for (int i = 0; i < 2; i++) {
+//
+//                    int diff = 0;
+//                    diff = colPositions[i] - colMetric[i];
+//                    if (diff < 0) {
+//                        diff = 0 - diff;
+//                    }
+//                    offGrid = offGrid + diff;
+//
+//                }
+//
+//                if (offGrid > 120) {
+//
+//                    for (int i = 0; i < 2; i++) {
+//
+//                        measureAndText = tabSplit.split(sections[i]);
+//                        columnOne.append(measureAndText[1]);
+//                        columnOne.append("\t");
+//                    }
+//                    columnOne.append("\n");
+//                    continue;
+//
+//                }
+            //} //index processing -- this now renders up to first several lines
             //of index pages incorrectly as 'column one' rather than index. 
             //need a fix but not sure how to do it without carrying an index 
             //flag from page to page. 
@@ -501,6 +583,14 @@ public class IssueProcessor {
                     indexEntries.append("\n");
                 }
 
+            } else if (sections.length == 1 
+                    && sections.length > 150) {
+
+                measureAndText = tabSplit.split(sections[0]);
+                if (measureAndText.length > 1) {
+                    columnOne.append(measureAndText[1]);
+                }
+
             } else {
 
 
@@ -509,7 +599,13 @@ public class IssueProcessor {
                 boolean columnThreePresent = false;
                 boolean straysPresent = false;
                 //determine columns
+
+
                 for (int i = 0; i < sections.length; i++) {
+
+                    String columnOneCandidate = "";
+                    String columnTwoCandidate = "";
+                    String columnThreeCandidate = "";
 
                     measureAndText = sections[i].split("\t");
                     if (measureAndText.length == 2) {
@@ -526,13 +622,14 @@ public class IssueProcessor {
                         //do need factor to left too to pickup mal-aligned
                         //units (probably)
                         columnOne.append(text);
+                        //columnOneCandidate = text;
                         columnOnePresent = true;
-                    } else if (xAxisStart > columnTwoLine * 0.9
+                    } else if (xAxisStart > columnTwoLine * 0.97
                             && xAxisStart
-                            < columnThreeLine * .9) {
+                            < columnThreeLine * .97) {
                         columnTwo.append(text);
                         columnTwoPresent = true;
-                    } else if (xAxisStart >= columnThreeLine * 0.9
+                    } else if (xAxisStart >= columnThreeLine * 0.97
                             && xAxisStart
                             < columnThreeLine * 1.5) {
                         columnThree.append(text);
@@ -597,16 +694,16 @@ public class IssueProcessor {
         String text = "";
         int xAxisStart = 0;
 
-       
+
         Pattern colBreak = Pattern.compile("\\|");
         Pattern tabSplit = Pattern.compile("\\\t");
 
         StringBuilder columnOne = new StringBuilder();
         StringBuilder columnTwo = new StringBuilder();
-        
+
         StringBuilder strays = new StringBuilder();
         strays.append("[Couldn't place these:] \n");
-        
+
         for (String line : lines) {
 
             String[] sections = colBreak.split(line);
@@ -684,7 +781,6 @@ public class IssueProcessor {
         page.setColumns(columns);
 
 
-        
         return page;
 
 
