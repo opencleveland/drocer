@@ -2,114 +2,59 @@ Source file: june101998.pdf
 
 
 [Start Page 1 ]
-353	Containing |485	PAGE
-336	City Council |508	3
-336	The Calendar |501	25
-336	Board of Control |501	25
-336	Civil Service |501	28
-336	Board of Zoning Appeals |501	28
-336	Board of Building Standards
-353	and Building Appeals |501	29
-336	Public Notices |501	29
-336	Public Hearings |501	29
-336	City of Cleveland Bids |501	29
-336	Adopted Resolutions
-353	and Ordinances |501	30
-336	Com
-360	m
-370	ittee M
-410	eetings |501	38
-336	Index |501	39
-80	T
-113	 h
-146	 e |211	C
-245	 i
-262	 t
-282	 y |347	R
-383	e
-411	 c
-438	 o
-468	 rd r
-493	d
-149	O
-159	 fficial P
-215	ublication of th
-323	e C
-345	ity of C
-396	leve l a n d
-130	June the Tenth, N
-250	ineteen H
-314	undred and N
-404	inety-E
-448	ight
-150	M
-160	ayor
-119	M
-129	ichael R. W
-194	hite
-90	President of Council
-106	Jay W
-139	estbrook
-90	Clerk of Council
-106	Artha W
-152	oods
-90	W
-100	ard |153	NameNam
-178	e
-104	1 |123	Joseph T. Jones
-104	2 |123	Robert J. W
-190	hite
-104	3 |123	Odelia V. Robinson
-104	4 |123	Kenneth L. Johnson
-104	5 |123	Frank G. Jackson
-104	6 |123	Patricia J. Britt
-104	7 |123	Fannie M
-176	. Lewis
-104	8 |123	W
-134	illiam
-164	 W
-180	. Patm
-217	on
-104	9 |123	Craig E. W
-185	illis
-98	10 |123	Roosevelt Coats
-98	11 |123	M
-133	ichael D. Polensek
-98	12 |123	Edward W
-180	. Rybka
-98	13 |123	Joe Cim
-168	perm
-196	an
-98	14 |123	Nelson Cintron, Jr.
-98	15 |123	M
-133	erle R. Gordon
-98	16 |123	Larry M
-169	oran
-98	17 |123	Tim
-144	othy J. M
-198	elena
-98	18 |123	Jay W
-156	estbrook
-98	19 |123	Joseph J. Zone
-97	20 |123	M
-133	artin J. Sweeney
-98	21 |123	M
-133	ichael A. Dolan
-76	RECYCLE...........................Save the Future
-100	P 
-105	rinted on Recycled Pa 
-185	p 
-189	e 
-193	r. 
-198	. 
-200	. 
-202	. 
-204	.Council Cares
-436	FIRST-CLASS MAIL
-434	U. |443	S. |453	POSTAGE PAID
-436	CLEVELAND, OHIO
-443	Permit No. |483	1372
-437	First Class Mail
+Containing PAGE
+City Council 3
+The Calendar 25
+Board of Control 25
+Civil Service 28
+Board of Zoning Appeals 28
+Board of Building Standards
+and Building Appeals 29
+Public Notices 29
+Public Hearings 29
+City of Cleveland Bids 29
+Adopted Resolutions
+and Ordinances 30
+Committee Meetings 38
+Index 39
+T h e C i t y Re c o rd
+O fficial Publication of the City of Cleve l a n d
+June the Tenth, Nineteen Hundred and Ninety-Eight
+Mayor
+Michael R. White
+President of Council
+Jay Westbrook
+Clerk of Council
+Artha Woods
+Ward Name
+1 Joseph T. Jones
+2 Robert J. White
+3 Odelia V. Robinson
+4 Kenneth L. Johnson
+5 Frank G. Jackson
+6 Patricia J. Britt
+7 Fannie M. Lewis
+8 William W. Patmon
+9 Craig E. Willis
+10 Roosevelt Coats
+11 Michael D. Polensek
+12 Edward W. Rybka
+13 Joe Cimperman
+14 Nelson Cintron, Jr.
+15 Merle R. Gordon
+16 Larry Moran
+17 Timothy J. Melena
+18 Jay Westbrook
+19 Joseph J. Zone
+20 Martin J. Sweeney
+21 Michael A. Dolan
+RECYCLE...........................Save the Future
+P rinted on Recycled Pa p e r. . . . .Council Cares
+FIRST-CLASS MAIL
+U. S. POSTAGE PAID
+CLEVELAND, OHIO
+Permit No. 1372
+First Class Mail
 
 
 [Start Page 2 ]

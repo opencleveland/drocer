@@ -41,9 +41,7 @@ public class IssueProcessor {
      * @return String Will either confirm successful extraction to "example.txt"
      * or indicate that "example.pdf" was not extracted.
      */
-    
-    
-    
+
     public String extractIssue(String fileName, String outFileName) {
 
         startPdfFileName = fileName;
@@ -125,6 +123,7 @@ public class IssueProcessor {
                 pageLineCounter = 0;
                 page.setCountedPageNum(pagesAdded);
                 System.out.println(pagesAdded);
+                page.addLine(currLine);
 
             } else if (page != null) {
                 pageLineCounter = page.addLine(currLine);
@@ -168,27 +167,225 @@ public class IssueProcessor {
         switch (page.getCountedPageNum()) {
 
             case 0:
+                page = processSimplePage(page);
                 break;
             case 1:
+                page = processSimplePage(page);
                 break;
             case 2:
 
-                page = processCRDirectoryOfOfficials(page);
-
+                page = processSimplePage(page);
                 break;
+
             case 3:
-            //falls through for now. will want something here to exclude header material
+
+                page = processCRFirstBodyPage(page);
+                break;
 
             default:
-                //three column body begins
-                //pull out into sep methods by page type
-                //poss even use page subclasses to 
-                //handle behavior through the model 
-                //instead of here
+
                 page = processCRMainBodyPage(page);
+                break;
 
         }
         return page;
+    }
+
+    protected Page processSimplePage(Page page) {
+
+        List<String> lines = page.getPageContents();
+
+
+        StringBuilder col = new StringBuilder();
+        lines.stream()
+                .forEach((line) -> {
+                    col.append(line);
+                    col.append("\n");
+                });
+
+        String oneColumn = col.toString();
+        List<String> columns = new ArrayList<>();
+        columns.add(oneColumn);
+        page.setColumns(columns);
+
+        return page;
+
+
+    }
+
+    protected Page processCRFirstBodyPage(Page page) {
+
+        List<String> lines = page.getPageContents();
+        page.setPageNum(3);
+
+        boolean intro;
+        intro = true;
+        String pNum = "";
+        String meetingDate = new String();
+        int lineCounter = 0;
+        String header = "";
+
+        Pattern colBreak = Pattern.compile("\\|");
+        Pattern tabSplit = Pattern.compile("\\\t");
+        StringBuilder headerContent = new StringBuilder();
+        String content = "";
+
+
+        while (intro == true) {
+
+            for (String line : lines) {
+
+                lineCounter++;
+
+                String[] splitLine = colBreak.split(line);
+                if (splitLine.length == 1) {
+
+                    String[] tabDivided = tabSplit.split(splitLine[0]);
+                    if (tabDivided.length >= 2) {
+                        content = tabDivided[1];
+                    }
+
+                    if (content.startsWith("MOND")
+                            || content.startsWith("TUES")
+                            || content.startsWith("WEDN")
+                            || content.startsWith("THURS")
+                            || content.startsWith("FRI")
+                            || content.startsWith("SAT")
+                            || content.startsWith("SUND")) {
+
+
+                        intro = false;
+                        header = headerContent.toString();
+                        meetingDate = content;
+                        break;
+
+                    }
+                }
+            }
+        }
+
+        StringBuilder columnOne = new StringBuilder();
+        StringBuilder columnTwo = new StringBuilder();
+        StringBuilder columnThree = new StringBuilder();
+        StringBuilder strays = new StringBuilder();
+
+        String[] measureAndText;
+        columnOne.append(header);
+
+        columnOne.append("City Council\n");
+        columnOne.append(meetingDate);
+        columnOne.append("\n");
+        int numColsOnLine = 0;
+        int xAxisStart = 0;
+        String text = "";
+        Pattern firstLineIssuePagination = Pattern.compile(
+                "[0-9]{1,3}\\t([0-9]{1,3})\\s*");
+        Matcher pageMatcher = firstLineIssuePagination.matcher("");
+
+        for (int z = lineCounter; z < lines.size(); z++) {
+
+            String line = lines.get(z);
+            String[] sections = colBreak.split(line);
+            numColsOnLine = sections.length;
+            lineCounter++;
+
+            int columnOneLine = 74;
+            int columnTwoLine = 230;
+            int columnThreeLine = 380;
+            boolean columnOnePresent = false;
+            boolean columnTwoPresent = false;
+            boolean columnThreePresent = false;
+            boolean straysPresent = false;
+            //determine columns
+            if (line.equals("") || line.equals("\n") || line.equals(
+                    " ")) {
+                continue;
+            } else if (lineCounter == lines.size()) {
+
+                pageMatcher.reset(sections[0]);
+
+                if (sections.length == 1 && pageMatcher.matches()) {
+
+                    pNum = pageMatcher.group(1);
+                    page.setIndexPageNum(Integer.parseInt(pNum));
+
+
+                }
+                page.setFooter(line);
+
+
+            } else {
+                for (int i = 0; i < sections.length; i++) {
+
+                    measureAndText = sections[i].split("\t");
+                    if (measureAndText.length == 2) {
+                        try {
+                            xAxisStart = Integer.parseInt(measureAndText[0]);
+                            text = measureAndText[1];
+                        } catch (NumberFormatException e) {
+                            strays.append(measureAndText[1]);
+                        }
+                    }
+
+                    if (xAxisStart <= columnTwoLine * .9) {
+                        //use this or fixed addition for expected col w?
+                        //do need factor to left too to pickup mal-aligned
+                        //units (probably)
+                        columnOne.append(text);
+                        columnOnePresent = true;
+                    } else if (xAxisStart > columnTwoLine * 0.9
+                            && xAxisStart
+                            < columnThreeLine * .9) {
+                        columnTwo.append(text);
+                        columnTwoPresent = true;
+                    } else if (xAxisStart >= columnThreeLine * 0.9
+                            && xAxisStart
+                            < columnThreeLine * 1.5) {
+                        columnThree.append(text);
+                        columnThreePresent = true;
+                    } else {
+                        strays.append(xAxisStart + " " + text);
+                    }
+
+
+                }//end columnar for loop
+
+                if (columnOnePresent) {
+                    columnOne.append("\n");
+                }
+                if (columnTwoPresent) {
+                    columnTwo.append("\n");
+                }
+                if (columnThreePresent) {
+                    columnThree.append("\n");
+                }
+                if (straysPresent) {
+                    strays.append("\n");
+                }
+            }
+        }
+
+        //end line iteration
+
+        columnOne.append("[End Column One]\n");
+        columnTwo.append("[End Column Two]\n");
+        columnThree.append("[End Column Three]\n");
+        strays.append("[End Non-placed Text]\n");
+
+        List<String> columns = new ArrayList<>();
+        columns.add(columnOne.toString());
+        columns.add(columnTwo.toString());
+        columns.add(columnThree.toString());
+        columns.add(strays.toString());
+
+        page.setColumns(columns);
+
+        for (String column : columns) {
+            System.out.println(column);
+        }
+
+        return page;
+
     }
 
 
@@ -236,7 +433,7 @@ public class IssueProcessor {
                 continue;
             }
 
-            if (lineCounter == 1) {
+            if (lineCounter == 2) {
 
                 pageMatcher.reset(sections[0]);
 
@@ -363,11 +560,11 @@ public class IssueProcessor {
 
         }//end line iteration
 
-        columnOne.append("[End Column One]");
-        columnTwo.append("[End Column Two]");
-        columnThree.append("[End Column Three]");
-        strays.append("[End Non-placed Text]");
-        indexEntries.append("[End Index Entries");
+        columnOne.append("[End Column One]\n");
+        columnTwo.append("[End Column Two]\n");
+        columnThree.append("[End Column Three]\n");
+        strays.append("[End Non-placed Text]\n");
+        indexEntries.append("[End Index Entries]\n");
 
 
         List<String> columns = new ArrayList<>();
@@ -400,22 +597,16 @@ public class IssueProcessor {
         String text = "";
         int xAxisStart = 0;
 
-        boolean indexFlag = false;
-
-
-        Pattern firstLineIssuePagination = Pattern.compile(
-                "[0-9]{1,3}\\t([0-9]{1,3})\\s*");
-        Matcher pageMatcher = firstLineIssuePagination.matcher("");
-
+       
         Pattern colBreak = Pattern.compile("\\|");
+        Pattern tabSplit = Pattern.compile("\\\t");
 
         StringBuilder columnOne = new StringBuilder();
         StringBuilder columnTwo = new StringBuilder();
-        StringBuilder columnThree = new StringBuilder();
+        
         StringBuilder strays = new StringBuilder();
         strays.append("[Couldn't place these:] \n");
-        StringBuilder indexEntries = new StringBuilder();
-
+        
         for (String line : lines) {
 
             String[] sections = colBreak.split(line);
@@ -436,7 +627,7 @@ public class IssueProcessor {
             //determine columns
             for (int i = 0; i < sections.length; i++) {
 
-                measureAndText = sections[i].split("\t");
+                measureAndText = tabSplit.split(sections[i]);
                 if (measureAndText.length == 2) {
                     try {
                         xAxisStart = Integer.parseInt(measureAndText[0]);
@@ -446,7 +637,7 @@ public class IssueProcessor {
                     }
                 }
 
-                if (xAxisStart <= columnTwoLine * .9) {
+                if (xAxisStart <= columnTwoLine) {
                     //use this or fixed addition for expected col w?
                     //do need factor to left too to pickup mal-aligned
                     //units (probably)
@@ -477,10 +668,10 @@ public class IssueProcessor {
 
         //end line iteration
 
-        columnOne.append("[End Column One]");
-        columnTwo.append("[End Column Two]");
+        columnOne.append("[End Column One]\n");
+        columnTwo.append("[End Column Two]\n");
 
-        strays.append("[End Non-placed Text]");
+        strays.append("[End Non-placed Text]\n");
 
 
         List<String> columns = new ArrayList<>();
@@ -493,10 +684,7 @@ public class IssueProcessor {
         page.setColumns(columns);
 
 
-        for (String column : columns) {
-            System.out.println(column);
-        }
-
+        
         return page;
 
 
@@ -535,7 +723,7 @@ public class IssueProcessor {
 
                         }
                     }
-                    fileOut.write("[end page]");
+                    fileOut.write("[end page]\n");
 
 
                 } catch (IOException ex) {

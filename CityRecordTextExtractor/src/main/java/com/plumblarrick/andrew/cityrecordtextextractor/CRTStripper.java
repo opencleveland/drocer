@@ -38,7 +38,7 @@ public class CRTStripper extends PDFTextStripper {
         pageCounter++;
         output.write("\n\n[Start Page " + pageCounter + " ]\n");
         textChunksOnLine = 0;
-        if (pageCounter == 2){
+        if (pageCounter <= 2){
             super.setSortByPosition(false);
         }
         if (pageCounter > 2){
@@ -63,7 +63,7 @@ public class CRTStripper extends PDFTextStripper {
     protected void writeString(String text, List<TextPosition> textPositions)
             throws IOException {
 
-        if (pageCounter != 2){
+        if (pageCounter > 2){
         TextPosition tPos = textPositions.get(0);
         TextPosition ePos = textPositions.get(textPositions.size() - 1);
         //Pattern capNoSpace = Pattern.compile("[a-z]([A-Z])");
