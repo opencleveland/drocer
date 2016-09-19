@@ -742,6 +742,7 @@ the City of Cleveland:
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page5]
@@ -1042,23 +1043,13 @@ on Public Utilities, Finance.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page6]
 [Indexed (running) page914]
 [Start Column One]
 
-Ord. No. 1070-98.
-By Councilmen Willis and Johnson (by departmental request).
-An emergency ordinance authorizing and directing the Director of Parks, Recreation and Properties to make
-alterations and modifications in Contract No. PI 52012A for improvements to Cleveland Memorial Gardens with
-S.W. Franks Construction Company, for the Department of Parks, Recreation and Properties.
-Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
-ipal department; now, therefore,
-Be it ordained by the Council of the City of Cleveland:
-Section 1. That the Director of Parks, Recreation and Properties is hereby authorized and directed to make the
-following alterations and modifications in Contract No. PI 52012A with S.W. Franks Construction Company for
-improvements to Cleveland Memorial Gardens, for the Department of Parks, Recreation and Properties:
 ADDITIONS-ORIGINAL ITEMS
 Item #1 Mobilization, demolition, general conditions, bonding, insurance (Lump Sum at 37,914.83) 
 Item #3 Clear and grub - remove scrub vegetation and small trees (7.06 A.C. @ 1,700.00 A.C.) 
@@ -1196,6 +1187,17 @@ SITE IMPROVEMENTS
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+Ord. No. 1070-98.By Councilmen Willis and Johnson (by departmental request).
+An emergency ordinance authorizing and directing the Director of Parks, Recreation and Properties to make
+alterations and modifications in Contract No. PI 52012A for improvements to Cleveland Memorial Gardens with
+S.W. Franks Construction Company, for the Department of Parks, Recreation and Properties.
+Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
+ipal department; now, therefore,
+Be it ordained by the Council of the City of Cleveland:
+Section 1. That the Director of Parks, Recreation and Properties is hereby authorized and directed to make the
+following alterations and modifications in Contract No. PI 52012A with S.W. Franks Construction Company for
+improvements to Cleveland Memorial Gardens, for the Department of Parks, Recreation and Properties:
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page7]
@@ -1465,6 +1467,7 @@ the Director of Public Service on
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page8]
@@ -1768,6 +1771,7 @@ to apply for and accept a grant in
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page9]
@@ -2067,6 +2071,7 @@ hereby are appropriated:
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page10]
@@ -2389,6 +2394,7 @@ Finance.
 [End Column Three]
 [Couldn't place these:] 
 209 to [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page11]
@@ -2713,6 +2719,7 @@ authorized and directed to accept
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page12]
@@ -3028,6 +3035,7 @@ opment, City Planning, Finance.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page13]
@@ -3103,23 +3111,6 @@ result in significant benefits to the
 City and its residents, including job 
 opportunities at local CSX facilities; 
 and 
-Ord. No. 1043-98.
-By Councilman Cintron.
-An emergency ordinance authorizing the Director of Public Service to issue a permit to Lutheran Hospital
-to encroach into the public right-of-way at various locations on Vestry Avenue, West 25th Street, West 28th
-Street and Franklin Boulevard with nineteen (19) banners, in conjunction with their on-going banner pro-
-g r a m .
-Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
-ipal department; now, therefore,
-Be it ordained by the Council of the City of Cleveland:
-Section 1. That the Director of Public Service hereby is authorized to issue a permit, revocable at the will of
-Council, and assignable by the Permittee with the written consent of the Director of Public Service to Lutheran
-Hospital (Cleveland Clinic Health System), 1730 West 25th Street, Cleveland, Ohio 44113; its successors and assigns;
-for the construction, use and maintenance of nineteen (19) banners to be attached to the Cleveland Electric Illu-
-minating Company (C.E.I.) and Cleveland Public Power (C.P.P.) utility poles (by separate permission), and which
-banners are in conjunction with Lutheran Hospital’s on-going banner program, and will encroach into various
-locations of Vestry Avenue, West 25th Street, West 28th Street and Franklin Boulevard as more fully described
-herein:
 [End Column One]
 [Start Column Two]
 Whereas, this Council hereby rati- 
@@ -3257,6 +3248,23 @@ Nays 0.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+Ord. No. 1043-98.By Councilman Cintron.
+An emergency ordinance authorizing the Director of Public Service to issue a permit to Lutheran Hospital
+to encroach into the public right-of-way at various locations on Vestry Avenue, West 25th Street, West 28th
+Street and Franklin Boulevard with nineteen (19) banners, in conjunction with their on-going banner pro-
+g r a m .
+Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
+ipal department; now, therefore,
+Be it ordained by the Council of the City of Cleveland:
+Section 1. That the Director of Public Service hereby is authorized to issue a permit, revocable at the will of
+Council, and assignable by the Permittee with the written consent of the Director of Public Service to Lutheran
+Hospital (Cleveland Clinic Health System), 1730 West 25th Street, Cleveland, Ohio 44113; its successors and assigns;
+for the construction, use and maintenance of nineteen (19) banners to be attached to the Cleveland Electric Illu-
+minating Company (C.E.I.) and Cleveland Public Power (C.P.P.) utility poles (by separate permission), and which
+banners are in conjunction with Lutheran Hospital’s on-going banner program, and will encroach into various
+locations of Vestry Avenue, West 25th Street, West 28th Street and Franklin Boulevard as more fully described
+herein:
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page14]
@@ -3439,6 +3447,7 @@ legal highways.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page15]
@@ -3510,23 +3519,6 @@ The rules were suspended. Yeas
 21. Nays 0. Read second time. Read 
 third time in full. Passed. Yeas 21. 
 Nays 0. 
-Ord. No. 1047-98.
-By Councilman Polensek.
-An emergency ordinance authorizing the Director of Public Service to issue a permit to The Nottingham Civic
-Club to encroach into various locations of the public right-of-way in the areas of St. Clair Avenue and Notting-
-ham Road, with a total of both (approximately) thirty-one (31) banners and American flags to publicize the “Not-
-tingham Village Neighborhood Banner Project”.
-Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
-ipal department; now, therefore,
-Be it ordained by the Council of the City of Cleveland:
-Section 1. That the Director of Public Service hereby is authorized to issue a permit, revocable at the will of
-Council, and assignable by the Permittee with the written consent of the Director of Public Service to The Not-
-tingham Civic Club, 18316 St. Clair Avenue, Cleveland, Ohio 44110; its successors and assigns; for the construc-
-tion, use and maintenance for a total of (approximately) thirty-one (31) Banners and American Flags, to be
-attached to Cleveland Public Power and Cleveland Electric Illuminating Company utility poles (by separate per-
-mission), to publicize the “Nottingham Village Neighborhood Banner Project”, and which Banners and American
-Flags will encroach into the public right-of-way at various locations on St. Clair Avenue and Nottingham Road
-and are more fully described as follows:
 [End Column One]
 [Start Column Two]
 Ord. No. 1045-98. 
@@ -3673,6 +3665,23 @@ Nays 0.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+Ord. No. 1047-98.By Councilman Polensek.
+An emergency ordinance authorizing the Director of Public Service to issue a permit to The Nottingham Civic
+Club to encroach into various locations of the public right-of-way in the areas of St. Clair Avenue and Notting-
+ham Road, with a total of both (approximately) thirty-one (31) banners and American flags to publicize the “Not-
+tingham Village Neighborhood Banner Project”.
+Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
+ipal department; now, therefore,
+Be it ordained by the Council of the City of Cleveland:
+Section 1. That the Director of Public Service hereby is authorized to issue a permit, revocable at the will of
+Council, and assignable by the Permittee with the written consent of the Director of Public Service to The Not-
+tingham Civic Club, 18316 St. Clair Avenue, Cleveland, Ohio 44110; its successors and assigns; for the construc-
+tion, use and maintenance for a total of (approximately) thirty-one (31) Banners and American Flags, to be
+attached to Cleveland Public Power and Cleveland Electric Illuminating Company utility poles (by separate per-
+mission), to publicize the “Nottingham Village Neighborhood Banner Project”, and which Banners and American
+Flags will encroach into the public right-of-way at various locations on St. Clair Avenue and Nottingham Road
+and are more fully described as follows:
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page16]
@@ -3792,6 +3801,7 @@ Banner
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page17]
@@ -3863,22 +3873,6 @@ southwesterly corner of the souther-
 ly terminus of Magnolia Drive N.E., 
 70 feet in width, as shown by the 
 Vacation Plat recorded in Volume 
-Ord. No. 1049-98.
-By Councilman Westbrook.
-An emergency ordinance authorizing the Director of Public Service to issue a permit to Our Father’s House
-Church to encroach into the public right-of-way on Detroit Avenue between West 112th and West 114th Streets
-with seven (7) banners to be hung on Cleveland Public Power utility poles (by separate permission) from the
-period of July 1, 1998 to September 30, 1998 inclusive.
-Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
-ipal department; now, therefore,
-Be it ordained by the Council of the City of Cleveland:
-Section 1. That the Director of Public Service hereby is authorized to issue a permit, revocable at the will of
-Council, and assignable by the Permittee with the written consent of the Director of Public Service to Our Father’s
-House Church, 11228 Detroit Avenue, Cleveland, Ohio 44102, its successors and assigns; for the construction, use
-and maintenance of seven (7) banners to be attached to Cleveland Public Power utility poles (by separate per-
-mission), for the period of July 1, 1998 to September 30, 1998, and which banners will encroach into Detroit Avenue
-between West 112th and West 114th Streets to publicize the celebration of the church’s tenth year of serving the
-Community, at the locations more fully described herein.
 [End Column One]
 [Start Column Two]
 186 of Maps, Page 21 of Cuyahoga 
@@ -4037,6 +4031,22 @@ Nays 0.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+Ord. No. 1049-98.By Councilman Westbrook.
+An emergency ordinance authorizing the Director of Public Service to issue a permit to Our Father’s House
+Church to encroach into the public right-of-way on Detroit Avenue between West 112th and West 114th Streets
+with seven (7) banners to be hung on Cleveland Public Power utility poles (by separate permission) from the
+period of July 1, 1998 to September 30, 1998 inclusive.
+Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
+ipal department; now, therefore,
+Be it ordained by the Council of the City of Cleveland:
+Section 1. That the Director of Public Service hereby is authorized to issue a permit, revocable at the will of
+Council, and assignable by the Permittee with the written consent of the Director of Public Service to Our Father’s
+House Church, 11228 Detroit Avenue, Cleveland, Ohio 44102, its successors and assigns; for the construction, use
+and maintenance of seven (7) banners to be attached to Cleveland Public Power utility poles (by separate per-
+mission), for the period of July 1, 1998 to September 30, 1998, and which banners will encroach into Detroit Avenue
+between West 112th and West 114th Streets to publicize the celebration of the church’s tenth year of serving the
+Community, at the locations more fully described herein.
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page18]
@@ -4272,6 +4282,7 @@ any time by this Council.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page19]
@@ -4595,6 +4606,7 @@ Cleveland, Ohio 1976, as enacted by
 [End Column Three]
 [Couldn't place these:] 
 209 to [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page20]
@@ -4910,6 +4922,7 @@ respect to the neighborhood that it
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page21]
@@ -5204,6 +5217,7 @@ lutions adopted by the Board of
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page22]
@@ -5524,6 +5538,7 @@ of the public peace, property, safety
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page23]
@@ -5840,6 +5855,7 @@ S t e p h e n s .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page24]
@@ -6172,6 +6188,7 @@ s a g e .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page25]
@@ -6487,6 +6504,7 @@ Elyria, Ohio 44035
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page26]
@@ -6828,6 +6846,7 @@ Five Thousand and 00/100 Dollars
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page27]
@@ -7141,6 +7160,7 @@ Absent: None.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page28]
@@ -7454,6 +7474,7 @@ Board.
 [End Column Three]
 [Couldn't place these:] 
 210 is [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page29]
@@ -7762,6 +7783,7 @@ DE-
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page30]
@@ -8089,6 +8111,7 @@ the members elected to Council, it
 [End Column Three]
 [Couldn't place these:] 
 208 IN 208 IN 208 IN [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page31]
@@ -8398,6 +8421,7 @@ order; and
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page32]
@@ -8713,6 +8737,7 @@ Cleveland and the Directors of
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page33]
@@ -9066,6 +9091,7 @@ ment and/or Public Service are here-
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page34]
@@ -9390,6 +9416,7 @@ Assessment
 [End Column Three]
 [Couldn't place these:] 
 209 to [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page35]
@@ -9698,24 +9725,13 @@ Effective June 10, 1998.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page36]
 [Indexed (running) page944]
 [Start Column One]
 
-Ord. No. 857-98.
-By Councilman Johnson (by departmental request).
-An emergency ordinance to amend Sections 16 and 41 of Ordinance No. 436-97, passed April 14, 1997, as may be
-amended by Ordinance No. 1474-97, passed October 13, 1997, relating to compensation for various classifications.
-Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
-ipal department; now, therefore,
-Be it ordained by the Council of the City of Cleveland:
-Section 1. That Section 16 of Ordinance No. 436-97, passed April 14, 1997, and Section 41 of Ordinance No 436-97,
-passed April 14, 1997, as amended by Ordinance No. 1474-97, passed October 13, 1997, are hereby amended to read,
-respectively, as follows:
-Section 16. That salaries and compensation in the following classifications shall be fixed by the appointing
-authority in accordance with the schedule appearing after each classification:
 1. Auto Body Repair Unit Leader............................................. 
 2. Auto Body Repair Worker .................................................... 
 3. Automobile Repair Helper ..................................................... 
@@ -9802,7 +9818,6 @@ Date
 10-1-97 
 [End Column Two]
 [Column Three Start]
-Minimum Maximum
 $18.03 per hour
 $14.99 per hour
 $13.43 per hour
@@ -9865,6 +9880,19 @@ $27.42 $34.28
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+Ord. No. 857-98.By Councilman Johnson (by departmental request).
+An emergency ordinance to amend Sections 16 and 41 of Ordinance No. 436-97, passed April 14, 1997, as may be
+amended by Ordinance No. 1474-97, passed October 13, 1997, relating to compensation for various classifications.
+Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
+ipal department; now, therefore,
+Be it ordained by the Council of the City of Cleveland:
+Section 1. That Section 16 of Ordinance No. 436-97, passed April 14, 1997, and Section 41 of Ordinance No 436-97,
+passed April 14, 1997, as amended by Ordinance No. 1474-97, passed October 13, 1997, are hereby amended to read,
+respectively, as follows:
+Section 16. That salaries and compensation in the following classifications shall be fixed by the appointing
+authority in accordance with the schedule appearing after each classification:
+Minimum Maximum
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page37]
@@ -10173,6 +10201,7 @@ Ohio, 1976, authorizes the President
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page38]
@@ -10472,6 +10501,7 @@ Chairman, Britt, Jones.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page39]
@@ -10485,6 +10515,7 @@ Chairman, Britt, Jones.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 Index to C
 ouncil P
 roceedings
@@ -10551,6 +10582,7 @@ Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 
 40 The City Record June 10, 1998
 Cleveland Public Power
@@ -10621,6 +10653,7 @@ funds for operation of programs — $6,300,000 (O 824-98). . . . . . . . . . . .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 
 June 10, 1998 The City Record 41
 Condolences
@@ -10684,6 +10717,7 @@ with various non-profit agencies for implementation (O 1082-98) . . . . . . . . 
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 
 42 The City Record June 10, 1998
 Encroachments
@@ -10751,6 +10785,7 @@ Ryan White Planning and Evaluation Project — grant — apply for and accept �
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 
 June 10, 1998 The City Record 43
 Hermes Race Systems
@@ -10813,6 +10848,7 @@ transfer of ownership application (F 1036-98) . . . . . . . . . . . . . . . . . 
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 
 44 The City Record June 10, 1998
 Munn Road, 15520 — withdrawing objection — transfer of ownership — repealing Resolution
@@ -10873,6 +10909,7 @@ Wilson, Adam — authorization to engage in peddling in Ward 20 (O 1053-98) . . 
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 
 June 10, 1998 The City Record 45
 Permits
@@ -10948,6 +10985,7 @@ Department (O 1074-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 
 46 The City Record June 10, 1998
 Real Estate
@@ -11017,6 +11055,7 @@ Spring Road Relief Sewer Project — alterations and modifications in Contract N
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 
 June 10, 1998 The City Record 47
 Streets - Vacation
@@ -11089,6 +11128,7 @@ Water mains and appurtenances — labor and materials to repair — Water Divisi
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[End Full-Width Moved After Columns]
 
 48 The City Record June 10, 1998
 Village of Highland Hills

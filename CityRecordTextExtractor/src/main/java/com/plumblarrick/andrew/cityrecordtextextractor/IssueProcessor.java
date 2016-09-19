@@ -29,13 +29,14 @@ public class IssueProcessor {
 
     private String startPdfFileName;
     private String firstTextFileName;
-    private String sortedColumnsFileName;
+    //private String sortedColumnsFileName;
     private Boolean indexFlag = false;
-    Pattern tabSplit = Pattern.compile("\\\t");
-    Pattern colBreak = Pattern.compile("\\|");
-    Pattern firstLineIssuePagination = Pattern.compile(
+    private Boolean fullWidthFlag = false;
+    private final Pattern tabSplit = Pattern.compile("\\\t");
+    private final Pattern colBreak = Pattern.compile("\\|");
+    private final Pattern firstLineIssuePagination = Pattern.compile(
             "[0-9]{1,3}\\t([0-9]{1,3})\\s*");
-    Matcher pageMatcher = firstLineIssuePagination.matcher("");
+    private final Matcher pageMatcher = firstLineIssuePagination.matcher("");
 
 
     /**
@@ -476,7 +477,8 @@ public class IssueProcessor {
         StringBuilder strays = new StringBuilder();
         strays.append("[Couldn't place these:] \n");
         StringBuilder indexEntries = new StringBuilder();
-        
+        StringBuilder fullWidth = new StringBuilder();
+
 
         if (!indexFlag) {
             indexStartLine = findIndexStart(page);
@@ -497,19 +499,19 @@ public class IssueProcessor {
             if (sections.length >= 1) {
                 checker = tabSplit.split(sections[0]);
             }
-            
-            if (indexStartLine != 0 && lineCounter == indexStartLine){
-                
+
+            if (indexStartLine != 0 && lineCounter == indexStartLine) {
+
                 indexFlag = true;
                 line = processIndexLine(line);
                 indexEntries.append(line);
                 indexEntries.append("\n");
-               
+
                 continue;
-                
+
             }
-            if (indexFlag){
-                
+            if (indexFlag) {
+
                 line = processIndexLine(line);
                 indexEntries.append(line);
                 indexEntries.append("\n");
@@ -557,6 +559,31 @@ public class IssueProcessor {
                 page.setFooter(line);
 
             } else if (sections.length == 1
+                    && checker.length > 1
+                    && Integer.parseInt(checker[0]) < 115
+                    && checker[1].startsWith("Ord. No. ")) {
+
+                fullWidth.append(checker[1]);
+                fullWidthFlag = true;
+
+
+            } else if (fullWidthFlag == true
+                    && checker.length > 1
+                    && !(checker[1].startsWith("Ord. No. "))
+                    && !(checker[1].toUpperCase().equals(checker[1]))) {
+
+                for (String section : sections) {
+
+                    measureAndText = tabSplit.split(section);
+                    if (measureAndText.length > 1) {
+                        fullWidth.append(measureAndText[1]);
+                    }
+                    }
+                fullWidth.append("\n");
+                
+
+
+            } else if (sections.length == 1
                     && sections.length > 140) {
 
                 measureAndText = tabSplit.split(sections[0]);
@@ -566,7 +593,7 @@ public class IssueProcessor {
 
             } else {
 
-
+                fullWidthFlag = false;
                 boolean columnOnePresent = false;
                 boolean columnTwoPresent = false;
                 boolean columnThreePresent = false;
@@ -640,6 +667,8 @@ public class IssueProcessor {
                 "[End Non-placed Text]\n");
         indexEntries.append(
                 "[End Index Entries]\n");
+        fullWidth.append(
+                "[End Full-Width Moved After Columns]\n");
 
 
         List<String> columns = new ArrayList<>();
@@ -648,36 +677,37 @@ public class IssueProcessor {
         columns.add(columnTwo.toString());
         columns.add(columnThree.toString());
         columns.add(strays.toString());
+        columns.add(fullWidth.toString());
         columns.add(indexEntries.toString());
 
         page.setColumns(columns);
 
 
-        for (String column : columns) {
-            System.out.println(column);
-        }
+//        for (String column : columns) {
+//            System.out.println(column);
+//        }
 
         return page;
 
     }
-    
-    private String processIndexLine(String line){
-        
+
+    private String processIndexLine(String line) {
+
         String[] sections = colBreak.split(line);
         StringBuilder lineBuilder = new StringBuilder();
-        
-        for (String section: sections){
-            
+
+        for (String section : sections) {
+
             String[] measureAndText = tabSplit.split(section);
-            if (measureAndText.length > 1){
-            lineBuilder.append(measureAndText[1]);
+            if (measureAndText.length > 1) {
+                lineBuilder.append(measureAndText[1]);
             }
-            
+
         }
         line = lineBuilder.toString();
-                
+
         return line;
-        
+
     }
 
 

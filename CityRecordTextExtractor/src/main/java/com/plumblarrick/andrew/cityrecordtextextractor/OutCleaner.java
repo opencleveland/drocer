@@ -64,7 +64,7 @@ public class OutCleaner {
         StringBuilder textToMove = new StringBuilder();
         Boolean holdingTextToMove = false;
         String line = textIn.readLine();
-        while (line != null){
+        while ((line = textIn.readLine()) != null){
 
         if (line.startsWith("Ord. No. ")) {
 
