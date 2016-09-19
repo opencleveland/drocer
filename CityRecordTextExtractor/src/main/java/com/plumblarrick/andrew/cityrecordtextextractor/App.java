@@ -20,10 +20,17 @@ public class App {
         String outFileName = args[1];
         String orderedFileName = "sorted" + outFileName;
         IssueProcessor proc = new IssueProcessor();
+        //OutCleaner clean = new OutCleaner();
+        
+        
         String status = proc.extractIssue(fileName, outFileName);
         System.out.println(status);
+        
+        
         IssueModel issue = proc.readLinesToPages();
         proc.printIssue(issue, orderedFileName);
+        //clean.cleanUpFullWidth(orderedFileName);
+        
         
         
     }

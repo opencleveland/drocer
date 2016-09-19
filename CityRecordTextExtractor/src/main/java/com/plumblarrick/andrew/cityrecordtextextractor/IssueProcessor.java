@@ -27,9 +27,16 @@ import java.util.regex.Pattern;
  */
 public class IssueProcessor {
 
-    String startPdfFileName;
-    String firstTextFileName;
-    String sortedColumnsFileName;
+    private String startPdfFileName;
+    private String firstTextFileName;
+    private String sortedColumnsFileName;
+    private Boolean indexFlag = false;
+    Pattern tabSplit = Pattern.compile("\\\t");
+    Pattern colBreak = Pattern.compile("\\|");
+    Pattern firstLineIssuePagination = Pattern.compile(
+            "[0-9]{1,3}\\t([0-9]{1,3})\\s*");
+    Matcher pageMatcher = firstLineIssuePagination.matcher("");
+
 
     /**
      * Instantiates an IsssueExtractorPositional object that handles interaction
@@ -41,7 +48,6 @@ public class IssueProcessor {
      * @return String Will either confirm successful extraction to "example.txt"
      * or indicate that "example.pdf" was not extracted.
      */
-
     public String extractIssue(String fileName, String outFileName) {
 
         startPdfFileName = fileName;
@@ -163,6 +169,9 @@ public class IssueProcessor {
     protected Page processPage(Page page) {
 
         //as above
+        if (indexFlag == true) {
+            page = processIndexPage(page);
+        }
 
         switch (page.getCountedPageNum()) {
 
@@ -179,6 +188,8 @@ public class IssueProcessor {
 
             case 3:
 
+                indexFlag = false;
+                //ensures flag reset once in each issue
                 page = processCRFirstBodyPage(page);
                 break;
 
@@ -188,6 +199,13 @@ public class IssueProcessor {
                 break;
 
         }
+        return page;
+    }
+
+
+    protected Page processIndexPage(Page page) {
+
+        page = processSimplePage(page);
         return page;
     }
 
@@ -225,8 +243,7 @@ public class IssueProcessor {
         int lineCounter = 0;
         String header = "";
 
-        Pattern colBreak = Pattern.compile("\\|");
-        Pattern tabSplit = Pattern.compile("\\\t");
+
         StringBuilder headerContent = new StringBuilder();
         String content = "";
 
@@ -278,9 +295,7 @@ public class IssueProcessor {
         int numColsOnLine = 0;
         int xAxisStart = 0;
         String text = "";
-        Pattern firstLineIssuePagination = Pattern.compile(
-                "[0-9]{1,3}\\t([0-9]{1,3})\\s*");
-        Matcher pageMatcher = firstLineIssuePagination.matcher("");
+
 
         for (int z = lineCounter; z < lines.size(); z++) {
 
@@ -388,6 +403,55 @@ public class IssueProcessor {
 
     }
 
+    private int findIndexStart(Page page) {
+
+        List<String> lines = page.getPageContents();
+        int indexStartLine = 0;
+        int lineCounter = 0;
+        for (String line : lines) {
+
+            lineCounter++;
+            String[] sections = colBreak.split(line);
+            if (sections.length == 1) {
+                String[] colOne = tabSplit.split(sections[0]);
+                String colOneText = "";
+                if (colOne.length > 1) {
+                    colOneText = colOne[1];
+                }
+                if (colOneText.startsWith("Index")) {
+                    //check ahead
+                    int checkAheadLine = lineCounter;
+                    boolean checkTest = false;
+                    int i = 0;
+
+                    while (checkTest == false && i < 8) {
+                        String aheadLine = lines.get(lineCounter + i);
+                        i++;
+                        String[] aheadSections = colBreak.split(aheadLine);
+                        for (int z = 0; z < aheadSections.length; z++) {
+                            String[] col = tabSplit.split(aheadSections[z]);
+                            String colText = "";
+                            if (col.length >= 1) {
+                                colText = col[1];
+                            }
+                            if (colText.startsWith("Bold figures")) {
+                                checkTest = true;
+
+                            }
+                        }
+                    }
+                    if (checkTest == true) {
+                        indexStartLine = lineCounter;
+                    }
+
+                }
+
+            }
+
+        }
+
+        return indexStartLine;
+    }
 
     protected Page processCRMainBodyPage(Page page) {
 
@@ -395,28 +459,28 @@ public class IssueProcessor {
         int numColsOnLine = 0;
         int lineCounter = 0;
         String pNum = "";
-        Pattern tabSplit = Pattern.compile("\\\t");
+        int indexStartLine = 0;
+
 
         String[] measureAndText;
         String text = "";
         int xAxisStart = 0;
-
-        boolean indexFlag = false;
-
-
-        Pattern firstLineIssuePagination = Pattern.compile(
-                "[0-9]{1,3}\\t([0-9]{1,3})\\s*");
-        Matcher pageMatcher = firstLineIssuePagination.matcher("");
-
-        Pattern colBreak = Pattern.compile("\\|");
-
+        String[] checker = new String[2];
 
         StringBuilder columnOne = new StringBuilder();
+        columnOne.append("[Start Column One]\n");
         StringBuilder columnTwo = new StringBuilder();
+        columnTwo.append("[Start Column Two]\n");
         StringBuilder columnThree = new StringBuilder();
+        columnThree.append("[Column Three Start]\n");
         StringBuilder strays = new StringBuilder();
         strays.append("[Couldn't place these:] \n");
         StringBuilder indexEntries = new StringBuilder();
+        
+
+        if (!indexFlag) {
+            indexStartLine = findIndexStart(page);
+        }
 
         for (String line : lines) {
 
@@ -430,11 +494,33 @@ public class IssueProcessor {
             int columnTwoLine = 230;
             int columnThreeLine = 380;
 
+            if (sections.length >= 1) {
+                checker = tabSplit.split(sections[0]);
+            }
+            
+            if (indexStartLine != 0 && lineCounter == indexStartLine){
+                
+                indexFlag = true;
+                line = processIndexLine(line);
+                indexEntries.append(line);
+                indexEntries.append("\n");
+               
+                continue;
+                
+            }
+            if (indexFlag){
+                
+                line = processIndexLine(line);
+                indexEntries.append(line);
+                indexEntries.append("\n");
+                continue;
+            }
+
+
             if (line.equals("") || line.equals("\n") || line.equals(
                     " ")) {
                 continue;
             }
-
 
             if (lineCounter == 2) {
 
@@ -470,121 +556,8 @@ public class IssueProcessor {
                 }
                 page.setFooter(line);
 
-
-            }
-
-
-//            if (sections.length == 3) {
-//
-//                //look for three column and two column patterns 
-//                //far from the regular layout
-//
-//                int[] colPositions = new int[3];
-//                int offGrid = 0;
-//                int[] colMetric = {74, 230, 380};
-//
-//                for (int i = 0; i < 3; i++) {
-//
-//                    measureAndText = tabSplit.split(sections[i]);
-//                    colPositions[i] = Integer.parseInt(measureAndText[0]);
-//
-//                }
-//                for (int i = 0; i < 3; i++) {
-//
-//                    int diff = 0;
-//                    diff = colPositions[i] - colMetric[i];
-//                    if (diff < 0) {
-//                        diff = 0 - diff;
-//                    }
-//                    offGrid = offGrid + diff;
-//
-//                }
-//
-//                if (offGrid > 250) {
-//
-//                    for (int i = 0; i < 3; i++) {
-//
-//                        measureAndText = tabSplit.split(sections[i]);
-//                        columnOne.append(measureAndText[1]);
-//                        columnOne.append("\t");
-//                    }
-//                    columnOne.append("\n");
-//                    continue;
-//
-//                }
-//
-//            }
-//
-//            if (sections.length == 2) {
-//
-//                int[] colPositions = new int[2];
-//                int offGrid = 0;
-//                int[] colMetric = {74, 305};
-//
-//                for (int i = 0; i < 2; i++) {
-//
-//                    measureAndText = tabSplit.split(sections[i]);
-//                    colPositions[i] = Integer.parseInt(measureAndText[0]);
-//
-//                }
-//                for (int i = 0; i < 2; i++) {
-//
-//                    int diff = 0;
-//                    diff = colPositions[i] - colMetric[i];
-//                    if (diff < 0) {
-//                        diff = 0 - diff;
-//                    }
-//                    offGrid = offGrid + diff;
-//
-//                }
-//
-//                if (offGrid > 120) {
-//
-//                    for (int i = 0; i < 2; i++) {
-//
-//                        measureAndText = tabSplit.split(sections[i]);
-//                        columnOne.append(measureAndText[1]);
-//                        columnOne.append("\t");
-//                    }
-//                    columnOne.append("\n");
-//                    continue;
-//
-//                }
-            //} //index processing -- this now renders up to first several lines
-            //of index pages incorrectly as 'column one' rather than index. 
-            //need a fix but not sure how to do it without carrying an index 
-            //flag from page to page. 
-            //To be addressed after further validation that we are getting
-            //in-order-ness right
-            else if (sections.length == 1 && sections[0].endsWith("Index")) {
-                indexFlag = true;
-                String[] indexContent = sections[0].split("\t");
-                indexEntries.append(indexContent[1]);
-                indexEntries.append("\n");
-            } else if (sections.length >= 25) {
-                //this will be an Index line
-                indexFlag = true;
-                String[] indexContent = sections[0].split("\t");
-                String[] indexedPageNum = sections[sections.length - 1].split(
-                        "\t");
-                if (indexContent.length >= 2) {
-                    indexEntries
-                            .append(indexContent[1] + " :\t" + indexedPageNum[1]);
-                }
-
-                indexEntries.append("\n");
-
-
-            } else if (indexFlag) {
-                //since need to capture parts of multi-line entries that won't match the above
-                String[] indexContent = sections[0].split("\t");
-                if (indexContent.length >= 2) {
-                    indexEntries.append(indexContent[1]);
-                    indexEntries.append("\n");
-                }
-
-            } else if (sections.length == 1 
-                    && sections.length > 150) {
+            } else if (sections.length == 1
+                    && sections.length > 140) {
 
                 measureAndText = tabSplit.split(sections[0]);
                 if (measureAndText.length > 1) {
@@ -629,13 +602,13 @@ public class IssueProcessor {
                             < columnThreeLine * .97) {
                         columnTwo.append(text);
                         columnTwoPresent = true;
-                    } else if (xAxisStart >= columnThreeLine * 0.97
-                            && xAxisStart
-                            < columnThreeLine * 1.5) {
+                    } else if (xAxisStart >= columnThreeLine * 0.97) {
                         columnThree.append(text);
                         columnThreePresent = true;
                     } else {
-                        strays.append(xAxisStart + " " + text);
+                        strays.append(xAxisStart);
+                        strays.append(" ");
+                        strays.append(text);
                     }
 
 
@@ -657,14 +630,20 @@ public class IssueProcessor {
 
         }//end line iteration
 
-        columnOne.append("[End Column One]\n");
-        columnTwo.append("[End Column Two]\n");
-        columnThree.append("[End Column Three]\n");
-        strays.append("[End Non-placed Text]\n");
-        indexEntries.append("[End Index Entries]\n");
+        columnOne.append(
+                "[End Column One]\n");
+        columnTwo.append(
+                "[End Column Two]\n");
+        columnThree.append(
+                "[End Column Three]\n");
+        strays.append(
+                "[End Non-placed Text]\n");
+        indexEntries.append(
+                "[End Index Entries]\n");
 
 
         List<String> columns = new ArrayList<>();
+
         columns.add(columnOne.toString());
         columns.add(columnTwo.toString());
         columns.add(columnThree.toString());
@@ -680,6 +659,25 @@ public class IssueProcessor {
 
         return page;
 
+    }
+    
+    private String processIndexLine(String line){
+        
+        String[] sections = colBreak.split(line);
+        StringBuilder lineBuilder = new StringBuilder();
+        
+        for (String section: sections){
+            
+            String[] measureAndText = tabSplit.split(section);
+            if (measureAndText.length > 1){
+            lineBuilder.append(measureAndText[1]);
+            }
+            
+        }
+        line = lineBuilder.toString();
+                
+        return line;
+        
     }
 
 
@@ -823,7 +821,8 @@ public class IssueProcessor {
 
 
                 } catch (IOException ex) {
-                    Logger.getLogger(IssueProcessor.class.getName())
+                    Logger.getLogger(IssueProcessor.class
+                            .getName())
                             .log(Level.SEVERE, null, ex);
                 }
 
@@ -831,8 +830,11 @@ public class IssueProcessor {
 
             fileOut.flush();
             fileOut.close();
+
+
         } catch (IOException ex) {
-            Logger.getLogger(IssueProcessor.class.getName())
+            Logger.getLogger(IssueProcessor.class
+                    .getName())
                     .log(Level.SEVERE, null, ex);
         }
 

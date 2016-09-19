@@ -466,6 +466,7 @@ pendent Auditor which confirms
 [end page]
 [Page4]
 [Indexed (running) page912]
+[Start Column One]
 
 that 
 the 
@@ -556,6 +557,7 @@ Chavers.
 Res. No. 1089-98. James A. Branch. 
 Res. No. 1090-98. Sophie Srnowski. 
 [End Column One]
+[Start Column Two]
 Res. No. 1096-98. Captain Donald G. 
 Stewart. 
 CONGRATULATORY RESOLUTIONS 
@@ -647,6 +649,7 @@ nity Development, Finance, Law;
 Committees on Community and Eco- 
 nomic Development, Finance. 
 [End Column Two]
+[Column Three Start]
 Ord. No. 1065-98.
 By Councilman Johnson (by depart-
 mental request).
@@ -743,6 +746,7 @@ the City of Cleveland:
 [end page]
 [Page5]
 [Indexed (running) page913]
+[Start Column One]
 
 Section 1. That the Director of 
 Public Utilities is hereby autho- 
@@ -836,6 +840,7 @@ basis for the Division of Water Pol-
 lution Control, Department of Pub- 
 lic Utilities. 
 [End Column One]
+[Start Column Two]
 Section 2. That the cost of said 
 contract hereby authorized shall be 
 paid from Fund No. 54 SF 001, 
@@ -941,6 +946,7 @@ Section 3. That this ordinance is
 hereby declared to be an emergency 
 measure and, provided it receives 
 [End Column Two]
+[Column Three Start]
 the affirmative vote of two-thirds of
 all the members elected to Council,
 it shall take effect and be in force
@@ -1040,6 +1046,7 @@ on Public Utilities, Finance.
 [end page]
 [Page6]
 [Indexed (running) page914]
+[Start Column One]
 
 Ord. No. 1070-98.
 By Councilmen Willis and Johnson (by departmental request).
@@ -1119,9 +1126,11 @@ ORIGINAL CONTRACT AMOUNT
 SUBSIDIARY AMOUNT 
 REVISED CONTRACT AMOUNT 
 [End Column One]
+[Start Column Two]
 CLEVELAND MEMORIAL GARDENS
 SITE IMPROVEMENTS
 [End Column Two]
+[Column Three Start]
 37,914.83
 12,002.00
 3,360.00
@@ -1191,6 +1200,7 @@ SITE IMPROVEMENTS
 [end page]
 [Page7]
 [Indexed (running) page915]
+[Start Column One]
 
 which alteration has been recommended in writing by the said Director of Parks, Recreation and Properties, coun-
 tersigned by the Mayor, and consented to by the surety on said contract, which price to be paid therefor has
@@ -1281,6 +1291,7 @@ Thence North 56° 06' 52" East,
 Thence South 33° 53' 08" East, 
 240.39 feet to a point; 
 [End Column One]
+[Start Column Two]
 Thence Southeasterly along the 
 arc of a curve to the left, with a 
 radius of 30.00 feet and whose chord 
@@ -1359,6 +1370,7 @@ Thence North 69° 55' 47" East,
 Thence South 34° 08' 55" East, 
 933.21 feet to a point; 
 [End Column Two]
+[Column Three Start]
 Thence North 56° 03' 30" East,
 512.17 feet to a point;
 Thence Northeasterly along the
@@ -1457,6 +1469,7 @@ the Director of Public Service on
 [end page]
 [Page8]
 [Indexed (running) page916]
+[Start Column One]
 
 behalf of the City of Cleveland. The 
 Deed of Easement shall contain 
@@ -1559,6 +1572,7 @@ ordinance grants or shall be consid-
 ered a grant to Permittee any right, 
 privilege or permission to use or to 
 [End Column One]
+[Start Column Two]
 attach or affix any objects to poles 
 descried in Section 1 of this ordi- 
 nance. 
@@ -1654,6 +1668,7 @@ tion 108(b) of the Charter, the pur-
 chases authorized by this ordinance 
 may be made through cooperative 
 [End Column Two]
+[Column Three Start]
 agreements using state procedures.
 The Director of Public Service may
 sign all documents with the State of
@@ -1757,6 +1772,7 @@ to apply for and accept a grant in
 [end page]
 [Page9]
 [Indexed (running) page917]
+[Start Column One]
 
 the approximate amount of $15,000 
 and such other funds as may become 
@@ -1856,6 +1872,7 @@ shall take effect and be in force
 from and after the earliest period 
 allowed by law. 
 [End Column One]
+[Start Column Two]
 Referred to Directors of Public 
 Health, Finance, Law; Committees 
 on Public Health, Finance. 
@@ -1952,6 +1969,7 @@ ing for the usual daily operation of
 a municipal department; now, there- 
 fore, 
 [End Column Two]
+[Column Three Start]
 Be it ordained by the Council of
 the City of Cleveland:
 Section 1. That, notwithstanding
@@ -2053,6 +2071,7 @@ hereby are appropriated:
 [end page]
 [Page10]
 [Indexed (running) page918]
+[Start Column One]
 
 Permanent Parcel No. 029-05-005 
 Parcel No. 1 
@@ -2161,6 +2180,7 @@ Thence South 83° 17' 15" West,
 along the Northerly line of land so 
 conveyed to Dorothy Hutchinson, 
 [End Column One]
+[Start Column Two]
 which is also along the centerline of 
 Hillside Road, a private road, (20 
 feet wide), 102.62 feet to the East- 
@@ -2264,6 +2284,7 @@ it shall take effect and be in force
 immediately upon its passage and 
 approval by the Mayor; otherwise it 
 [End Column Two]
+[Column Three Start]
 shall take effect and be in force
 from and after the earliest period
 allowed by law.
@@ -2372,6 +2393,7 @@ Finance.
 [end page]
 [Page11]
 [Indexed (running) page919]
+[Start Column One]
 
 Ord. No. 1082-98. 
 By Councilmen Jackson and John- 
@@ -2468,6 +2490,7 @@ fore,
 Be it ordained by the Council of 
 the City of Cleveland: 
 [End Column One]
+[Start Column Two]
 Section 1. That pursuant to Sec- 
 tion 183.021 of the Codified Ordi- 
 nances of Cleveland, Ohio 1976, the 
@@ -2577,6 +2600,7 @@ City
 Planning, 
 Finance. 
 [End Column Two]
+[Column Three Start]
 Ord. No. 1084-98.
 By Councilmen Jackson and John-
 son (by departmental request).
@@ -2693,6 +2717,7 @@ authorized and directed to accept
 [end page]
 [Page12]
 [Indexed (running) page920]
+[Start Column One]
 
 the collateral as set forth in the 
 Executive Summary contained in 
@@ -2789,6 +2814,7 @@ Records, said point being on the cen-
 terline of Hillside Road, 20 feet 
 wide, proposed; 
 [End Column One]
+[Start Column Two]
 Thence 
 Easterly 
 along 
@@ -2890,6 +2916,7 @@ to Dorothy Hutchinson, as afore-
 said, 630.19 feet to the Northerly 
 line of land conveyed to Albert 
 [End Column Two]
+[Column Three Start]
 Dunham by deed dated March 11,
 1871 and recorded in Volume 188,
 Page 486a of Cuyahoga County
@@ -3005,6 +3032,7 @@ opment, City Planning, Finance.
 [end page]
 [Page13]
 [Indexed (running) page921]
+[Start Column One]
 
 FIRST READING EMERGENCY 
 ORDINANCES READ IN FULL 
@@ -3093,6 +3121,7 @@ banners are in conjunction with Lutheran Hospital’s on-going banner program, a
 locations of Vestry Avenue, West 25th Street, West 28th Street and Franklin Boulevard as more fully described
 herein:
 [End Column One]
+[Start Column Two]
 Whereas, this Council hereby rati- 
 fies and approves the agreement 
 made by the Mayor and CSX; and 
@@ -3158,6 +3187,7 @@ and East 9th Street for the period of
 June 26, 1998 to July 26, 1998 inclu- 
 sive to publicize their festival. 
 [End Column Two]
+[Column Three Start]
 Whereas, this ordinance consti-
 tutes an emergency measure provid-
 ing for the usual daily operation of
@@ -3231,6 +3261,7 @@ Nays 0.
 [end page]
 [Page14]
 [Indexed (running) page922]
+[Start Column One]
 
 LUTHERAN HOSPITAL PROPOSED BANNER ENCROACHMENT AREA:
 LOCATION: 
@@ -3310,6 +3341,7 @@ tion of a brick retaining wall and a
 portion of a wrought iron and brick 
 pier ornamental fence, which will 
 [End Column One]
+[Start Column Two]
 POLE NUMBER: 
 No #’s 
 1140 
@@ -3356,6 +3388,7 @@ containing 18 square feet of land, be
 the same more or less but subject to 
 all legal highways. 
 [End Column Two]
+[Column Three Start]
 OWNER:
 C.P.P.
 C.E.I.
@@ -3410,6 +3443,7 @@ legal highways.
 [end page]
 [Page15]
 [Indexed (running) page923]
+[Start Column One]
 
 LEGAL DESCRIPTION OF 
 ENCROACHMENT INTO WEST 
@@ -3494,6 +3528,7 @@ mission), to publicize the “Nottingham Village Neighborhood Banner Project”,
 Flags will encroach into the public right-of-way at various locations on St. Clair Avenue and Nottingham Road
 and are more fully described as follows:
 [End Column One]
+[Start Column Two]
 Ord. No. 1045-98. 
 By Councilman Melena. 
 An emergency ordinance authoriz- 
@@ -3566,6 +3601,7 @@ The rules were suspended. Yeas
 third time in full. Passed. Yeas 21. 
 Nays 0. 
 [End Column Two]
+[Column Three Start]
 Ord. No. 1046-98.
 By Councilman Patmon.
 An emergency ordinance authoriz-
@@ -3641,6 +3677,7 @@ Nays 0.
 [end page]
 [Page16]
 [Indexed (running) page924]
+[Start Column One]
 
 PROPOSED ENCROACHMENT AREA FOR BANNERS AND AMERICAN FLAGS:
 LOCATION: 
@@ -3675,6 +3712,7 @@ the earliest period allowed by law.
 Motion to suspend rules. Charter and statutory provisions and place on final passage.
 The rules were suspended. Yeas 21. Nays 0. Read second time. Read third time in full. Passed. Yeas 21. Nays 0.
 [End Column One]
+[Start Column Two]
 POLE NO.: 
 nh127sw/corner 
 516571 
@@ -3717,6 +3755,7 @@ A8110
 NH121A 
 NG1303 
 [End Column Two]
+[Column Three Start]
 SIGNAGE:
 Banner
 American Flag
@@ -3757,6 +3796,7 @@ Banner
 [end page]
 [Page17]
 [Indexed (running) page925]
+[Start Column One]
 
 Ord. No. 1048-98. 
 By Councilman Willis. 
@@ -3840,6 +3880,7 @@ mission), for the period of July 1, 1998 to September 30, 1998, and which banner
 between West 112th and West 114th Streets to publicize the celebration of the church’s tenth year of serving the
 Community, at the locations more fully described herein.
 [End Column One]
+[Start Column Two]
 186 of Maps, Page 21 of Cuyahoga 
 County Records; Course No. 1: thence 
 South 51°-59'-50"' East, along said 
@@ -3917,6 +3958,7 @@ curved line having a radius of 153.16
 feet and a chord which bears South 
 70°-26'-41" West a distance of 127.39 
 [End Column Two]
+[Column Three Start]
 feet; Course No. 9: thence North 44°-
 07'-40" West along a radial line of
 the southerly curved line of re-
@@ -3999,6 +4041,7 @@ Nays 0.
 [end page]
 [Page18]
 [Indexed (running) page926]
+[Start Column One]
 
 OUR FATHER’S HOUSE CHURCH / ENCROACHMENT AREA:
 LOCATION: 
@@ -4083,6 +4126,7 @@ immediately upon its passage and
 approval by the Mayor; otherwise it 
 shall take effect and be in force 
 [End Column One]
+[Start Column Two]
 POLE NUMBER: 
 E-7-25 
 E-7-26 
@@ -4154,6 +4198,7 @@ measure and, provided it receives
 the affirmative vote of two-thirds of 
 all the members elected to Council, 
 [End Column Two]
+[Column Three Start]
 OWNER:
 C.P.P.
 C.P.P.
@@ -4231,6 +4276,7 @@ any time by this Council.
 [end page]
 [Page19]
 [Indexed (running) page927]
+[Start Column One]
 
 Section 4. That this ordinance is 
 hereby declared to be an emergency 
@@ -4337,6 +4383,7 @@ uisite to peddle upon the public
 rights of way outside of the Central 
 Business District; and 
 [End Column One]
+[Start Column Two]
 Whereas, this Council has consid- 
 ered the requests of certain persons 
 to engage in peddling outside of the 
@@ -4442,6 +4489,7 @@ around to last parking area, just
 before this area to your right is a 
 sidewalk, turn right onto this side- 
 [End Column Two]
+[Column Three Start]
 walk. Stay on this sidewalk/trail
 which goes behind upper pavilion to
 main trail going down hill. Go down
@@ -4551,6 +4599,7 @@ Cleveland, Ohio 1976, as enacted by
 [end page]
 [Page20]
 [Indexed (running) page928]
+[Start Column One]
 
 Ordinance No. 565-96, passed April 1, 
 1996, is hereby repealed. 
@@ -4657,6 +4706,7 @@ Permanent Parcel No. 103-01-036 in
 accordance with law to the estimat- 
 ed assessments heretofore filed with 
 [End Column One]
+[Start Column Two]
 the Clerk of this Council pursuant 
 to Resolution No. 1746-97 of this 
 Council. Said board is hereby autho- 
@@ -4757,6 +4807,7 @@ Whereas, this objection is based
 on other legal grounds as set forth 
 in Revised Code Section 4303.292; and 
 [End Column Two]
+[Column Three Start]
 Whereas, this resolution consti-
 tutes an emergency measure provid-
 ing for the immediate preservation
@@ -4863,6 +4914,7 @@ respect to the neighborhood that it
 [end page]
 [Page21]
 [Indexed (running) page929]
+[Start Column One]
 
 substantially interferes with public 
 decency, sobriety, peace or good 
@@ -4959,6 +5011,7 @@ state; and
 Whereas, the place for which the 
 permit is sought has not conformed 
 [End Column One]
+[Start Column Two]
 to the building, safety or health 
 requirements of the governing body 
 of this County or City; and 
@@ -5054,6 +5107,7 @@ an emergency measure providing for
 the usual daily operation of a munic- 
 ipal department; now, therefore, 
 [End Column Two]
+[Column Three Start]
 Be it resolved by the Council of
 the City of Cleveland:
 Section 1. That objection to the
@@ -5154,6 +5208,7 @@ lutions adopted by the Board of
 [end page]
 [Page22]
 [Indexed (running) page930]
+[Start Column One]
 
 County Commissioners for Cuyahoga 
 County as well as the Juvenile 
@@ -5257,6 +5312,7 @@ herein formally serve notice upon
 the Ohio Department of Youth Ser- 
 vices, the Cuyahoga County Board 
 [End Column One]
+[Start Column Two]
 of Commissioners, and the County 
 Juvenile Court Judges, that they are 
 withholding 
@@ -5361,6 +5417,7 @@ tutes an emergency measure provid-
 ing for the usual daily operation of 
 a municipal department; 
 [End Column Two]
+[Column Three Start]
 Now, therefore, be it resolved by
 the Council of the City of Cleveland:
 Section 1. That the Council of the
@@ -5471,6 +5528,7 @@ of the public peace, property, safety
 [end page]
 [Page23]
 [Indexed (running) page931]
+[Start Column One]
 
 and welfare pursuant to Section 
 4303.26 of the Ohio Revised Code. 
@@ -5572,6 +5630,7 @@ An emergency ordinance authoriz-
 ing and directing the Directors of 
 Economic Development and Parks, 
 [End Column One]
+[Start Column Two]
 Recreation and Properties to enter 
 into contract with the Thompson 
 Design Group for the purpose of con- 
@@ -5674,6 +5733,7 @@ The rules were suspended. Yeas
 21. Nays 0. Read third time in full. 
 Passed. Yeas 21. Nays 0. 
 [End Column Two]
+[Column Three Start]
 In compliance with Section 33 of
 the Charter, a copy of the legisla-
 tion was furnished to each member
@@ -5784,6 +5844,7 @@ S t e p h e n s .
 [end page]
 [Page24]
 [Indexed (running) page932]
+[Start Column One]
 
 Approved by Directors of Commu- 
 nity Development, City Planning 
@@ -5902,6 +5963,7 @@ not
 exceed $70,000”. 
 Amendment agreed to. 
 [End Column One]
+[Start Column Two]
 The rules were suspended. Yeas 
 21. Nays 0. Read third time in full. 
 Passed. Yeas 21. Nays 0. 
@@ -6004,6 +6066,7 @@ Industry Council of Cleveland and
 for the annual Fortitude Award 
 Ceremony; and enter into various 
 [End Column Two]
+[Column Three Start]
 contracts for training services for
 the disadvantaged and employment
 and training assistance for dislo-
@@ -6113,6 +6176,7 @@ s a g e .
 [end page]
 [Page25]
 [Indexed (running) page933]
+[Start Column One]
 
 Ord. No. 985-98. 
 By 
@@ -6213,6 +6277,7 @@ The Council adjourned at 9:15 p.m.
 to meet on Monday, June 15, 1998 at 
 7:00 p.m. 
 [End Column One]
+[Start Column Two]
 THE CALENDAR 
 The following measures will be on 
 their final passage at the next meet- 
@@ -6321,6 +6386,7 @@ following
 subcontractors 
 to 
 [End Column Two]
+[Column Three Start]
 Camp Dresser & McKee (“Consul-
 tant”) is hereby approved:
 SUBCONTRACTOR SERVICE
@@ -6425,6 +6491,7 @@ Elyria, Ohio 44035
 [end page]
 [Page26]
 [Indexed (running) page934]
+[Start Column One]
 
 Prime Engineering, Inc. 
 103 Ghent Road 
@@ -6536,6 +6603,7 @@ provide for the immediate purchase
 as the initial amount of such con- 
 tract of the following: 
 [End Column One]
+[Start Column Two]
 Requisition No. 19639 
 which shall be certified against 
 such contract in the sum of Three 
@@ -6652,6 +6720,7 @@ Director Axelrod.
 Nays: None. 
 Absent: None. 
 [End Column Two]
+[Column Three Start]
 Resolution No. 397-98.
 By Director Jackson.
 Resolved, by the Board of Control
@@ -6763,6 +6832,7 @@ Five Thousand and 00/100 Dollars
 [end page]
 [Page27]
 [Indexed (running) page935]
+[Start Column One]
 
 Said requirement contract shall 
 further provide that the Contractor 
@@ -6867,6 +6937,7 @@ Mumford has proposed to the City to
 purchase and develop said parcels; 
 now, therefore, 
 [End Column One]
+[Start Column Two]
 Be it resolved, by the Board of 
 Control of the City of Cleveland that 
 pursuant to the authorization of 
@@ -6968,6 +7039,7 @@ subcontractors by E.P.I. of Cleve-
 land, Inc., contractor for the metal 
 fabrication, rails and guardrails, 
 [End Column Two]
+[Column Three Start]
 overhear coiling doors an shutters
 for the new Cleveland Browns Sta-
 dium, under City Contract 52548, pur-
@@ -7073,6 +7145,7 @@ Absent: None.
 [end page]
 [Page28]
 [Indexed (running) page936]
+[Start Column One]
 
 Resolution No. 405-98. 
 By Director Jackson. 
@@ -7182,6 +7255,7 @@ Application blanks must be prop-
 erly filled out on the official form 
 prescribed by the Civil Service 
 [End Column One]
+[Start Column Two]
 Commission and filed at the office 
 of the commission not later than the 
 final closing date slated in the 
@@ -7278,6 +7352,7 @@ parcel
 located in a Multi-Family District 
 for a depth of 150' and in a One- 
 [End Column Two]
+[Column Three Start]
 Family District for the remainder
 and also occupied by an existing 114
 car accessory off-street parking lot
@@ -7383,6 +7458,7 @@ Board.
 [end page]
 [Page29]
 [Indexed (running) page937]
+[Start Column One]
 
 The following appeals were Grant- 
 ed: 
@@ -7452,6 +7528,7 @@ Each bid must be made in accor-
 dance with the specifications and 
 must be submitted on the blanks 
 [End Column One]
+[Start Column Two]
 supplied for the purpose, all of 
 which may be obtained at the office 
 of the said Commissioner of Pur- 
@@ -7563,6 +7640,7 @@ as authorized by Ordinance No.
 the City of Cleveland, April 6, 
 1998. 
 [End Column Two]
+[Column Three Start]
 Stage Draperies, for the Division of
 Convention 
 Center 
@@ -7688,6 +7766,7 @@ DE-
 [end page]
 [Page30]
 [Indexed (running) page938]
+[Start Column One]
 
 POSIT WILL BE REFUNDED IF 
 THE PLANS AND SPECIFICA- 
@@ -7794,6 +7873,7 @@ CLEVELAND HOPKINS INTER-
 NATIONAL AIRPORT.
 June 10, 1998 and June 17, 1998 
 [End Column One]
+[Start Column Two]
 WEDNESDAY, JULY 1, 1998 
 Dare Supplies, for the Division of 
 Police, Department of Public Safe- 
@@ -7901,6 +7981,7 @@ Whereas, this Council; is satisfied
 that there is good cause for vacate 
 portions of East 12th Street and 
 [End Column Two]
+[Column Three Start]
 Webster Avenue S.E. as hereinafter
 described, and
 Whereas, this resolution consti-
@@ -8012,6 +8093,7 @@ the members elected to Council, it
 [end page]
 [Page31]
 [Indexed (running) page939]
+[Start Column One]
 
 shall take effect and be in force 
 immediately upon its adoption and 
@@ -8108,6 +8190,7 @@ standards
 established by the Public Utilities 
 Commission of Ohio; and 
 [End Column One]
+[Start Column Two]
 Whereas, the elimination of these 
 positions will unfairly harm work- 
 ing families and the Cleveland com- 
@@ -8210,6 +8293,7 @@ substantially interferes with public
 decency, sobriety, peace or good 
 order; and 
 [End Column Two]
+[Column Three Start]
 Whereas, this objection is based
 on other legal grounds as set forth
 in Revised Code Section 4303.292; and
@@ -8318,6 +8402,7 @@ order; and
 [end page]
 [Page32]
 [Indexed (running) page940]
+[Start Column One]
 
 Whereas, this objection is based 
 on other legal grounds as set forth 
@@ -8417,6 +8502,7 @@ allowed by law.
 Passed June 1, 1998. 
 Effective June 10, 1998. 
 [End Column One]
+[Start Column Two]
 Ord. No. 317-98. 
 By Councilmen Gordon and John- 
 son (by departmental request). 
@@ -8517,6 +8603,7 @@ Purchases and Supplies upon a unit
 basis for the Division of Streets, 
 Department of Public Service. 
 [End Column Two]
+[Column Three Start]
 Section 2. The cost of said con-
 tract shall be charged against the
 proper appropriation account and
@@ -8630,6 +8717,7 @@ Cleveland and the Directors of
 [end page]
 [Page33]
 [Indexed (running) page941]
+[Start Column One]
 
 Parks, Recreation and Properties 
 and 
@@ -8736,6 +8824,7 @@ bearing of N 75 degrees 43' 31" E,
 the arc distance of 349.10 feet to a 
 point of spiral curve; 
 [End Column One]
+[Start Column Two]
 Thence 
 continuing 
 along 
@@ -8850,6 +8939,7 @@ Human Resources Division, subject
 to economic restraints of the project 
 and the right of OfficeMax to make 
 [End Column Two]
+[Column Three Start]
 final 
 employment 
 decisions, 
@@ -8980,6 +9070,7 @@ ment and/or Public Service are here-
 [end page]
 [Page34]
 [Indexed (running) page942]
+[Start Column One]
 
 by authorized to enter into an agree- 
 ment with the Village of Highland 
@@ -9095,6 +9186,7 @@ standing, expenditures from Fund 17
 SF 684 shall not exceed the total of 
 all funds received by the City from 
 [End Column One]
+[Start Column Two]
 the Ohio Public Works Commission 
 and the State of Ohio for Improve- 
 ments, services, and agreements con- 
@@ -9190,6 +9282,7 @@ allowed by law.
 Passed June 1, 1998. 
 Effective June 10, 1998. 
 [End Column Two]
+[Column Three Start]
 Ord. No. 683-98.
 By Councilmen Coats and Johnson
 (by departmental request).
@@ -9301,6 +9394,7 @@ Assessment
 [end page]
 [Page35]
 [Indexed (running) page943]
+[Start Column One]
 
 Demonstration Pilot Program, for 
 the purposes set forth in the appli- 
@@ -9400,6 +9494,7 @@ Section 3. That this ordinance is
 hereby declared to be an emergency 
 measure and, provided it receives 
 [End Column One]
+[Start Column Two]
 the affirmative vote of two-thirds of 
 all the members elected to Council, 
 it shall take effect and be in force 
@@ -9502,6 +9597,7 @@ ipal department; now, therefore,
 Be it ordained by the Council of 
 the City of Cleveland: 
 [End Column Two]
+[Column Three Start]
 Section 1. That the Director of
 Public Safety is hereby authorized
 and directed to make a written
@@ -9606,6 +9702,7 @@ Effective June 10, 1998.
 [end page]
 [Page36]
 [Indexed (running) page944]
+[Start Column One]
 
 Ord. No. 857-98.
 By Councilman Johnson (by departmental request).
@@ -9688,6 +9785,7 @@ the earliest period allowed by law.
 Passed June 1, 1998.
 Effective June 10, 1998.
 [End Column One]
+[Start Column Two]
 $12.44 per hour 
 $10.49 per hour 
 $ 9.73 per hour 
@@ -9703,6 +9801,7 @@ Effective
 Date 
 10-1-97 
 [End Column Two]
+[Column Three Start]
 Minimum Maximum
 $18.03 per hour
 $14.99 per hour
@@ -9770,6 +9869,7 @@ $27.42 $34.28
 [end page]
 [Page37]
 [Indexed (running) page945]
+[Start Column One]
 
 Ord. No. 970-98. 
 By Councilmen Britt, Lewis and 
@@ -9865,6 +9965,7 @@ tion 183.021 of the Codified Ordi-
 nances of Cleveland, Ohio, 1976, the 
 Commissioner of Purchases and Sup- 
 [End Column One]
+[Start Column Two]
 plies is hereby authorized to sell 
 Permanent Parcel No(s). 006-20-068 
 and 006-20-140, as more fully de- 
@@ -9973,6 +10074,7 @@ be
 repealed and shall be of no further 
 force or effect. 
 [End Column Two]
+[Column Three Start]
 Section 4. That the consideration
 for the subject parcel shall be estab-
 lished by the Board of Control and
@@ -10075,6 +10177,7 @@ Ohio, 1976, authorizes the President
 [end page]
 [Page38]
 [Indexed (running) page946]
+[Start Column One]
 
 of Council on the behalf of City 
 Council to enter into contracts with 
@@ -10170,6 +10273,7 @@ determine. Alternate bids for a peri-
 od less than one year may be taken 
 if deemed desirable by the Commis- 
 [End Column One]
+[Start Column Two]
 sioner of Purchases and Supplies 
 until provision is made for the 
 requirements for the entire term. 
@@ -10269,6 +10373,7 @@ against such contract duly certified
 by the Director of Finance. (RL 
 2 4 0 0 6 ) 
 [End Column Two]
+[Column Three Start]
 Section 3. That this ordinance is
 hereby declared to be an emergency
 measure and, provided it receives
@@ -10370,885 +10475,654 @@ Chairman, Britt, Jones.
 [End Index Entries]
 [end page]
 [Page39]
-[Indexed (running) page947]
+[Indexed (running) page0]
+[Start Column One]
 
+[End Column One]
+[Start Column Two]
+[End Column Two]
+[Column Three Start]
+[End Column Three]
+[Couldn't place these:] 
+[End Non-placed Text]
 Index to C
+ouncil P
+roceedings
 Bold figures—Final Publication; D—Defeated; R—Reprint; T—Tabled; V—Vetoed;
+Bold type in sections indicates amendments
 AIDS
 1998-99 State AIDS Community Based Care Program — grant — apply for and accept —
-$59,750 for Ohio Department of Health — Health Department (O 1078-98) 
+$59,750 for Ohio Department of Health — Health Department (O 1078-98) . . . . . . . . . . . . . . . . . . . . . . . . . . 917
 Housing Opportunities for Person with AIDS Program — solicit proposals to development,
-implement and operate program — $600,000,00, — Health Department (O 1077-98) 
+implement and operate program — $600,000,00, — Health Department (O 1077-98) . . . . . . . . . . . . . . . . . . . 917
 Alcohol and Drug Addiction Services Board
 Amend Section 1 of Ordinance No. 1646-97, passed October 20, 1997 - relating to a grant
 from Alcohol and Drug Addiction Services Board of Cuyahoga County for 1998 Drug
-Prevention, Treatment and Intervention Program. (O 317-98) 
+Prevention, Treatment and Intervention Program. (O 317-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 940
 Banners
 Case Western Reserve University — permit to stretch banners on Juniper Road, N. W. North
-Campus Village Dormitory (O 1048-98) 
+Campus Village Dormitory (O 1048-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 925
 Cleveland Irish Cultural Festival — permit to stretch banners on CPP poles on Euclid
 Avenue and East 9th Street for the period June 26, 1998 to July 26, 1998
-(O 1042-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 1042-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 921
 Glenville Health Center — permit to stretch banners across St. Clair Ave, near East 107th
-Street from June 8, to July 10, 1998 (O 1046-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Street from June 8, to July 10, 1998 (O 1046-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 923
 Lutheran Hospital — permit to stretch banners at various locations on Vestry Avenue, West
 25th Street, West 28th Street, and Franklin Boulevard in conjunction with their
-on-going banner program (O 1043-98) 
+on-going banner program (O 1043-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 921
 Nottingham Civic Club — permit to stretch 31 banners at various locations of the public
-right-of-way in the areas of St. Clair Avenue and Nottingham Road (O 1047-98) 
+right-of-way in the areas of St. Clair Avenue and Nottingham Road (O 1047-98) . . . . . . . . . . . . . . . . . . . . 923
 Our Father’s House Church — permit to stretch seven banners on Detroit Avenue between
-West 112th Street and West 114th Street (O 1049-98) 
+West 112th Street and West 114th Street (O 1049-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 925
 Sagrada Familia Church — permit to stretch banners at 7750 Detroit Avenue and 7775
-Detroit Avenue for the period from June 5, to June 22, 1998 (O 1045-98) 
+Detroit Avenue for the period from June 5, to June 22, 1998 (O 1045-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . 923
 Saint Aloysius - Saint Joseph Parish — permit to stretch four banners across St. Clair
 Avenue for the period of June, 1998 to June 1999 to celebrate their centennial year
-as a church (O 1073-98) 
+as a church (O 1073-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 916
 Block Grants
 Housing Rehabilitation Programs — expend — $1,275,000 — from Community Development
-Block Grant Program, Year XXIV and Federal HOME Program funds (O 691-98) 
+Block Grant Program, Year XXIV and Federal HOME Program funds (O 691-98) . . . . . . . . . . . . . . . . . . . 931
 Bonds
 Revenue Bonds — Public Power System — $45,000,000 — Utilities Department
-(O 816-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 816-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 CSX Transportation, Incorporated
 Agreement — CSX Corporation to ameliorate adverse environmental impacts due to changes
 in rail traffic resulting from the railroad’s acquisition of certain Conrail assets
-(O 1041-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 1041-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 921
 Norfolk Southern Corporation and Norfolk Southern Railway Company — approving and
-ratifying agreement (O 978-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ratifying agreement (O 978-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Cleveland Clinic Foundation
-Permit — Cleveland Clinic Run — June 20, 1998 — Hermes Race Systems (O 970-98) 
+Permit — Cleveland Clinic Run — June 20, 1998 — Hermes Race Systems (O 970-98) . . . . . . . . . . . . . . . . . . . 945
 Cleveland Municipal Court
 Criminal and civil filing system and retrieve cases — Finance Department — Cleveland
-Municipal Court (O 986-98) 
+Municipal Court (O 986-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
 National Underground Storage, Inc. — lease of space — storage of records — Cleveland
-Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column One]
-ouncil P
-roceedings
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column Two]
-. . . . . . . . . . . . . . . . . . . . . . . . . . 917
-. . . . . . . . . . . . . . . . . . . 917
-940
-925
-921
-923
-921
-. . . . . . . . . . . . . . . . . . . . 923
-925
-. . . . . . . . . . . . . . . . . . . . . . . . . . . 923
-916
-. . . . . . . . . . . . . . . . . . . 931
-932
-921
-932
-. . . . . . . . . . . . . . . . . . . 945
-933
-933
-[End Column Three]
-[Couldn't place these:] 
-213 Bold type in sections indicates amendments208 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [End Non-placed Text]
+Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
+947
 [End Index Entries]
 [end page]
-[Page40]
-[Indexed (running) page948]
+[Page0]
+[Indexed (running) page0]
+[Start Column One]
+[End Column One]
+[Start Column Two]
+[End Column Two]
+[Column Three Start]
+[End Column Three]
+[Couldn't place these:] 
+[End Non-placed Text]
 
+40 The City Record June 10, 1998
 Cleveland Public Power
 Authorizing - Director of Public Utilities - employ one or more consultants - professional
 services - develop and implement telecommunications system - Division of Cleveland
-Public Power. (O 424-98) 
+Public Power. (O 424-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Hazardous or non-hazardous waste or materials, including asbestos assessment and removal
 —purchase by contract labor and materials to test and dispose of — Cleveland Public
-Power — Water Pollution Control (O 679-98) 
-Repair of mother vehicle bodies — Cleveland Public Power (O 1066-98) 
+Power — Water Pollution Control (O 679-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
+Repair of mother vehicle bodies — Cleveland Public Power (O 1066-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Trucks — labor and materials to inspect, test and repair bucket and derrick trucks —
-Cleveland Public Power (O 1069-98) 
+Cleveland Public Power (O 1069-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 913
 Cleveland Theater District
 Equalization Board — appoint second board — Michael Thomas McBride, Curly M. Range and
 Gladys Faye Callahan — Cleveland Theater District — hearing June 12, 1998
-(R 1055-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(R 1055-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 928
 Codified Ordinances
 Amend Section 111.072 of Codified Ordinances relating to hiring of Utility Consultants
-by City Council (O 1071-98) 
+by City Council (O 1071-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 927
 Section 171.61 — Codified Ordinances — make an exception — relating to City employees
 entitled to benefits of federally administered loan and grant programs for home loans
-and grants — Land Reutilization Program (O 1081-98) 
+and grants — Land Reutilization Program (O 1081-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 918
 Communications
 Annual report of Independent Auditor — from Richard E. Jacobs Group, Inc.
-(F 1034-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Brook Park City Council — copy of Res. No. 010-1998 (F 1033-98) 
+(F 1034-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911
+Brook Park City Council — copy of Res. No. 010-1998 (F 1033-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911
 Cleveland Thermal Energy Corporation — Vorys, Sater, — Letter dated May 28, 1998 — RE:
-Case No. 92-154- HT — AEC (F 1035-98) 
+Case No. 92-154- HT — AEC (F 1035-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Excess Property — Reference No. 009-98 — from Division of Purchases and Supplies
-(F 1031-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(F 1031-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911
 Excess Property — Reference No. 101-98 — from Division of Purchases and Supplies
-(F 1032-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(F 1032-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911
 Lorain Avenue, 3913 (Ward 14) — 3919 Lorain, Inc, dba Amigos Food Market — Transfer of
-Ownership Application (F 1037-98) 
+Ownership Application (F 1037-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Objections to estimated Assessments for the Theater District — letter dated June 1, 1998
-from The Glickman Organization — Parcel No. 103-01-36 (F 1746-97-B) 
+from The Glickman Organization — Parcel No. 103-01-36 (F 1746-97-B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911
 Tower City Hotel Community Urban Redevelopment Corporation — Audited Financial Statements
 and Report of Agreed Upon Procedures on the Schedules of Return from Operations for
-the Ritz-Carlton Hotel for the year ended January 31, 1998. (F 1039-98) 
+the Ritz-Carlton Hotel for the year ended January 31, 1998. (F 1039-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Community Development
-Demolition of four school buildings — Community Development Department (O 1007-A-98) 
-Demolition of four school buildings — Community Development Department (O 1007-98) 
+Demolition of four school buildings — Community Development Department (O 1007-A-98) . . . . . . . . . . . . . . 912
+Demolition of four school buildings — Community Development Department (O 1007-98) . . . . . . . . . . . . . . 912-T
 Emergency Shelter Grant Program — $1,208,000.00 — expend funds and enter into contract
-with various non-profit agencies for implementation (O 1082-98) 
+with various non-profit agencies for implementation (O 1082-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 919
 Finance/Pointe Building — renovation — Community Development Department
-(O 2194-97) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 2194-97) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Section 171.61 — Codified Ordinances — make an exception — relating to City employees
 entitled to benefits of federally administered loan and grant programs for home loans
-and grants — Land Reutilization Program (O 1081-98) 
+and grants — Land Reutilization Program (O 1081-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 918
 Community Development Block Grant Program
 Community Response Unit — expend $1,000,000.00 — from Community Development Block Grant
-Year XXIV — Safety Department (O 768-98) 
+Year XXIV — Safety Department (O 768-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Housing Rehabilitation Programs — expend — $1,275,000 — from Community Development
-Block Grant Program, Year XXIV and Federal HOME Program funds (O 691-98) 
+Block Grant Program, Year XXIV and Federal HOME Program funds (O 691-98) . . . . . . . . . . . . . . . . . . . 931
 Neighborhood Development Activities — enter into or amend contracts with various social
 service agencies, community development or local development corporations — expend
-funds for operation of programs — $6,300,000 (O 824-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column One]
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column Two]
-931
-931
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
-913
-928
-927
-918
-911
-911
-912
-911
-911
-912
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
-. . . . . . . . . . . . . . 912
-. . . . . . . . . . . . . . 912-T
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 919
-931
-918
-931
-. . . . . . . . . . . . . . . . . . . 931
-932
-[End Column Three]
-[Couldn't place these:] 
-212 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [End Non-placed Text]
+funds for operation of programs — $6,300,000 (O 824-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
+948
 [End Index Entries]
 [end page]
-[Page41]
-[Indexed (running) page949]
+[Page0]
+[Indexed (running) page0]
+[Start Column One]
+[End Column One]
+[Start Column Two]
+[End Column Two]
+[Column Three Start]
+[End Column Three]
+[Couldn't place these:] 
+[End Non-placed Text]
 
+June 10, 1998 The City Record 41
 Condolences
-Branch, James A. (R 1089-98) 
-Chavers, Hilda Marie (R 1088-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Smith, Alex Jr. (R 1087-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Srnowski, Sophie (R 1090-98) 
-Stewart, Captain Donald G (R 1096-98) 
+Branch, James A. (R 1089-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
+Chavers, Hilda Marie (R 1088-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
+Smith, Alex Jr. (R 1087-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
+Srnowski, Sophie (R 1090-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
+Stewart, Captain Donald G (R 1096-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Congratulations
-Dalton, Reverend John Charles (R 1091-98) 
-Haren, Father Thomas (R 1092-98) 
+Dalton, Reverend John Charles (R 1091-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
+Haren, Father Thomas (R 1092-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Council
 Amend Section 111.072 of Codified Ordinances relating to hiring of Utility Consultants
-by City Council (O 1071-98) 
+by City Council (O 1071-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 927
 Juvenile Detention Center and Affiliated Court Buildings — East 22nd Street — withhold
-local community approval (R 1061-98) 
+local community approval (R 1061-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 929
 Professional consulting services — Watson & Watson — directing payment of Voucher No.
-104155 — City Council (O 977-98) 
+104155 — City Council (O 977-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 945
 Cuyahoga Community College
 Ohio Peace Officers Training — provide for ten students — contract — Cuyahoga Community
-College. (O 82-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+College. (O 82-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 940
 Demolition
-Demolition of four school buildings — Community Development Department (O 1007-A-98) 
+Demolition of four school buildings — Community Development Department (O 1007-A-98) . . . . . . . . . . . . . . 912
 Easements
 East Ohio Gas Company — easement — Erieside Avenue and West 3rd Street.
-(O 1072-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 1072-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 915
 Economic Development Department
 Authorizing - Mayor - Directors of Parks, Recreation and Properties and Economic
 Development - enter into Purchase Agreement - Office Max, Inc. - City-owned property
-- Village of Highland Hills (O 478-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+- Village of Highland Hills (O 478-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 940
 Downtown Development Coordinators — contract — develop and administer program for
-marketing Cleveland as a place to produce a major motion picture (O 1084-98). . . . . . . . . . . . . . . . . . . . . 
+marketing Cleveland as a place to produce a major motion picture (O 1084-98). . . . . . . . . . . . . . . . . . . . . 919
 EPA Brownsfields Economic Development Initiative Brownfield Assessment Demonstration Pilot
 Program — apply for and accept grant— enter into contract with WIRE-Net to
-implement program (O 699-98) 
+implement program (O 699-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 942
 Equalization Board — appoint second board — Michael Thomas McBride, Curly M. Range and
 Gladys Faye Callahan — Cleveland Theater District — hearing June 12, 1998
-(R 1055-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(R 1055-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 928
 Fanta Equipment Company — 6601 Storer Avenue — provide partial economic development
 assistance for construction and purchase of machinery and equipment — $100,000.00
-— Economic Development Department (O 1085-98) 
+— Economic Development Department (O 1085-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 919
 Planning study — West Side Market and the larger Market District — contract — Thompson
-Design Group (O 322-98) 
+Design Group (O 322-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Property — necessity and intention to appropriate property for the development of
-a Corporate Office Park in Ward 20 — Economic Development Department (R 1086-98) 
+a Corporate Office Park in Ward 20 — Economic Development Department (R 1086-98) . . . . . . . . . . . . . 920
 Property — to be appropriated in Ward 20 — development of a Corporate Office Park —
-Economic Development Department (O 1080-98) 
+Economic Development Department (O 1080-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 917
 Emergency Shelter Program
 Emergency Shelter Grant Program — $1,208,000.00 — expend funds and enter into contract
-with various non-profit agencies for implementation (O 1082-98) 
-[End Column One]
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column Two]
-912
-912
-912
-912
-912
-912
-912
-927
-929
-945
-940
-. . . . . . . . . . . . . . 912
-915
-940
-919
-942
-928
-919
-931
-. . . . . . . . . . . . . 920
-917
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 919
-[End Column Three]
-[Couldn't place these:] 
-212 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [End Non-placed Text]
+with various non-profit agencies for implementation (O 1082-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 919
+949
 [End Index Entries]
 [end page]
-[Page42]
-[Indexed (running) page950]
+[Page0]
+[Indexed (running) page0]
+[Start Column One]
+[End Column One]
+[Start Column Two]
+[End Column Two]
+[Column Three Start]
+[End Column Three]
+[Couldn't place these:] 
+[End Non-placed Text]
 
+42 The City Record June 10, 1998
 Encroachments
 Lutheran Hospital — permit to encroach on portions of public right-of-way of Vestry
 Avenue and West 25th Street to construct use and maintain a directional sign, brick
-retaining wall and ornamental fence (O 1044-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+retaining wall and ornamental fence (O 1044-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 922
 Saint Aloysius - Saint Joseph Parish — permit to stretch four banners across St. Clair
 Avenue for the period of June, 1998 to June 1999 to celebrate their centennial year
-as a church (O 1073-98) 
+as a church (O 1073-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 916
 Environment Division
-Lead Detectors, two portable — purchase — Division of Environment (O 819-98) 
+Lead Detectors, two portable — purchase — Division of Environment (O 819-98) . . . . . . . . . . . . . . . . . . . . . . . 943
 Equalization Board
 Equalization Board — appoint second board — Michael Thomas McBride, Curly M. Range and
 Gladys Faye Callahan — Cleveland Theater District — hearing June 12, 1998
-(R 1055-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(R 1055-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 928
 Federal HOME Program
 Housing Rehabilitation Programs — expend — $1,275,000 — from Community Development
-Block Grant Program, Year XXIV and Federal HOME Program funds (O 691-98) 
+Block Grant Program, Year XXIV and Federal HOME Program funds (O 691-98) . . . . . . . . . . . . . . . . . . . 931
 Finance Department
 Amend Sections 16 and 41 of Ord. No. 436-97, passed April 14, 1997, as amended by Ord.
-No. 1474-97, passed Oct. 13, 1997 — various classifications (O 857-98) 
+No. 1474-97, passed Oct. 13, 1997 — various classifications (O 857-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 944
 Copier/ printers, multi-functional — various divisions of City Government — Finance
-Department (O 1065-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Department (O 1065-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Criminal and civil filing system and retrieve cases — Finance Department — Cleveland
-Municipal Court (O 986-98) 
-Moral Claims — Finance Department (O 987-98) 
+Municipal Court (O 986-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
+Moral Claims — Finance Department (O 987-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
 National Underground Storage, Inc. — lease of space — storage of records — Cleveland
-Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
 Professional consulting services — Watson & Watson — directing payment of Voucher No.
-104155 — City Council (O 977-98) 
+104155 — City Council (O 977-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 945
 Vehicles, on-road and off-road equipment — various division of City government — Finance
-Department (O 1074-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Department (O 1074-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 916
 Grants
 1997 Violence Against Women Act Program — grant— apply for and accept — $340,083 from
-Cuyahoga County Criminal Justice Services — Law Department (O 1075-98) 
+Cuyahoga County Criminal Justice Services — Law Department (O 1075-98) . . . . . . . . . . . . . . . . . . . . . . . . 916
 1998-99 State AIDS Community Based Care Program — grant — apply for and accept —
-$59,750 for Ohio Department of Health — Health Department (O 1078-98) 
+$59,750 for Ohio Department of Health — Health Department (O 1078-98) . . . . . . . . . . . . . . . . . . . . . . . . . . 917
 EPA Brownsfields Economic Development Initiative Brownfield Assessment Demonstration Pilot
 Program — apply for and accept grant— enter into contract with WIRE-Net to
-implement program (O 699-98) 
+implement program (O 699-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 942
 Emergency Shelter Grant Program — $1,208,000.00 — expend funds and enter into contract
-with various non-profit agencies for implementation (O 1082-98) 
+with various non-profit agencies for implementation (O 1082-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 919
 Ryan White Planning and Evaluation Project — grant — apply for and accept — $15,000
-— from Ohio Department of Health (O 1076-98) 
+— from Ohio Department of Health (O 1076-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 916
 Health Division
 1998-99 State AIDS Community Based Care Program — grant — apply for and accept —
-$59,750 for Ohio Department of Health — Health Department (O 1078-98) 
+$59,750 for Ohio Department of Health — Health Department (O 1078-98) . . . . . . . . . . . . . . . . . . . . . . . . . . 917
 Housing Opportunities for Person with AIDS Program — solicit proposals to development,
-implement and operate program — $600,000,00, — Health Department (O 1077-98) 
+implement and operate program — $600,000,00, — Health Department (O 1077-98) . . . . . . . . . . . . . . . . . . . 917
 Medical services for American veterans — McCafferty health Center — Lease by Way
 of Concession with U. S. Department of Veterans Affairs for five years — Health
-Department (O 1079-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Department (O 1079-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 917
 Ryan White Planning and Evaluation Project — grant — apply for and accept — $15,000
-— from Ohio Department of Health (O 1076-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column One]
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column Two]
-922
-916
-. . . . . . . . . . . . . . . . . . . . . . . 943
-928
-. . . . . . . . . . . . . . . . . . . 931
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 944
-912
-933
-933
-933
-945
-916
-. . . . . . . . . . . . . . . . . . . . . . . . 916
-. . . . . . . . . . . . . . . . . . . . . . . . . . 917
-942
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 919
-916
-. . . . . . . . . . . . . . . . . . . . . . . . . . 917
-. . . . . . . . . . . . . . . . . . . 917
-917
-916
-[End Column Three]
-[Couldn't place these:] 
-208 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [End Non-placed Text]
+— from Ohio Department of Health (O 1076-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 916
+950
 [End Index Entries]
 [end page]
-[Page43]
-[Indexed (running) page951]
+[Page0]
+[Indexed (running) page0]
+[Start Column One]
+[End Column One]
+[Start Column Two]
+[End Column Two]
+[Column Three Start]
+[End Column Three]
+[Couldn't place these:] 
+[End Non-placed Text]
 
+June 10, 1998 The City Record 43
 Hermes Race Systems
-Permit — Cleveland Clinic Run — June 20, 1998 — Hermes Race Systems (O 970-98) 
-Permit — St. Augustine Run — June 6, 1998 — Hermes Race Systems (O 972-98). . . . . . . . . . . . . . . . . . . . . . . 
+Permit — Cleveland Clinic Run — June 20, 1998 — Hermes Race Systems (O 970-98) . . . . . . . . . . . . . . . . . . . 945
+Permit — St. Augustine Run — June 6, 1998 — Hermes Race Systems (O 972-98). . . . . . . . . . . . . . . . . . . . . . . 945
 Housing Opportunities for Persons with AIDS Program
 Housing Opportunities for Person with AIDS Program — solicit proposals to development,
-implement and operate program — $600,000,00, — Health Department (O 1077-98) 
+implement and operate program — $600,000,00, — Health Department (O 1077-98) . . . . . . . . . . . . . . . . . . . 917
 Housing Rehabilitation Program
 Housing Rehabilitation Programs — expend — $1,275,000 — from Community Development
-Block Grant Program, Year XXIV and Federal HOME Program funds (O 691-98) 
+Block Grant Program, Year XXIV and Federal HOME Program funds (O 691-98) . . . . . . . . . . . . . . . . . . . 931
 JTPA Title II-A
 JTPA Program — accept funds from State of Ohio Bureau of Employment Services for
 administration of program — Fortitude Award Ceremony — authorize funds for food
-and beverages (O 924-98) 
+and beverages (O 924-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Kenmore Construction Company
 Contract No. 51520 — Kenmore Construction Company — grinding pavement — Service
-Department (O 1002-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Department (O 1002-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
 Land Reutilization Program
 East 73rd Street, 1917, 1911, and 1913 (Ward 7) — sell to Ronnie A. Stephens
-(O 771-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Franklin Boulevard, 5206-10 (Ward 17) — sell to Kenneth F. Brichacek (O 1083-98). . . . . . . . . . . . . . . . . . . . . 
+(O 771-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
+Franklin Boulevard, 5206-10 (Ward 17) — sell to Kenneth F. Brichacek (O 1083-98). . . . . . . . . . . . . . . . . . . . . 919
 Linwood, 7122, 7206, and 7210 (Ward 7) — sell to Wendy Y. Beverly and Lenwood P. Beverly.
-(O 773-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 773-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Section 171.61 — Codified Ordinances — make an exception — relating to City employees
 entitled to benefits of federally administered loan and grant programs for home loans
-and grants — Land Reutilization Program (O 1081-98) 
-West 45th Street, 2017 — Lakeside Blueprint Incorporated (O 971-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+and grants — Land Reutilization Program (O 1081-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 918
+West 45th Street, 2017 — Lakeside Blueprint Incorporated (O 971-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 945
 Landmarks Commission
 Schuerlein, Galen — Landmarks Commission — appointment expiring December 31, 1999.
-(F 1040-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(F 1040-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Law Department
 1997 Violence Against Women Act Program — grant— apply for and accept — $340,083 from
-Cuyahoga County Criminal Justice Services — Law Department (O 1075-98) 
+Cuyahoga County Criminal Justice Services — Law Department (O 1075-98) . . . . . . . . . . . . . . . . . . . . . . . . 916
 Lease by Way of Concession
 Medical services for American veterans — McCafferty health Center — Lease by Way
 of Concession with U. S. Department of Veterans Affairs for five years — Health
-Department (O 1079-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Department (O 1079-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 917
 Liquor Permits
-East 65th Street, 3125 — objection — issuance (R 975-98) 
-East 93rd Street, 3661 — objection — transfer of ownership (R 976-98) 
+East 65th Street, 3125 — objection — issuance (R 975-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 939
+East 93rd Street, 3661 — objection — transfer of ownership (R 976-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 939
 Linn Drive, 1058 (Ward 8) — objection — transfer of ownership of C2 and C2X permit
-(R 1058-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(R 1058-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 929
 Linn Drive, 951 (Ward 8) — 951 Linn Corporation, dba Scott Grocery — transfer of
-ownership application (F 1038-98) 
+ownership application (F 1038-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Lorain Avenue, 9601 (Ward 18) — withdraw objection — transfer of ownership of D5 and
-D6 permit — repeal Res. No. 2209-97 (R 1060-98) 
+D6 permit — repeal Res. No. 2209-97 (R 1060-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 929
 Madison Avenue, 10134 (Ward 18) — Sonu Corporation dba 7 Eleven Foodstore 56643 —
-transfer of ownership application (F 1036-98) 
-[End Column One]
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column Two]
-. . . . . . . . . . . . . . . . . . . 945
-945
-. . . . . . . . . . . . . . . . . . . 917
-. . . . . . . . . . . . . . . . . . . 931
-932
-933
-931
-919
-932
-918
-945
-912
-. . . . . . . . . . . . . . . . . . . . . . . . 916
-917
-939
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 939
-929
-912
-929
-912
-[End Column Three]
-[Couldn't place these:] 
-212 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [End Non-placed Text]
+transfer of ownership application (F 1036-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
+951
 [End Index Entries]
 [end page]
-[Page44]
-[Indexed (running) page952]
+[Page0]
+[Indexed (running) page0]
+[Start Column One]
+[End Column One]
+[Start Column Two]
+[End Column Two]
+[Column Three Start]
+[End Column Three]
+[Couldn't place these:] 
+[End Non-placed Text]
 
+44 The City Record June 10, 1998
 Munn Road, 15520 — withdrawing objection — transfer of ownership — repealing Resolution
-No. 376-98 (R 973-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Quincy Avenue, 6017 (Ward 5) — objection — issuance of C1 permit (R 1056-98) 
-Quincy Avenue, 8502 (Ward 6) — objection — C1 permit (R 1064-98) 
+No. 376-98 (R 973-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 939
+Quincy Avenue, 6017 (Ward 5) — objection — issuance of C1 permit (R 1056-98) . . . . . . . . . . . . . . . . . . . . . . . 928
+Quincy Avenue, 8502 (Ward 6) — objection — C1 permit (R 1064-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 930
 West 130th Street, 4200 (Ward 20) — withdraw objection — transfer of ownership of C1
-and C2 permit — repeal Res. No. 167-98 (R 1059-98) 
+and C2 permit — repeal Res. No. 167-98 (R 1059-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 929
 Woodhill Road, 2664 (Ward 4) — objection — transfer of ownership and location of C2 and
-C2X permit (R 1057-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+C2X permit (R 1057-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 928
 Mayor’s Appointments
 Schuerlein, Galen — Landmarks Commission — appointment expiring December 31, 1999.
-(F 1040-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(F 1040-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Mayor’s Office
 Norfolk Southern Corporation and Norfolk Southern Railway Company — approving and
-ratifying agreement (O 978-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ratifying agreement (O 978-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 McCafferty, Thomas F. Health Center
 Medical services for American veterans — McCafferty health Center — Lease by Way
 of Concession with U. S. Department of Veterans Affairs for five years — Health
-Department (O 1079-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Department (O 1079-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 917
 Moral Claims
-Moral Claims — Finance Department (O 987-98) 
+Moral Claims — Finance Department (O 987-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
 Morgan Water Works Facility
 Trac-vac residuals collection systems — labor and materials needed to modify and maintain
-— Morgan Water Works Facility (O 677-98) 
+— Morgan Water Works Facility (O 677-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 National Underground Storage, Inc.
 National Underground Storage, Inc. — lease of space — storage of records — Cleveland
-Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
 Ohio Department of Health
 1998-99 State AIDS Community Based Care Program — grant — apply for and accept —
-$59,750 for Ohio Department of Health — Health Department (O 1078-98) 
+$59,750 for Ohio Department of Health — Health Department (O 1078-98) . . . . . . . . . . . . . . . . . . . . . . . . . . 917
 Ryan White Planning and Evaluation Project — grant — apply for and accept — $15,000
-— from Ohio Department of Health (O 1076-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+— from Ohio Department of Health (O 1076-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 916
 Parks, Recreation and Properties Department
 Authorizing - Mayor - Directors of Parks, Recreation and Properties and Economic
 Development - enter into Purchase Agreement - Office Max, Inc. - City-owned property
-- Village of Highland Hills (O 478-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+- Village of Highland Hills (O 478-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 940
 Cleveland Memorial Gardens — alterations and modifications in Contract No. PI 52012A —
-S. W. Franks Construction Company (O 1070-98) 
+S. W. Franks Construction Company (O 1070-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 914
 Planning study — West Side Market and the larger Market District — contract — Thompson
-Design Group (O 322-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Design Group (O 322-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Peddlers
-Fallest, Marcella — authorization to engage in peddling in Ward 20 (O 1052-98) 
-Fallest, Marcella — authorization to engage in peddling in Ward 19 (O 1054-98) 
-James, Deborah — authorization to engage in peddling in Ward 14. (O 1050-98) 
-White, John — authorization to engage in peddling in Ward 5 (O 1051-98) 
-Wilson, Adam — authorization to engage in peddling in Ward 20 (O 1053-98) 
+Fallest, Marcella — authorization to engage in peddling in Ward 20 (O 1052-98) . . . . . . . . . . . . . . . . . . . . . . . 926
+Fallest, Marcella — authorization to engage in peddling in Ward 19 (O 1054-98) . . . . . . . . . . . . . . . . . . . . . . . 927
+James, Deborah — authorization to engage in peddling in Ward 14. (O 1050-98) . . . . . . . . . . . . . . . . . . . . . . . . 926
+White, John — authorization to engage in peddling in Ward 5 (O 1051-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 926
+Wilson, Adam — authorization to engage in peddling in Ward 20 (O 1053-98) . . . . . . . . . . . . . . . . . . . . . . . . . . 927
+952
+[End Index Entries]
+[end page]
+[Page0]
+[Indexed (running) page0]
+[Start Column One]
 [End Column One]
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+[Start Column Two]
 [End Column Two]
-939
-. . . . . . . . . . . . . . . . . . . . . . . 928
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 930
-929
-928
-912
-932
-917
-933
-931
-933
-. . . . . . . . . . . . . . . . . . . . . . . . . . 917
-916
-940
-914
-931
-. . . . . . . . . . . . . . . . . . . . . . . 926
-. . . . . . . . . . . . . . . . . . . . . . . 927
-. . . . . . . . . . . . . . . . . . . . . . . . 926
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 926
-. . . . . . . . . . . . . . . . . . . . . . . . . . 927
+[Column Three Start]
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
-[End Index Entries]
-[end page]
-[Page45]
-[Indexed (running) page953]
 
+June 10, 1998 The City Record 45
 Permits
 American Lung Association — consent and approval of a permit for a bike-a-thon, short
-run and walk on June 14, 1998 (O 1063-98) 
+run and walk on June 14, 1998 (O 1063-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 927
 Case Western Reserve University — permit to stretch banners on Juniper Road, N. W. North
-Campus Village Dormitory (O 1048-98) 
+Campus Village Dormitory (O 1048-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 925
 Cleveland Irish Cultural Festival — permit to stretch banners on CPP poles on Euclid
 Avenue and East 9th Street for the period June 26, 1998 to July 26, 1998
-(O 1042-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 1042-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 921
 Glenville Health Center — permit to stretch banners across St. Clair Ave, near East 107th
-Street from June 8, to July 10, 1998 (O 1046-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Street from June 8, to July 10, 1998 (O 1046-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 923
 Lutheran Hospital — permit to stretch banners at various locations on Vestry Avenue, West
 25th Street, West 28th Street, and Franklin Boulevard in conjunction with their
-on-going banner program (O 1043-98) 
+on-going banner program (O 1043-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 921
 Lutheran Hospital — permit to encroach on portions of public right-of-way of Vestry
 Avenue and West 25th Street to construct use and maintain a directional sign, brick
-retaining wall and ornamental fence (O 1044-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+retaining wall and ornamental fence (O 1044-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 922
 Nottingham Civic Club — permit to stretch 31 banners at various locations of the public
-right-of-way in the areas of St. Clair Avenue and Nottingham Road (O 1047-98) 
+right-of-way in the areas of St. Clair Avenue and Nottingham Road (O 1047-98) . . . . . . . . . . . . . . . . . . . . 923
 Our Father’s House Church — permit to stretch seven banners on Detroit Avenue between
-West 112th Street and West 114th Street (O 1049-98) 
-Permit — Cleveland Clinic Run — June 20, 1998 — Hermes Race Systems (O 970-98) 
-Permit — St. Augustine Run — June 6, 1998 — Hermes Race Systems (O 972-98). . . . . . . . . . . . . . . . . . . . . . . 
+West 112th Street and West 114th Street (O 1049-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 925
+Permit — Cleveland Clinic Run — June 20, 1998 — Hermes Race Systems (O 970-98) . . . . . . . . . . . . . . . . . . . 945
+Permit — St. Augustine Run — June 6, 1998 — Hermes Race Systems (O 972-98). . . . . . . . . . . . . . . . . . . . . . . 945
 Sagrada Familia Church — permit to stretch banners at 7750 Detroit Avenue and 7775
-Detroit Avenue for the period from June 5, to June 22, 1998 (O 1045-98) 
+Detroit Avenue for the period from June 5, to June 22, 1998 (O 1045-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . 923
 Saint Aloysius - Saint Joseph Parish — permit to stretch four banners across St. Clair
 Avenue for the period of June, 1998 to June 1999 to celebrate their centennial year
-as a church (O 1073-98) 
+as a church (O 1073-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 916
 Police Division
 Computer hardware, software, peripherals and wiring for Police Record Management — Police
-Division (O 863-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Division (O 863-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Post Office
 Postal Service — oppose any attempt to privatize United States Postal Service
-(R 1062-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(R 1062-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 930
 Private Industry Council
 JTPA Program — accept funds from State of Ohio Bureau of Employment Services for
 administration of program — Fortitude Award Ceremony — authorize funds for food
-and beverages (O 924-98) 
+and beverages (O 924-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Public Health Department
 Amend Section 1 of Ordinance No. 1646-97, passed October 20, 1997 - relating to a grant
 from Alcohol and Drug Addiction Services Board of Cuyahoga County for 1998 Drug
-Prevention, Treatment and Intervention Program. (O 317-98) 
+Prevention, Treatment and Intervention Program. (O 317-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 940
 Ohio Peace Officers Training — provide for ten students — contract — Cuyahoga Community
-College. (O 82-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+College. (O 82-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 940
 Purchases/Contracts
 Contract No. 51520 — Kenmore Construction Company — grinding pavement — Service
-Department (O 1002-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Department (O 1002-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
 Copier/ printers, multi-functional — various divisions of City Government — Finance
-Department (O 1065-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Department (O 1065-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Criminal and civil filing system and retrieve cases — Finance Department — Cleveland
-Municipal Court (O 986-98) 
-Demolition of four school buildings — Community Development Department (O 1007-A-98) 
-Demolition of four school buildings — Community Development Department (O 1007-98) 
-Information management systems — implement — Water Division (O 1068-98). . . . . . . . . . . . . . . . . . . . . . . . . . 
-Repair of mother vehicle bodies — Cleveland Public Power (O 1066-98) 
+Municipal Court (O 986-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
+Demolition of four school buildings — Community Development Department (O 1007-A-98) . . . . . . . . . . . . . . 912
+Demolition of four school buildings — Community Development Department (O 1007-98) . . . . . . . . . . . . . . 912-T
+Information management systems — implement — Water Division (O 1068-98). . . . . . . . . . . . . . . . . . . . . . . . . . 913
+Repair of mother vehicle bodies — Cleveland Public Power (O 1066-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Reproducing and binding of record books — Water Pollution Control Division
-(O 1067-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 1067-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 913
 Trucks — labor and materials to inspect, test and repair bucket and derrick trucks —
-Cleveland Public Power (O 1069-98) 
+Cleveland Public Power (O 1069-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 913
 Vehicles, on-road and off-road equipment — various division of City government — Finance
-Department (O 1074-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column One]
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column Two]
-927
-925
-921
-923
-921
-922
-. . . . . . . . . . . . . . . . . . . . 923
-925
-. . . . . . . . . . . . . . . . . . . 945
-945
-. . . . . . . . . . . . . . . . . . . . . . . . . . . 923
-916
-932
-930
-932
-940
-940
-933
-912
-933
-. . . . . . . . . . . . . . 912
-. . . . . . . . . . . . . . 912-T
-913
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
-913
-913
-916
-[End Column Three]
-[Couldn't place these:] 
-208 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [End Non-placed Text]
+Department (O 1074-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 916
+953
 [End Index Entries]
 [end page]
-[Page46]
-[Indexed (running) page954]
-
-Real Estate
-Property — necessity and intention to appropriate property for the development of
-a Corporate Office Park in Ward 20 — Economic Development Department (R 1086-98) 
-Property — to be appropriated in Ward 20 — development of a Corporate Office Park —
-Economic Development Department (O 1080-98) 
-Recognitions
-Kilbane, Patrick and Ann (R 1095-98) 
-Novosel, Paul (R 1094-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Stoudermire, Henry R. (R 1093-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Resolutions — Miscellaneous
-Agreement — CSX Corporation to ameliorate adverse environmental impacts due to changes
-in rail traffic resulting from the railroad’s acquisition of certain Conrail assets
-(O 1041-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-FirstEnergy Corporation — withdraw recently issued layoff notices to employees — return
-to bargaining table (R 974-98) 
-Juvenile Detention Center and Affiliated Court Buildings — East 22nd Street — withhold
-local community approval (R 1061-98) 
-Postal Service — oppose any attempt to privatize United States Postal Service
-(R 1062-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Revenue Bonds
-Revenue Bonds — Public Power System — $45,000,000 — Utilities Department
-(O 816-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Safety Department
-Center and lane lines — paint — purchase labor and materials — Traffic Engineering and
-Parking Division (O 758-98) 
-Community Response Unit — expend $1,000,000.00 — from Community Development Block Grant
-Year XXIV — Safety Department (O 768-98) 
-Computer hardware, software, peripherals and wiring for Police Record Management — Police
-Division (O 863-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Sign post and reflective sheeting — purchase — Traffic Engineering and Parking Division
-(O 759-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Traffic control signal lamps — purchase — Division of Traffic Engineering and Parking
-(O 682-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Traffic paint, thermoplastic material and reflective glass beads — purchase — Traffic
-Engineering and Parking (O 760-98) 
-Traffic signal and sign material equipment — purchase — Traffic Engineering and Parking
-Division (O 683-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Salaries
-Amend Sections 16 and 41 of Ord. No. 436-97, passed April 14, 1997, as amended by Ord.
-No. 1474-97, passed Oct. 13, 1997 — various classifications (O 857-98) 
-Service Department
-Authorizing and Directing - purchase by requirement contract - reclamite asphalt
-rejuvenating agent - Division of Streets - Department of Public Service (O 471-98) 
-Contract No. 51520 — Kenmore Construction Company — grinding pavement — Service
-Department (O 1002-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-East Ohio Gas Company — easement — Erieside Avenue and West 3rd Street.
-(O 1072-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Permit — 1352 West Sixth Street — Limited Partnership — construct railings and
-six (O 1304-96) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Sewers
-Sewer system evaluation survey (City-wide) — apply — Water Pollution Control Loan Fund
-loan —employ consultants to conduct survey (O 678-98) 
-Spring Road Relief Sewer Project — alterations and modifications in Contract No. 50009
-— Water Pollution Control Division (O 909-98) 
+[Page0]
+[Indexed (running) page0]
+[Start Column One]
 [End Column One]
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+[Start Column Two]
 [End Column Two]
-. . . . . . . . . . . . . 920
-917
-912
-912
-912
-921
-939
-929
-930
-932
-943
-931
-932
-943
-942
-943
-942
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 944
-. . . . . . . . . . . . . . . . . 940
-933
-915
-931
-931
-932
+[Column Three Start]
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+
+46 The City Record June 10, 1998
+Real Estate
+Property — necessity and intention to appropriate property for the development of
+a Corporate Office Park in Ward 20 — Economic Development Department (R 1086-98) . . . . . . . . . . . . . 920
+Property — to be appropriated in Ward 20 — development of a Corporate Office Park —
+Economic Development Department (O 1080-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 917
+Recognitions
+Kilbane, Patrick and Ann (R 1095-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
+Novosel, Paul (R 1094-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
+Stoudermire, Henry R. (R 1093-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
+Resolutions — Miscellaneous
+Agreement — CSX Corporation to ameliorate adverse environmental impacts due to changes
+in rail traffic resulting from the railroad’s acquisition of certain Conrail assets
+(O 1041-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 921
+FirstEnergy Corporation — withdraw recently issued layoff notices to employees — return
+to bargaining table (R 974-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 939
+Juvenile Detention Center and Affiliated Court Buildings — East 22nd Street — withhold
+local community approval (R 1061-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 929
+Postal Service — oppose any attempt to privatize United States Postal Service
+(R 1062-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 930
+Revenue Bonds
+Revenue Bonds — Public Power System — $45,000,000 — Utilities Department
+(O 816-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
+Safety Department
+Center and lane lines — paint — purchase labor and materials — Traffic Engineering and
+Parking Division (O 758-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 943
+Community Response Unit — expend $1,000,000.00 — from Community Development Block Grant
+Year XXIV — Safety Department (O 768-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
+Computer hardware, software, peripherals and wiring for Police Record Management — Police
+Division (O 863-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
+Sign post and reflective sheeting — purchase — Traffic Engineering and Parking Division
+(O 759-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 943
+Traffic control signal lamps — purchase — Division of Traffic Engineering and Parking
+(O 682-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 942
+Traffic paint, thermoplastic material and reflective glass beads — purchase — Traffic
+Engineering and Parking (O 760-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 943
+Traffic signal and sign material equipment — purchase — Traffic Engineering and Parking
+Division (O 683-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 942
+Salaries
+Amend Sections 16 and 41 of Ord. No. 436-97, passed April 14, 1997, as amended by Ord.
+No. 1474-97, passed Oct. 13, 1997 — various classifications (O 857-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 944
+Service Department
+Authorizing and Directing - purchase by requirement contract - reclamite asphalt
+rejuvenating agent - Division of Streets - Department of Public Service (O 471-98) . . . . . . . . . . . . . . . . . 940
+Contract No. 51520 — Kenmore Construction Company — grinding pavement — Service
+Department (O 1002-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 933
+East Ohio Gas Company — easement — Erieside Avenue and West 3rd Street.
+(O 1072-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 915
+Permit — 1352 West Sixth Street — Limited Partnership — construct railings and
+six (O 1304-96) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
+Sewers
+Sewer system evaluation survey (City-wide) — apply — Water Pollution Control Loan Fund
+loan —employ consultants to conduct survey (O 678-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
+Spring Road Relief Sewer Project — alterations and modifications in Contract No. 50009
+— Water Pollution Control Division (O 909-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
+954
 [End Index Entries]
 [end page]
-[Page47]
-[Indexed (running) page955]
+[Page0]
+[Indexed (running) page0]
+[Start Column One]
+[End Column One]
+[Start Column Two]
+[End Column Two]
+[Column Three Start]
+[End Column Three]
+[Couldn't place these:] 
+[End Non-placed Text]
 
+June 10, 1998 The City Record 47
 Streets - Vacation
-East 12th Street and Webster Avenue — intention to vacate portions of. (R 563-98) 
-Vacate — Webster Avenue (R 1661-97) 
+East 12th Street and Webster Avenue — intention to vacate portions of. (R 563-98) . . . . . . . . . . . . . . . . . . . . 938
+Vacate — Webster Avenue (R 1661-97) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 938
 West 30th Street and Keene Court, S. W. — intention to vacate portions
-of (R 625-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+of (R 625-98). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 938
 Streets Division
 Authorizing and Directing - purchase by requirement contract - reclamite asphalt
-rejuvenating agent - Division of Streets - Department of Public Service (O 471-98) 
+rejuvenating agent - Division of Streets - Department of Public Service (O 471-98) . . . . . . . . . . . . . . . . . 940
 Summer Employment Program
 JTPA Program — accept funds from State of Ohio Bureau of Employment Services for
 administration of program — Fortitude Award Ceremony — authorize funds for food
-and beverages (O 924-98) 
+and beverages (O 924-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Tabled Legislation
-Demolition of four school buildings — Community Development Department (O 1007-98) 
+Demolition of four school buildings — Community Development Department (O 1007-98) . . . . . . . . . . . . . . 912-T
 Traffic Engineering and Parking Division
 Center and lane lines — paint — purchase labor and materials — Traffic Engineering and
-Parking Division (O 758-98) 
+Parking Division (O 758-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 943
 Sign post and reflective sheeting — purchase — Traffic Engineering and Parking Division
-(O 759-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 759-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 943
 Traffic control signal lamps — purchase — Division of Traffic Engineering and Parking
-(O 682-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 682-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 942
 Traffic paint, thermoplastic material and reflective glass beads — purchase — Traffic
-Engineering and Parking (O 760-98) 
+Engineering and Parking (O 760-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 943
 Traffic signal and sign material equipment — purchase — Traffic Engineering and Parking
-Division (O 683-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Division (O 683-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 942
 U.S. Environmental Protection Agency
 EPA Brownsfields Economic Development Initiative Brownfield Assessment Demonstration Pilot
 Program — apply for and accept grant— enter into contract with WIRE-Net to
-implement program (O 699-98) 
+implement program (O 699-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 942
 Utilities Department
 Authorizing - Director of Public Utilities - employ one or more consultants - professional
 services - develop and implement telecommunications system - Division of Cleveland
-Public Power. (O 424-98) 
+Public Power. (O 424-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Combination cleaners — purchase labor and materials to repair and maintain — Water
-Pollution Control Division (O 817-98) 
-Fire hydrants — repair or replace — Division of water (O 754-98) 
+Pollution Control Division (O 817-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
+Fire hydrants — repair or replace — Division of water (O 754-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Hazardous or non-hazardous waste or materials, including asbestos assessment and removal
 —purchase by contract labor and materials to test and dispose of — Cleveland Public
-Power — Water Pollution Control (O 679-98) 
-Information management systems — implement — Water Division (O 1068-98). . . . . . . . . . . . . . . . . . . . . . . . . . 
+Power — Water Pollution Control (O 679-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
+Information management systems — implement — Water Division (O 1068-98). . . . . . . . . . . . . . . . . . . . . . . . . . 913
 Landscape maintenance at various waterworks facilities and work stations — Water Division
-(O 546-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Repair of mother vehicle bodies — Cleveland Public Power (O 1066-98) 
+(O 546-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911-946-R
+Repair of mother vehicle bodies — Cleveland Public Power (O 1066-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
 Reproducing and binding of record books — Water Pollution Control Division
-(O 1067-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 1067-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 913
 Revenue Bonds — Public Power System — $45,000,000 — Utilities Department
-(O 816-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 816-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Sewer system evaluation survey (City-wide) — apply — Water Pollution Control Loan Fund
-loan —employ consultants to conduct survey (O 678-98) 
+loan —employ consultants to conduct survey (O 678-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Spring Road Relief Sewer Project — alterations and modifications in Contract No. 50009
-— Water Pollution Control Division (O 909-98) 
+— Water Pollution Control Division (O 909-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Trac-vac residuals collection systems — labor and materials needed to modify and maintain
-— Morgan Water Works Facility (O 677-98) 
+— Morgan Water Works Facility (O 677-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Trucks — labor and materials to inspect, test and repair bucket and derrick trucks —
-Cleveland Public Power (O 1069-98) 
+Cleveland Public Power (O 1069-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 913
 Water mains and appurtenances — labor and materials to repair — Water Division
-(O 547-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column One]
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column Two]
-. . . . . . . . . . . . . . . . . . . . 938
-938
-938
-. . . . . . . . . . . . . . . . . 940
-932
-. . . . . . . . . . . . . . 912-T
-943
-943
-942
-943
-942
-942
-931
-932
-931
-931
-913
-911-946-R
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 912
-913
-932
-931
-932
-931
-913
-911-946-R
-[End Column Three]
-[Couldn't place these:] 
-212 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [End Non-placed Text]
+(O 547-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911-946-R
+955
 [End Index Entries]
 [end page]
-[Page48]
-[Indexed (running) page956]
+[Page0]
+[Indexed (running) page0]
+[Start Column One]
+[End Column One]
+[Start Column Two]
+[End Column Two]
+[Column Three Start]
+[End Column Three]
+[Couldn't place these:] 
+[End Non-placed Text]
 
+48 The City Record June 10, 1998
 Village of Highland Hills
 Authorizing - Mayor - Directors of Parks, Recreation and Properties and Economic
 Development - enter into Purchase Agreement - Office Max, Inc. - City-owned property
-- Village of Highland Hills (O 478-98) 
+- Village of Highland Hills (O 478-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 940
 Water Division
-Fire hydrants — repair or replace — Division of water (O 754-98) 
-Information management systems — implement — Water Division (O 1068-98). . . . . . . . . . . . . . . . . . . . . . . . . . 
+Fire hydrants — repair or replace — Division of water (O 754-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
+Information management systems — implement — Water Division (O 1068-98). . . . . . . . . . . . . . . . . . . . . . . . . . 913
 Landscape maintenance at various waterworks facilities and work stations — Water Division
-(O 546-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 546-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911-946-R
 Trac-vac residuals collection systems — labor and materials needed to modify and maintain
-— Morgan Water Works Facility (O 677-98) 
+— Morgan Water Works Facility (O 677-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Water mains and appurtenances — labor and materials to repair — Water Division
-(O 547-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 547-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911-946-R
 Water Mains
 Water mains and appurtenances — labor and materials to repair — Water Division
-(O 547-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 547-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 911-946-R
 Water Pollution Control Division
 Combination cleaners — purchase labor and materials to repair and maintain — Water
-Pollution Control Division (O 817-98) 
+Pollution Control Division (O 817-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Hazardous or non-hazardous waste or materials, including asbestos assessment and removal
 —purchase by contract labor and materials to test and dispose of — Cleveland Public
-Power — Water Pollution Control (O 679-98) 
+Power — Water Pollution Control (O 679-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 Reproducing and binding of record books — Water Pollution Control Division
-(O 1067-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+(O 1067-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 913
 Spring Road Relief Sewer Project — alterations and modifications in Contract No. 50009
-— Water Pollution Control Division (O 909-98) 
+— Water Pollution Control Division (O 909-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 932
 Water Pollution Control Loan Fund
 Sewer system evaluation survey (City-wide) — apply — Water Pollution Control Loan Fund
-loan —employ consultants to conduct survey (O 678-98) 
+loan —employ consultants to conduct survey (O 678-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
 West Side Market
 Planning study — West Side Market and the larger Market District — contract — Thompson
-Design Group (O 322-98) 
-[End Column One]
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-[End Column Two]
-940
-931
-913
-911-946-R
-931
-911-946-R
-911-946-R
-932
-931
-913
-932
-931
-931
-[End Column Three]
-[Couldn't place these:] 
-208 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [End Non-placed Text]
+Design Group (O 322-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 931
+956
 [End Index Entries]
 [end page]
