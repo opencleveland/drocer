@@ -32,6 +32,7 @@ public class IssueProcessor {
     //private String sortedColumnsFileName;
     private Boolean indexFlag = false;
     private Boolean fullWidthFlag = false;
+    private Boolean startBodyPageFullWidth = false;
     private final Pattern tabSplit = Pattern.compile("\\\t");
     private final Pattern colBreak = Pattern.compile("\\|");
     private final Pattern firstLineIssuePagination = Pattern.compile(
@@ -461,6 +462,7 @@ public class IssueProcessor {
         int lineCounter = 0;
         String pNum = "";
         int indexStartLine = 0;
+        fullWidthFlag = false;
 
 
         String[] measureAndText;
@@ -478,10 +480,16 @@ public class IssueProcessor {
         strays.append("[Couldn't place these:] \n");
         StringBuilder indexEntries = new StringBuilder();
         StringBuilder fullWidth = new StringBuilder();
-
+        fullWidth.append(
+                "[Late-page full-width items moved after column area]\n");
+        StringBuilder startingFullWidth = new StringBuilder();
+        startingFullWidth.append(
+                "[Page starting with carry-over full-width content]\n");
 
         if (!indexFlag) {
             indexStartLine = findIndexStart(page);
+            //additional loop through to find if/where index starts
+            //value remains zero if index start is not found
         }
 
         for (String line : lines) {
@@ -502,13 +510,14 @@ public class IssueProcessor {
 
             if (indexStartLine != 0 && lineCounter == indexStartLine) {
 
+
                 indexFlag = true;
                 line = processIndexLine(line);
+
                 indexEntries.append(line);
                 indexEntries.append("\n");
 
                 continue;
-
             }
             if (indexFlag) {
 
@@ -518,13 +527,17 @@ public class IssueProcessor {
                 continue;
             }
 
-
             if (line.equals("") || line.equals("\n") || line.equals(
                     " ")) {
                 continue;
             }
 
             if (lineCounter == 2) {
+                //first line as output by CRTextStripper will be the 
+                //new page indicator
+
+                //second line should be the header text
+                //processed here to extract page numbering
 
                 pageMatcher.reset(sections[0]);
 
@@ -546,6 +559,8 @@ public class IssueProcessor {
                 page.setHeader(line);
 
             } else if (lineCounter == lines.size()) {
+                //last line output from CRTextStripper should be the footer text
+                //processed here to extract through-pagination (indexed pagination)
 
                 pageMatcher.reset(sections[0]);
 
@@ -554,23 +569,49 @@ public class IssueProcessor {
                     pNum = pageMatcher.group(1);
                     page.setIndexPageNum(Integer.parseInt(pNum));
 
-
                 }
                 page.setFooter(line);
+
+            } else if (startBodyPageFullWidth == true
+                    && checker.length > 1
+                    && !(checker[1].startsWith("Ord. No. ")) //                    //&& !(checker[1].toUpperCase().equals(checker[1]))
+                    //                    && lineCounter <= lines.size() - 1) {
+                    ) {
+
+                for (String section : sections) {
+
+                    measureAndText = tabSplit.split(section);
+                    if (measureAndText.length > 1) {
+                        startingFullWidth.append(measureAndText[1]);
+                    }
+                }
+                startingFullWidth.append("\n");
 
             } else if (sections.length == 1
                     && checker.length > 1
                     && Integer.parseInt(checker[0]) < 115
                     && checker[1].startsWith("Ord. No. ")) {
 
+                //looking for the start of ordinances that run to the 
+                //full width of the page (not three columns)
+                //this code will need to be amended if we discover
+                //other uses, within the 'main' CR pages,
+                //of the full-width. But I've only seen it 
+                //for certain ordinance text so far
+
                 fullWidth.append(checker[1]);
                 fullWidthFlag = true;
-
 
             } else if (fullWidthFlag == true
                     && checker.length > 1
                     && !(checker[1].startsWith("Ord. No. "))
-                    && !(checker[1].toUpperCase().equals(checker[1]))) {
+                    //&& !(checker[1].toUpperCase().equals(checker[1]))
+                    && lineCounter < lines.size() - 1) {
+
+                //looks for the absence of lines,
+                //other than the end of the page, 
+                //that would indicate the end
+                //of an ongoing 'full width' run
 
                 for (String section : sections) {
 
@@ -578,9 +619,23 @@ public class IssueProcessor {
                     if (measureAndText.length > 1) {
                         fullWidth.append(measureAndText[1]);
                     }
-                    }
+                }
                 fullWidth.append("\n");
-                
+
+            
+            } else if (lineCounter == (lines.size() - 1)
+                    && fullWidthFlag == true) {
+                //checks for a 'full width' flag being carried to the 
+                //end of the page
+                startBodyPageFullWidth = true;
+                for (String section : sections) {
+                    measureAndText = tabSplit.split(section);
+                    if (measureAndText.length > 1) {
+                        fullWidth.append(measureAndText[1]);
+                    }
+                }
+
+                fullWidthFlag = false;
 
 
             } else if (sections.length == 1
@@ -594,18 +649,19 @@ public class IssueProcessor {
             } else {
 
                 fullWidthFlag = false;
+                //startBodyPageFullWidth = false;
+
                 boolean columnOnePresent = false;
                 boolean columnTwoPresent = false;
                 boolean columnThreePresent = false;
                 boolean straysPresent = false;
                 //determine columns
 
-
                 for (int i = 0; i < sections.length; i++) {
 
-                    String columnOneCandidate = "";
-                    String columnTwoCandidate = "";
-                    String columnThreeCandidate = "";
+//                    String columnOneCandidate = "";
+//                    String columnTwoCandidate = "";
+//                    String columnThreeCandidate = "";
 
                     measureAndText = sections[i].split("\t");
                     if (measureAndText.length == 2) {
@@ -615,6 +671,10 @@ public class IssueProcessor {
                         } catch (NumberFormatException e) {
                             strays.append(measureAndText[1]);
                         }
+                    }
+                    
+                    if (text.startsWith("Ord. No. ")){
+                        startBodyPageFullWidth = false;
                     }
 
                     if (xAxisStart <= columnTwoLine * .9) {
@@ -637,7 +697,6 @@ public class IssueProcessor {
                         strays.append(" ");
                         strays.append(text);
                     }
-
 
                 }//end columnar for loop
 
@@ -669,10 +728,13 @@ public class IssueProcessor {
                 "[End Index Entries]\n");
         fullWidth.append(
                 "[End Full-Width Moved After Columns]\n");
+        startingFullWidth.append(
+                "[End full-width carry over]\n");
 
 
         List<String> columns = new ArrayList<>();
 
+        columns.add(startingFullWidth.toString());
         columns.add(columnOne.toString());
         columns.add(columnTwo.toString());
         columns.add(columnThree.toString());
@@ -682,11 +744,9 @@ public class IssueProcessor {
 
         page.setColumns(columns);
 
-
 //        for (String column : columns) {
 //            System.out.println(column);
 //        }
-
         return page;
 
     }
@@ -737,13 +797,9 @@ public class IssueProcessor {
             String[] sections = colBreak.split(line);
             numColsOnLine = sections.length;
             lineCounter++;
-            //remember this means lineCounter variable is one greater than 
-            //the list index through all following logic
 
             int columnOneLine = 74;
             int columnTwoLine = 305;
-            //int columnThreeLine = 380;
-
 
             boolean columnOnePresent = false;
             boolean columnTwoPresent = false;
@@ -773,7 +829,7 @@ public class IssueProcessor {
                     columnTwoPresent = true;
 
                 } else {
-                    strays.append(xAxisStart + " " + text);
+                    strays.append(xAxisStart).append(" ").append(text);
                 }
 
 
@@ -836,7 +892,7 @@ public class IssueProcessor {
                 try {
 
 
-                    fileOut.append("[Page" + issuePageNumber + "]\n");
+                    fileOut.append("[Page " + issuePageNumber + "]\n");
                     fileOut.append("[Indexed (running) page" + indexPageNumber
                             + "]\n");
                     if (!(columns == null)) {

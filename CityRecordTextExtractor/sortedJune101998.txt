@@ -1,4 +1,4 @@
-[Page0]
+[Page 0]
 [Indexed (running) page0]
 [Start Page 1 ]
 Containing PAGE
@@ -55,7 +55,7 @@ CLEVELAND, OHIO
 Permit No. 1372
 First Class Mail
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
 [Start Page 2 ]
 CITY COUNCIL–LEGISLATIVE
@@ -239,7 +239,7 @@ Robert C. Townsend, II–Bailiff; Kenneth Thomas–Chief Probation Officer,
 Michelle L. Paris–Chief Magistrate
 DIRECTORY OF CITY OFFICIALS
 [end page]
-[Page3]
+[Page 3]
 [Indexed (running) page911]
 City Council
 MONDAY, JUNE 8, 1998
@@ -464,8 +464,10 @@ pendent Auditor which confirms
 [End Column Three]
 [End Non-placed Text]
 [end page]
-[Page4]
+[Page 4]
 [Indexed (running) page912]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 that 
@@ -742,11 +744,14 @@ the City of Cleveland:
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page5]
+[Page 5]
 [Indexed (running) page913]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Section 1. That the Director of 
@@ -1043,150 +1048,24 @@ on Public Utilities, Finance.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page6]
+[Page 6]
 [Indexed (running) page914]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
-ADDITIONS-ORIGINAL ITEMS
-Item #1 Mobilization, demolition, general conditions, bonding, insurance (Lump Sum at 37,914.83) 
-Item #3 Clear and grub - remove scrub vegetation and small trees (7.06 A.C. @ 1,700.00 A.C.) 
-Item #4 Remove large trees (30 @ 112.00 each) 
-Item #13 Topsoil stripping (39,367 C.Y. @ 2.90 C.Y.) 
-Item #14 Topsoil respread (24,460 C.Y. @ 3.00 C.Y.) 
-Item #15 Excavation - cut (14,341 C.Y. @ 2.60 C.Y.) 
-Item #17 Excavation - drainage channel (14,341 C.Y. @ 2.60 C.Y.) 
-Item #19 Silt fence (3,000 L.F. @ 2.50 L.F.) 
-Item #20 Straw bales (16 each @ 10.00 each) 
-Item #21 12" reinforced concrete sewer pipe (56 L.F. @ 25.00) 
-Item #33 Rock channel protection (66 C.Y. @ 100.00 C.Y.) 
-Item #34 Erosion control matting (500 S.Y. @ 6.60 S.Y.) 
-Item #40 ODOT Std. MH-3 (84" dia.)(1 @ 5,000.00) 
-Item #44 ODOT Std. 2-2-13 Catch Basin (1 @ 1,300.00/ea.) 
-Item #46 4" Underdrain under roadway (900 L.F. @ 6.00 L.F.) 
-Item #47 6" HDPE Non-perforated underdrain (30 L.F. @ 8.00 L.F.) 
-Item #51 Mountable curb and gutter (without underdrains) (1,630 L.F. @ 8.50 L.F.) 
-Item #52 Vertical curb and gutter (with underdrains) (1,000 L.F. @ 15.00 L.F.) 
-Item #54 Wheel stops (8 each @ 67.00 each) 
-Item #62 Hydroseeding (117,000 S.Y. @ .77 S.Y.) 
-TOTAL ADDITIONS TO ORIGINAL ITEMS 
-CREDIT - ORIGINAL ITEMS
-Item #5 Sawcut and remove concrete (160 S.Y. @ 21.00 S.Y.) 
-Item #6 Demo concrete walk (Lump Sum @ 600.00) 
-Item #9 Demo curb (42 L.F. @ 6.00 L.F.) 
-Item #10 Remove guardrail (30 L.F. @ 7.00 L.F.) 
-Item #11 Abandon existing drainage structure (1 @ 500.00 each) 
-Item #12 Remove and relocated light pole (1 @ 1,400.00 each) 
-Item #16 Excavation-fill (7,787 C.Y. @ 2.05 C.Y.) 
-Item #18 Fill material (325 L.F. @ 7.00 L.F.) 
-Item #41 ODOT Std. MH-3 (96" dia.)(1 @ 6,100.00) 
-Item #45 4" HDPE perforated underdrain (2,745 L.F. @ 6.00 L.F.) 
-Item #50 Mountable curb and gutter (with underdrains) (245 L.F. @ 15.00 L.F.) 
-Item #59 Blank plot markers (109 each @ 5.50 each) 
-Add Alternate No. 2 (committal shelter)(Lump Sum @ 60,000.00) 
-Add Alternate No. 4 (Blvd. terminus wall)(Lump Sum @ 25,000.00) 
-TOTAL CREDITS TO ORIGINAL ITEMS 
-NEW ITEMS FOR SUBSIDIARY
-Item #103 Debris and pipe removal (Lump Sum @ 14,252.00) 
-Item #104 Remove and dispose of NCB debris (Lump Sum @ 15,000.00) 
-Item #105 Performance of sewer work out of sequence (Lump Sum @ 9,600.00) 
-Item #106 Temporary access drive off Clarkwood to complete sewer work (Lump Sum @ 15,700.00) 
-Item #107 Additional inspection fees for Cuyahoga Sanitary Engineer (Lump Sum @ 8,400.00) 
-Item #108 Labor cost increase (Union wage scale will go up on May 1st and this will cover work 
-that was delayed beyond the contractor’s control) (Lump Sum @ 7,000.00)
-Item #109 Sidewalk along Green Road (7,100 S.F. @ 2.90 S.F.) 
-Item #110 Grading and excavation for sidewalk along Green road (Lump Sum @ 30,000.00) 
-Item #111 Guardrail (825 L.F. @ 16.50 L.F.) 
-Item #112 4" PVC utility sleeves (400 L.F. @ 19.50 L.F.) 
-Item #113 Topsoil re-handling (13,000 C.Y. @ 2.00 C.Y.) 
-Item #114 Split rail fence (700 L.F. @ 12.50) 
-Item #115 Premium back-fill material (500 C.Y. @ 22.55) 
-Item #116 Storm sewer connection (Lump Sum @ 1,850.00) 
-Item #117 Grading and excavation for workhouse access Road (Lump Sum @ 4,650.00) 
-Item #118 9" concrete pavement for workhouse access Road (1,671 S.Y. @ 56.45 S.Y) 
-TOTAL NEW ITEMS FOR SUBSIDIARY 
-ADDITIONS (OVERRUNS) 
-+NEW ITEMS 
-TOTAL ADDITIONS TO ORIGINAL CONTRACT 
-TOTAL ADDITIONS 
---- TOTAL CREDITS 
-TOTAL SUBSIDIARY AMOUNT 
-ORIGINAL CONTRACT AMOUNT 
-SUBSIDIARY AMOUNT 
-REVISED CONTRACT AMOUNT 
 [End Column One]
 [Start Column Two]
-CLEVELAND MEMORIAL GARDENS
-SITE IMPROVEMENTS
 [End Column Two]
 [Column Three Start]
-37,914.83
-12,002.00
-3,360.00
-114,164.30
-73,380.00
-37,286.60
-15,312.00
-7,500.00
-160.00
-1,400.00
-6,600.00
-3,300.00
-5,000.00
-1,300.00
-5,400.00
-240.00
-13,855.00
-15,000.00
-536.00
-90,090.00
-443,800.73
-3,360.00
-600.00
-252.00
-210.00
-500.00
-1,400.00
-15,963.35
-2,275.00
-6,100.00
-16,470.00
-3,675.00
-599.50
-60,000.00
-25,000.00
-136,404.85
-14,252.00
-15,000.00
-9,600.00
-15,700.00
-8,400.00
-7,000.00
-20,590.00
-30,000.00
-13,612.50
-7,800.00
-26,000.00
-8,750.00
-11,275.00
-1,850.00
-4,650.00
-94,327.95
-288,807.45
-443,800.73
-288,807.45
-732,608.18
-732,608.18
-136,404.85
-596,203.33
-1,998,059.93
-596,203.33
-2,594,263.26
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 Ord. No. 1070-98.By Councilmen Willis and Johnson (by departmental request).
 An emergency ordinance authorizing and directing the Director of Parks, Recreation and Properties to make
 alterations and modifications in Contract No. PI 52012A for improvements to Cleveland Memorial Gardens with
@@ -1197,13 +1076,79 @@ Be it ordained by the Council of the City of Cleveland:
 Section 1. That the Director of Parks, Recreation and Properties is hereby authorized and directed to make the
 following alterations and modifications in Contract No. PI 52012A with S.W. Franks Construction Company for
 improvements to Cleveland Memorial Gardens, for the Department of Parks, Recreation and Properties:
-[End Full-Width Moved After Columns]
+CLEVELAND MEMORIAL GARDENS
+SITE IMPROVEMENTS
+ADDITIONS-ORIGINAL ITEMS
+Item #1 Mobilization, demolition, general conditions, bonding, insurance (Lump Sum at 37,914.83) 37,914.83
+Item #3 Clear and grub - remove scrub vegetation and small trees (7.06 A.C. @ 1,700.00 A.C.) 12,002.00
+Item #4 Remove large trees (30 @ 112.00 each) 3,360.00
+Item #13 Topsoil stripping (39,367 C.Y. @ 2.90 C.Y.) 114,164.30
+Item #14 Topsoil respread (24,460 C.Y. @ 3.00 C.Y.) 73,380.00
+Item #15 Excavation - cut (14,341 C.Y. @ 2.60 C.Y.) 37,286.60
+Item #17 Excavation - drainage channel (14,341 C.Y. @ 2.60 C.Y.) 15,312.00
+Item #19 Silt fence (3,000 L.F. @ 2.50 L.F.) 7,500.00
+Item #20 Straw bales (16 each @ 10.00 each) 160.00
+Item #21 12" reinforced concrete sewer pipe (56 L.F. @ 25.00) 1,400.00
+Item #33 Rock channel protection (66 C.Y. @ 100.00 C.Y.) 6,600.00
+Item #34 Erosion control matting (500 S.Y. @ 6.60 S.Y.) 3,300.00
+Item #40 ODOT Std. MH-3 (84" dia.)(1 @ 5,000.00) 5,000.00
+Item #44 ODOT Std. 2-2-13 Catch Basin (1 @ 1,300.00/ea.) 1,300.00
+Item #46 4" Underdrain under roadway (900 L.F. @ 6.00 L.F.) 5,400.00
+Item #47 6" HDPE Non-perforated underdrain (30 L.F. @ 8.00 L.F.) 240.00
+Item #51 Mountable curb and gutter (without underdrains) (1,630 L.F. @ 8.50 L.F.) 13,855.00
+Item #52 Vertical curb and gutter (with underdrains) (1,000 L.F. @ 15.00 L.F.) 15,000.00
+Item #54 Wheel stops (8 each @ 67.00 each) 536.00
+Item #62 Hydroseeding (117,000 S.Y. @ .77 S.Y.) 90,090.00
+TOTAL ADDITIONS TO ORIGINAL ITEMS 443,800.73
+CREDIT - ORIGINAL ITEMS
+Item #5 Sawcut and remove concrete (160 S.Y. @ 21.00 S.Y.) 3,360.00
+Item #6 Demo concrete walk (Lump Sum @ 600.00) 600.00
+Item #9 Demo curb (42 L.F. @ 6.00 L.F.) 252.00
+Item #10 Remove guardrail (30 L.F. @ 7.00 L.F.) 210.00
+Item #11 Abandon existing drainage structure (1 @ 500.00 each) 500.00
+Item #12 Remove and relocated light pole (1 @ 1,400.00 each) 1,400.00
+Item #16 Excavation-fill (7,787 C.Y. @ 2.05 C.Y.) 15,963.35
+Item #18 Fill material (325 L.F. @ 7.00 L.F.) 2,275.00
+Item #41 ODOT Std. MH-3 (96" dia.)(1 @ 6,100.00) 6,100.00
+Item #45 4" HDPE perforated underdrain (2,745 L.F. @ 6.00 L.F.) 16,470.00
+Item #50 Mountable curb and gutter (with underdrains) (245 L.F. @ 15.00 L.F.) 3,675.00
+Item #59 Blank plot markers (109 each @ 5.50 each) 599.50
+Add Alternate No. 2 (committal shelter)(Lump Sum @ 60,000.00) 60,000.00
+Add Alternate No. 4 (Blvd. terminus wall)(Lump Sum @ 25,000.00) 25,000.00
+TOTAL CREDITS TO ORIGINAL ITEMS 136,404.85
+NEW ITEMS FOR SUBSIDIARY
+Item #103 Debris and pipe removal (Lump Sum @ 14,252.00) 14,252.00
+Item #104 Remove and dispose of NCB debris (Lump Sum @ 15,000.00) 15,000.00
+Item #105 Performance of sewer work out of sequence (Lump Sum @ 9,600.00) 9,600.00
+Item #106 Temporary access drive off Clarkwood to complete sewer work (Lump Sum @ 15,700.00) 15,700.00
+Item #107 Additional inspection fees for Cuyahoga Sanitary Engineer (Lump Sum @ 8,400.00) 8,400.00
+Item #108 Labor cost increase (Union wage scale will go up on May 1st and this will cover work 7,000.00
+that was delayed beyond the contractor’s control) (Lump Sum @ 7,000.00)
+Item #109 Sidewalk along Green Road (7,100 S.F. @ 2.90 S.F.) 20,590.00
+Item #110 Grading and excavation for sidewalk along Green road (Lump Sum @ 30,000.00) 30,000.00
+Item #111 Guardrail (825 L.F. @ 16.50 L.F.) 13,612.50
+Item #112 4" PVC utility sleeves (400 L.F. @ 19.50 L.F.) 7,800.00
+Item #113 Topsoil re-handling (13,000 C.Y. @ 2.00 C.Y.) 26,000.00
+Item #114 Split rail fence (700 L.F. @ 12.50) 8,750.00
+Item #115 Premium back-fill material (500 C.Y. @ 22.55) 11,275.00
+Item #116 Storm sewer connection (Lump Sum @ 1,850.00) 1,850.00
+Item #117 Grading and excavation for workhouse access Road (Lump Sum @ 4,650.00) 4,650.00
+Item #118 9" concrete pavement for workhouse access Road (1,671 S.Y. @ 56.45 S.Y) 94,327.95
+TOTAL NEW ITEMS FOR SUBSIDIARY 288,807.45
+ADDITIONS (OVERRUNS) 443,800.73
++NEW ITEMS 288,807.45
+TOTAL ADDITIONS TO ORIGINAL CONTRACT 732,608.18
+TOTAL ADDITIONS 732,608.18
+--- TOTAL CREDITS 136,404.85
+TOTAL SUBSIDIARY AMOUNT 596,203.33
+ORIGINAL CONTRACT AMOUNT 1,998,059.93
+SUBSIDIARY AMOUNT 596,203.33
+REVISED CONTRACT AMOUNT 2,594,263.26[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page7]
+[Page 7]
 [Indexed (running) page915]
-[Start Column One]
-
+[Page starting with carry-over full-width content]
 which alteration has been recommended in writing by the said Director of Parks, Recreation and Properties, coun-
 tersigned by the Mayor, and consented to by the surety on said contract, which price to be paid therefor has
 been agreed upon in writing and signed by the Director of Parks, Recreation and Properties and the Contractor.
@@ -1215,6 +1160,9 @@ diately upon its passage and approval by the Mayor; otherwise it shall take effe
 the earliest period allowed by law.
 Referred to Directors of Parks, Recreation and Properties, Finance, Law; Committees on Public Parks, Proper-
 ty and Recreation, Finance.
+[End full-width carry over]
+[Start Column One]
+
 Ord. No. 1072-98. 
 By Councilmen Cimperman, Sweeney 
 and Johnson (by departmental re- 
@@ -1467,11 +1415,14 @@ the Director of Public Service on
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page8]
+[Page 8]
 [Indexed (running) page916]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 behalf of the City of Cleveland. The 
@@ -1771,11 +1722,14 @@ to apply for and accept a grant in
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page9]
+[Page 9]
 [Indexed (running) page917]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 the approximate amount of $15,000 
@@ -2071,11 +2025,14 @@ hereby are appropriated:
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page10]
+[Page 10]
 [Indexed (running) page918]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Permanent Parcel No. 029-05-005 
@@ -2394,11 +2351,14 @@ Finance.
 [End Column Three]
 [Couldn't place these:] 
 209 to [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page11]
+[Page 11]
 [Indexed (running) page919]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Ord. No. 1082-98. 
@@ -2719,11 +2679,14 @@ authorized and directed to accept
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page12]
+[Page 12]
 [Indexed (running) page920]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 the collateral as set forth in the 
@@ -3035,11 +2998,14 @@ opment, City Planning, Finance.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page13]
+[Page 13]
 [Indexed (running) page921]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 FIRST READING EMERGENCY 
@@ -3248,6 +3214,7 @@ Nays 0.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 Ord. No. 1043-98.By Councilman Cintron.
 An emergency ordinance authorizing the Director of Public Service to issue a permit to Lutheran Hospital
 to encroach into the public right-of-way at various locations on Vestry Avenue, West 25th Street, West 28th
@@ -3263,42 +3230,40 @@ for the construction, use and maintenance of nineteen (19) banners to be attache
 minating Company (C.E.I.) and Cleveland Public Power (C.P.P.) utility poles (by separate permission), and which
 banners are in conjunction with Lutheran Hospital’s on-going banner program, and will encroach into various
 locations of Vestry Avenue, West 25th Street, West 28th Street and Franklin Boulevard as more fully described
-herein:
-[End Full-Width Moved After Columns]
+herein:[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page14]
+[Page 14]
 [Indexed (running) page922]
-[Start Column One]
-
+[Page starting with carry-over full-width content]
 LUTHERAN HOSPITAL PROPOSED BANNER ENCROACHMENT AREA:
-LOCATION: 
+LOCATION: POLE NUMBER: OWNER:
 9-Poles-Various-E. side
 of W. 25th & both sides of
-Vestry 
+Vestry No #’s C.P.P.
 1-Pole-W. of the S.W.
 corner of W. 25th &
-Franklin 
+Franklin 1140 C.E.I.
 1-Pole-S. side of
 Franklin, at the Cinecraft
-driveway 
+driveway 44028 C.P.P.
 1-Pole-N. side of
 Franklin, E. of Hospital
-parking lot 
+parking lot No # C.P.P.
 1-Pole-N. side of
-Franklin 
+Franklin 527805 C.E.I.
 1-Pole-S. side of
-Franklin 
+Franklin 44029 C.P.P.
 1-Pole-N. side of
-Franklin 
+Franklin 44030 C.E.I.
 1-Pole-S. side of
-Franklin 
+Franklin A0344 C.P.P.
 1-Pole-N.E. corner
-of Franklin & W. 25th 
+of Franklin & W. 25th No # C.P.P.
 1-Pole-E. side of
-W. 28, N. of Franklin 
+W. 28, N. of Franklin No # C.P.P.
 1-Pole-N. side of
-Franklin, W. of W. 28th 
+Franklin, W. of W. 28th No # C.E.I.
 Section 2. That nothing in this ordinance grants or shall be considered a grant to Permittee any right, privi-
 lege or permission to use or to attach or affix any objects to poles described in Section 1 of this ordinance.
 Section 3. That said banners are to be placed in the public right-of-way at the location as aforesaid in Section
@@ -3313,6 +3278,9 @@ diately upon its passage and approval by the Mayor; otherwise it shall take effe
 after the earliest period allowed by law.
 Motion to suspend rules. Charter and statutory provisions and place on final passage.
 The rules were suspended. Yeas 21. Nays 0. Read second time. Read third time in full. Passed. Yeas 21. Nays 0.
+[End full-width carry over]
+[Start Column One]
+
 Ord. No. 1044-98. 
 By Councilman Cintron. 
 An emergency ordinance autho- 
@@ -3350,18 +3318,6 @@ portion of a wrought iron and brick
 pier ornamental fence, which will 
 [End Column One]
 [Start Column Two]
-POLE NUMBER: 
-No #’s 
-1140 
-44028 
-No # 
-527805 
-44029 
-44030 
-A0344 
-No # 
-No # 
-No # 
 encroach into the public right-of- 
 way of Vestry Avenue and West 
 25th Street at the locations more 
@@ -3397,18 +3353,6 @@ the same more or less but subject to
 all legal highways. 
 [End Column Two]
 [Column Three Start]
-OWNER:
-C.P.P.
-C.E.I.
-C.P.P.
-C.P.P.
-C.E.I.
-C.P.P.
-C.E.I.
-C.P.P.
-C.P.P.
-C.P.P.
-C.E.I.
 LEGAL DESCRIPTION OF WALL
 ENCROACHMENT INTO VESTRY
 AVENUE
@@ -3447,11 +3391,14 @@ legal highways.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page15]
+[Page 15]
 [Indexed (running) page923]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 LEGAL DESCRIPTION OF 
@@ -3665,6 +3612,7 @@ Nays 0.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 Ord. No. 1047-98.By Councilman Polensek.
 An emergency ordinance authorizing the Director of Public Service to issue a permit to The Nottingham Civic
 Club to encroach into various locations of the public right-of-way in the areas of St. Clair Avenue and Notting-
@@ -3680,32 +3628,59 @@ tion, use and maintenance for a total of (approximately) thirty-one (31) Banners
 attached to Cleveland Public Power and Cleveland Electric Illuminating Company utility poles (by separate per-
 mission), to publicize the “Nottingham Village Neighborhood Banner Project”, and which Banners and American
 Flags will encroach into the public right-of-way at various locations on St. Clair Avenue and Nottingham Road
-and are more fully described as follows:
-[End Full-Width Moved After Columns]
+and are more fully described as follows:[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page16]
+[Page 16]
 [Indexed (running) page924]
-[Start Column One]
-
+[Page starting with carry-over full-width content]
 PROPOSED ENCROACHMENT AREA FOR BANNERS AND AMERICAN FLAGS:
-LOCATION: 
-Starting with the 
-corner at Nottingham 
-Road and St. Clair 
-Avenue heading west: 
-Starting from the 
-northwest corner of 
-Nottingham Road and 
-St. Clair Avenue and 
-and heading west 
+LOCATION: POLE NO.: SIGNAGE:
+Starting with the nh127sw/corner Banner
+corner at Nottingham 516571 American Flag
+Road and St. Clair NH 28 - (Nottingham
+Avenue heading west: Hardware) Banner
+NH 29 - (E. 187th St.) Banner
+NH1-30 American Flag
+515859 Banner
+NH1-31 American Flag
+NH1-32 Banner
+NH1-33 American Flag
+NH1-34 Banner
+NH1-35 Banner
+Starting from the 5005197 Banner
+northwest corner of NH27A American Flag
+Nottingham Road and 505196 Banner
+St. Clair Avenue and A7212 American Flag
+and heading west no number
+(#18633 St. Clair) Banner
+A7214 American Flag
+504801 Banner
+no number
+(#18611 St. Clair) American Flag
+no number
+(#18607 St. Clair) Banner
+509350 American Flag
+no number
+(#18523) Banner
+no number
+(#18509) American Flag
+no number
+(corner cafe) Banner
+3288878 American Flag
+no number Banner
+no number
+(#18421) American Flag
+A7231 Banner
 Starting at the
 northeast corner of
 Nottingham Road and St.
-Clair Avenue heading east 
+Clair Avenue heading east A8110 Banner
+693439 Banner
 Starting at the southwest
 corner of Nottingham Road
-and St. Clair heading east 
+and St. Clair heading east NH121A Banner
+NG1303 Banner
 Section 2. That said Support Columns, Protective Bollards and Aerial Encroachments will be constructed with-
 in the public right-of-way at the locations aforesaid in Section 1, and with plans and specifications approved by
 the Commissioner of Engineering and Construction.
@@ -3720,92 +3695,24 @@ diately upon its passage and approval by the Mayor; otherwise it shall take effe
 the earliest period allowed by law.
 Motion to suspend rules. Charter and statutory provisions and place on final passage.
 The rules were suspended. Yeas 21. Nays 0. Read second time. Read third time in full. Passed. Yeas 21. Nays 0.
+[End full-width carry over]
+[Start Column One]
+
 [End Column One]
 [Start Column Two]
-POLE NO.: 
-nh127sw/corner 
-516571 
-NH 28 - (Nottingham
-Hardware) 
-NH 29 - (E. 187th St.) 
-NH1-30 
-515859 
-NH1-31 
-NH1-32 
-NH1-33 
-NH1-34 
-NH1-35 
-5005197 
-NH27A 
-505196 
-A7212 
-no number
-(#18633 St. Clair) 
-A7214 
-504801 
-no number
-(#18611 St. Clair) 
-no number
-(#18607 St. Clair) 
-509350 
-no number
-(#18523) 
-no number
-(#18509) 
-no number
-(corner cafe) 
-3288878 
-no number 
-no number
-(#18421) 
-A7231 
-A8110 
-693439 
-NH121A 
-NG1303 
 [End Column Two]
 [Column Three Start]
-SIGNAGE:
-Banner
-American Flag
-Banner
-Banner
-American Flag
-Banner
-American Flag
-Banner
-American Flag
-Banner
-Banner
-Banner
-American Flag
-Banner
-American Flag
-Banner
-American Flag
-Banner
-American Flag
-Banner
-American Flag
-Banner
-American Flag
-Banner
-American Flag
-Banner
-American Flag
-Banner
-Banner
-Banner
-Banner
-Banner
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page17]
+[Page 17]
 [Indexed (running) page925]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Ord. No. 1048-98. 
@@ -4031,6 +3938,7 @@ Nays 0.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 Ord. No. 1049-98.By Councilman Westbrook.
 An emergency ordinance authorizing the Director of Public Service to issue a permit to Our Father’s House
 Church to encroach into the public right-of-way on Detroit Avenue between West 112th and West 114th Streets
@@ -4045,19 +3953,21 @@ House Church, 11228 Detroit Avenue, Cleveland, Ohio 44102, its successors and as
 and maintenance of seven (7) banners to be attached to Cleveland Public Power utility poles (by separate per-
 mission), for the period of July 1, 1998 to September 30, 1998, and which banners will encroach into Detroit Avenue
 between West 112th and West 114th Streets to publicize the celebration of the church’s tenth year of serving the
-Community, at the locations more fully described herein.
-[End Full-Width Moved After Columns]
+Community, at the locations more fully described herein.[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page18]
+[Page 18]
 [Indexed (running) page926]
-[Start Column One]
-
+[Page starting with carry-over full-width content]
 OUR FATHER’S HOUSE CHURCH / ENCROACHMENT AREA:
-LOCATION: 
-Detroit Avenue between 
-West 112th and West 114th 
-Streets 
+LOCATION: POLE NUMBER: OWNER:
+Detroit Avenue between E-7-25 C.P.P.
+West 112th and West 114th E-7-26 C.P.P.
+Streets E-7-15 C.P.P.
+E-7-16 C.P.P.
+E-7-27 C.P.P.
+E-8-11 C.P.P.
+E-8-10 C.P.P.
 Section 2. That nothing in this ordinance grants or shall be considered a grant to Permittee any right, privi-
 lege or permission to use or to attach or affix any objects to poles described in Section 1 of this ordinance.
 Section 3. That said banners will be placed in the public right-of-way at the location as aforesaid in Section 1
@@ -4072,6 +3982,9 @@ diately upon its passage and approval by the Mayor; otherwise it shall take effe
 the earliest period allowed by law.
 Motion to suspend rules. Charter and statutory provisions and place on final passage.
 The rules were suspended. Yeas 21. Nays 0. Read second time. Read third time in full. Passed. Yeas 21. Nays 0.
+[End full-width carry over]
+[Start Column One]
+
 Ord. No. 1050-98. 
 By Councilman Cintron. 
 An emergency ordinance authoriz- 
@@ -4137,14 +4050,6 @@ approval by the Mayor; otherwise it
 shall take effect and be in force 
 [End Column One]
 [Start Column Two]
-POLE NUMBER: 
-E-7-25 
-E-7-26 
-E-7-15 
-E-7-16 
-E-7-27 
-E-8-11 
-E-8-10 
 from and after the earliest period 
 allowed by law. 
 Motion to suspend rules. Charter 
@@ -4209,14 +4114,6 @@ the affirmative vote of two-thirds of
 all the members elected to Council, 
 [End Column Two]
 [Column Three Start]
-OWNER:
-C.P.P.
-C.P.P.
-C.P.P.
-C.P.P.
-C.P.P.
-C.P.P.
-C.P.P.
 it shall take effect and be in force
 immediately upon its passage and
 approval by the Mayor; otherwise it
@@ -4282,11 +4179,14 @@ any time by this Council.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page19]
+[Page 19]
 [Indexed (running) page927]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Section 4. That this ordinance is 
@@ -4606,11 +4506,14 @@ Cleveland, Ohio 1976, as enacted by
 [End Column Three]
 [Couldn't place these:] 
 209 to [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page20]
+[Page 20]
 [Indexed (running) page928]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Ordinance No. 565-96, passed April 1, 
@@ -4922,11 +4825,14 @@ respect to the neighborhood that it
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page21]
+[Page 21]
 [Indexed (running) page929]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 substantially interferes with public 
@@ -5217,11 +5123,14 @@ lutions adopted by the Board of
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page22]
+[Page 22]
 [Indexed (running) page930]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 County Commissioners for Cuyahoga 
@@ -5538,11 +5447,14 @@ of the public peace, property, safety
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page23]
+[Page 23]
 [Indexed (running) page931]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 and welfare pursuant to Section 
@@ -5855,11 +5767,14 @@ S t e p h e n s .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page24]
+[Page 24]
 [Indexed (running) page932]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Approved by Directors of Commu- 
@@ -6188,11 +6103,14 @@ s a g e .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page25]
+[Page 25]
 [Indexed (running) page933]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Ord. No. 985-98. 
@@ -6504,11 +6422,14 @@ Elyria, Ohio 44035
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page26]
+[Page 26]
 [Indexed (running) page934]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Prime Engineering, Inc. 
@@ -6846,11 +6767,14 @@ Five Thousand and 00/100 Dollars
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page27]
+[Page 27]
 [Indexed (running) page935]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Said requirement contract shall 
@@ -7160,11 +7084,14 @@ Absent: None.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page28]
+[Page 28]
 [Indexed (running) page936]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Resolution No. 405-98. 
@@ -7474,11 +7401,14 @@ Board.
 [End Column Three]
 [Couldn't place these:] 
 210 is [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page29]
+[Page 29]
 [Indexed (running) page937]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 The following appeals were Grant- 
@@ -7783,11 +7713,14 @@ DE-
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page30]
+[Page 30]
 [Indexed (running) page938]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 POSIT WILL BE REFUNDED IF 
@@ -8111,11 +8044,14 @@ the members elected to Council, it
 [End Column Three]
 [Couldn't place these:] 
 208 IN 208 IN 208 IN [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page31]
+[Page 31]
 [Indexed (running) page939]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 shall take effect and be in force 
@@ -8421,11 +8357,14 @@ order; and
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page32]
+[Page 32]
 [Indexed (running) page940]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Whereas, this objection is based 
@@ -8737,11 +8676,14 @@ Cleveland and the Directors of
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page33]
+[Page 33]
 [Indexed (running) page941]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Parks, Recreation and Properties 
@@ -9091,11 +9033,14 @@ ment and/or Public Service are here-
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page34]
+[Page 34]
 [Indexed (running) page942]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 by authorized to enter into an agree- 
@@ -9416,11 +9361,14 @@ Assessment
 [End Column Three]
 [Couldn't place these:] 
 209 to [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page35]
+[Page 35]
 [Indexed (running) page943]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Demonstration Pilot Program, for 
@@ -9725,161 +9673,24 @@ Effective June 10, 1998.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page36]
+[Page 36]
 [Indexed (running) page944]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
-1. Auto Body Repair Unit Leader............................................. 
-2. Auto Body Repair Worker .................................................... 
-3. Automobile Repair Helper ..................................................... 
-4. Automobile Repair Worker ................................................... 
-5. Automobile Repairman Unit Leader .................................. 
-6. Blacksmith ................................................................................... 
-7. Garage Worker .......................................................................... 
-8. Heavy Duty Mechanic ............................................................. 
-9. Small Equipment Repair Worker ....................................... 
-10. Tire Repair Worker ................................................................. 
-11. Welder ........................................................................................... 
-Section 41. Hourly Rate-Crafts
-Compensation for all persons employed by the hour in any of the following classifications shall be fixed by
-the appointing authority within the limits established in the following schedule for each classification:
-1. Asbestos Worker .......................................................................5-1-98 
-2. Asphalt Construction Foreman ............................................5-1-97 
-3. Asphalt Raker ............................................................................5-1-97 
-4. Asphalt Tamper .........................................................................5-1-97 
-5. Boiler Maker ...............................................................................5-1-98 
-6. Bricklayer ....................................................................................5-1-98 
-7. Bricklayer Foreman .................................................................5-1-98 
-8. Bricklayer Helper .....................................................................5-1-96 
-9. Carpenter ......................................................................................5-1-98 
-10. Carpenter Foreman ...................................................................5-1-98 
-11. Carpenter Apprentice ...............................................................5-1-92 
-12. Cement Finisher ........................................................................5-1-98 
-13. Cement Finisher Foreman .....................................................5-1-98 
-14. Construction Equipment Operator - Group A ................5-1-98 
-15. Construction Equipment Operator - Group B .................5-1-98 
-16. Construction Equipment Operator - Group C .................5-1-98 
-17. Construction Equipment Operator - Group D ................5-1-98 
-18. Construction Equipment Operator - Group E ................5-1-98 
-19. Construction Equipment Operator - Oiler - Group F .........5-1-98 
-20. Curb Cutter ..................................................................................5-1-97 
-21. Electrical Worker .....................................................................5-1-98 
-22. Electrical Worker Foreman ..................................................5-1-98 
-23. Glazier ...........................................................................................5-1-98 
-24. Ironworker ...................................................................................5-1-98 
-25. Ironworker Foreman ................................................................5-1-98 
-26. Jackhammer Operator .............................................................5-1-97 
-27. Master Mechanic ........................................................................5-1-98 
-28. Overhead Floodlight Maintenance Man ............................5-1-92 
-29. Painter ...........................................................................................5-1-98 
-30. Painter - Apprentice ................................................................5-1-92 
-31. Painter Foreman .......................................................................5-1-98 
-32. Paver ..............................................................................................5-1-97 
-33. Paving Foreman ........................................................................5-1-97 
-34. Pipefitter (Welder) ..................................................................5-1-98 
-35. Pipefitter Foreman ...................................................................5-1-98 
-36. Plasterer .......................................................................................5-1-98 
-37. Plasterer Foreman......................................................................5-1-98 
-38. Plumber (Welder) .....................................................................5-1-98 
-39. Plumber Foreman .....................................................................5-1-98 
-40. Roofer ............................................................................................5-1-98 
-41. Sheet Metal Worker .................................................................5-1-98 
-42. Sheet Metal Worker Foreman ..............................................5-1-98 
-43. Sign Painter ................................................................................5-1-94 
-44. Sign Painter Unit Leader ......................................................5-1-94 
-45. Spray Painter .............................................................................5-1-94 
-46. Superintendent of Construction Equipment ....................5-1-97 
-Section 2. That Section 16 of Ordinance No. 436-97, passed April 14, 1997, and Section 41 of Ordinance No. 436-
-97, passed April 14, 1997, as amended by Ordinance No. 1474-97, passed October 13, 1997, are hereby repealed.
-Section 3. That this ordinance is hereby declared to be an emergency measure and, provided it receives the
-affirmative vote of two-thirds of all the members elected to Council, it shall take effect and be in force imme-
-diately upon its passage and approval by the Mayor; otherwise it shall take effect and be in force from and after
-the earliest period allowed by law.
-Passed June 1, 1998.
-Effective June 10, 1998.
 [End Column One]
 [Start Column Two]
-$12.44 per hour 
-$10.49 per hour 
-$ 9.73 per hour 
-$11.03 per hour 
-$12.44 per hour 
-$10.71 per hour 
-$ 9.20 per hour 
-$10.71 per hour 
-$ 9.93 per hour 
-$10.23 per hour 
-$12.17 per hour 
-Effective
-Date 
-10-1-97 
 [End Column Two]
 [Column Three Start]
-$18.03 per hour
-$14.99 per hour
-$13.43 per hour
-$14.86 per hour
-$18.03 per hour
-$17.56 per hour
-$12.64 per hour
-$17.81 per hour
-$13.43 per hour
-$13.54 per hour
-$17.31 per hour
-Minimum Maximum
-$27.42 $34.28
-17.69 27.33
-16.96 26.20
-16.96 26.20
-28.34 35.67
-27.74 34.67
-24.32 30.40
-25.32 31.40
-17.42 26.13
-24.12 30.14
-25.12 31.94
-5.97 16.43
-24.47 30.59
-25.47 31.59
-25.17 28.78
-25.02 28.63
-24.32 27.93
-23.54 27.15
-23.22 26.83
-17.24 20.85
-17.34 26.79
-27.54 34.42
-28.54 35.42
-24.38 30.47
-27.50 34.38
-28.50 28.50
-16.96 26.20
-25.67 29.28
-21.19 26.49
-23.55 29.44
-6.95 14.89
-24.55 30.44
-17.19 26.56
-17.68 27.33
-28.54 35.68
-29.54 36.68
-24.02 30.03
-25.02 31.03
-28.03 35.04
-29.03 36.04
-24.78 30.97
-27.07 33.84
-28.07 34.84
-22.55 25.61
-23.55 26.61
-20.22 23.34
-17.68 27.33
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 Ord. No. 857-98.By Councilman Johnson (by departmental request).
 An emergency ordinance to amend Sections 16 and 41 of Ordinance No. 436-97, passed April 14, 1997, as may be
 amended by Ordinance No. 1474-97, passed October 13, 1997, relating to compensation for various classifications.
@@ -9892,11 +9703,83 @@ respectively, as follows:
 Section 16. That salaries and compensation in the following classifications shall be fixed by the appointing
 authority in accordance with the schedule appearing after each classification:
 Minimum Maximum
-[End Full-Width Moved After Columns]
+1. Auto Body Repair Unit Leader............................................. $12.44 per hour $18.03 per hour
+2. Auto Body Repair Worker .................................................... $10.49 per hour $14.99 per hour
+3. Automobile Repair Helper ..................................................... $ 9.73 per hour $13.43 per hour
+4. Automobile Repair Worker ................................................... $11.03 per hour $14.86 per hour
+5. Automobile Repairman Unit Leader .................................. $12.44 per hour $18.03 per hour
+6. Blacksmith ................................................................................... $10.71 per hour $17.56 per hour
+7. Garage Worker .......................................................................... $ 9.20 per hour $12.64 per hour
+8. Heavy Duty Mechanic ............................................................. $10.71 per hour $17.81 per hour
+9. Small Equipment Repair Worker ....................................... $ 9.93 per hour $13.43 per hour
+10. Tire Repair Worker ................................................................. $10.23 per hour $13.54 per hour
+11. Welder ........................................................................................... $12.17 per hour $17.31 per hour
+Section 41. Hourly Rate-Crafts
+Compensation for all persons employed by the hour in any of the following classifications shall be fixed by
+the appointing authority within the limits established in the following schedule for each classification:
+Effective
+Date Minimum Maximum
+1. Asbestos Worker .......................................................................5-1-98 $27.42 $34.28
+2. Asphalt Construction Foreman ............................................5-1-97 17.69 27.33
+3. Asphalt Raker ............................................................................5-1-97 16.96 26.20
+4. Asphalt Tamper .........................................................................5-1-97 16.96 26.20
+5. Boiler Maker ...............................................................................5-1-98 28.34 35.67
+10-1-97 27.74 34.67
+6. Bricklayer ....................................................................................5-1-98 24.32 30.40
+7. Bricklayer Foreman .................................................................5-1-98 25.32 31.40
+8. Bricklayer Helper .....................................................................5-1-96 17.42 26.13
+9. Carpenter ......................................................................................5-1-98 24.12 30.14
+10. Carpenter Foreman ...................................................................5-1-98 25.12 31.94
+11. Carpenter Apprentice ...............................................................5-1-92 5.97 16.43
+12. Cement Finisher ........................................................................5-1-98 24.47 30.59
+13. Cement Finisher Foreman .....................................................5-1-98 25.47 31.59
+14. Construction Equipment Operator - Group A ................5-1-98 25.17 28.78
+15. Construction Equipment Operator - Group B .................5-1-98 25.02 28.63
+16. Construction Equipment Operator - Group C .................5-1-98 24.32 27.93
+17. Construction Equipment Operator - Group D ................5-1-98 23.54 27.15
+18. Construction Equipment Operator - Group E ................5-1-98 23.22 26.83
+19. Construction Equipment Operator - Oiler - Group F .........5-1-98 17.24 20.85
+20. Curb Cutter ..................................................................................5-1-97 17.34 26.79
+21. Electrical Worker .....................................................................5-1-98 27.54 34.42
+22. Electrical Worker Foreman ..................................................5-1-98 28.54 35.42
+23. Glazier ...........................................................................................5-1-98 24.38 30.47
+24. Ironworker ...................................................................................5-1-98 27.50 34.38
+25. Ironworker Foreman ................................................................5-1-98 28.50 28.50
+26. Jackhammer Operator .............................................................5-1-97 16.96 26.20
+27. Master Mechanic ........................................................................5-1-98 25.67 29.28
+28. Overhead Floodlight Maintenance Man ............................5-1-92 21.19 26.49
+29. Painter ...........................................................................................5-1-98 23.55 29.44
+30. Painter - Apprentice ................................................................5-1-92 6.95 14.89
+31. Painter Foreman .......................................................................5-1-98 24.55 30.44
+32. Paver ..............................................................................................5-1-97 17.19 26.56
+33. Paving Foreman ........................................................................5-1-97 17.68 27.33
+34. Pipefitter (Welder) ..................................................................5-1-98 28.54 35.68
+35. Pipefitter Foreman ...................................................................5-1-98 29.54 36.68
+36. Plasterer .......................................................................................5-1-98 24.02 30.03
+37. Plasterer Foreman......................................................................5-1-98 25.02 31.03
+38. Plumber (Welder) .....................................................................5-1-98 28.03 35.04
+39. Plumber Foreman .....................................................................5-1-98 29.03 36.04
+40. Roofer ............................................................................................5-1-98 24.78 30.97
+41. Sheet Metal Worker .................................................................5-1-98 27.07 33.84
+42. Sheet Metal Worker Foreman ..............................................5-1-98 28.07 34.84
+43. Sign Painter ................................................................................5-1-94 22.55 25.61
+44. Sign Painter Unit Leader ......................................................5-1-94 23.55 26.61
+45. Spray Painter .............................................................................5-1-94 20.22 23.34
+46. Superintendent of Construction Equipment ....................5-1-97 17.68 27.33
+Section 2. That Section 16 of Ordinance No. 436-97, passed April 14, 1997, and Section 41 of Ordinance No. 436-
+97, passed April 14, 1997, as amended by Ordinance No. 1474-97, passed October 13, 1997, are hereby repealed.
+Section 3. That this ordinance is hereby declared to be an emergency measure and, provided it receives the
+affirmative vote of two-thirds of all the members elected to Council, it shall take effect and be in force imme-
+diately upon its passage and approval by the Mayor; otherwise it shall take effect and be in force from and after
+the earliest period allowed by law.
+Passed June 1, 1998.
+Effective June 10, 1998.[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page37]
+[Page 37]
 [Indexed (running) page945]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 Ord. No. 970-98. 
@@ -10201,11 +10084,14 @@ Ohio, 1976, authorizes the President
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page38]
+[Page 38]
 [Indexed (running) page946]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 of Council on the behalf of City 
@@ -10501,11 +10387,14 @@ Chairman, Britt, Jones.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
-[Page39]
+[Page 39]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 
 [End Column One]
@@ -10515,6 +10404,7 @@ Chairman, Britt, Jones.
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 Index to C
 ouncil P
@@ -10572,8 +10462,10 @@ Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . .
 947
 [End Index Entries]
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 [End Column One]
 [Start Column Two]
@@ -10582,6 +10474,7 @@ Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 
 40 The City Record June 10, 1998
@@ -10643,8 +10536,10 @@ funds for operation of programs — $6,300,000 (O 824-98). . . . . . . . . . . .
 948
 [End Index Entries]
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 [End Column One]
 [Start Column Two]
@@ -10653,6 +10548,7 @@ funds for operation of programs — $6,300,000 (O 824-98). . . . . . . . . . . .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 
 June 10, 1998 The City Record 41
@@ -10707,8 +10603,10 @@ with various non-profit agencies for implementation (O 1082-98) . . . . . . . . 
 949
 [End Index Entries]
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 [End Column One]
 [Start Column Two]
@@ -10717,6 +10615,7 @@ with various non-profit agencies for implementation (O 1082-98) . . . . . . . . 
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 
 42 The City Record June 10, 1998
@@ -10775,8 +10674,10 @@ Ryan White Planning and Evaluation Project — grant — apply for and accept �
 950
 [End Index Entries]
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 [End Column One]
 [Start Column Two]
@@ -10785,6 +10686,7 @@ Ryan White Planning and Evaluation Project — grant — apply for and accept �
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 
 June 10, 1998 The City Record 43
@@ -10838,8 +10740,10 @@ transfer of ownership application (F 1036-98) . . . . . . . . . . . . . . . . . 
 951
 [End Index Entries]
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 [End Column One]
 [Start Column Two]
@@ -10848,6 +10752,7 @@ transfer of ownership application (F 1036-98) . . . . . . . . . . . . . . . . . 
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 
 44 The City Record June 10, 1998
@@ -10899,8 +10804,10 @@ Wilson, Adam — authorization to engage in peddling in Ward 20 (O 1053-98) . . 
 952
 [End Index Entries]
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 [End Column One]
 [Start Column Two]
@@ -10909,6 +10816,7 @@ Wilson, Adam — authorization to engage in peddling in Ward 20 (O 1053-98) . . 
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 
 June 10, 1998 The City Record 45
@@ -10975,8 +10883,10 @@ Department (O 1074-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 953
 [End Index Entries]
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 [End Column One]
 [Start Column Two]
@@ -10985,6 +10895,7 @@ Department (O 1074-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 
 46 The City Record June 10, 1998
@@ -11045,8 +10956,10 @@ Spring Road Relief Sewer Project — alterations and modifications in Contract N
 954
 [End Index Entries]
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 [End Column One]
 [Start Column Two]
@@ -11055,6 +10968,7 @@ Spring Road Relief Sewer Project — alterations and modifications in Contract N
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 
 June 10, 1998 The City Record 47
@@ -11118,8 +11032,10 @@ Water mains and appurtenances — labor and materials to repair — Water Divisi
 955
 [End Index Entries]
 [end page]
-[Page0]
+[Page 0]
 [Indexed (running) page0]
+[Page starting with carry-over full-width content]
+[End full-width carry over]
 [Start Column One]
 [End Column One]
 [Start Column Two]
@@ -11128,6 +11044,7 @@ Water mains and appurtenances — labor and materials to repair — Water Divisi
 [End Column Three]
 [Couldn't place these:] 
 [End Non-placed Text]
+[Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 
 48 The City Record June 10, 1998
