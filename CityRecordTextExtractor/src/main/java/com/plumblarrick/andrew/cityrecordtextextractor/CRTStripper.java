@@ -133,6 +133,8 @@ public class CRTStripper extends PDFTextStripper {
                 //long x-coord gaps may also indicate erroneous concat
                 //and if this over-matches 'gaps' within columns
                 //that should come back out in page processing
+                //b/c reported x-coord should still map to appropriate
+                //column
                 splitIndex = i;
                 splitPoint = Math.round(currXPos);
                 overRun = text.substring(splitIndex);

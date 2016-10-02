@@ -31,9 +31,9 @@ public class CRTextStripper extends PDFTextStripper {
     int sumSecondColStarts = 0;
     int sumSecondColEnds = 0;
     int avgFirstColStarts = 0;
-    int avgFirstColEnds = 0;
+    //int avgFirstColEnds = 0;
     int avgSecondColStarts = 0;
-    int avgSecondColEnds = 0;
+    //int avgSecondColEnds = 0;
     int columnLineCounter = 0; //counts lines with at least two columns
 
 
@@ -63,9 +63,9 @@ public class CRTextStripper extends PDFTextStripper {
         sumSecondColStarts = 0;
         sumSecondColEnds = 0;
         avgFirstColStarts = 0;
-        avgFirstColEnds = 0;
+        //avgFirstColEnds = 0;
         avgSecondColStarts = 0;
-        avgSecondColEnds = 0;
+        //avgSecondColEnds = 0;
 
 
     }
@@ -121,7 +121,7 @@ public class CRTextStripper extends PDFTextStripper {
                 if (avgSecondColStarts == 0) {
                     avgSecondColStarts = startPoint;
                     sumSecondColStarts = startPoint;
-                    avgSecondColEnds = endPoint;
+                    //avgSecondColEnds = endPoint;
                     sumSecondColEnds = endPoint;
                     sumFirstColStarts = temp_sumFirstColStarts;
                     avgFirstColStarts = temp_sumFirstColStarts;
@@ -132,7 +132,7 @@ public class CRTextStripper extends PDFTextStripper {
                     sumFirstColStarts = temp_sumFirstColStarts;
                     sumFirstColEnds = temp_sumFirstColEnds;
                     avgFirstColStarts = sumFirstColStarts / columnLineCounter;
-                    avgFirstColEnds = sumFirstColEnds / columnLineCounter;
+                    //avgFirstColEnds = sumFirstColEnds / columnLineCounter;
                 }
 
                 temp_sumFirstColStarts = 0;
@@ -171,55 +171,11 @@ public class CRTextStripper extends PDFTextStripper {
             }
 
         } 
-//        else if (columnLineCounter > 1 && textChunksOnLine == 0 && endPoint
-//                > avgFirstColEnds
-//                && endPoint > avgSecondColEnds * .9 && endPoint
-//                < avgSecondColEnds * 1.1) {
-//
-//            int checkPos = avgSecondColStarts + (avgSecondColEnds
-//                    - avgSecondColStarts) / 3;
-//            int checkIndex = -1;
-//            int i = text.length()-1;
-//
-//            while (checkPos > avgSecondColStarts && i > 0) {
-//
-//                TextPosition iPos = textPositions.get(i);
-//                checkIndex = i;
-//                checkPos = Math.round(iPos.getXDirAdj());
-//                i--;
-//            }
-//            if (text.charAt(checkIndex - 1) == ' ') {
-//
-//                overRun = text.substring(checkIndex);
-//                text = text.substring(0, checkIndex - 1);
-//                output.write(text);
-//                output.write("\n" + checkPos + "\t" + overRun);
-//                writeLineSeparator();
-//
-//
-//            }
-//
-//
-//        } //need to add test to catch first-column overrun
-        //can't just throw out long lines or we are back
-        //to problem with 'full-width' items
-        //ideas might be to spot long lines that aren't near
-        //any other long lines
-        //and or long lines that end near where a second
-        //column line should end
-        //IF can target the right lines they should be 
-        //unlikely to have wide, intentional, spaces
-        //so might be an additoinal heuristic there for placing the actual break
+
         else {
             output.write(text);
         }
 
-        // output.write("\t" + ePos.getXDirAdj());
-//        if (!overRun.equals("")) {
-//            //output.write(String.valueOf(splitPoint));
-//            output.write("\n" + splitPoint + "\t" + overRun);
-//            writeLineSeparator();
-//        }
         textChunksOnLine++;
 
     }

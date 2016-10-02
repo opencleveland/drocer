@@ -8,9 +8,10 @@ package com.plumblarrick.andrew.cityrecordtextextractor;
 import com.plumblarrick.andrew.cityrecordtextextractor.IssueModel.Page;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.io.Writer;
@@ -38,7 +39,6 @@ public class IssueProcessor {
     private final Pattern firstLineIssuePagination = Pattern.compile(
             "[0-9]{1,3}\\t([0-9]{1,3})\\s*");
     private final Matcher pageMatcher = firstLineIssuePagination.matcher("");
-
 
     /**
      * Instantiates an IsssueExtractorPositional object that handles interaction
@@ -100,52 +100,57 @@ public class IssueProcessor {
     public IssueModel readLinesToPages() throws FileNotFoundException,
             IOException {
 
-        BufferedReader textIn = new BufferedReader(new FileReader(
-                firstTextFileName), 100000);
-        IssueModel currIssue = new IssueModel();
-        String issueName;
-        Page page = null;
-        int pagesAdded = 0;
-        int pageLineCounter = 0;
+        IssueModel currIssue;
+        try (BufferedReader textIn = new BufferedReader(new InputStreamReader(
+                new FileInputStream(firstTextFileName), "UTF-8"), 98 * 1024)) {
+            currIssue = new IssueModel();
+            String issueName;
+            Page page = null;
+            int pagesAdded = 0;
+            int pageLineCounter;
+            String currLine = textIn.readLine();
+            if (currLine != null) {
 
-        String currLine = textIn.readLine();
-
-        if (currLine.substring(0, 12).equals("Source file: ")) {
-            issueName = currLine.substring(13);
-        } else {
-            issueName = currLine;
-        }
-        currIssue.setIssueID(issueName);
-
-        while ((currLine = textIn.readLine()) != null) {
-
-            //currLine = textIn.readLine();
-            if (currLine.equals("") || currLine.equals("\n")) {
-                continue;
-            }
-
-            if ((currLine.length() >= 12) && currLine.substring(0, 12).equals(
-                    "[Start Page ")) {
-                pagesAdded++;
-                page = currIssue.addPage(pagesAdded);
-                pageLineCounter = 0;
-                page.setCountedPageNum(pagesAdded);
-                System.out.println(pagesAdded);
-                page.addLine(currLine);
-
-            } else if (page != null) {
-                pageLineCounter = page.addLine(currLine);
-                System.out.println(pageLineCounter);
-
+                if (currLine.substring(0, 12).equals("Source file: ")) {
+                    issueName = currLine.substring(13);
+                } else {
+                    issueName = currLine;
+                }
             } else {
-                page = currIssue.addPage(pagesAdded + 1);
-                page.addLine("Page missing correct starting flag.");
-                pageLineCounter = page.addLine(currLine);
+                issueName = "missing_source_file_flag";
+            }
+            currIssue.setIssueID(issueName);
+            while ((currLine = textIn.readLine()) != null) {
+
+                //currLine = textIn.readLine();
+                if (currLine.equals("") || currLine.equals("\n")) {
+                    continue;
+                }
+
+                if ((currLine.length() >= 12) && currLine.substring(0, 12)
+                        .equals(
+                                "[Start Page ")) {
+                    pagesAdded++;
+                    page = currIssue.addPage(pagesAdded);
+                    pageLineCounter = 0;
+                    page.setCountedPageNum(pagesAdded);
+                    System.out.println(pagesAdded);
+                    page.addLine(currLine);
+
+                } else if (page != null) {
+                    pageLineCounter = page.addLine(currLine);
+                    System.out.println(pageLineCounter);
+
+                } else {
+                    page = currIssue.addPage(pagesAdded + 1);
+                    page.addLine("Page missing correct starting flag.");
+                    pageLineCounter = page.addLine(currLine);
+
+                }
 
             }
-
+            currIssue = columnSortIssue(currIssue);
         }
-        currIssue = columnSortIssue(currIssue);
         return currIssue;
     }
 
@@ -155,14 +160,12 @@ public class IssueProcessor {
         //replace this w iteration functionality on model
 
         for (Page page : pages) {
-            page = processPage(page);
+            processPage(page);
         }
 
         return issue;
 
     }
-    //need something topull sinfle col areas out for ordered reintegration
-
 
     //calls a page processing method for each known page
     //layout in the set of PDF docs.
@@ -178,11 +181,7 @@ public class IssueProcessor {
         switch (page.getCountedPageNum()) {
 
             case 0:
-                page = processSimplePage(page);
-                break;
             case 1:
-                page = processSimplePage(page);
-                break;
             case 2:
 
                 page = processSimplePage(page);
@@ -215,7 +214,6 @@ public class IssueProcessor {
 
         List<String> lines = page.getPageContents();
 
-
         StringBuilder col = new StringBuilder();
         lines.stream()
                 .forEach((line) -> {
@@ -229,8 +227,6 @@ public class IssueProcessor {
         page.setColumns(columns);
 
         return page;
-
-
     }
 
     protected Page processCRFirstBodyPage(Page page) {
@@ -241,14 +237,13 @@ public class IssueProcessor {
         boolean intro;
         intro = true;
         String pNum = "";
-        String meetingDate = new String();
+        String meetingDate = "";
         int lineCounter = 0;
         String header = "";
-
-
-        StringBuilder headerContent = new StringBuilder();
         String content = "";
 
+        StringBuilder headerContent = new StringBuilder();
+        
 
         while (intro == true) {
 
@@ -272,12 +267,10 @@ public class IssueProcessor {
                             || content.startsWith("SAT")
                             || content.startsWith("SUND")) {
 
-
                         intro = false;
                         header = headerContent.toString();
                         meetingDate = content;
                         break;
-
                     }
                 }
             }
@@ -298,12 +291,11 @@ public class IssueProcessor {
         int xAxisStart = 0;
         String text = "";
 
-
         for (int z = lineCounter; z < lines.size(); z++) {
 
             String line = lines.get(z);
             String[] sections = colBreak.split(line);
-            numColsOnLine = sections.length;
+            //numColsOnLine = sections.length;
             lineCounter++;
 
             int columnOneLine = 74;
@@ -316,7 +308,7 @@ public class IssueProcessor {
             //determine columns
             if (line.equals("") || line.equals("\n") || line.equals(
                     " ")) {
-                continue;
+                
             } else if (lineCounter == lines.size()) {
 
                 pageMatcher.reset(sections[0]);
@@ -326,10 +318,8 @@ public class IssueProcessor {
                     pNum = pageMatcher.group(1);
                     page.setIndexPageNum(Integer.parseInt(pNum));
 
-
                 }
                 page.setFooter(line);
-
 
             } else {
                 for (int i = 0; i < sections.length; i++) {
@@ -361,9 +351,8 @@ public class IssueProcessor {
                         columnThree.append(text);
                         columnThreePresent = true;
                     } else {
-                        strays.append(xAxisStart + " " + text);
+                        strays.append(xAxisStart).append(" ").append(text);
                     }
-
 
                 }//end columnar for loop
 
@@ -422,7 +411,7 @@ public class IssueProcessor {
                 }
                 if (colOneText.startsWith("Index")) {
                     //check ahead
-                    int checkAheadLine = lineCounter;
+                    //int checkAheadLine = lineCounter;
                     boolean checkTest = false;
                     int i = 0;
 
@@ -464,7 +453,6 @@ public class IssueProcessor {
         int indexStartLine = 0;
         fullWidthFlag = false;
 
-
         String[] measureAndText;
         String text = "";
         int xAxisStart = 0;
@@ -495,7 +483,7 @@ public class IssueProcessor {
         for (String line : lines) {
 
             String[] sections = colBreak.split(line);
-            numColsOnLine = sections.length;
+            //numColsOnLine = sections.length;
             lineCounter++;
             //remember this means lineCounter variable is one greater than 
             //the list index through all following logic
@@ -509,7 +497,6 @@ public class IssueProcessor {
             }
 
             if (indexStartLine != 0 && lineCounter == indexStartLine) {
-
 
                 indexFlag = true;
                 line = processIndexLine(line);
@@ -574,7 +561,7 @@ public class IssueProcessor {
 
             } else if (startBodyPageFullWidth == true
                     && checker.length > 1
-                    && !(checker[1].startsWith("Ord. No. ")) //                    //&& !(checker[1].toUpperCase().equals(checker[1]))
+                    && !(checker[1].startsWith("Ord. No. ")) //&& !(checker[1].toUpperCase().equals(checker[1]))
                     //                    && lineCounter <= lines.size() - 1) {
                     ) {
 
@@ -582,7 +569,13 @@ public class IssueProcessor {
 
                     measureAndText = tabSplit.split(section);
                     if (measureAndText.length > 1) {
+
+                        if (Integer.parseInt(measureAndText[0])
+                                > 130) {
+                            startingFullWidth.append("\t|\t");
+                        }
                         startingFullWidth.append(measureAndText[1]);
+                        //startingFullWidth.append("\t");
                     }
                 }
                 startingFullWidth.append("\n");
@@ -599,7 +592,8 @@ public class IssueProcessor {
                 //of the full-width. But I've only seen it 
                 //for certain ordinance text so far
 
-                fullWidth.append(checker[1]);
+                fullWidth.append(checker[1]).append("\n");
+
                 fullWidthFlag = true;
 
             } else if (fullWidthFlag == true
@@ -617,12 +611,17 @@ public class IssueProcessor {
 
                     measureAndText = tabSplit.split(section);
                     if (measureAndText.length > 1) {
+
+                        if (Integer.parseInt(measureAndText[0])
+                                > 130) {
+                            fullWidth.append("\t|\t");
+                        }
                         fullWidth.append(measureAndText[1]);
+                        //fullWidth.append("\t");
                     }
                 }
                 fullWidth.append("\n");
 
-            
             } else if (lineCounter == (lines.size() - 1)
                     && fullWidthFlag == true) {
                 //checks for a 'full width' flag being carried to the 
@@ -632,11 +631,11 @@ public class IssueProcessor {
                     measureAndText = tabSplit.split(section);
                     if (measureAndText.length > 1) {
                         fullWidth.append(measureAndText[1]);
+                        fullWidth.append("\t");
                     }
                 }
 
                 fullWidthFlag = false;
-
 
             } else if (sections.length == 1
                     && sections.length > 140) {
@@ -672,12 +671,12 @@ public class IssueProcessor {
                             strays.append(measureAndText[1]);
                         }
                     }
-                    
-                    if (text.startsWith("Ord. No. ")){
+
+                    if (text.startsWith("Ord. No. ")) {
                         startBodyPageFullWidth = false;
                     }
 
-                    if (xAxisStart <= columnTwoLine * .9) {
+                    if (xAxisStart <= columnTwoLine * .97) {
                         //use this or fixed addition for expected col w?
                         //do need factor to left too to pickup mal-aligned
                         //units (probably)
@@ -731,7 +730,6 @@ public class IssueProcessor {
         startingFullWidth.append(
                 "[End full-width carry over]\n");
 
-
         List<String> columns = new ArrayList<>();
 
         columns.add(startingFullWidth.toString());
@@ -770,7 +768,6 @@ public class IssueProcessor {
 
     }
 
-
     protected Page processCRDirectoryOfOfficials(Page page) {
 
         List<String> lines = page.getPageContents();
@@ -781,10 +778,6 @@ public class IssueProcessor {
         String[] measureAndText;
         String text = "";
         int xAxisStart = 0;
-
-
-        Pattern colBreak = Pattern.compile("\\|");
-        Pattern tabSplit = Pattern.compile("\\\t");
 
         StringBuilder columnOne = new StringBuilder();
         StringBuilder columnTwo = new StringBuilder();
@@ -832,7 +825,6 @@ public class IssueProcessor {
                     strays.append(xAxisStart).append(" ").append(text);
                 }
 
-
             }//end columnar for loop
 
             if (columnOnePresent) {
@@ -846,27 +838,17 @@ public class IssueProcessor {
                 strays.append("\n");
             }
         }
-
         //end line iteration
 
         columnOne.append("[End Column One]\n");
         columnTwo.append("[End Column Two]\n");
-
         strays.append("[End Non-placed Text]\n");
-
-
         List<String> columns = new ArrayList<>();
         columns.add(columnOne.toString());
         columns.add(columnTwo.toString());
-
         columns.add(strays.toString());
-
-
         page.setColumns(columns);
-
-
         return page;
-
 
     }
 
@@ -874,32 +856,26 @@ public class IssueProcessor {
     public void printIssue(IssueModel issue, String fileName) throws
             FileNotFoundException, UnsupportedEncodingException {
 
-        try {
+        try (Writer fileOut = (new BufferedWriter(
+                    new PrintWriter(fileName, "UTF-8")))){
+            
             List<Page> pages = issue.getPages();
-            Writer fileOut;
-
-
-            fileOut = (new BufferedWriter(new PrintWriter(fileName, "UTF-8")));
-
-
+            
             for (Page page : pages) {
 
                 List<String> columns = page.getColumns();
                 String issuePageNumber = String.valueOf(page.getPageNum());
                 String indexPageNumber = String.valueOf(page.getIndexPageNum());
 
-
                 try {
 
-
                     fileOut.append("[Page " + issuePageNumber + "]\n");
-                    fileOut.append("[Indexed (running) page" + indexPageNumber
+                    fileOut.append("[Indexed page" + indexPageNumber
                             + "]\n");
                     if (!(columns == null)) {
                         for (String column : columns) {
 
                             fileOut.append(column);
-
 
                         }
                     }
@@ -914,17 +890,14 @@ public class IssueProcessor {
 
             }
 
-            fileOut.flush();
-            fileOut.close();
-
-
+            
         } catch (IOException ex) {
             Logger.getLogger(IssueProcessor.class
                     .getName())
                     .log(Level.SEVERE, null, ex);
         }
-
+        
+        
     }
-
 
 }

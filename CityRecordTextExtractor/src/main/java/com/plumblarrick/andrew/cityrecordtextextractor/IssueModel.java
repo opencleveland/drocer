@@ -58,7 +58,7 @@ public class IssueModel {
         private int pageNum;
         private int countedPageNum;
         private int indexPageNum;
-        private int columnCount;
+        //private int columnCount;
 
        
         private List<String> rawPageLines;
@@ -135,7 +135,7 @@ public class IssueModel {
 
         public void setColumns(List<String> columns) {
             this.columns = columns;
-            columnCount = columns.size();
+            //columnCount = columns.size();
         }
 
         

@@ -20,7 +20,7 @@ public class App {
         String outFileName = args[1];
         String orderedFileName = "sorted" + outFileName;
         IssueProcessor proc = new IssueProcessor();
-        //OutCleaner clean = new OutCleaner();
+        OutStringCleaner clean = new OutStringCleaner(orderedFileName);
         
         
         String status = proc.extractIssue(fileName, outFileName);
@@ -29,7 +29,7 @@ public class App {
         
         IssueModel issue = proc.readLinesToPages();
         proc.printIssue(issue, orderedFileName);
-        //clean.cleanUpFullWidth(orderedFileName);
+        clean.removeProcessingTags(orderedFileName);
         
         
         

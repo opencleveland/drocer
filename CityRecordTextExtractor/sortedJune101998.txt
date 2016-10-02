@@ -1,5 +1,5 @@
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Start Page 1 ]
 Containing PAGE
 City Council 3
@@ -56,7 +56,7 @@ Permit No. 1372
 First Class Mail
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Start Page 2 ]
 CITY COUNCIL–LEGISLATIVE
 President of Council–Jay Westbrook
@@ -240,7 +240,7 @@ Michelle L. Paris–Chief Magistrate
 DIRECTORY OF CITY OFFICIALS
 [end page]
 [Page 3]
-[Indexed (running) page911]
+[Indexed page911]
 City Council
 MONDAY, JUNE 8, 1998
 The City Record 
@@ -465,7 +465,7 @@ pendent Auditor which confirms
 [End Non-placed Text]
 [end page]
 [Page 4]
-[Indexed (running) page912]
+[Indexed page912]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -749,7 +749,7 @@ the City of Cleveland:
 [End Index Entries]
 [end page]
 [Page 5]
-[Indexed (running) page913]
+[Indexed page913]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -1053,7 +1053,7 @@ on Public Utilities, Finance.
 [End Index Entries]
 [end page]
 [Page 6]
-[Indexed (running) page914]
+[Indexed page914]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -1066,7 +1066,8 @@ on Public Utilities, Finance.
 [Couldn't place these:] 
 [End Non-placed Text]
 [Late-page full-width items moved after column area]
-Ord. No. 1070-98.By Councilmen Willis and Johnson (by departmental request).
+Ord. No. 1070-98.
+By Councilmen Willis and Johnson (by departmental request).
 An emergency ordinance authorizing and directing the Director of Parks, Recreation and Properties to make
 alterations and modifications in Contract No. PI 52012A for improvements to Cleveland Memorial Gardens with
 S.W. Franks Construction Company, for the Department of Parks, Recreation and Properties.
@@ -1076,78 +1077,78 @@ Be it ordained by the Council of the City of Cleveland:
 Section 1. That the Director of Parks, Recreation and Properties is hereby authorized and directed to make the
 following alterations and modifications in Contract No. PI 52012A with S.W. Franks Construction Company for
 improvements to Cleveland Memorial Gardens, for the Department of Parks, Recreation and Properties:
-CLEVELAND MEMORIAL GARDENS
-SITE IMPROVEMENTS
+	|	CLEVELAND MEMORIAL GARDENS
+	|	SITE IMPROVEMENTS
 ADDITIONS-ORIGINAL ITEMS
-Item #1 Mobilization, demolition, general conditions, bonding, insurance (Lump Sum at 37,914.83) 37,914.83
-Item #3 Clear and grub - remove scrub vegetation and small trees (7.06 A.C. @ 1,700.00 A.C.) 12,002.00
-Item #4 Remove large trees (30 @ 112.00 each) 3,360.00
-Item #13 Topsoil stripping (39,367 C.Y. @ 2.90 C.Y.) 114,164.30
-Item #14 Topsoil respread (24,460 C.Y. @ 3.00 C.Y.) 73,380.00
-Item #15 Excavation - cut (14,341 C.Y. @ 2.60 C.Y.) 37,286.60
-Item #17 Excavation - drainage channel (14,341 C.Y. @ 2.60 C.Y.) 15,312.00
-Item #19 Silt fence (3,000 L.F. @ 2.50 L.F.) 7,500.00
-Item #20 Straw bales (16 each @ 10.00 each) 160.00
-Item #21 12" reinforced concrete sewer pipe (56 L.F. @ 25.00) 1,400.00
-Item #33 Rock channel protection (66 C.Y. @ 100.00 C.Y.) 6,600.00
-Item #34 Erosion control matting (500 S.Y. @ 6.60 S.Y.) 3,300.00
-Item #40 ODOT Std. MH-3 (84" dia.)(1 @ 5,000.00) 5,000.00
-Item #44 ODOT Std. 2-2-13 Catch Basin (1 @ 1,300.00/ea.) 1,300.00
-Item #46 4" Underdrain under roadway (900 L.F. @ 6.00 L.F.) 5,400.00
-Item #47 6" HDPE Non-perforated underdrain (30 L.F. @ 8.00 L.F.) 240.00
-Item #51 Mountable curb and gutter (without underdrains) (1,630 L.F. @ 8.50 L.F.) 13,855.00
-Item #52 Vertical curb and gutter (with underdrains) (1,000 L.F. @ 15.00 L.F.) 15,000.00
-Item #54 Wheel stops (8 each @ 67.00 each) 536.00
-Item #62 Hydroseeding (117,000 S.Y. @ .77 S.Y.) 90,090.00
-TOTAL ADDITIONS TO ORIGINAL ITEMS 443,800.73
+Item #1 	|	Mobilization, demolition, general conditions, bonding, insurance (Lump Sum at 37,914.83) 	|	37,914.83
+Item #3 	|	Clear and grub - remove scrub vegetation and small trees (7.06 A.C. @ 1,700.00 A.C.) 	|	12,002.00
+Item #4 	|	Remove large trees (30 @ 112.00 each) 	|	3,360.00
+Item #13 	|	Topsoil stripping (39,367 C.Y. @ 2.90 C.Y.) 	|	114,164.30
+Item #14 	|	Topsoil respread (24,460 C.Y. @ 3.00 C.Y.) 	|	73,380.00
+Item #15 	|	Excavation - cut (14,341 C.Y. @ 2.60 C.Y.) 	|	37,286.60
+Item #17 	|	Excavation - drainage channel (14,341 C.Y. @ 2.60 C.Y.) 	|	15,312.00
+Item #19 	|	Silt fence (3,000 L.F. @ 2.50 L.F.) 	|	7,500.00
+Item #20 	|	Straw bales (16 each @ 10.00 each) 	|	160.00
+Item #21 	|	12" reinforced concrete sewer pipe (56 L.F. @ 25.00) 	|	1,400.00
+Item #33 	|	Rock channel protection (66 C.Y. @ 100.00 C.Y.) 	|	6,600.00
+Item #34 	|	Erosion control matting (500 S.Y. @ 6.60 S.Y.) 	|	3,300.00
+Item #40 	|	ODOT Std. MH-3 (84" dia.)(1 @ 5,000.00) 	|	5,000.00
+Item #44 	|	ODOT Std. 2-2-13 Catch Basin (1 @ 1,300.00/ea.) 	|	1,300.00
+Item #46 	|	4" Underdrain under roadway (900 L.F. @ 6.00 L.F.) 	|	5,400.00
+Item #47 	|	6" HDPE Non-perforated underdrain (30 L.F. @ 8.00 L.F.) 	|	240.00
+Item #51 	|	Mountable curb and gutter (without underdrains) (1,630 L.F. @ 8.50 L.F.) 	|	13,855.00
+Item #52 	|	Vertical curb and gutter (with underdrains) (1,000 L.F. @ 15.00 L.F.) 	|	15,000.00
+Item #54 	|	Wheel stops (8 each @ 67.00 each) 	|	536.00
+Item #62 	|	Hydroseeding (117,000 S.Y. @ .77 S.Y.) 	|	90,090.00
+	|	TOTAL ADDITIONS TO ORIGINAL ITEMS 	|	443,800.73
 CREDIT - ORIGINAL ITEMS
-Item #5 Sawcut and remove concrete (160 S.Y. @ 21.00 S.Y.) 3,360.00
-Item #6 Demo concrete walk (Lump Sum @ 600.00) 600.00
-Item #9 Demo curb (42 L.F. @ 6.00 L.F.) 252.00
-Item #10 Remove guardrail (30 L.F. @ 7.00 L.F.) 210.00
-Item #11 Abandon existing drainage structure (1 @ 500.00 each) 500.00
-Item #12 Remove and relocated light pole (1 @ 1,400.00 each) 1,400.00
-Item #16 Excavation-fill (7,787 C.Y. @ 2.05 C.Y.) 15,963.35
-Item #18 Fill material (325 L.F. @ 7.00 L.F.) 2,275.00
-Item #41 ODOT Std. MH-3 (96" dia.)(1 @ 6,100.00) 6,100.00
-Item #45 4" HDPE perforated underdrain (2,745 L.F. @ 6.00 L.F.) 16,470.00
-Item #50 Mountable curb and gutter (with underdrains) (245 L.F. @ 15.00 L.F.) 3,675.00
-Item #59 Blank plot markers (109 each @ 5.50 each) 599.50
-Add Alternate No. 2 (committal shelter)(Lump Sum @ 60,000.00) 60,000.00
-Add Alternate No. 4 (Blvd. terminus wall)(Lump Sum @ 25,000.00) 25,000.00
-TOTAL CREDITS TO ORIGINAL ITEMS 136,404.85
+Item #5 	|	Sawcut and remove concrete (160 S.Y. @ 21.00 S.Y.) 	|	3,360.00
+Item #6 	|	Demo concrete walk (Lump Sum @ 600.00) 	|	600.00
+Item #9 	|	Demo curb (42 L.F. @ 6.00 L.F.) 	|	252.00
+Item #10 	|	Remove guardrail (30 L.F. @ 7.00 L.F.) 	|	210.00
+Item #11 	|	Abandon existing drainage structure (1 @ 500.00 each) 	|	500.00
+Item #12 	|	Remove and relocated light pole (1 @ 1,400.00 each) 	|	1,400.00
+Item #16 	|	Excavation-fill (7,787 C.Y. @ 2.05 C.Y.) 	|	15,963.35
+Item #18 	|	Fill material (325 L.F. @ 7.00 L.F.) 	|	2,275.00
+Item #41 	|	ODOT Std. MH-3 (96" dia.)(1 @ 6,100.00) 	|	6,100.00
+Item #45 	|	4" HDPE perforated underdrain (2,745 L.F. @ 6.00 L.F.) 	|	16,470.00
+Item #50 	|	Mountable curb and gutter (with underdrains) (245 L.F. @ 15.00 L.F.) 	|	3,675.00
+Item #59 	|	Blank plot markers (109 each @ 5.50 each) 	|	599.50
+Add Alternate No. 2 (committal shelter)(Lump Sum @ 60,000.00) 	|	60,000.00
+Add Alternate No. 4 (Blvd. terminus wall)(Lump Sum @ 25,000.00) 	|	25,000.00
+	|	TOTAL CREDITS TO ORIGINAL ITEMS 	|	136,404.85
 NEW ITEMS FOR SUBSIDIARY
-Item #103 Debris and pipe removal (Lump Sum @ 14,252.00) 14,252.00
-Item #104 Remove and dispose of NCB debris (Lump Sum @ 15,000.00) 15,000.00
-Item #105 Performance of sewer work out of sequence (Lump Sum @ 9,600.00) 9,600.00
-Item #106 Temporary access drive off Clarkwood to complete sewer work (Lump Sum @ 15,700.00) 15,700.00
-Item #107 Additional inspection fees for Cuyahoga Sanitary Engineer (Lump Sum @ 8,400.00) 8,400.00
-Item #108 Labor cost increase (Union wage scale will go up on May 1st and this will cover work 7,000.00
-that was delayed beyond the contractor’s control) (Lump Sum @ 7,000.00)
-Item #109 Sidewalk along Green Road (7,100 S.F. @ 2.90 S.F.) 20,590.00
-Item #110 Grading and excavation for sidewalk along Green road (Lump Sum @ 30,000.00) 30,000.00
-Item #111 Guardrail (825 L.F. @ 16.50 L.F.) 13,612.50
-Item #112 4" PVC utility sleeves (400 L.F. @ 19.50 L.F.) 7,800.00
-Item #113 Topsoil re-handling (13,000 C.Y. @ 2.00 C.Y.) 26,000.00
-Item #114 Split rail fence (700 L.F. @ 12.50) 8,750.00
-Item #115 Premium back-fill material (500 C.Y. @ 22.55) 11,275.00
-Item #116 Storm sewer connection (Lump Sum @ 1,850.00) 1,850.00
-Item #117 Grading and excavation for workhouse access Road (Lump Sum @ 4,650.00) 4,650.00
-Item #118 9" concrete pavement for workhouse access Road (1,671 S.Y. @ 56.45 S.Y) 94,327.95
-TOTAL NEW ITEMS FOR SUBSIDIARY 288,807.45
-ADDITIONS (OVERRUNS) 443,800.73
-+NEW ITEMS 288,807.45
-TOTAL ADDITIONS TO ORIGINAL CONTRACT 732,608.18
-TOTAL ADDITIONS 732,608.18
---- TOTAL CREDITS 136,404.85
-TOTAL SUBSIDIARY AMOUNT 596,203.33
-ORIGINAL CONTRACT AMOUNT 1,998,059.93
-SUBSIDIARY AMOUNT 596,203.33
-REVISED CONTRACT AMOUNT 2,594,263.26[End Full-Width Moved After Columns]
+Item #103 	|	Debris and pipe removal (Lump Sum @ 14,252.00) 	|	14,252.00
+Item #104 	|	Remove and dispose of NCB debris (Lump Sum @ 15,000.00) 	|	15,000.00
+Item #105 	|	Performance of sewer work out of sequence (Lump Sum @ 9,600.00) 	|	9,600.00
+Item #106 	|	Temporary access drive off Clarkwood to complete sewer work (Lump Sum @ 15,700.00) 	|	15,700.00
+Item #107 	|	Additional inspection fees for Cuyahoga Sanitary Engineer (Lump Sum @ 8,400.00) 	|	8,400.00
+Item #108 	|	Labor cost increase (Union wage scale will go up on May 1st and this will cover work 	|	7,000.00
+	|	that was delayed beyond the contractor’s control) (Lump Sum @ 7,000.00)
+Item #109 	|	Sidewalk along Green Road (7,100 S.F. @ 2.90 S.F.) 	|	20,590.00
+Item #110 	|	Grading and excavation for sidewalk along Green road (Lump Sum @ 30,000.00) 	|	30,000.00
+Item #111 	|	Guardrail (825 L.F. @ 16.50 L.F.) 	|	13,612.50
+Item #112 	|	4" PVC utility sleeves (400 L.F. @ 19.50 L.F.) 	|	7,800.00
+Item #113 	|	Topsoil re-handling (13,000 C.Y. @ 2.00 C.Y.) 	|	26,000.00
+Item #114 	|	Split rail fence (700 L.F. @ 12.50) 	|	8,750.00
+Item #115 	|	Premium back-fill material (500 C.Y. @ 22.55) 	|	11,275.00
+Item #116 	|	Storm sewer connection (Lump Sum @ 1,850.00) 	|	1,850.00
+Item #117 	|	Grading and excavation for workhouse access Road (Lump Sum @ 4,650.00) 	|	4,650.00
+Item #118 	|	9" concrete pavement for workhouse access Road (1,671 S.Y. @ 56.45 S.Y) 	|	94,327.95
+	|	TOTAL NEW ITEMS FOR SUBSIDIARY 	|	288,807.45
+	|	ADDITIONS (OVERRUNS) 	|	443,800.73
+	|	+NEW ITEMS 	|	288,807.45
+	|	TOTAL ADDITIONS TO ORIGINAL CONTRACT 	|	732,608.18
+	|	TOTAL ADDITIONS 	|	732,608.18
+	|	--- TOTAL CREDITS 	|	136,404.85
+	|	TOTAL SUBSIDIARY AMOUNT 	|	596,203.33
+	|	ORIGINAL CONTRACT AMOUNT 	|	1,998,059.93
+	|	SUBSIDIARY AMOUNT 	|	596,203.33
+REVISED CONTRACT AMOUNT 	2,594,263.26	[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 7]
-[Indexed (running) page915]
+[Indexed page915]
 [Page starting with carry-over full-width content]
 which alteration has been recommended in writing by the said Director of Parks, Recreation and Properties, coun-
 tersigned by the Mayor, and consented to by the surety on said contract, which price to be paid therefor has
@@ -1420,7 +1421,7 @@ the Director of Public Service on
 [End Index Entries]
 [end page]
 [Page 8]
-[Indexed (running) page916]
+[Indexed page916]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -1727,7 +1728,7 @@ to apply for and accept a grant in
 [End Index Entries]
 [end page]
 [Page 9]
-[Indexed (running) page917]
+[Indexed page917]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -2030,7 +2031,7 @@ hereby are appropriated:
 [End Index Entries]
 [end page]
 [Page 10]
-[Indexed (running) page918]
+[Indexed page918]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -2071,6 +2072,7 @@ line
 of 
 land 
 conveyed 
+to 
 Dorothy Hutchinson by deed dated 
 October 22, 1954 and recorded in Vol- 
 ume 8213, Page 281, Cuyahoga Coun- 
@@ -2350,13 +2352,13 @@ Legislation,
 Finance.
 [End Column Three]
 [Couldn't place these:] 
-209 to [End Non-placed Text]
+[End Non-placed Text]
 [Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 11]
-[Indexed (running) page919]
+[Indexed page919]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -2684,7 +2686,7 @@ authorized and directed to accept
 [End Index Entries]
 [end page]
 [Page 12]
-[Indexed (running) page920]
+[Indexed page920]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -3003,7 +3005,7 @@ opment, City Planning, Finance.
 [End Index Entries]
 [end page]
 [Page 13]
-[Indexed (running) page921]
+[Indexed page921]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -3215,8 +3217,9 @@ Nays 0.
 [Couldn't place these:] 
 [End Non-placed Text]
 [Late-page full-width items moved after column area]
-Ord. No. 1043-98.By Councilman Cintron.
-An emergency ordinance authorizing the Director of Public Service to issue a permit to Lutheran Hospital
+Ord. No. 1043-98.
+By Councilman Cintron.
+An emergency ordinance 	|	authorizing the Director of Public Service to issue a permit to Lutheran Hospital
 to encroach into the public right-of-way at various locations on Vestry Avenue, West 25th Street, West 28th
 Street and Franklin Boulevard with nineteen (19) banners, in conjunction with their on-going banner pro-
 g r a m .
@@ -3230,40 +3233,40 @@ for the construction, use and maintenance of nineteen (19) banners to be attache
 minating Company (C.E.I.) and Cleveland Public Power (C.P.P.) utility poles (by separate permission), and which
 banners are in conjunction with Lutheran Hospital’s on-going banner program, and will encroach into various
 locations of Vestry Avenue, West 25th Street, West 28th Street and Franklin Boulevard as more fully described
-herein:[End Full-Width Moved After Columns]
+herein:	[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 14]
-[Indexed (running) page922]
+[Indexed page922]
 [Page starting with carry-over full-width content]
-LUTHERAN HOSPITAL PROPOSED BANNER ENCROACHMENT AREA:
-LOCATION: POLE NUMBER: OWNER:
+	|	LUTHERAN HOSPITAL PROPOSED BANNER ENCROACHMENT AREA:
+LOCATION: 	|	POLE NUMBER: 	|	OWNER:
 9-Poles-Various-E. side
 of W. 25th & both sides of
-Vestry No #’s C.P.P.
+Vestry 	|	No #’s 	|	C.P.P.
 1-Pole-W. of the S.W.
 corner of W. 25th &
-Franklin 1140 C.E.I.
+Franklin 	|	1140 	|	C.E.I.
 1-Pole-S. side of
 Franklin, at the Cinecraft
-driveway 44028 C.P.P.
+driveway 	|	44028 	|	C.P.P.
 1-Pole-N. side of
 Franklin, E. of Hospital
-parking lot No # C.P.P.
+parking lot 	|	No # 	|	C.P.P.
 1-Pole-N. side of
-Franklin 527805 C.E.I.
+Franklin 	|	527805 	|	C.E.I.
 1-Pole-S. side of
-Franklin 44029 C.P.P.
+Franklin 	|	44029 	|	C.P.P.
 1-Pole-N. side of
-Franklin 44030 C.E.I.
+Franklin 	|	44030 	|	C.E.I.
 1-Pole-S. side of
-Franklin A0344 C.P.P.
+Franklin 	|	A0344 	|	C.P.P.
 1-Pole-N.E. corner
-of Franklin & W. 25th No # C.P.P.
+of Franklin & W. 25th 	|	No # 	|	C.P.P.
 1-Pole-E. side of
-W. 28, N. of Franklin No # C.P.P.
+W. 28, N. of Franklin 	|	No # 	|	C.P.P.
 1-Pole-N. side of
-Franklin, W. of W. 28th No # C.E.I.
+Franklin, W. of W. 28th 	|	No # 	|	C.E.I.
 Section 2. That nothing in this ordinance grants or shall be considered a grant to Permittee any right, privi-
 lege or permission to use or to attach or affix any objects to poles described in Section 1 of this ordinance.
 Section 3. That said banners are to be placed in the public right-of-way at the location as aforesaid in Section
@@ -3396,7 +3399,7 @@ legal highways.
 [End Index Entries]
 [end page]
 [Page 15]
-[Indexed (running) page923]
+[Indexed page923]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -3613,8 +3616,9 @@ Nays 0.
 [Couldn't place these:] 
 [End Non-placed Text]
 [Late-page full-width items moved after column area]
-Ord. No. 1047-98.By Councilman Polensek.
-An emergency ordinance authorizing the Director of Public Service to issue a permit to The Nottingham Civic
+Ord. No. 1047-98.
+By Councilman Polensek.
+An emergency ordinance 	|	authorizing the Director of Public Service to issue a permit to The Nottingham Civic
 Club to encroach into various locations of the public right-of-way in the areas of St. Clair Avenue and Notting-
 ham Road, with a total of both (approximately) thirty-one (31) banners and American flags to publicize the “Not-
 tingham Village Neighborhood Banner Project”.
@@ -3628,59 +3632,59 @@ tion, use and maintenance for a total of (approximately) thirty-one (31) Banners
 attached to Cleveland Public Power and Cleveland Electric Illuminating Company utility poles (by separate per-
 mission), to publicize the “Nottingham Village Neighborhood Banner Project”, and which Banners and American
 Flags will encroach into the public right-of-way at various locations on St. Clair Avenue and Nottingham Road
-and are more fully described as follows:[End Full-Width Moved After Columns]
+and are more fully described as follows:	[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 16]
-[Indexed (running) page924]
+[Indexed page924]
 [Page starting with carry-over full-width content]
-PROPOSED ENCROACHMENT AREA FOR BANNERS AND AMERICAN FLAGS:
-LOCATION: POLE NO.: SIGNAGE:
-Starting with the nh127sw/corner Banner
-corner at Nottingham 516571 American Flag
-Road and St. Clair NH 28 - (Nottingham
-Avenue heading west: Hardware) Banner
-NH 29 - (E. 187th St.) Banner
-NH1-30 American Flag
-515859 Banner
-NH1-31 American Flag
-NH1-32 Banner
-NH1-33 American Flag
-NH1-34 Banner
-NH1-35 Banner
-Starting from the 5005197 Banner
-northwest corner of NH27A American Flag
-Nottingham Road and 505196 Banner
-St. Clair Avenue and A7212 American Flag
-and heading west no number
-(#18633 St. Clair) Banner
-A7214 American Flag
-504801 Banner
-no number
-(#18611 St. Clair) American Flag
-no number
-(#18607 St. Clair) Banner
-509350 American Flag
-no number
-(#18523) Banner
-no number
-(#18509) American Flag
-no number
-(corner cafe) Banner
-3288878 American Flag
-no number Banner
-no number
-(#18421) American Flag
-A7231 Banner
+	|	PROPOSED ENCROACHMENT AREA FOR BANNERS AND AMERICAN FLAGS:
+LOCATION: 	|	POLE NO.: 	|	SIGNAGE:
+Starting with the 	|	nh127sw/corner 	|	Banner
+corner at Nottingham 	|	516571 	|	American Flag
+Road and St. Clair 	|	NH 28 - (Nottingham
+Avenue heading west: 	|	Hardware) 	|	Banner
+	|	NH 29 - (E. 187th St.) 	|	Banner
+	|	NH1-30 	|	American Flag
+	|	515859 	|	Banner
+	|	NH1-31 	|	American Flag
+	|	NH1-32 	|	Banner
+	|	NH1-33 	|	American Flag
+	|	NH1-34 	|	Banner
+	|	NH1-35 	|	Banner
+Starting from the 	|	5005197 	|	Banner
+northwest corner of 	|	NH27A 	|	American Flag
+Nottingham Road and 	|	505196 	|	Banner
+St. Clair Avenue and 	|	A7212 	|	American Flag
+and heading west 	|	no number
+	|	(#18633 St. Clair) 	|	Banner
+	|	A7214 	|	American Flag
+	|	504801 	|	Banner
+	|	no number
+	|	(#18611 St. Clair) 	|	American Flag
+	|	no number
+	|	(#18607 St. Clair) 	|	Banner
+	|	509350 	|	American Flag
+	|	no number
+	|	(#18523) 	|	Banner
+	|	no number
+	|	(#18509) 	|	American Flag
+	|	no number
+	|	(corner cafe) 	|	Banner
+	|	3288878 	|	American Flag
+	|	no number 	|	Banner
+	|	no number
+	|	(#18421) 	|	American Flag
+	|	A7231 	|	Banner
 Starting at the
 northeast corner of
 Nottingham Road and St.
-Clair Avenue heading east A8110 Banner
-693439 Banner
+Clair Avenue heading east 	|	A8110 	|	Banner
+	|	693439 	|	Banner
 Starting at the southwest
 corner of Nottingham Road
-and St. Clair heading east NH121A Banner
-NG1303 Banner
+and St. Clair heading east 	|	NH121A 	|	Banner
+	|	NG1303 	|	Banner
 Section 2. That said Support Columns, Protective Bollards and Aerial Encroachments will be constructed with-
 in the public right-of-way at the locations aforesaid in Section 1, and with plans and specifications approved by
 the Commissioner of Engineering and Construction.
@@ -3710,7 +3714,7 @@ The rules were suspended. Yeas 21. Nays 0. Read second time. Read third time in 
 [End Index Entries]
 [end page]
 [Page 17]
-[Indexed (running) page925]
+[Indexed page925]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -3939,8 +3943,9 @@ Nays 0.
 [Couldn't place these:] 
 [End Non-placed Text]
 [Late-page full-width items moved after column area]
-Ord. No. 1049-98.By Councilman Westbrook.
-An emergency ordinance authorizing the Director of Public Service to issue a permit to Our Father’s House
+Ord. No. 1049-98.
+By Councilman Westbrook.
+An emergency ordinance 	|	authorizing the Director of Public Service to issue a permit to Our Father’s House
 Church to encroach into the public right-of-way on Detroit Avenue between West 112th and West 114th Streets
 with seven (7) banners to be hung on Cleveland Public Power utility poles (by separate permission) from the
 period of July 1, 1998 to September 30, 1998 inclusive.
@@ -3953,21 +3958,21 @@ House Church, 11228 Detroit Avenue, Cleveland, Ohio 44102, its successors and as
 and maintenance of seven (7) banners to be attached to Cleveland Public Power utility poles (by separate per-
 mission), for the period of July 1, 1998 to September 30, 1998, and which banners will encroach into Detroit Avenue
 between West 112th and West 114th Streets to publicize the celebration of the church’s tenth year of serving the
-Community, at the locations more fully described herein.[End Full-Width Moved After Columns]
+Community, at the locations more fully described herein.	[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 18]
-[Indexed (running) page926]
+[Indexed page926]
 [Page starting with carry-over full-width content]
-OUR FATHER’S HOUSE CHURCH / ENCROACHMENT AREA:
-LOCATION: POLE NUMBER: OWNER:
-Detroit Avenue between E-7-25 C.P.P.
-West 112th and West 114th E-7-26 C.P.P.
-Streets E-7-15 C.P.P.
-E-7-16 C.P.P.
-E-7-27 C.P.P.
-E-8-11 C.P.P.
-E-8-10 C.P.P.
+	|	OUR FATHER’S HOUSE CHURCH / ENCROACHMENT AREA:
+LOCATION: 	|	POLE NUMBER: 	|	OWNER:
+Detroit Avenue between 	|	E-7-25 	|	C.P.P.
+West 112th and West 114th 	|	E-7-26 	|	C.P.P.
+Streets 	|	E-7-15 	|	C.P.P.
+	|	E-7-16 	|	C.P.P.
+	|	E-7-27 	|	C.P.P.
+	|	E-8-11 	|	C.P.P.
+	|	E-8-10 	|	C.P.P.
 Section 2. That nothing in this ordinance grants or shall be considered a grant to Permittee any right, privi-
 lege or permission to use or to attach or affix any objects to poles described in Section 1 of this ordinance.
 Section 3. That said banners will be placed in the public right-of-way at the location as aforesaid in Section 1
@@ -4184,7 +4189,7 @@ any time by this Council.
 [End Index Entries]
 [end page]
 [Page 19]
-[Indexed (running) page927]
+[Indexed page927]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -4243,6 +4248,7 @@ sents, as required by Section 675.07
 of the 
 Codified 
 Ordinances, 
+to 
 allow each person named below to 
 engage in peddling in the public 
 rights of way of Ward 20: Adam 
@@ -4505,13 +4511,13 @@ Section 2. That existing Section
 Cleveland, Ohio 1976, as enacted by
 [End Column Three]
 [Couldn't place these:] 
-209 to [End Non-placed Text]
+[End Non-placed Text]
 [Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 20]
-[Indexed (running) page928]
+[Indexed page928]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -4830,7 +4836,7 @@ respect to the neighborhood that it
 [End Index Entries]
 [end page]
 [Page 21]
-[Indexed (running) page929]
+[Indexed page929]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -5128,7 +5134,7 @@ lutions adopted by the Board of
 [End Index Entries]
 [end page]
 [Page 22]
-[Indexed (running) page930]
+[Indexed page930]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -5452,7 +5458,7 @@ of the public peace, property, safety
 [End Index Entries]
 [end page]
 [Page 23]
-[Indexed (running) page931]
+[Indexed page931]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -5772,7 +5778,7 @@ S t e p h e n s .
 [End Index Entries]
 [end page]
 [Page 24]
-[Indexed (running) page932]
+[Indexed page932]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -6108,7 +6114,7 @@ s a g e .
 [End Index Entries]
 [end page]
 [Page 25]
-[Indexed (running) page933]
+[Indexed page933]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -6427,7 +6433,7 @@ Elyria, Ohio 44035
 [End Index Entries]
 [end page]
 [Page 26]
-[Indexed (running) page934]
+[Indexed page934]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -6772,7 +6778,7 @@ Five Thousand and 00/100 Dollars
 [End Index Entries]
 [end page]
 [Page 27]
-[Indexed (running) page935]
+[Indexed page935]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -7089,7 +7095,7 @@ Absent: None.
 [End Index Entries]
 [end page]
 [Page 28]
-[Indexed (running) page936]
+[Indexed page936]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -7152,6 +7158,7 @@ and
 no/100 
 ($2,482,000.00) 
 Dollars, 
+is 
 hereby affirmed and approved as 
 the lowest responsible bid; and the 
 Director of Parks, Recreation and 
@@ -7400,13 +7407,13 @@ June 8, 1998 were decided by the
 Board.
 [End Column Three]
 [Couldn't place these:] 
-210 is [End Non-placed Text]
+[End Non-placed Text]
 [Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 29]
-[Indexed (running) page937]
+[Indexed page937]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -7718,7 +7725,7 @@ DE-
 [End Index Entries]
 [end page]
 [Page 30]
-[Indexed (running) page938]
+[Indexed page938]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -7728,6 +7735,7 @@ THE PLANS AND SPECIFICA-
 TIONS 
 ARE 
 RETURNED 
+IN 
 GOOD CONDITION WITHIN (15) 
 DAYS AFTER THE BID OPEN- 
 ING DATE. 
@@ -7760,6 +7768,7 @@ THE PLANS AND SPECIFICA-
 TIONS 
 ARE 
 RETURNED 
+IN 
 GOOD CONDITION WITHIN (15) 
 DAYS AFTER THE BID OPEN- 
 ING DATE. 
@@ -7793,6 +7802,7 @@ THE PLANS AND SPECIFICA-
 TIONS 
 ARE 
 RETURNED 
+IN 
 GOOD CONDITION WITHIN (15) 
 DAYS AFTER THE BID OPEN- 
 ING DATE. 
@@ -8043,13 +8053,13 @@ affirmative vote of two-thirds of all
 the members elected to Council, it
 [End Column Three]
 [Couldn't place these:] 
-208 IN 208 IN 208 IN [End Non-placed Text]
+[End Non-placed Text]
 [Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 31]
-[Indexed (running) page939]
+[Indexed page939]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -8362,7 +8372,7 @@ order; and
 [End Index Entries]
 [end page]
 [Page 32]
-[Indexed (running) page940]
+[Indexed page940]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -8681,7 +8691,7 @@ Cleveland and the Directors of
 [End Index Entries]
 [end page]
 [Page 33]
-[Indexed (running) page941]
+[Indexed page941]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -9038,7 +9048,7 @@ ment and/or Public Service are here-
 [End Index Entries]
 [end page]
 [Page 34]
-[Indexed (running) page942]
+[Indexed page942]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -9095,6 +9105,7 @@ Cleveland in order to provide pro-
 fessional 
 services 
 necessary 
+to 
 design, plan and implement the 
 Improvements. The selection of an 
 engineering consultant to design the 
@@ -9360,13 +9371,13 @@ Brownfield
 Assessment
 [End Column Three]
 [Couldn't place these:] 
-209 to [End Non-placed Text]
+[End Non-placed Text]
 [Late-page full-width items moved after column area]
 [End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 35]
-[Indexed (running) page943]
+[Indexed page943]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -9678,7 +9689,7 @@ Effective June 10, 1998.
 [End Index Entries]
 [end page]
 [Page 36]
-[Indexed (running) page944]
+[Indexed page944]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -9691,7 +9702,8 @@ Effective June 10, 1998.
 [Couldn't place these:] 
 [End Non-placed Text]
 [Late-page full-width items moved after column area]
-Ord. No. 857-98.By Councilman Johnson (by departmental request).
+Ord. No. 857-98.
+By Councilman Johnson (by departmental request).
 An emergency ordinance to amend Sections 16 and 41 of Ordinance No. 436-97, passed April 14, 1997, as may be
 amended by Ordinance No. 1474-97, passed October 13, 1997, relating to compensation for various classifications.
 Whereas, this ordinance constitutes an emergency measure providing for the usual daily operation of a munic-
@@ -9702,70 +9714,70 @@ passed April 14, 1997, as amended by Ordinance No. 1474-97, passed October 13, 1
 respectively, as follows:
 Section 16. That salaries and compensation in the following classifications shall be fixed by the appointing
 authority in accordance with the schedule appearing after each classification:
-Minimum Maximum
-1. Auto Body Repair Unit Leader............................................. $12.44 per hour $18.03 per hour
-2. Auto Body Repair Worker .................................................... $10.49 per hour $14.99 per hour
-3. Automobile Repair Helper ..................................................... $ 9.73 per hour $13.43 per hour
-4. Automobile Repair Worker ................................................... $11.03 per hour $14.86 per hour
-5. Automobile Repairman Unit Leader .................................. $12.44 per hour $18.03 per hour
-6. Blacksmith ................................................................................... $10.71 per hour $17.56 per hour
-7. Garage Worker .......................................................................... $ 9.20 per hour $12.64 per hour
-8. Heavy Duty Mechanic ............................................................. $10.71 per hour $17.81 per hour
-9. Small Equipment Repair Worker ....................................... $ 9.93 per hour $13.43 per hour
-10. Tire Repair Worker ................................................................. $10.23 per hour $13.54 per hour
-11. Welder ........................................................................................... $12.17 per hour $17.31 per hour
+	|	Minimum 	|	Maximum
+1. Auto Body Repair Unit Leader............................................. 	|	$12.44 per hour 	|	$18.03 per hour
+2. Auto Body Repair Worker .................................................... 	|	$10.49 per hour 	|	$14.99 per hour
+3. Automobile Repair Helper ..................................................... 	|	$ 9.73 per hour 	|	$13.43 per hour
+4. Automobile Repair Worker ................................................... 	|	$11.03 per hour 	|	$14.86 per hour
+5. Automobile Repairman Unit Leader .................................. 	|	$12.44 per hour 	|	$18.03 per hour
+6. Blacksmith ................................................................................... 	|	$10.71 per hour 	|	$17.56 per hour
+7. Garage Worker .......................................................................... 	|	$ 9.20 per hour 	|	$12.64 per hour
+8. Heavy Duty Mechanic ............................................................. 	|	$10.71 per hour 	|	$17.81 per hour
+9. Small Equipment Repair Worker ....................................... 	|	$ 9.93 per hour 	|	$13.43 per hour
+10. Tire Repair Worker ................................................................. 	|	$10.23 per hour 	|	$13.54 per hour
+11. Welder ........................................................................................... 	|	$12.17 per hour 	|	$17.31 per hour
 Section 41. Hourly Rate-Crafts
 Compensation for all persons employed by the hour in any of the following classifications shall be fixed by
 the appointing authority within the limits established in the following schedule for each classification:
-Effective
-Date Minimum Maximum
-1. Asbestos Worker .......................................................................5-1-98 $27.42 $34.28
-2. Asphalt Construction Foreman ............................................5-1-97 17.69 27.33
-3. Asphalt Raker ............................................................................5-1-97 16.96 26.20
-4. Asphalt Tamper .........................................................................5-1-97 16.96 26.20
-5. Boiler Maker ...............................................................................5-1-98 28.34 35.67
-10-1-97 27.74 34.67
-6. Bricklayer ....................................................................................5-1-98 24.32 30.40
-7. Bricklayer Foreman .................................................................5-1-98 25.32 31.40
-8. Bricklayer Helper .....................................................................5-1-96 17.42 26.13
-9. Carpenter ......................................................................................5-1-98 24.12 30.14
-10. Carpenter Foreman ...................................................................5-1-98 25.12 31.94
-11. Carpenter Apprentice ...............................................................5-1-92 5.97 16.43
-12. Cement Finisher ........................................................................5-1-98 24.47 30.59
-13. Cement Finisher Foreman .....................................................5-1-98 25.47 31.59
-14. Construction Equipment Operator - Group A ................5-1-98 25.17 28.78
-15. Construction Equipment Operator - Group B .................5-1-98 25.02 28.63
-16. Construction Equipment Operator - Group C .................5-1-98 24.32 27.93
-17. Construction Equipment Operator - Group D ................5-1-98 23.54 27.15
-18. Construction Equipment Operator - Group E ................5-1-98 23.22 26.83
-19. Construction Equipment Operator - Oiler - Group F .........5-1-98 17.24 20.85
-20. Curb Cutter ..................................................................................5-1-97 17.34 26.79
-21. Electrical Worker .....................................................................5-1-98 27.54 34.42
-22. Electrical Worker Foreman ..................................................5-1-98 28.54 35.42
-23. Glazier ...........................................................................................5-1-98 24.38 30.47
-24. Ironworker ...................................................................................5-1-98 27.50 34.38
-25. Ironworker Foreman ................................................................5-1-98 28.50 28.50
-26. Jackhammer Operator .............................................................5-1-97 16.96 26.20
-27. Master Mechanic ........................................................................5-1-98 25.67 29.28
-28. Overhead Floodlight Maintenance Man ............................5-1-92 21.19 26.49
-29. Painter ...........................................................................................5-1-98 23.55 29.44
-30. Painter - Apprentice ................................................................5-1-92 6.95 14.89
-31. Painter Foreman .......................................................................5-1-98 24.55 30.44
-32. Paver ..............................................................................................5-1-97 17.19 26.56
-33. Paving Foreman ........................................................................5-1-97 17.68 27.33
-34. Pipefitter (Welder) ..................................................................5-1-98 28.54 35.68
-35. Pipefitter Foreman ...................................................................5-1-98 29.54 36.68
-36. Plasterer .......................................................................................5-1-98 24.02 30.03
-37. Plasterer Foreman......................................................................5-1-98 25.02 31.03
-38. Plumber (Welder) .....................................................................5-1-98 28.03 35.04
-39. Plumber Foreman .....................................................................5-1-98 29.03 36.04
-40. Roofer ............................................................................................5-1-98 24.78 30.97
-41. Sheet Metal Worker .................................................................5-1-98 27.07 33.84
-42. Sheet Metal Worker Foreman ..............................................5-1-98 28.07 34.84
-43. Sign Painter ................................................................................5-1-94 22.55 25.61
-44. Sign Painter Unit Leader ......................................................5-1-94 23.55 26.61
-45. Spray Painter .............................................................................5-1-94 20.22 23.34
-46. Superintendent of Construction Equipment ....................5-1-97 17.68 27.33
+	|	Effective
+	|	Date 	|	Minimum 	|	Maximum
+1. Asbestos Worker .......................................................................5-1-98 	|	$27.42 	|	$34.28
+2. Asphalt Construction Foreman ............................................5-1-97 	|	17.69 	|	27.33
+3. Asphalt Raker ............................................................................5-1-97 	|	16.96 	|	26.20
+4. Asphalt Tamper .........................................................................5-1-97 	|	16.96 	|	26.20
+5. Boiler Maker ...............................................................................5-1-98 	|	28.34 	|	35.67
+	|	10-1-97 	|	27.74 	|	34.67
+6. Bricklayer ....................................................................................5-1-98 	|	24.32 	|	30.40
+7. Bricklayer Foreman .................................................................5-1-98 	|	25.32 	|	31.40
+8. Bricklayer Helper .....................................................................5-1-96 	|	17.42 	|	26.13
+9. Carpenter ......................................................................................5-1-98 	|	24.12 	|	30.14
+10. Carpenter Foreman ...................................................................5-1-98 	|	25.12 	|	31.94
+11. Carpenter Apprentice ...............................................................5-1-92 	|	5.97 	|	16.43
+12. Cement Finisher ........................................................................5-1-98 	|	24.47 	|	30.59
+13. Cement Finisher Foreman .....................................................5-1-98 	|	25.47 	|	31.59
+14. Construction Equipment Operator - Group A ................5-1-98 	|	25.17 	|	28.78
+15. Construction Equipment Operator - Group B .................5-1-98 	|	25.02 	|	28.63
+16. Construction Equipment Operator - Group C .................5-1-98 	|	24.32 	|	27.93
+17. Construction Equipment Operator - Group D ................5-1-98 	|	23.54 	|	27.15
+18. Construction Equipment Operator - Group E ................5-1-98 	|	23.22 	|	26.83
+19. Construction Equipment Operator - Oiler - Group F .........5-1-98 	|	17.24 	|	20.85
+20. Curb Cutter ..................................................................................5-1-97 	|	17.34 	|	26.79
+21. Electrical Worker .....................................................................5-1-98 	|	27.54 	|	34.42
+22. Electrical Worker Foreman ..................................................5-1-98 	|	28.54 	|	35.42
+23. Glazier ...........................................................................................5-1-98 	|	24.38 	|	30.47
+24. Ironworker ...................................................................................5-1-98 	|	27.50 	|	34.38
+25. Ironworker Foreman ................................................................5-1-98 	|	28.50 	|	28.50
+26. Jackhammer Operator .............................................................5-1-97 	|	16.96 	|	26.20
+27. Master Mechanic ........................................................................5-1-98 	|	25.67 	|	29.28
+28. Overhead Floodlight Maintenance Man ............................5-1-92 	|	21.19 	|	26.49
+29. Painter ...........................................................................................5-1-98 	|	23.55 	|	29.44
+30. Painter - Apprentice ................................................................5-1-92 	|	6.95 	|	14.89
+31. Painter Foreman .......................................................................5-1-98 	|	24.55 	|	30.44
+32. Paver ..............................................................................................5-1-97 	|	17.19 	|	26.56
+33. Paving Foreman ........................................................................5-1-97 	|	17.68 	|	27.33
+34. Pipefitter (Welder) ..................................................................5-1-98 	|	28.54 	|	35.68
+35. Pipefitter Foreman ...................................................................5-1-98 	|	29.54 	|	36.68
+36. Plasterer .......................................................................................5-1-98 	|	24.02 	|	30.03
+37. Plasterer Foreman......................................................................5-1-98 	|	25.02 	|	31.03
+38. Plumber (Welder) .....................................................................5-1-98 	|	28.03 	|	35.04
+39. Plumber Foreman .....................................................................5-1-98 	|	29.03 	|	36.04
+40. Roofer ............................................................................................5-1-98 	|	24.78 	|	30.97
+41. Sheet Metal Worker .................................................................5-1-98 	|	27.07 	|	33.84
+42. Sheet Metal Worker Foreman ..............................................5-1-98 	|	28.07 	|	34.84
+43. Sign Painter ................................................................................5-1-94 	|	22.55 	|	25.61
+44. Sign Painter Unit Leader ......................................................5-1-94 	|	23.55 	|	26.61
+45. Spray Painter .............................................................................5-1-94 	|	20.22 	|	23.34
+46. Superintendent of Construction Equipment ....................5-1-97 	|	17.68 	|	27.33
 Section 2. That Section 16 of Ordinance No. 436-97, passed April 14, 1997, and Section 41 of Ordinance No. 436-
 97, passed April 14, 1997, as amended by Ordinance No. 1474-97, passed October 13, 1997, are hereby repealed.
 Section 3. That this ordinance is hereby declared to be an emergency measure and, provided it receives the
@@ -9773,11 +9785,11 @@ affirmative vote of two-thirds of all the members elected to Council, it shall t
 diately upon its passage and approval by the Mayor; otherwise it shall take effect and be in force from and after
 the earliest period allowed by law.
 Passed June 1, 1998.
-Effective June 10, 1998.[End Full-Width Moved After Columns]
+Effective June 10, 1998.	[End Full-Width Moved After Columns]
 [End Index Entries]
 [end page]
 [Page 37]
-[Indexed (running) page945]
+[Indexed page945]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10089,7 +10101,7 @@ Ohio, 1976, authorizes the President
 [End Index Entries]
 [end page]
 [Page 38]
-[Indexed (running) page946]
+[Indexed page946]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10392,7 +10404,7 @@ Chairman, Britt, Jones.
 [End Index Entries]
 [end page]
 [Page 39]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10463,7 +10475,7 @@ Municipal Court — Finance Department (O 985-98). . . . . . . . . . . . . . . .
 [End Index Entries]
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10537,7 +10549,7 @@ funds for operation of programs — $6,300,000 (O 824-98). . . . . . . . . . . .
 [End Index Entries]
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10604,7 +10616,7 @@ with various non-profit agencies for implementation (O 1082-98) . . . . . . . . 
 [End Index Entries]
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10675,7 +10687,7 @@ Ryan White Planning and Evaluation Project — grant — apply for and accept �
 [End Index Entries]
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10741,7 +10753,7 @@ transfer of ownership application (F 1036-98) . . . . . . . . . . . . . . . . . 
 [End Index Entries]
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10805,7 +10817,7 @@ Wilson, Adam — authorization to engage in peddling in Ward 20 (O 1053-98) . . 
 [End Index Entries]
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10884,7 +10896,7 @@ Department (O 1074-98) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 [End Index Entries]
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -10957,7 +10969,7 @@ Spring Road Relief Sewer Project — alterations and modifications in Contract N
 [End Index Entries]
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]
@@ -11033,7 +11045,7 @@ Water mains and appurtenances — labor and materials to repair — Water Divisi
 [End Index Entries]
 [end page]
 [Page 0]
-[Indexed (running) page0]
+[Indexed page0]
 [Page starting with carry-over full-width content]
 [End full-width carry over]
 [Start Column One]

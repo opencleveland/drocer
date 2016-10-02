@@ -19,8 +19,8 @@ import org.apache.pdfbox.text.PDFTextStripper;
  */
 public class IssueExtractorPositional {
 
-    String inFileName = "";
-    String outFileName = "";
+    String inFileName;
+    String outFileName;
     PDDocument document = null;
     Writer fileOut;
 
