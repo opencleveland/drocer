@@ -1,4 +1,8 @@
 Cleveland City Council Minutes Formatting
+
+This describes the sections of a city record file and its content
+(only a couple of sections have been done)
+
  BOARD OF CONTROL
  June 10, 2015
  Description of meeting - Time, who is present
