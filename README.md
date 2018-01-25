@@ -13,15 +13,14 @@ The year folders (e.g. 2017) consist of plain text files extracted from PDFs of 
 The files are not recommended for reading. There are additional small errors like misspellings and improper spacing especially for lists. Tables and graphics in the City Record are also missing from these plain text files. 
 Check the [original PDFs](http://clevelandcitycouncil.org/the-city-record/) or download them [by year in bulk](https://drive.google.com/folderview?id=0BzsFcr5qTHxEfmFUTzVNNWsxdjYzRmpDbTBHX3dyTUVkZWk3WlA5aVdKQ0tFZHVpckdfWEk&usp=drive_web) to verify if any information is missing. 
 
+Additional documentation is scattered at: 
+
 city-record-contents-formatting.md - boilerplate text that is used in the city record and what it means. 
-
-
 
 *Learn more about our goals, project roadmap, and how you can help at:*
 
 http://www.opencleveland.org/projects/drocer/
 
-https://hackpad.com/City-Council-Records-7c707KHL5Wq
-
+https://github.com/opencleveland/drocer/wiki
 
 
