@@ -99,9 +99,6 @@ class Record:
                 'zipcode': zipcode
             }
 
-        # pp = pprint.PrettyPrinter(indent=4)
-        # pp.pprint(council_members)
-
         return council_members
 
 
@@ -135,9 +132,6 @@ class Record:
                 'address': address,
                 'zipcode': zipcode
             }
-
-        # pp = pprint.PrettyPrinter(indent=4)
-        # pp.pprint(council_members)
 
         return council_members
 
@@ -173,9 +167,6 @@ class Record:
                 parts[i:i + 2] = [', '.join(parts[i:i + 2])]
 
             cabinet[parts[0]] = parts[1:]
-
-        # pp = pprint.PrettyPrinter(indent=4)
-        # pp.pprint(cabinet)
 
         return cabinet
 
@@ -345,9 +336,7 @@ class Record:
 
             new_depts.append(new_dept)
 
-
         return new_depts
-
 
     def clean_dept_lines(self, lines):
         # remove whitespace
@@ -400,11 +389,8 @@ class Record:
             del board['lines']
         return boards
 
-
     def clean_boards(self, boards):
-
         return boards
-
 
     def create_commissions(self, commissions):
         return self.create_boards(commissions)
@@ -570,7 +556,7 @@ class Record:
                     split_char = '\\'
                 else:
                     split_char = ','
-                #print (line)
+
                 i = line.index(split_char)
                 parts = [line[:i], line[i + 1:]]
 
@@ -660,20 +646,6 @@ class Person:
     def __init__(self, s, **kwargs):
         Person.log_person_constructor(s)
         # properties: name, position, location
-        '''self.name = ''
-        self.position = ''
-        self.location = ''
-
-        self.department = ''
-        if 'department' in kwargs:
-            self.department = kwargs['department']
-
-        self.division = ''
-        if 'division' in kwargs:
-            self.division = kwargs['division']
-
-        self.create_person(s)'''
-
 
     def create_person(self, s):
 
@@ -762,55 +734,6 @@ class Person:
         parts = [part.strip() for part in line.split(';')]
 
         Person.log_get_people(parts, **kwargs)
-        '''parts = line.split(';')
-        people = []
-
-        for part in parts:
-
-            # form of "Councilmen A and B, City Council Representatives"
-            if any(title in part for title in Person.plural_titles) and \
-                any(pos in part for pos in Person.plural_positions):
-                # print ("plural")
-                # print (part)
-                for person in Person.create_person_plural(part, **kwargs):
-                    people.append(person)
-
-            # If this is just a list of names, seen in boards
-            elif ',' in part and not any(title in part for title in Person.non_list_titles):
-                # print ("list of names")
-                # print (part)
-                for person in Person.create_from_list(part, "Member", **kwargs):
-                    people.append(person)
-
-            # multiple people
-            elif part.count(',') > 1 and not any(suffix in part for suffix in Person.suffixes):
-                # print ("multiple people")
-                # print (part)
-                split_pos = [m.start() for m in re.finditer(",", part)][1]
-                sub_parts = [part[:split_pos], part[split_pos + 1:]]
-                for sub_part in sub_parts:
-
-                    # e.x. "Todd W. Schmidt, Vice Chairman Thomas D. Corrigan"
-                    # "Director Secretary Council President Jay Westbrook"
-                    p = sub_part.split(', ')
-
-                    title = starts_with_any(p[-1], Person.titles)
-                    if title and p[1] != title:
-                        people.append(Person(p[0] + ", " + title, **kwargs))
-                        people.append(Person(p[1].replace(title, 'Member'), **kwargs))
-
-                    else:
-                        people.append(Person(sub_part.strip(), **kwargs))
-
-            # this is a standard person input. Yay
-            else:
-                #print ("standard")
-                #print (part)
-                people.append(Person(part.strip(), **kwargs))
-
-        #print ('\n')
-        return people'''
-
 
     @staticmethod
     def create_from_list(s, position, **kwargs):
@@ -1139,31 +1062,6 @@ def main():
     records = RecordCollection(variety_pack=True).records
     for r in records:
         depts = r.departments
-        '''
-        for category in depts:
-            for body in depts[category]:
-                members = list(member.to_json() for member in body['members'])
-                body['members'] = members
-
-        with open(str(r.year) + '.json', 'w') as outfile:
-            json.dump(depts, outfile)'''
-
-
-
-    #r = Record('1996-01-03.txt', Rules.create_rules('rules'))
-    #depts = r.departments
-    #pp = pprint.PrettyPrinter(indent=4)
-    #pp.pprint(depts)
-    '''
-    for category in depts:
-        for body in depts[category]:
-            members = list(member.to_json() for member in body['members'])
-            body['members'] = members
-
-    with open('test.json', 'w') as outfile:
-        json.dump(depts, outfile)
-        '''
-
 
 if __name__ == '__main__':
     main()
@@ -1174,5 +1072,3 @@ TODO
 
 - write function to validate where the data is off and give me the name of the
     department (and the file name) where the error is present '''
-
-
